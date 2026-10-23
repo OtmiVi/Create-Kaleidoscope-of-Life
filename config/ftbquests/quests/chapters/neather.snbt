@@ -1,0 +1,555 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "neather"
+	group: "3E6357996498E1C7"
+	icon: {
+		components: {
+			"ftbquests:missing_item": "mynethersdelight:golden_trophy"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "7BAF1B89F46DFB31"
+	images: [
+		{
+			click_action: "none:"
+			height: 3.0d
+			id: "1262576A83C3FBD3"
+			image: "choppersdelight:block/crimson_cutting_board"
+			rotation: 0.0d
+			width: 3.0d
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			click_action: "none:"
+			height: 1.5d
+			id: "1054ABEC56522F7F"
+			image: "mynethersdelight:item/sausage"
+			rotation: 10.0d
+			width: 1.5d
+			x: 4.5d
+			y: 0.5d
+		}
+		{
+			click_action: "none:"
+			height: 1.5d
+			id: "51625CED85DEF134"
+			image: "farmersdelight:item/netherite_knife"
+			rotation: 120.0d
+			width: 1.5d
+			x: 4.5d
+			y: -0.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4EF30842961B514C"]
+			id: "1FBF21D9B75827E5"
+			rewards: [{
+				id: "077BA64CB1DCEEC3"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "4DCD3C4F7E1235BE"
+				item: { components: { "ftbquests:missing_item": "mynethersdelight:nether_bricks_stove" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"1FBF21D9B75827E5"
+			]
+			id: "7D476A56BF27F47F"
+			optional: true
+			rewards: [{
+				id: "01AA496D5E646CEC"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "66ADEDC20A5E1D1A"
+				item: { components: { "ftbquests:missing_item": "mynethersdelight:letios_compost" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"7D476A56BF27F47F"
+			]
+			id: "246236CB49D04E46"
+			optional: true
+			rewards: [{
+				id: "59E84747367918D6"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 16L
+				id: "4407A606B06DCF9F"
+				item: { components: { "ftbquests:missing_item": "mynethersdelight:resurgent_soil" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"246236CB49D04E46"
+			]
+			id: "52DB156318A628D1"
+			optional: true
+			rewards: [
+				{
+					id: "558FB747CDD4367B"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "12A5B51BAC2CBB93"
+					table_id: 8049471772322816013L
+					type: "random"
+				}
+			]
+			shape: "circle"
+			tasks: [
+				{
+					count: 4L
+					id: "682DA7E7D5980DF5"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:warped_fungus_colony" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1565C54A2BDCC9FF"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:crimson_fungus_colony" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["4EF30842961B514C"]
+			id: "221F01CE82B89D38"
+			rewards: [{
+				id: "66B98211F75A1EB5"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 8L
+				id: "2A1BDC23573BF354"
+				item: { components: { "ftbquests:missing_item": "mynethersdelight:powder_cannon" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"54D0A2630055E622"
+				"221F01CE82B89D38"
+			]
+			id: "0DAC11C6CE6E3A95"
+			rewards: [
+				{
+					id: "13B5D8246DAF23D3"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "44318E58A0BDF983"
+					table_id: 8049471772322816013L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				count: 8L
+				id: "71D68BA94AEB854F"
+				item: { components: { "ftbquests:missing_item": "mynethersdelight:bullet_pepper" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"1FBF21D9B75827E5"
+			]
+			icon: {
+				id: "minecraft:soul_sand"
+			}
+			icon_scale: 0.8d
+			id: "64AF16CDA8F620B8"
+			optional: true
+			preset: "Hits"
+			rewards: [{
+				id: "2090AFAF9BDEA226"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "525C4E2C5266644C"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"54D0A2630055E622"
+			]
+			id: "25B421919BF072C7"
+			preset: "Important"
+			rewards: [
+				{
+					id: "07B2B6DE6A5811C6"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "32F82B8E2F83B6CA"
+					table_id: 8049471772322816013L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "508088543446C4AA"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:hoglin_hide" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "7C6F41F91C7B3270"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:ghasta" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3E6198A830165C40"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:strider_rock" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "127CB2757A1C209F"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:hoglin_loin" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "306A43C6E900EAA9"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:strider_slice" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"25B421919BF072C7"
+			]
+			id: "3E4BF393946B1DE2"
+			optional: true
+			rewards: [{
+				id: "25A6D226733902D9"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "7BC98D910DF0956B"
+				item: { components: { "ftbquests:missing_item": "mynethersdelight:hoglin_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"3E4BF393946B1DE2"
+			]
+			id: "2E0443F992E3241C"
+			optional: true
+			rewards: [{
+				id: "3915CA4FFE523D1A"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "727AAEF875A755B6"
+				item: { components: { "ftbquests:missing_item": "mynethersdelight:zoglin_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"3E4BF393946B1DE2"
+			]
+			id: "0423B6CD6A30760C"
+			optional: true
+			rewards: [{
+				id: "5CC8BB8D368B98A3"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "3329EAA8C9F15086"
+				item: { components: { "ftbquests:missing_item": "mynethersdelight:skoglin_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"3E4BF393946B1DE2"
+			]
+			id: "5F0BA86F9F3A8EE8"
+			optional: true
+			rewards: [{
+				id: "41FCC1765E1BFDEF"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "6F3F5E9B8F5BCB29"
+				item: { components: { "ftbquests:missing_item": "mynethersdelight:golden_trophy" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4EF30842961B514C"]
+			id: "369660DBD50F6FBE"
+			preset: "Important"
+			rewards: [
+				{
+					id: "129F9C4520F85AB4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "4F7C6A42BA7D2C3D"
+					item: {
+						components: {
+							"ftbquests:missing_item": "mynethersdelight:enchanted_golden_egg"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "702D90B500796AC6"
+					table_id: 8049471772322816013L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4136FB6B50058063"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:magma_cake_block" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "3612B14B0267A9A0"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:roast_stuffed_hoglin" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "06560F51BF7C3806"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:ghasta_with_cream" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "04786210979508F2"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:bread_loaf" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "43C9375D41C8C8A9"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:striderloaf" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "577DAAF8B0912EF4"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:cold_striderloaf" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -2.25d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"1FBF21D9B75827E5"
+			]
+			id: "7D003097F1F4C37E"
+			optional: true
+			rewards: [{
+				id: "45B148F9FA3F19C7"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "2A9CD9895C6A6473"
+				item: { components: { "ftbquests:missing_item": "mynethersdelight:blazier" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4EF30842961B514C"]
+			id: "71318CC00C5F2E90"
+			rewards: [{
+				id: "13850E505099D899"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "0977F329D09F6C7E"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:nether_burger" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "58C0D2C559AD23B7"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:hotdog_with_mixed_salad" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5BDC14A600D307C9"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:hotdog" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "46ABD8D19838155C"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:hotdog_with_nether_salad" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4EF30842961B514C"]
+			id: "10BE889CB6C6F32D"
+			preset: "Important"
+			rewards: [
+				{
+					id: "37E5B9C9ACB021B8"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1ABE8923623C0A4A"
+					table_id: 8049471772322816013L
+					type: "random"
+				}
+				{
+					id: "2229B90D0474F603"
+					item: {
+						components: {
+							"ftbquests:missing_item": "plushie_buddies:plushie_strider"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "5DDD399E0FC5899C"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:spicy_noodle_soup" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "302EB099922EB65C"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:fried_hoglin_chop" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5250CB4E2FED5840"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:blue_tenderloin_steak" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5618DCA46E76E1A1"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:strider_with_grilled_fungus" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "2A29CA5C8305A362"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:strider_stew" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "53CD8C2F9158C1DC"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:breakfast_sampler" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "181C2E4A4A8E119A"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:crimson_stroganoff" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "434F879AD29486A7"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:ghast_salad" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "04074EC7F8159E58"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:sausage_and_potatoes" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "03BB56970A21A66A"
+					item: { components: { "ftbquests:missing_item": "mynethersdelight:twisted_ghasta" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -3.75d
+			y: 1.5d
+		}
+	]
+}

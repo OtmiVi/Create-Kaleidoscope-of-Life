@@ -1,0 +1,59 @@
+#Default item ID used by difficulty reward items set to 'default'.
+#Examples: minecraft:emerald, minecraft:diamond, or another registered modded item ID.
+bountyRewardItem = "minecraft:emerald"
+#Global multiplier for bounty reward amounts.
+#The base amounts still come from the bounty JSON files.
+# Default: 1.0
+# Range: 0.01 ~ 1024.0
+bountyRewardMultiplier = 1.0
+#Item ID used for easy bounty rewards.
+#Use 'default' to inherit bountyRewardItem.
+easyBountyRewardItem = "default"
+#Additional multiplier for easy bounty reward amounts.
+#This is applied after bountyRewardMultiplier.
+# Default: 1.0
+# Range: 0.01 ~ 1024.0
+easyBountyRewardMultiplier = 1.0
+#Item ID used for medium bounty rewards.
+#Use 'default' to inherit bountyRewardItem.
+mediumBountyRewardItem = "default"
+#Additional multiplier for medium bounty reward amounts.
+#This is applied after bountyRewardMultiplier.
+# Default: 1.0
+# Range: 0.01 ~ 1024.0
+mediumBountyRewardMultiplier = 1.0
+#Item ID used for hard bounty rewards.
+#Use 'default' to inherit bountyRewardItem.
+hardBountyRewardItem = "default"
+#Additional multiplier for hard bounty reward amounts.
+#This is applied after bountyRewardMultiplier.
+# Default: 1.0
+# Range: 0.01 ~ 1024.0
+hardBountyRewardMultiplier = 1.0
+#Item ID used for elite bounty rewards.
+#Use 'default' to inherit bountyRewardItem.
+eliteBountyRewardItem = "default"
+#Additional multiplier for elite bounty reward amounts.
+#This is applied after bountyRewardMultiplier.
+# Default: 1.0
+# Range: 0.01 ~ 1024.0
+eliteBountyRewardMultiplier = 1.0
+#When true, hard bounties have a fixed 33% chance to reward enchanted gear instead of the normal reward item.
+#When false, the chance is 0% and hard bounties always reward the configured reward item.
+enableHardBountyEnchantedReward = true
+#Scale multiplier for the bounty board GUI.
+# Default: 1.0
+# Range: 0.25 ~ 3.0
+bountyBoardGuiScale = 1.0
+#Scale multiplier for the active bounty progress tracker GUI.
+# Default: 1.0
+# Range: 0.25 ~ 3.0
+progressTrackerGuiScale = 1.0
+#Position for the active bounty progress tracker GUI.
+#Allowed Values: DEFAULT, TOP_RIGHT, TOP_LEFT, BOTTOM_RIGHT, BOTTOM_LEFT, MIDDLE_RIGHT
+progressTrackerPosition = "DEFAULT"
+#Shows or hides the active bounty progress tracker GUI.
+enableProgressTracker = true
+#When off (default), bounty boards may not be fully compatible with modded biomes.
+#When on, this will improve spawning and bounty type in modded biomes. (May require game restart).
+enableModdedBiomeCompatibility = false

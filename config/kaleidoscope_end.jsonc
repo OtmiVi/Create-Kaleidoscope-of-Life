@@ -1,0 +1,69 @@
+{
+    // The version of the config file. Do not change this unless you know what you are doing.
+    "rconfig:version": 0,
+    /*
+     * List of end mob entity IDs that take extra damage from Dragon Tooth Knife
+     * Format: modid:entity_id (e.g., minecraft:enderman, minecraft:endermite)
+     * Default includes: enderman, endermite, shulker, ender_dragon
+     */
+    "extraEndMobs": [
+        "minecraft:enderman",
+        "minecraft:endermite",
+        "minecraft:shulker",
+        "minecraft:ender_dragon"
+    ],
+    /*
+     * Chance for Void Assault to deal multiplied damage
+     * Range: 0 - 1
+     */
+    "voidAssaultChance": 0.15,
+    /*
+     * Base damage multiplier of Void Assault
+     * Actual multiplier = base multiplier + enchantment level
+     * Range: 1 - 100
+     */
+    "voidAssaultBaseMultiplier": 1.0,
+    /*
+     * Chance for Void Shot to deal multiplied damage (projectiles only)
+     * Range: 0 - 1
+     */
+    "voidShotChance": 0.15,
+    /*
+     * Base damage multiplier of Void Shot
+     * Actual multiplier = base multiplier + enchantment level
+     * Range: 1 - 100
+     */
+    "voidShotBaseMultiplier": 1.0,
+    /*
+     * Chance for Void Echo to deal area damage
+     * Range: 0 - 1
+     */
+    "voidEchoChance": 0.25,
+    /*
+     * Percent damage bonus of Void Echo based on original damage
+     * Range: 0 - 10
+     */
+    "voidEchoPercentDamage": 0.4,
+    /*
+     * Percent damage bonus added per level
+     * Actual percent = base percent + (level - 1) * this value
+     * Range: 0 - 10
+     */
+    "voidEchoPercentDamagePerLevel": 0.15,
+    /*
+     * Flat damage dealt by Void Echo
+     * Range: 0 - 100
+     */
+    "voidEchoFlatDamage": 2.0,
+    /*
+     * Flat damage added per level
+     * Actual flat damage = base flat + (level - 1) * this value
+     * Range: 0 - 100
+     */
+    "voidEchoFlatDamagePerLevel": 1.0,
+    /*
+     * Radius of the area damage dealt by Void Echo (in blocks)
+     * Range: 0 - 64
+     */
+    "voidEchoRadius": 4.0
+}

@@ -1,0 +1,6 @@
+[search]
+	#How many client ticks search input waits before it is sent to the server.
+	#Set to 0 to send every change immediately.
+	# Default: 4
+	# Range: 0 ~ 40
+	searchDebounceTicks = 4

@@ -1,0 +1,5 @@
+["Mass Calculation"]
+	# Enable mass multipliers from JSON files located in data/copycats/
+	enableMassMultipliers = true
+	# Whether to add copycat's own mass to total mass
+	includeCopycatMass = true

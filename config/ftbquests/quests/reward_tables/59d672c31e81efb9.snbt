@@ -1,0 +1,48 @@
+{
+	id: "59D672C31E81EFB9"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			count: 2
+			id: "38342B02C1ECA8DD"
+			item: {
+				count: 1
+				id: "create:shaft"
+			}
+		}
+		{
+			count: 2
+			id: "6FBE9C2A51A06E29"
+			item: {
+				count: 1
+				id: "create:andesite_alloy"
+			}
+		}
+		{
+			count: 2
+			id: "3594CA1DA5135417"
+			item: {
+				count: 1
+				id: "create:andesite_casing"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "39CCCB4CF1F21458"
+			item: {
+				count: 1
+				id: "create:cogwheel"
+			}
+			weight: 0.8f
+		}
+		{
+			id: "20C95FDE36A563E6"
+			item: {
+				count: 1
+				id: "create:iron_sheet"
+			}
+			weight: 0.6f
+		}
+	]
+}

@@ -1,0 +1,18 @@
+#Client ticks to wait for a verified full server menu update.
+# Default: 200
+# Range: 40 ~ 2400
+timeoutTicks = 200
+#Extra client ticks after a confirmed craft. Zero runs as soon as the server confirms, at most once per client tick.
+# Default: 0
+# Range: 0 ~ 100
+pacingTicks = 0
+#Put the active recipe tree in its own collapsible sidebar batch, separate from favourites.
+groupCraftingJob = true
+diagnosticLogging = false
+
+#Keyboard shortcuts: CTRL/SHIFT/ALT plus A-Z, 0-9, or F1-F12. NONE disables a shortcut.
+[keys]
+	prepareTree = "CTRL+A"
+	startOrStop = "CTRL+C"
+	singleStep = "N"
+	cancel = "CTRL+X"

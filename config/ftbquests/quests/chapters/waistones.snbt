@@ -1,0 +1,190 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "waistones"
+	group: ""
+	id: "23964F71E81F7706"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7388048AC50D5ECE"
+			preset: "Important"
+			rewards: [{
+				id: "654C2A1F18BDAF18"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				icon: {
+					id: "waystones:waystone"
+				}
+				id: "11ED9D2823146B99"
+				observation_type: "block_tag"
+				observe_type: 1
+				timer: 0L
+				to_observe: "waystones:waystones"
+				type: "observation"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7388048AC50D5ECE"]
+			id: "4575562F00370907"
+			rewards: [{
+				id: "33F9083E8580A3A3"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "7D764718BCD807CB"
+				item: { count: 1, id: "waystones:warp_stone" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4575562F00370907"]
+			id: "5F73B7BB16F14553"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "2CB2D696FEA1D394"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3529D6577C40F1D2"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(waystones:portstones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4575562F00370907"]
+			id: "2BC50E5B7C28B81C"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "345CF670FD6B5657"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "77AB968774D5F534"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(waystones:sharestones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4575562F00370907"]
+			id: "42408D30E9E3D5AA"
+			rewards: [{
+				id: "25B03B734686D0EC"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 2L
+				id: "07EAFE737B643708"
+				item: { count: 1, id: "waystones:warp_plate" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7388048AC50D5ECE"]
+			id: "0F5C6BEE74871EF1"
+			optional: true
+			rewards: [
+				{
+					id: "48EF13E3CB6A8498"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "3A44D5B166B26B2C"
+					item: {
+						count: 1
+						id: "waystones:warp_scroll"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "6175F8D5476A3CB0"
+				item: { count: 1, id: "waystones:warp_scroll" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7388048AC50D5ECE"]
+			id: "4BC316F0759BB2A5"
+			optional: true
+			rewards: [
+				{
+					id: "66EE1A6551EFF6C2"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "33A550F7ED9BE6F3"
+					item: {
+						count: 1
+						id: "waystones:portal_scroll"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "1DB5AC38A6E13070"
+				item: { count: 1, id: "waystones:portal_scroll" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7388048AC50D5ECE"]
+			id: "7E9412EFB84F58A1"
+			optional: true
+			preset: "Optional"
+			rewards: [
+				{
+					id: "605434DC17506043"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 3
+					id: "71B3CE6EEC4C6B7B"
+					item: {
+						count: 1
+						id: "waystones:blank_scroll"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "065B875A8E801708"
+				item: { count: 1, id: "waystones:blank_scroll" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+	]
+}

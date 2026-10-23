@@ -1,0 +1,13 @@
+{
+	id: "6FB577EDD2D5E00D"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ id: "09B83BFDA604B026", item: { components: { "ftbquests:missing_item": "mynethersdelight:strider_egg" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "34C8B27031EFA27B", item: { components: { "ftbquests:missing_item": "mynethersdelight:tear_popsicle" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "031F79114993F7D6", item: { components: { "ftbquests:missing_item": "mynethersdelight:boiled_egg" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "60820C28E94B08DF", item: { components: { "ftbquests:missing_item": "mynethersdelight:minced_strider" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "7DF11E007E9DC18A", item: { components: { "ftbquests:missing_item": "mynethersdelight:roasted_sausage" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "3DA804509F623750", item: { components: { "ftbquests:missing_item": "mynethersdelight:roast_ear" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

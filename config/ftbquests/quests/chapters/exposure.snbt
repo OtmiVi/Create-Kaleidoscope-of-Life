@@ -1,0 +1,24 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "exposure"
+	group: ""
+	icon: {
+		id: "exposure:camera"
+	}
+	id: "1E5E232C9AC9DF9D"
+	images: [ ]
+	order_index: 8
+	quest_links: [ ]
+	quests: [{
+		id: "2E936CDDD52AE9C3"
+		preset: "Important"
+		tasks: [{
+			id: "772E07BFB5DFEF54"
+			item: { count: 1, id: "exposure:camera" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

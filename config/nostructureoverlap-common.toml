@@ -1,0 +1,16 @@
+#Enable structure overlap prevention using StructureStart bounding boxes.
+enableOverlapPrevention = true
+#Log when structures are blocked due to bounding-box overlap with a different structure id.
+logBlockedStructures = true
+#Use full 3D BoundingBox.intersects (default).
+#When false, only X/Z overlap is considered so vertically separated structures may coexist.
+use3DOverlapDetection = true
+#If non-empty, only these structure registry ids participate in overlap checks.
+#Example: ["minecraft:village_plains", "minecraft:stronghold"]
+structureWhitelist = []
+#Structure registry ids excluded from overlap checks (always allowed to place).
+#Use real registry ids such as minecraft:ruined_portal, not class names.
+structureBlacklist = ["minecraft:jigsawstructure", "minecraft:netherfossilstructure", "minecraft:fossilstructure", "minecraft:jungletemplestructure", "minecraft:swamphutstructure", "minecraft:igloostructure", "minecraft:alternatejigsawstructure"]
+#Per-structure participation overrides. Format: ["structure_id=true", "another_id=false"]
+#Example: ["minecraft:village_plains=true", "minecraft:mineshaft=false"]
+structureSpecificEnabled = []

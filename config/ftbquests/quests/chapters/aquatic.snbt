@@ -1,0 +1,256 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aquatic"
+	group: "0A13135CCD72B2AA"
+	icon: {
+		id: "create_aquatic_ambitions:prismarine_alloy"
+	}
+	id: "4AD2C0503D04FA56"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["64BA735081D86131"]
+			id: "2D86AD432DC01F15"
+			preset: "Important"
+			rewards: [{
+				id: "6B4C9A4B2652453E"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "rsquare"
+			tasks: [{
+				count: 4L
+				id: "00C51F685415F11A"
+				item: { count: 1, id: "create_aquatic_ambitions:prismarine_alloy" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			id: "64BA735081D86131"
+			rewards: [
+				{
+					id: "224D2334C0CA3EE0"
+					item: {
+						count: 1
+						id: "quark:prismarine_chest"
+					}
+					type: "item"
+				}
+				{
+					id: "3F9907E5DDF116DB"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [
+				{
+					count: 16L
+					id: "61DE302DE488C67E"
+					item: { count: 1, id: "minecraft:prismarine_shard" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "7ED5629133D9355C"
+					item: { count: 1, id: "minecraft:prismarine_crystals" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "496A3712165EAE4F"
+			rewards: [{
+				id: "09B07A690A6D61DA"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "5821625417937624"
+					item: { count: 1, id: "minecraft:heart_of_the_sea" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "274CFA64FBC06C03"
+					item: { count: 1, id: "minecraft:nautilus_shell" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"2D86AD432DC01F15"
+				"496A3712165EAE4F"
+			]
+			id: "1881526405D4AAC6"
+			rewards: [{
+				id: "51CCBB49F9DA177A"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "789F88FE7111553E"
+				item: { count: 1, id: "create_aquatic_ambitions:mechanical_conduit" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "156058C0D44BC892"
+			rewards: [{
+				id: "7E25ABB325B4C578"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 16L
+				id: "0E038F13BD7C9D4B"
+				item: { count: 1, id: "create:limestone" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["156058C0D44BC892"]
+			id: "2872F18473170474"
+			rewards: [{
+				id: "232A4463B29DCE7F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 3L
+				id: "38E3D01B3E6F1EFD"
+				item: { count: 1, id: "create_aquatic_ambitions:spiky_shell" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"2872F18473170474"
+				"2D86AD432DC01F15"
+			]
+			id: "10A7B9C415B45AC7"
+			rewards: [{
+				id: "14440219C0EB2938"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1C579C2C06F41C55"
+				item: { count: 1, id: "minecraft:trident" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			id: "44B5B724B77BA445"
+			rewards: [{
+				id: "17B1CFF000DC3608"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "541C5AA71515DB77"
+				item: { count: 1, id: "creategbd:guardian_beam_capacitor" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			id: "5C5517B276FCD993"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "097C6DE05737EDC8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "45445412D2EB6CCF"
+				item: { count: 1, id: "creategbd:elder_guardian_beam_capacitor" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"2D86AD432DC01F15"
+				"5C5517B276FCD993"
+			]
+			id: "3EB8DF8E935FFAB2"
+			optional: true
+			rewards: [{
+				id: "18C75572E75D31CF"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "1C8C4AB323318490"
+				item: { count: 1, id: "creategbd:beam_reactor_helmet" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"2D86AD432DC01F15"
+				"5C5517B276FCD993"
+			]
+			id: "2D285B53EFF7C1D1"
+			optional: true
+			rewards: [{
+				id: "1B1B778B071CC1D4"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "599967C2D8C00482"
+				item: { count: 1, id: "creategbd:advanced_laser_turret" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"2D86AD432DC01F15"
+				"44B5B724B77BA445"
+			]
+			id: "166ADD5815474FB2"
+			rewards: [{
+				id: "1B64E04B4B795414"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "4F655911137B6231"
+				item: { count: 1, id: "creategbd:basic_laser_turret" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+	]
+}

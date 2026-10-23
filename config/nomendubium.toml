@@ -1,0 +1,185 @@
+["Regenerating Chop"]
+	# Ticks required to restore one durability point.
+	# 
+	# Default: 20
+	# Range: 1 ~ 1200
+	REGENERATING_CHOP_REGENERATION_INTERVAL = 20
+
+[Maws]
+	# Damage dealt by the Fossilised Maw.
+	# 
+	# Default: 6.0
+	# Range: 0.0 ~ 1024.0
+	FOSSILISED_MAW_DAMAGE = 6.0
+	# Base damage dealt by the Prehistoric Maw.
+	# 
+	# Default: 9.0
+	# Range: 0.0 ~ 1024.0
+	PREHISTORIC_MAW_BASE_DAMAGE = 9.0
+	# Maximum damage dealt by the Prehistoric Maw.
+	# 
+	# Default: 14.0
+	# Range: 0.0 ~ 1024.0
+	# 
+	# Note: This value should be greater than or equal to the base damage.
+	PREHISTORIC_MAW_MAX_DAMAGE = 14.0
+
+[Chimera]
+	# Movement speed of a Hulking Chimera.
+	# 
+	# Default: 0.22
+	# Range: 0.0 ~ 1.0
+	HULKING_CHIMERA_SPEED = 0.22
+	# Movement speed of a Shelled Chimera.
+	# 
+	# Default: 0.145
+	# Range: 0.0 ~ 1.0
+	SHELLED_CHIMERA_SPEED = 0.145
+	# Movement speed of an Avian Chimera.
+	# 
+	# Default: 0.36
+	# Range: 0.0 ~ 1.0
+	AVIAN_CHIMERA_SPEED = 0.36
+	# Movement speed of a Lanky Chimera.
+	# 
+	# Default: 0.22
+	# Range: 0.0 ~ 1.0
+	LANKY_CHIMERA_SPEED = 0.22
+	# Movement speed of a Puffy Chimera.
+	# 
+	# Default: 0.22
+	# Range: 0.0 ~ 1.0
+	PUFFY_CHIMERA_SPEED = 0.22
+	# Maximum health of every Chimera.
+	# 
+	# Default: 50.0
+	# Range: 1.0 ~ 1024.0
+	CHIMERA_MAX_HEALTH = 50.0
+	# Armor of a Hulking Chimera.
+	# 
+	# Default: 4.0
+	# Range: 0.0 ~ 30.0
+	HULKING_CHIMERA_ARMOR = 4.0
+	# Armor of a Shelled Chimera.
+	# 
+	# Default: 10.0
+	# Range: 0.0 ~ 30.0
+	SHELLED_CHIMERA_ARMOR = 10.0
+	# Armor of an Avian Chimera.
+	# 
+	# Default: 2.0
+	# Range: 0.0 ~ 30.0
+	AVIAN_CHIMERA_ARMOR = 2.0
+	# Armor of a Lanky Chimera.
+	# 
+	# Default: 2.0
+	# Range: 0.0 ~ 30.0
+	LANKY_CHIMERA_ARMOR = 2.0
+	# Armor of a Puffy Chimera.
+	# 
+	# Default: 3.0
+	# Range: 0.0 ~ 30.0
+	PUFFY_CHIMERA_ARMOR = 3.0
+	# Attack damage provided by the Crunching head before tail modifiers.
+	# 
+	# Default: 8.0
+	# Range: 0.0 ~ 1024.0
+	CRUNCHING_CHIMERA_HEAD_DAMAGE = 8.0
+	# Attack damage provided by the Shielded head before tail modifiers.
+	# 
+	# Default: 7.0
+	# Range: 0.0 ~ 1024.0
+	SHIELDED_CHIMERA_HEAD_DAMAGE = 7.0
+	# Attack damage provided by the Beaked head before tail modifiers.
+	# 
+	# Default: 6.0
+	# Range: 0.0 ~ 1024.0
+	BEAKED_CHIMERA_HEAD_DAMAGE = 6.0
+	# Damage dealt by the mounted Beaked head peck.
+	# 
+	# Default: 3.5
+	# Range: 0.0 ~ 1024.0
+	BEAKED_CHIMERA_PECK_DAMAGE = 3.5
+	# Attack damage provided by the Snorting head before tail modifiers.
+	# 
+	# Default: 5.0
+	# Range: 0.0 ~ 1024.0
+	SNORTING_CHIMERA_HEAD_DAMAGE = 5.0
+
+["Paleontology Table"]
+	# Total time in seconds to excavate an encased fossil before it breaks.
+	# 
+	# Default: 60
+	# Range: 5 ~ 1600
+	PALEONTOLOGY_TABLE_GAME_DURATION = 60
+	# Countdown in seconds shown before the excavation begins.
+	# 
+	# Default: 3
+	# Range: 1 ~ 30
+	PALEONTOLOGY_TABLE_COUNTDOWN_DURATION = 3
+	# Base duration in ticks of the first tool round.
+	# 
+	# Default: 90
+	# Range: 1 ~ 1200
+	# 
+	# Note: Rounds last up to twice their base duration while plenty of game time remains, and are then scaled by the round
+	# duration multiplier.
+	PALEONTOLOGY_TABLE_INITIAL_ROUND_DURATION = 90
+	# Ticks removed from the base round duration on each new round.
+	# 
+	# Default: 4
+	# Range: 0 ~ 1200
+	PALEONTOLOGY_TABLE_ROUND_DURATION_DECREASE = 4
+	# Minimum base duration in ticks a round can decrease to.
+	# 
+	# Default: 34
+	# Range: 1 ~ 1200
+	# 
+	# Note: This value should be less than or equal to the initial round duration.
+	PALEONTOLOGY_TABLE_MIN_ROUND_DURATION = 34
+	# Extra ticks added to the base duration of chisel rounds.
+	# 
+	# Default: 30
+	# Range: 0 ~ 1200
+	PALEONTOLOGY_TABLE_CHISEL_ROUND_BONUS = 30
+	# Multiplier applied to the final duration of every round.
+	# 
+	# Default: 0.75
+	# Range: 0.05 ~ 4.0
+	PALEONTOLOGY_TABLE_ROUND_DURATION_MULTIPLIER = 0.75
+	# Progress added by each chisel stroke.
+	# 
+	# Default: 13
+	# Range: 1 ~ 600
+	# 
+	# Note: A fossil is fully excavated at 600 progress.
+	PALEONTOLOGY_TABLE_CHISEL_PROGRESS = 13
+	# Progress added by each hammer hit.
+	# 
+	# Default: 3
+	# Range: 1 ~ 600
+	# 
+	# Note: A fossil is fully excavated at 600 progress.
+	PALEONTOLOGY_TABLE_HAMMER_PROGRESS = 3
+	# Progress added by each full brush circle.
+	# 
+	# Default: 7
+	# Range: 1 ~ 600
+	# 
+	# Note: A fossil is fully excavated at 600 progress.
+	PALEONTOLOGY_TABLE_BRUSH_PROGRESS = 7
+	# Maximum chisel strokes that count towards progress in a single round.
+	# 
+	# Default: 15
+	# Range: 1 ~ 1000
+	PALEONTOLOGY_TABLE_CHISEL_MAX_ACTIONS = 15
+	# Maximum hammer hits that count towards progress in a single round.
+	# 
+	# Default: 100
+	# Range: 1 ~ 1000
+	PALEONTOLOGY_TABLE_HAMMER_MAX_ACTIONS = 100
+	# Maximum brush circles that count towards progress in a single round.
+	# 
+	# Default: 40
+	# Range: 1 ~ 1000
+	PALEONTOLOGY_TABLE_BRUSH_MAX_ACTIONS = 40

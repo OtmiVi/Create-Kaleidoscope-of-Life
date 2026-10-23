@@ -1,0 +1,513 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "brewinand_chewin"
+	group: "3E6357996498E1C7"
+	icon: {
+		components: {
+			"ftbquests:missing_item": "brewinandchewin:keg"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "5A2FEE4E77F412F2"
+	images: [
+		{
+			click_action: "none:"
+			height: 15.0d
+			id: "2A79C19137091055"
+			image: "brewinandchewin:block/vertical_keg_top"
+			rotation: 0.0d
+			width: 15.0d
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			click_action: "none:"
+			height: 4.0d
+			id: "79FF9B69015A1B28"
+			image: "brewinandchewin:item/tankard"
+			rotation: 50.0d
+			width: 4.0d
+			x: -6.0d
+			y: 0.0d
+		}
+	]
+	order_index: 1
+	quest_links: [{
+		id: "3F436D82A4991A56"
+		linked_quest: "2459000626583166"
+		x: -0.5d
+		y: -6.5d
+	}]
+	quests: [
+		{
+			id: "562C21277E4E5B57"
+			preset: "Important"
+			rewards: [
+				{
+					id: "06AC0088D010370B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "1105C41E16F06F4B"
+					item: {
+						components: {
+							"ftbquests:missing_item": "brewinandchewin:keg"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "06E8DECD5A6FB7AB"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:keg" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["562C21277E4E5B57"]
+			id: "2D8BC76AF64705EF"
+			rewards: [{
+				id: "3CA7D5F3FCF92A31"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "7CD1AAF552398420"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:ice_crate" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "3894933D881F714F"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:heating_cask" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["562C21277E4E5B57"]
+			id: "2977A07A226A4D88"
+			rewards: [{
+				id: "6C8BEA022D011228"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "6E6D07BB872D0E1C"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:coaster" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "426A63C440896573"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:tankard" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["562C21277E4E5B57"]
+			id: "4B26A4C3FDE4A581"
+			preset: "Important"
+			rewards: [{
+				id: "18B4DFAB2BF41F0E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "4E0605F2B2BAE134"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:flaxen_cheese_wedge" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "1C29D22F9E71A128"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:scarlet_cheese_wedge" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4B26A4C3FDE4A581"]
+			id: "2AE92C6DC886FB31"
+			rewards: [{
+				id: "6B6335C3E6DC137A"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "40DEDEA6580A92C4"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:fiery_fondue_pot" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "772200D8888F9C3E"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:ham_and_cheese_sandwich" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4B26A4C3FDE4A581"]
+			id: "6CAA46A94B9AAF69"
+			rewards: [{
+				id: "7749640FAAE43709"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "48DF3D8575137DA4"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:quiche" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4D8659130BDB7ADC"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:pizza" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "1E3998D573261A92"
+			rewards: [{
+				id: "035986C3B4C429BD"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "02AACD90B6D158DA"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:beer" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "21108AB2B43CF633"
+			rewards: [{
+				id: "3C3A8F6D3594252E"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "01C977A40A17F3ED"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:vodka" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "76B4F56D94BA5428"
+			rewards: [{
+				id: "4DA330D82C03CCFF"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "4AF1D107FEC6ED4C"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:mead" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "5FA9681203ACC1BD"
+			rewards: [{
+				id: "356C30FA49D23F51"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3452B83F0E358EB0"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:rice_wine" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "22EAE43FE33B93B8"
+			rewards: [{
+				id: "708E5D0C2DEE1756"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "71446AD7AABB9A24"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:pale_jane" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "2FB0C954D1D05CAD"
+			rewards: [{
+				id: "753F047F3AE61F61"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "0F04707D50F0C77D"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:egg_grog" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "46623234B4CF0B70"
+			rewards: [{
+				id: "2D787ADB4F515CEF"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "2A0078CDD6C69A76"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:glittering_grenadine" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "6243552162861A74"
+			rewards: [{
+				id: "284B42B9485DD178"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "70E85C101C16E07D"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:saccharine_rum" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "17295E745C925212"
+			rewards: [{
+				id: "64E268802BEEA391"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "7787993B273EB98E"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:salty_folly" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "230DD8C9195057CC"
+			rewards: [{
+				id: "579A401B3D3D2FF9"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6099D7450C5B925C"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:bloody_mary" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "523660FE10EF49CE"
+			rewards: [{
+				id: "76064FB6CF25BDBA"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "71A2C88A913F5A95"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:red_rum" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "4C2A687A89830BAB"
+			rewards: [{
+				id: "0411F3F284E5C521"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "408E0E071CB5FA39"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:strongroot_ale" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "117C9D22C48E17FB"
+			rewards: [{
+				id: "65F30CD0E945256E"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3549A8546EBD113F"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:steel_toe_stout" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "0631BBE72968BC0D"
+			rewards: [{
+				id: "7D38A279010D977B"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3DA43EC088A54A05"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:dread_nog" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2977A07A226A4D88"]
+			id: "0240A3E4E25E6A0A"
+			rewards: [{
+				id: "6A6BFE696A96CFD9"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "68EBA94A9247580F"
+				item: { components: { "ftbquests:missing_item": "brewinandchewin:withering_dross" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			id: "64A07E23EBF92239"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "484D5BA7E0FB3B31"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					id: "02EF297D175077BB"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:apple_jelly" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "762627D321C85505"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:glow_berry_marmalade" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4982DEF5A43B23A3"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:sweet_berry_jam" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["562C21277E4E5B57"]
+			id: "3BD09019479B40C9"
+			preset: "Important"
+			rewards: [
+				{
+					id: "6503226CE476882A"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "5D7C2DA2D7FBFE58"
+					item: {
+						components: {
+							"ftbquests:missing_item": "plushie_buddies:plushie_frog"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3985CCD1B336D375"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:kimchi" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "389459800F376831"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:jerky" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6DB9347FE3AAD98A"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:pickled_pickles" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "0CB6B9A5EBC68736"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:kippers" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "0634CDCB6F92ACEF"
+					item: { components: { "ftbquests:missing_item": "brewinandchewin:cocoa_fudge" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 0.0d
+		}
+	]
+}

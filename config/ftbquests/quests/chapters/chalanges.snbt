@@ -1,0 +1,135 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chalanges"
+	group: ""
+	id: "6E227DB696AD3F13"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["02913910B8BC7B09"]
+			icon_scale: 0.8d
+			id: "63A709AF6EC1A3D4"
+			preset: "chalanges"
+			rewards: [
+				{
+					id: "31FF176ED6D81F45"
+					type: "xp"
+					xp: 500
+				}
+				{
+					count: 3
+					id: "637891095A0CF291"
+					item: {
+						count: 1
+						id: "sophisticatedstorage:xp_pump_upgrade"
+					}
+					type: "item"
+				}
+			]
+			shape: "gear"
+			size: 2.0d
+			tasks: [{
+				id: "617814DCE42DE221"
+				item: { count: 1, id: "sophisticatedstorage:stack_upgrade_omega_tier" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["518102CB0AC51869"]
+			icon_scale: 0.8d
+			id: "5353C969A2D50CB7"
+			preset: "chalanges"
+			rewards: [
+				{
+					id: "3ED5C3651FD92C1B"
+					type: "xp"
+					xp: 500
+				}
+				{
+					count: 3
+					id: "5330A7B6A35448B0"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:inception_upgrade"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "5AEFA5E8DF760D29"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:everlasting_upgrade"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "44761E13DCD01B14"
+				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_omega_tier" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: [
+				"46623234B4CF0B70"
+				"523660FE10EF49CE"
+				"5FA9681203ACC1BD"
+				"76B4F56D94BA5428"
+				"117C9D22C48E17FB"
+				"21108AB2B43CF633"
+				"6243552162861A74"
+				"0240A3E4E25E6A0A"
+				"0631BBE72968BC0D"
+				"22EAE43FE33B93B8"
+				"1E3998D573261A92"
+				"230DD8C9195057CC"
+				"4C2A687A89830BAB"
+				"2FB0C954D1D05CAD"
+				"17295E745C925212"
+			]
+			icon_scale: 0.8d
+			id: "2459000626583166"
+			preset: "chalanges"
+			rewards: [{
+				id: "0262598F8433E0C7"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "circle"
+			size: 3.0d
+			tasks: [{
+				advancement: "brewinandchewin:main/crafting_problem"
+				criterion: ""
+				id: "4C5A31FE5D98C058"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3260161847AC90E1"]
+			icon_scale: 0.8d
+			id: "08451CF3D720B25E"
+			preset: "chalanges"
+			shape: "window"
+			tasks: [{
+				fluid: {
+					amount: 100000
+					id: "create:honey"
+				}
+				id: "60541179A3166152"
+				type: "fluid"
+			}]
+			x: 6.5d
+			y: -1.0d
+		}
+	]
+}

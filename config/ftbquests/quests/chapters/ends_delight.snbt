@@ -1,0 +1,304 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ends_delight"
+	group: "3E6357996498E1C7"
+	icon: {
+		components: {
+			"ftbquests:missing_item": "ends_delight:end_stove"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "5093A56CAF6CA075"
+	images: [
+		{
+			click_action: "none:"
+			height: 3.0d
+			id: "2A9E3E055ABB3F64"
+			image: "ends_delight:block/end_stove_top"
+			rotation: 0.0d
+			width: 3.0d
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			click_action: "none:"
+			height: 1.5d
+			id: "73F1C93E54DEF43F"
+			image: "ends_delight:item/dragon_tooth_knife"
+			rotation: -60.0d
+			width: 1.5d
+			x: 6.5d
+			y: -0.5d
+		}
+		{
+			click_action: "none:"
+			height: 3.0d
+			id: "64A5D8F89D830429"
+			image: "ends_delight:item/smoked_dragon_leg"
+			rotation: 0.0d
+			width: 3.0d
+			x: 4.5d
+			y: -1.5d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "7ACB64C027EBD8A6"
+			rewards: [{
+				id: "30B463EB077FA5A4"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1E7512E96C0C07C8"
+				item: { components: { "ftbquests:missing_item": "ends_delight:end_stove" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "77FD55CAE40218A6"
+			preset: "Achiugments"
+			rewards: [{
+				id: "06D77F6E6A10F981"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "0F1D5F19B02AEAFF"
+				item: { components: { "ftbquests:missing_item": "ends_delight:dragon_tooth_knife" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "2E41BF2C1B7936F5"
+			rewards: [
+				{
+					id: "092C40E344AAD28F"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "04801F7DB3BD0F1C"
+					table_id: 1659114835485911496L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					count: 2L
+					id: "594164CF9B2113FE"
+					item: { components: { "ftbquests:missing_item": "ends_delight:shulker_meat" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "4EC48E3E7D04E18B"
+					item: { components: { "ftbquests:missing_item": "ends_delight:raw_ender_mite_meat" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "3CAAE006E2C13D9B"
+					item: { components: { "ftbquests:missing_item": "ends_delight:dragon_tooth" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "20D3244199443874"
+					item: { components: { "ftbquests:missing_item": "ends_delight:dragon_leg" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "0C273D762F32AFB7"
+					item: { components: { "ftbquests:missing_item": "ends_delight:enderman_gristle" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "1F1F84374BBF1097"
+			rewards: [
+				{
+					id: "58C94FB0541AE259"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2031A8830876F8DA"
+					table_id: 1659114835485911496L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "110AC8750CC61C48"
+					item: { components: { "ftbquests:missing_item": "ends_delight:chorus_fruit_milk_tea" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "2FA5F812B50E1284"
+					item: { components: { "ftbquests:missing_item": "ends_delight:bubble_tea" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "7549F6418B9AAD0C"
+					item: { components: { "ftbquests:missing_item": "ends_delight:chorus_fruit_wine" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "4EAB6BCE8B81DB09"
+					item: { components: { "ftbquests:missing_item": "ends_delight:dragon_breath_soda" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "48DD9C6ED1E6C97C"
+					item: { components: { "ftbquests:missing_item": "ends_delight:chorus_flower_tea" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "17C1EEAC22B9276F"
+			preset: "Important"
+			rewards: [
+				{
+					id: "5918D288494ACAC2"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "48F4D677E7D27028"
+					table_id: 1659114835485911496L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4355659BE2F99910"
+					item: { components: { "ftbquests:missing_item": "ends_delight:grilled_shulker_block" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6091C2EAE00F5ACA"
+					item: { components: { "ftbquests:missing_item": "ends_delight:dragon_leg_with_sauce_block" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "78180DADCB1FAA6B"
+					item: { components: { "ftbquests:missing_item": "ends_delight:steamed_dragon_egg_block" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "75262D9610DB2426"
+					item: { components: { "ftbquests:missing_item": "ends_delight:dragon_meat_stew_block" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "78DAAE7EF18B9FB6"
+					item: { components: { "ftbquests:missing_item": "ends_delight:chorus_fruit_pie" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "33B1CDB1DB53FF8A"
+			preset: "Important"
+			rewards: [
+				{
+					id: "318A3CAA8D13E478"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "455AD2FE7D24D8AD"
+					table_id: 1659114835485911496L
+					type: "random"
+				}
+				{
+					id: "57842BFE6B94D4D7"
+					item: {
+						components: {
+							"ftbquests:missing_item": "plushie_buddies:plushie_enderman"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "665E7B8E2531A92E"
+					item: { components: { "ftbquests:missing_item": "ends_delight:assorted_salad" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "68C7DBA696ECD8EC"
+					item: { components: { "ftbquests:missing_item": "ends_delight:dragon_breath_and_chorus_soup" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "1956BFA13A32239B"
+					item: { components: { "ftbquests:missing_item": "ends_delight:shulker_soup" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "327C3A3A32B09CBB"
+					item: { components: { "ftbquests:missing_item": "ends_delight:ender_congee" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "050C3F761C8321D3"
+					item: { components: { "ftbquests:missing_item": "ends_delight:roasted_dragon_steak" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "2107BF556078EBED"
+					item: { components: { "ftbquests:missing_item": "ends_delight:end_mixed_salad" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5821F2FC90C3E69D"
+					item: { components: { "ftbquests:missing_item": "ends_delight:ender_noodle" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5DC8B75067EBAF0C"
+					item: { components: { "ftbquests:missing_item": "ends_delight:stir_fried_shulker_meat" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "7678CBAC5A65B00C"
+					item: { components: { "ftbquests:missing_item": "ends_delight:enderman_gristle_stew" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 1.0d
+		}
+	]
+}

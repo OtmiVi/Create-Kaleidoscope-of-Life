@@ -1,0 +1,63 @@
+# Keep only the modpack and its source files at the instance root.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/options.txt
+!/mods/
+!/config/
+!/defaultconfigs/
+!/kubejs/
+!/resourcepacks/
+!/shaderpacks/
+!/moonlight-global-datapacks/
+!/schematics/
+!/scripts/
+!/docs/
+
+# Local development folders and standalone fix sources.
+local/
+/fishing-net-starcatcher-fix/
+
+# Generated web credentials; the mods recreate these locally.
+/config/resourceful-config-web.json
+/kubejs/config/web_server.json
+.env
+.env.*
+*.pem
+*.key
+*.p12
+
+# Mod caches, diagnostics and automatic config backups.
+/config/almostunified/debug.json
+/config/spark/tmp/
+/config/spark/tmp-client/
+/config/structurify/*_backup_*.json
+/config/.sereneseasonsplus-descriptive-config-reset.done
+**/logs/
+**/crash-reports/
+**/.cache/
+**/cache/
+*.log
+*.log.gz
+*.bak
+*.backup
+*.old
+*.tmp
+*.temp
+*.lock
+
+# Build products and editor files; installed mod JARs stay tracked.
+**/target/
+**/build/
+**/dist/
+**/node_modules/
+**/__pycache__/
+**/.gradle/
+**/.idea/
+**/.vscode/
+*.class
+*.pyc
+*.iml
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+#Reward entries in the format threshold|namespace:item|count.
+#Example: 5|minecraft:apple|2
+#Thresholds are based on the number of unique foods tracked by Spice of Life: Carrot Edition.
+rewards = ["5|minecraft:apple|2", "10|minecraft:golden_carrot|1", "20|minecraft:enchanted_golden_apple|1"]
+#Send a chat message to the player when this addon grants a reward.
+announceRewards = true
+#Log invalid reward entries when the configuration is loaded.
+logInvalidEntries = true

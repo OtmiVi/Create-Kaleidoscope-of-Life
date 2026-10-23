@@ -1,0 +1,12 @@
+#Radius in blocks to search for nearby containers.
+# Default: 8
+# Range: 0 ~ 32
+pullRadius = 8
+#Permission level required to use the pull button on servers. 0 allows everyone.
+# Default: 0
+# Range: 0 ~ 4
+requiredPermissionLevel = 0
+#Item ids that the pull system is not allowed to move.
+blacklistedItems = []
+#Block ids for containers that should be ignored by the pull system.
+blacklistedContainers = []

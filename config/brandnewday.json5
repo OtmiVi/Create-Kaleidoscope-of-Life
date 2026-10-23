@@ -1,0 +1,71 @@
+{
+	// If the header image should be shown at the top of the new day screen.
+	"showHeader": true,
+	// If the current day number should be shown on the new day screen.
+	"showDayCount": true,
+	// If a summary of the previous day should be shown. Each line can be toggled individually below.
+	"showStats": true,
+	// If a sound plays when the new day screen appears.
+	"playSound": true,
+	// How many ticks the new day screen stays on screen in total. 20 ticks = 1 second.
+	// min: 1, max: 1200
+	"newDayScreenDurationTicks": 200,
+	// How many ticks the screen takes to fade in. 20 ticks = 1 second.
+	// min: 1, max: 200
+	"newDayScreenFadeInTicks": 20,
+	// How many ticks the screen takes to fade out before disappearing. 20 ticks = 1 second.
+	// min: 1, max: 200
+	"newDayScreenFadeOutTicks": 20,
+	// Scales the day number, stats text, and header image together, based on the player's GUI scale. 1.0 matches the configured sizes at GUI scale 4; higher makes everything bigger.
+	// min: 0.1, max: 5.0
+	"guiScaleModifier": 1.0,
+	// The width in pixels the header image is rendered at on screen.
+	// min: 0, max: 2000
+	"headerImageWidth": 64,
+	// The height in pixels the header image is rendered at on screen.
+	// min: 0, max: 2000
+	"headerImageHeight": 64,
+	// How far down from the top of the screen the header image is drawn, in pixels. 0 is flush against the top.
+	// min: 0, max: 1000
+	"headerImageYOffset": 10,
+	// How much bigger the day number text should be rendered. 1 is the normal font size.
+	// min: 1, max: 8
+	"dayFontScale": 3,
+	// The red RGB value for the day number text.
+	// min: 0, max: 255
+	"dayTextRGB_R": 218,
+	// The green RGB value for the day number text.
+	// min: 0, max: 255
+	"dayTextRGB_G": 164,
+	// The blue RGB value for the day number text.
+	// min: 0, max: 255
+	"dayTextRGB_B": 40,
+	// If the monsters slain line is shown in the day summary.
+	"showMobsKilled": true,
+	// If the blocks broken line is shown in the day summary.
+	"showBlocksBroken": true,
+	// If the distance traveled line is shown in the day summary.
+	"showDistanceTraveled": true,
+	// If the deaths line is shown in the day summary.
+	"showDeaths": true,
+	// If the items crafted line is shown in the day summary.
+	"showItemsCrafted": true,
+	// The red RGB value for the stat labels (the key text).
+	// min: 0, max: 255
+	"statsKeyTextRGB_R": 216,
+	// The green RGB value for the stat labels (the key text).
+	// min: 0, max: 255
+	"statsKeyTextRGB_G": 196,
+	// The blue RGB value for the stat labels (the key text).
+	// min: 0, max: 255
+	"statsKeyTextRGB_B": 180,
+	// The red RGB value for the stat values (the numbers).
+	// min: 0, max: 255
+	"statsValueTextRGB_R": 255,
+	// The green RGB value for the stat values (the numbers).
+	// min: 0, max: 255
+	"statsValueTextRGB_G": 234,
+	// The blue RGB value for the stat values (the numbers).
+	// min: 0, max: 255
+	"statsValueTextRGB_B": 210
+}

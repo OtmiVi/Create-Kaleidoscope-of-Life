@@ -1,0 +1,4 @@
+#When true, Ctrl+C in the world copies the registry ID of the block you are looking at.
+copyTargetedBlockInWorld = false
+#When true, Ctrl+C in the world copies the registry ID of the entity you are looking at.
+copyTargetedEntityInWorld = false

@@ -1,0 +1,137 @@
+{
+	autofocus_id: "2718CD859858F2E8"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "00__welcome"
+	group: ""
+	id: "28AD0F9B46A3A947"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon_scale: 0.8d
+			id: "005DDF316BF8DA75"
+			optional: true
+			rewards: [{
+				id: "13F56B2F9DAE96C7"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "056358593CFFE97B"
+				item: { count: 1, id: "minecraft:name_tag" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			icon_scale: 0.8d
+			id: "6F766C6D2A248B33"
+			rewards: [{
+				id: "05A338C8F6771935"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "diamond"
+			tasks: [
+				{
+					id: "4360B09C83B8F3C1"
+					item: { count: 1, id: "naturescompass:naturescompass" }
+					type: "item"
+				}
+				{
+					id: "07BB93EDCA7FA9BB"
+					item: { count: 1, id: "explorerscompass:explorerscompass" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "solcarrot:food_book"
+			}
+			id: "078F05C76E2561CD"
+			rewards: [
+				{
+					id: "3EEB8B2D6C9737FB"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "531C2D4827214AA8"
+					item: {
+						count: 1
+						id: "solcarrot:food_book"
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "2D94523F9AC8D588"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "785A45D09878B0F4"
+			preset: "Important"
+			rewards: [{
+				auto: "enabled"
+				id: "4400E3EA2F42A45E"
+				item: {
+					count: 1
+					id: "ftbquests:book"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "minecraft:story/root"
+				criterion: ""
+				id: "42B6721DE8548BC3"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			icon_scale: 0.8d
+			id: "1B7F837285ED1E41"
+			preset: "Hits"
+			tasks: [{
+				id: "76DD9BBE8A94BFE6"
+				item: { count: 1, id: "minecraft:fishing_rod" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			icon: {
+				id: "minecraft:brewing_stand"
+			}
+			icon_scale: 0.8d
+			id: "30622D9F1018E73D"
+			optional: true
+			preset: "Hits"
+			rewards: [{
+				id: "14B38FE49EF83F40"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2B7B8ECA8C569E2F"
+				type: "checkmark"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+	]
+}

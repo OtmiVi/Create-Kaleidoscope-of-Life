@@ -1,0 +1,6 @@
+[panel_updates]
+	#How many server ticks panel menus wait between passive display refreshes while open.
+	#Set to 1 to refresh every tick.
+	# Default: 4
+	# Range: 1 ~ 200
+	passiveRefreshIntervalTicks = 4

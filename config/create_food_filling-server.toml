@@ -1,0 +1,10 @@
+#When enabled, mixins check basic conditions before posting eating-related events, such as server-side execution, non-empty stacks, potion contents, and valid food items.
+isPreFilterEvent = true
+#When enabled, animals will receive potion effects when fed with filled foods by players.
+enableFeedAnimalFoodEffects = true
+#When enabled, foxes will receive potion effects when eating filled foods themselves.
+enableFoxFoodEffects = true
+#When enabled, pandas will receive potion effects when eating filled foods themselves.
+enablePandaFoodEffects = true
+#When enabled, villagers will receive potion effects when eating filled foods during breeding behavior.
+enableVillagerFoodEffects = true

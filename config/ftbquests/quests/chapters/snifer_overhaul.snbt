@@ -1,0 +1,509 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "snifer_overhaul"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:missing_item": "plushie_buddies:plushie_sniffer"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "5C04F22B08E3F615"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			icon_scale: 0.9d
+			id: "049404DD6AEF27A7"
+			rewards: [{
+				id: "5D36018409EA312D"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				id: "3E657634D0B07873"
+				item: { count: 1, id: "minecraft:sniffer_egg" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["049404DD6AEF27A7"]
+			id: "5200A63BBA47114A"
+			rewards: [{
+				id: "5A9A17604CD5E1F1"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "229C74B499AEC040"
+					item: { count: 1, id: "quark:ancient_sapling" }
+					type: "item"
+				}
+				{
+					id: "0DE1396906C22E78"
+					item: { count: 1, id: "minecraft:pitcher_pod" }
+					type: "item"
+				}
+				{
+					id: "481F8DCFCF8D2BC3"
+					item: { count: 1, id: "minecraft:torchflower_seeds" }
+					type: "item"
+				}
+				{
+					id: "4D0D7CC14DB68EC4"
+					item: { count: 1, id: "minecraft:pitcher_plant" }
+					type: "item"
+				}
+				{
+					id: "454DF70EBF78E134"
+					item: { count: 1, id: "minecraft:torchflower" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5200A63BBA47114A"]
+			icon: {
+				id: "minecraft:pitcher_pod"
+			}
+			icon_scale: 0.8d
+			id: "4E6536570DDAD4B9"
+			rewards: [{
+				id: "526DF23BF058D59A"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "47472DC82DC5B54A"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5200A63BBA47114A"]
+			icon_scale: 0.8d
+			id: "4C4599A10BE1B633"
+			rewards: [{
+				id: "4EC95664627FD202"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "1AFEB542BDC5E13D"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["5200A63BBA47114A"]
+			icon: {
+				id: "minecraft:fishing_rod"
+			}
+			icon_scale: 0.8d
+			id: "1B677906BB80775E"
+			rewards: [{
+				id: "77E60CCFC6B1B2A0"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3BA38FFC31CC0128"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "47F237EC52750253"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "68899731902877CF"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "5D07F31A8C8436E6"
+				item: { count: 1, id: "snifferoverhaul:jungle_pyramid_stick" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "0202C5B83CF0C7A2"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "51124456E0576748"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1376E65376FE851A"
+				item: { count: 1, id: "snifferoverhaul:mansion_stick" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "3A9FDA6CBEEF79B0"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "5B46EF49D16933DA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7D57BF35480CB4A1"
+				item: { count: 1, id: "snifferoverhaul:desert_pyramid_stick" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "4883D2EDD94068B0"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "20980CAE0E795ACD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "4AB2675B605BBB20"
+				item: { count: 1, id: "snifferoverhaul:bamboo_jungle_stick" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "2DA28365F9AF5916"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "3843808E472776E9"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "024D1571E7236A9A"
+				item: { count: 1, id: "snifferoverhaul:birch_forest_stick" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "4884F241917CF638"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "3E93833F9B385769"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2D00135E161FB76B"
+				item: { count: 1, id: "snifferoverhaul:badlands_stick" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "380016CD84BA8750"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "4D6BDFE4B8D384BE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "5A5AEB3186398A0A"
+				item: { count: 1, id: "snifferoverhaul:cherry_grove_stick" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "6AAF9B27F5D15786"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "4D072BC82E5E883E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "5838B07FAB7C3467"
+				item: { count: 1, id: "snifferoverhaul:ancient_city_stick" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "384D57C7926A4C21"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "4259FE24035B49FC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1FB3EA90AF2AB207"
+				item: { count: 1, id: "snifferoverhaul:dark_forest_stick" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "3DA2C9898CC3CF37"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "5FD5B5AE2ACA2DB1"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "59FC7E9BE0B06E9D"
+				item: { count: 1, id: "snifferoverhaul:deep_ocean_stick" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "19B1B9224B374349"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "40A359624F2E976F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "55729E4AF24378DB"
+				item: { count: 1, id: "snifferoverhaul:desert_stick" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "465BA3AEA3A3CBA6"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "0D405F502859C20B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3F504161F832136A"
+				item: { count: 1, id: "snifferoverhaul:flower_forest_stick" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "3AB64A78FB2701A8"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "19FBB039E3B3708B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "03B6FC632989F2CA"
+				item: { count: 1, id: "snifferoverhaul:ice_spikes_stick" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "7B3EA954508CB5B4"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "0B96370F428B35B2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6B5D7BBF74B357B4"
+				item: { count: 1, id: "snifferoverhaul:jungle_stick" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "3D6CE534E2E35B95"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "705FE71840AF3E6A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "70AB46694C344E23"
+				item: { count: 1, id: "snifferoverhaul:mangrove_swamp_stick" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "40A6565625187BB7"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "68AECF7161103203"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "57F58CDFD1FDD3DC"
+				item: { count: 1, id: "snifferoverhaul:mushroom_fields_stick" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "3A80D70586C1874B"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "7030547656DB349F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "69939CAF464D1E58"
+				item: { count: 1, id: "snifferoverhaul:plains_stick" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "08F376945FD16964"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "54323D0CF5470BFC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "7ADE4D6A35E0FA26"
+				item: { count: 1, id: "snifferoverhaul:savanna_stick" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "19C34F99BFBD511F"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "52674282DDE75677"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "56F3DB01BFE29BBC"
+				item: { count: 1, id: "snifferoverhaul:snowy_taiga_stick" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "6828DCB11C52ADB4"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "5BA5BBEFAE94A7E3"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "64D2AF955C67C414"
+				item: { count: 1, id: "snifferoverhaul:swamp_stick" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["1B677906BB80775E"]
+			id: "5C73A308C37AA0C1"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "343D492E79886DB4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0CC855C8FEF102BF"
+				item: { count: 1, id: "snifferoverhaul:warm_ocean_stick" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -8.5d
+		}
+	]
+}

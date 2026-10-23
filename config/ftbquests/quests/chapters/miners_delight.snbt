@@ -1,0 +1,593 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "miners_delight"
+	group: "3E6357996498E1C7"
+	icon: {
+		components: {
+			"ftbquests:missing_item": "minersdelight:copper_pot"
+		}
+		id: "ftbquests:missing_item"
+	}
+	id: "6D3F01332853C377"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["13530E4C44B87217"]
+			id: "11C9CAF64AFEEA15"
+			rewards: [{
+				id: "271B9511BA8D93C2"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6B80C0E056ACC352"
+				item: { components: { "ftbquests:missing_item": "minersdelight:copper_pot" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["11C9CAF64AFEEA15"]
+			id: "2AA4218CACAC5D0E"
+			rewards: [
+				{
+					id: "46C94E353278ACE7"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A86CABBF11F64BF"
+					table_id: 8128133454197400008L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "37D3DA28377F1D3E"
+				item: { components: { "ftbquests:missing_item": "minersdelight:copper_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			id: "11456DB66C2AF8F7"
+			optional: true
+			rewards: [
+				{
+					id: "6F375CE647242851"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6952047489542132"
+					table_id: 8128133454197400008L
+					type: "loot"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "18D9D962DB3CDC32"
+				item: { components: { "ftbquests:missing_item": "minersdelight:sticky_basket" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "5902ADF3829E5C48"
+			rewards: [{
+				id: "593288B53AE67D96"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "581C7FCCFAEB8024"
+				item: { components: { "ftbquests:missing_item": "minersdelight:cave_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "57B6E676BD32941B"
+			rewards: [{
+				id: "19141289930F6F58"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "11567B9713D585E5"
+				item: { components: { "ftbquests:missing_item": "minersdelight:beef_stew_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "5EE6CDE0D57BE82F"
+			rewards: [{
+				id: "6475DCE7BB6524AE"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "27E299E7277B5099"
+				item: { components: { "ftbquests:missing_item": "minersdelight:pumpkin_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "3E4235AED96C0682"
+			rewards: [{
+				id: "77C3BF7EC82F92CE"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1096566A67E0E449"
+				item: { components: { "ftbquests:missing_item": "minersdelight:rock_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "40A56CF1A63E33B3"
+			rewards: [{
+				id: "55F6B1477A851B72"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "4FD87765320E1690"
+				item: { components: { "ftbquests:missing_item": "minersdelight:insect_stew_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "1F3E837BDCE5B5E1"
+			rewards: [{
+				id: "7BFF3736833B4966"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "40AD40F037A9812D"
+				item: { components: { "ftbquests:missing_item": "minersdelight:bone_broth_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "0218A66BC43A4F38"
+			rewards: [{
+				id: "6728FA5C58398269"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "7E095872AE28C506"
+				item: { components: { "ftbquests:missing_item": "minersdelight:beetroot_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "23F9A700819A4477"
+			rewards: [{
+				id: "738A09EFDF8F7701"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "463A41431DE2B4F6"
+				item: { components: { "ftbquests:missing_item": "minersdelight:mushroom_stew_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "20797E005B116FEA"
+			rewards: [{
+				id: "415C1FC320CC62EC"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "19DC87D6997CCC7B"
+				item: { components: { "ftbquests:missing_item": "minersdelight:rabbit_stew_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "7AFA26993B66D90F"
+			rewards: [{
+				id: "007958B4AD914844"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "751F12FBB23F66B5"
+				item: { components: { "ftbquests:missing_item": "minersdelight:chicken_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "4B19EF9BACE5F658"
+			rewards: [{
+				id: "0FD62BEADA60A1A4"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "210BB01103159A9C"
+				item: { components: { "ftbquests:missing_item": "minersdelight:spicy_noodle_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "34689CA1BF155B7F"
+			rewards: [{
+				id: "3514C901D9CBA5F0"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "7F4371B748986217"
+				item: { components: { "ftbquests:missing_item": "minersdelight:bat_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "55222FCF55FD7184"
+			rewards: [{
+				id: "21BF089A4BF03DD0"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "423574D8B722992F"
+				item: { components: { "ftbquests:missing_item": "minersdelight:noodle_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "691BB4A44FC1972F"
+			rewards: [{
+				id: "10AA55ACFEB9EFC1"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "59F7B85FC40AC2AE"
+				item: { components: { "ftbquests:missing_item": "minersdelight:spicy_hoglin_stew_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "33E0EF7EB488AFBC"
+			rewards: [{
+				id: "7AC30CB3404F299E"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "7BFA692C29C9D50B"
+				item: { components: { "ftbquests:missing_item": "minersdelight:vegetable_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "6D418C82D5AFB975"
+			rewards: [{
+				id: "69E121802B7411A8"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 2L
+				id: "55C649B6DDC51BF4"
+				item: { components: { "ftbquests:missing_item": "minersdelight:strider_stew_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "69E3FAC69D5F1B1C"
+			rewards: [{
+				id: "137B4B80A381F815"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 2L
+				id: "289C9277849CEEFA"
+				item: { components: { "ftbquests:missing_item": "minersdelight:egg_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "2983F6341E17028E"
+			rewards: [{
+				id: "0724BE69A56CD68F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "7070FAD5275BD9A9"
+				item: { components: { "ftbquests:missing_item": "minersdelight:baked_cod_stew_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "0B8DB442E08DE8EE"
+			rewards: [{
+				id: "3B26B1D2A1DE71B6"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3E6A70DE3C0DBE1F"
+				item: { components: { "ftbquests:missing_item": "minersdelight:onion_soup_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2AA4218CACAC5D0E"]
+			id: "18D17BD38A421B40"
+			rewards: [{
+				id: "3EEED36419AF6BF4"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "57D98E5D0F4A9338"
+				item: { components: { "ftbquests:missing_item": "minersdelight:fish_stew_cup" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			id: "1D5DE9566F6259B1"
+			preset: "Important"
+			rewards: [
+				{
+					id: "7C8B0C05A71DBF9D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "219B1D06395CA798"
+					table_id: 8128133454197400008L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3DD1C7B985806E6B"
+					item: { components: { "ftbquests:missing_item": "minersdelight:stuffed_squid" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "688B180E8D1FF52E"
+					item: { components: { "ftbquests:missing_item": "minersdelight:glazed_arachnid_limbs" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5CD13C9DB7B30B89"
+					item: { components: { "ftbquests:missing_item": "minersdelight:fake_meatloaf" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -2.25d
+			y: 0.75d
+		}
+		{
+			id: "5614CD8ECAD91488"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "008E52BDE804D72B"
+					table_id: 8128133454197400008L
+					type: "random"
+				}
+				{
+					id: "49B7434B1981ABA3"
+					type: "xp"
+					xp: 25
+				}
+			]
+			tasks: [
+				{
+					id: "6DDE800BE25B8477"
+					item: { components: { "ftbquests:missing_item": "minersdelight:cave_carrot" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "3A4307A15EED5635"
+					item: { components: { "ftbquests:missing_item": "minersdelight:glow_squid" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "0C720C4FDD7113D4"
+					item: { components: { "ftbquests:missing_item": "minersdelight:squid" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "7BAA68AE84ACA2A9"
+					item: { components: { "ftbquests:missing_item": "minersdelight:spider_leg" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6A42EC8FF665B966"
+					item: { components: { "ftbquests:missing_item": "minersdelight:bat_wing" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "72B636244F333461"
+			preset: "Important"
+			rewards: [
+				{
+					id: "5A30448EFFA30DE0"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "649D1E6D0C6D66C3"
+					table_id: 8128133454197400008L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "208C8487AF1E8472"
+					item: { components: { "ftbquests:missing_item": "minersdelight:pasta_with_veggieballs" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "46FA384A4DD88477"
+					item: { components: { "ftbquests:missing_item": "minersdelight:takoyaki" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6E80819056B6EDCD"
+					item: { components: { "ftbquests:missing_item": "minersdelight:plate_of_fake_meatloaf" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6D2AB36D09FE65E4"
+					item: { components: { "ftbquests:missing_item": "minersdelight:vegan_steak_and_potatoes" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "7F677EE97B34C283"
+					item: { components: { "ftbquests:missing_item": "minersdelight:glow_ink_pasta" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "36244B24A5D4A04E"
+					item: { components: { "ftbquests:missing_item": "minersdelight:squid_sandwich" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "13E365CF5BA15C93"
+					item: { components: { "ftbquests:missing_item": "minersdelight:seasoned_arthropods" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -3.75d
+			y: 0.75d
+		}
+		{
+			id: "34EBE8924AC0E366"
+			preset: "Important"
+			rewards: [
+				{
+					id: "1034593043EC7C7B"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "44424BFD99D5C5CF"
+					table_id: 8128133454197400008L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "04280273C8BD1233"
+					item: { components: { "ftbquests:missing_item": "minersdelight:vegan_hamburger" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "3ED18995F5B95C05"
+					item: { components: { "ftbquests:missing_item": "minersdelight:golden_nutritional_bar" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "6B76CFE46167B0A3"
+					item: { components: { "ftbquests:missing_item": "minersdelight:insect_sandwich" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "7AC1D524C497FBA5"
+					item: { components: { "ftbquests:missing_item": "minersdelight:nutritional_bar" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "2A14A76DDA761046"
+					item: { components: { "ftbquests:missing_item": "minersdelight:vegan_wrap" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "0E469C7A8BDCA6BB"
+					item: { components: { "ftbquests:missing_item": "minersdelight:insect_wrap" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -0.75d
+		}
+	]
+}

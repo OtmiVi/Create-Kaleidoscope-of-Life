@@ -1,0 +1,9 @@
+#Xaero's World Map
+[xaeroworldmap]
+	Enable = true
+	SkipVanillaColorCheck = true
+
+#Xaero's Minimap
+[xaerominimap]
+	Enable = true
+	SkipVanillaColorCheck = true

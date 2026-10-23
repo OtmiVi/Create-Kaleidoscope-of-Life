@@ -1,0 +1,9 @@
+#Soul Sail (Reap) settings.
+[reaping]
+	#Reaping cooldown.
+	# Default: 600
+	# Range: 60 ~ 1200
+	cooldownSeconds = 600
+	#Entity ids that can never be reaped, e.g. "minecraft:warden".
+	#Boss entities and other players' pets are always excluded.
+	blacklist = []

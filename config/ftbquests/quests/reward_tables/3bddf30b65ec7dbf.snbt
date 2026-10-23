@@ -1,0 +1,17 @@
+{
+	id: "3BDDF30B65EC7DBF"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			id: "00EFF860E626F8D1"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+			weight: 1.5f
+		}
+		{ id: "6FA7C14DDC4BC191", item: { count: 1, id: "create:fluid_pipe" } }
+		{ id: "4446AB9097C219F8", item: { count: 1, id: "create:copper_sheet" } }
+	]
+}

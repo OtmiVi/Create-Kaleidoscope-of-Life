@@ -1,0 +1,17 @@
+{
+	id: "0911E74F7877A7BF"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			id: "21D0647685293A8E"
+			item: {
+				count: 1
+				id: "create:brass_ingot"
+			}
+			weight: 2.0f
+		}
+		{ id: "0BD9EA043FC389EB", item: { count: 1, id: "create:brass_sheet" } }
+		{ id: "661AE3B281D851D2", item: { count: 1, id: "create:brass_casing" } }
+	]
+}

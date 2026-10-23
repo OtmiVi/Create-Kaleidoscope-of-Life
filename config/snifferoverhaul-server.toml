@@ -1,0 +1,9 @@
+["Sniffer Search Settings"]
+	#Maximum search radius for structures (in chunks). Vanilla default is usually 100.
+	# Default: 100
+	# Range: 10 ~ 500
+	maxStructureRange = 100
+	#Maximum search radius for biomes (in blocks). Vanilla default is usually 6400.
+	# Default: 6400
+	# Range: 100 ~ 20000
+	maxBiomeRange = 6400

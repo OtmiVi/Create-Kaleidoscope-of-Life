@@ -1,0 +1,236 @@
+[general]
+	#Enable debug logging.
+	debugLogging = false
+
+[yeast]
+	#Chance that hand-picking ripe grapes also yields Wild Yeast (the natural bloom on the grape skins).
+	# Default: 0.15
+	# Range: 0.0 ~ 1.0
+	wildYeastHarvestChance = 0.15
+	#How fast Wild Yeast ferments a Cask batch. 2.0 takes half the recipe's time, 0.5 twice as long.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	wildYeastSpeed = 1.0
+	#How fast Mundane Yeast ferments a Cask batch. 2.0 takes half the recipe's time, 0.5 twice as long.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	mundaneYeastSpeed = 1.0
+	#How fast Wine Yeast ferments a Cask batch. 2.0 takes half the recipe's time, 0.5 twice as long.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	wineYeastSpeed = 1.0
+	#How fast Ale Yeast ferments a Cask batch. 2.0 takes half the recipe's time, 0.5 twice as long.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	aleYeastSpeed = 1.0
+	#How fast Mead Yeast ferments a Cask batch. 2.0 takes half the recipe's time, 0.5 twice as long.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	meadYeastSpeed = 1.0
+
+[seeds]
+	#Chance that breaking grass (without shears) drops Red Grapes, White Grapes, or Hop Seeds (one, picked at random).
+	# Default: 0.01
+	# Range: 0.0 ~ 1.0
+	grassDropChance = 0.01
+
+[crops]
+	#How many blocks a hops vine creeps out from where it was planted. 0 stops it spreading.
+	# Default: 3
+	# Range: 0 ~ 16
+	hopsSpreadDistance = 3
+
+#Wild crops in newly generated chunks.
+[worldgen]
+	#How many grape bushes grow in each wild patch. 0 stops them generating.
+	# Default: 3
+	# Range: 0 ~ 64
+	grapeClusterSize = 3
+	#How many hops vines grow in each wild patch, before they spread. 0 stops them generating.
+	# Default: 3
+	# Range: 0 ~ 64
+	hopsClusterSize = 3
+
+#How long each drink's own effect lasts, in seconds, and how likely it is to cause Nausea.
+[drinks]
+	#Red Wine: Resistance. 0 disables it.
+	# Default: 20
+	# Range: 0 ~ 3600
+	redWineResistanceSeconds = 20
+	#White Wine: Speed. 0 disables it.
+	# Default: 20
+	# Range: 0 ~ 3600
+	whiteWineSpeedSeconds = 20
+	#Mead: Absorption. 0 disables it.
+	# Default: 20
+	# Range: 0 ~ 3600
+	meadAbsorptionSeconds = 20
+	#Beer: Strength. 0 disables it.
+	# Default: 20
+	# Range: 0 ~ 3600
+	beerStrengthSeconds = 20
+	#Cider: Haste. 0 disables it.
+	# Default: 20
+	# Range: 0 ~ 3600
+	ciderHasteSeconds = 20
+	#Bochet: Absorption II. 0 disables it.
+	# Default: 20
+	# Range: 0 ~ 3600
+	bochetAbsorptionSeconds = 20
+	#Chance that Red Wine, or a brew named from it, causes Nausea.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	redWineNauseaChance = 0.2
+	#Chance that White Wine, or a brew named from it, causes Nausea.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	whiteWineNauseaChance = 0.2
+	#Chance that Mead, or a brew named from it, causes Nausea.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	meadNauseaChance = 0.2
+	#Chance that Bochet, or a brew named from it, causes Nausea.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	bochetNauseaChance = 0.2
+	#Chance that Beer, or a brew named from it, causes Nausea.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	beerNauseaChance = 0.2
+	#Chance that Cider, or a brew named from it, causes Nausea.
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	ciderNauseaChance = 0.2
+	#Nausea that any drink sometimes causes. 0 disables it.
+	# Default: 10
+	# Range: 0 ~ 3600
+	nauseaSeconds = 10
+
+#Notes a named brew carries (Melomel is Mead + fruity). Each adds its own effect to the brew.
+[notes]
+
+	[notes.bitter]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 30
+		# Range: 0 ~ 3600
+		seconds = 30
+		#Added to the brew's chance of Nausea.
+		# Default: 0.05
+		# Range: -1.0 ~ 1.0
+		nauseaChance = 0.05
+
+	[notes.crisp]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 30
+		# Range: 0 ~ 3600
+		seconds = 30
+		#Added to the brew's chance of Nausea.
+		# Default: 0.0
+		# Range: -1.0 ~ 1.0
+		nauseaChance = 0.0
+
+	[notes.earthy]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 30
+		# Range: 0 ~ 3600
+		seconds = 30
+		#Added to the brew's chance of Nausea.
+		# Default: 0.0
+		# Range: -1.0 ~ 1.0
+		nauseaChance = 0.0
+
+	[notes.exotic]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 30
+		# Range: 0 ~ 3600
+		seconds = 30
+		#Added to the brew's chance of Nausea.
+		# Default: 0.05
+		# Range: -1.0 ~ 1.0
+		nauseaChance = 0.05
+
+	[notes.floral]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 5
+		# Range: 0 ~ 3600
+		seconds = 5
+		#Added to the brew's chance of Nausea.
+		# Default: 0.0
+		# Range: -1.0 ~ 1.0
+		nauseaChance = 0.0
+
+	[notes.fresh]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 20
+		# Range: 0 ~ 3600
+		seconds = 20
+		#Added to the brew's chance of Nausea.
+		# Default: 0.0
+		# Range: -1.0 ~ 1.0
+		nauseaChance = 0.0
+
+	[notes.fruity]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 20
+		# Range: 0 ~ 3600
+		seconds = 20
+		#Added to the brew's chance of Nausea.
+		# Default: 0.0
+		# Range: -1.0 ~ 1.0
+		nauseaChance = 0.0
+
+	[notes.herbal]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 30
+		# Range: 0 ~ 3600
+		seconds = 30
+		#Added to the brew's chance of Nausea.
+		# Default: -0.05
+		# Range: -1.0 ~ 1.0
+		nauseaChance = -0.05
+
+	[notes.light]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 15
+		# Range: 0 ~ 3600
+		seconds = 15
+		#Added to the brew's chance of Nausea.
+		# Default: -0.05
+		# Range: -1.0 ~ 1.0
+		nauseaChance = -0.05
+
+	[notes.malty]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 20
+		# Range: 0 ~ 3600
+		seconds = 20
+		#Added to the brew's chance of Nausea.
+		# Default: 0.05
+		# Range: -1.0 ~ 1.0
+		nauseaChance = 0.05
+
+	[notes.spicy]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 20
+		# Range: 0 ~ 3600
+		seconds = 20
+		#Added to the brew's chance of Nausea.
+		# Default: 0.05
+		# Range: -1.0 ~ 1.0
+		nauseaChance = 0.05
+
+	[notes.sweet]
+		#How long this note's effect lasts, in seconds. 0 disables it.
+		# Default: 1
+		# Range: 0 ~ 3600
+		seconds = 1
+		#Added to the brew's chance of Nausea.
+		# Default: 0.0
+		# Range: -1.0 ~ 1.0
+		nauseaChance = 0.0
+
+[cask]
+	#Ticks an infusion (an ingredient added after the yeast is done) takes, for the whole batch.
+	# Default: 1200
+	# Range: 1 ~ 32000
+	infusionTime = 1200

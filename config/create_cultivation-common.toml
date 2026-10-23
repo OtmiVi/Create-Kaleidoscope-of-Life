@@ -1,0 +1,40 @@
+[general]
+	#General gameplay settings for the cultivation machine.
+	#Multiplier for crop growth speed. 1.0 is the default. Higher = faster.
+	# Default: 1.0
+	# Range: 0.05 ~ 20.0
+	growthRateMultiplier = 1.0
+	#Multiplier for the amount of crops produced on each harvest. 1.0 is the default.
+	# Default: 1.0
+	# Range: 0.1 ~ 64.0
+	cropYieldMultiplier = 1.0
+
+[watering]
+	#Settings related to watering the cultivation tank with a Spout.
+	#Extra yield multiplier applied on top of cropYieldMultiplier while the tank is watered. 1.5 means watered harvests produce 1.5x the crops; 1.0 disables the bonus.
+	# Default: 1.5
+	# Range: 1.0 ~ 10.0
+	wateringYieldBonus = 1.5
+	#Extra growth speed multiplier while the tank is watered. 2.0 means watered crops grow 2x as fast; 1.0 disables the bonus.
+	# Default: 2.0
+	# Range: 1.0 ~ 10.0
+	wateringGrowthBonus = 2.0
+	#How long the 'watered' state lasts (in lazy ticks, ~0.5s each; 20 = 10 seconds) after a Spout waters the tank.
+	# Default: 20
+	# Range: 1 ~ 600
+	wateredDuration = 20
+
+[catalyst]
+	#Settings for the Cultivation Base catalyst slot.
+	#Accepted catalyst items and their effects. One entry per catalyst, formatted 'item;durationTicks;growthMultiplier;yieldMultiplier'.
+	#durationTicks: boosted ticks one item lasts (20 = 1 second).
+	#growthMultiplier/yieldMultiplier: multipliers while active; values below 1.0 slow crops down or reduce yield.
+	#Unknown item ids (e.g. from mods that are not installed) are ignored.
+	catalysts = ["minecraft:bone_meal;600;2.0;1.5", "farmersdelight:organic_compost;1800;4.0;2.0", "mynethersdelight:letios_compost;1800;2.0;4.0", "create_cultivation:efficient_fertilizer;900;3.0;2.0"]
+
+[synergy]
+	#Bonus applied while watering and the catalyst are active at the same time.
+	#Extra multiplier applied to BOTH growth speed and harvest yield while the tank is watered AND the catalyst is active. 1.5 means 50% extra on top of the existing multipliers; 1.0 disables the synergy.
+	# Default: 1.5
+	# Range: 1.0 ~ 10.0
+	waterCatalystSynergyBonus = 1.5

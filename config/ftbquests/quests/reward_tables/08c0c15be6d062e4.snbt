@@ -1,0 +1,24 @@
+{
+	id: "08C0C15BE6D062E4"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{ id: "66361E7738443C39", item: { count: 1, id: "minecraft:diamond" } }
+		{
+			count: 2
+			id: "612FDB8054A492D6"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 3
+			id: "23E8946A0655875E"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+	]
+}

@@ -1,0 +1,15 @@
+[villager_professions]
+	#Enable Prospector Villager
+	enableProspector = true
+	#Enable Sea Explorer Villager
+	enableSeaExplorer = true
+	#Enable End Explorer Villager
+	enableEndExplorer = true
+	#Enable Jungle Tracker Villager
+	enableJungleTracker = true
+	#Enable Redstone Engineer Villager
+	enableRedstoneEngineer = true
+	#Enable Nether Explorer Villager
+	enableNetherExplorer = true
+	#Enable Frost Mage Villager
+	enableFrostMage = true

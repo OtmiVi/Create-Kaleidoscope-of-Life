@@ -1,0 +1,7 @@
+[convertible_unification]
+	#Whether to register 1-to-1 shapeless conversion recipes for items of the same category in 'convertible'.
+	#是否为 convertible 中的同类物品注册互相转换的配方 (1对1无序配方)
+	enableRecipes = true
+	#Whether to register a unified loot table for each item category in 'convertible'.
+	#是否为 convertible 中的每一类物品注册一个统合战利品表
+	enableLootTables = true
