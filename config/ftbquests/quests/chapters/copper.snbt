@@ -106,44 +106,6 @@
 		}
 		{
 			dependencies: ["4FC8B0B6D84E9EE0"]
-			id: "0BE3E989477985F6"
-			optional: true
-			rewards: [
-				{
-					id: "4056AC4E6D448F6F"
-					type: "xp"
-					xp: 50
-				}
-				{
-					exclude_from_claim_all: true
-					id: "0040D88A5C750B46"
-					table_id: 4313871248370990527L
-					type: "random"
-				}
-			]
-			shape: "circle"
-			tasks: [
-				{
-					id: "0D3E2173C6F5140F"
-					item: { components: { "ftbquests:missing_item": "sliceanddice:sprinkler" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "5A8CE2261EADF57F"
-					item: { components: { "ftbquests:missing_item": "sliceanddice:floor_sprinkler" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-				{
-					id: "1FC20FA105C2A5A7"
-					item: { components: { "ftbquests:missing_item": "sliceanddice:fertilizer_bucket" }, count: 1, id: "ftbquests:missing_item" }
-					type: "item"
-				}
-			]
-			x: 0.5d
-			y: 2.5d
-		}
-		{
-			dependencies: ["4FC8B0B6D84E9EE0"]
 			id: "55B40D3BAB1FA6A5"
 			optional: true
 			rewards: [
@@ -408,7 +370,7 @@
 				item: { count: 1, id: "create:portable_fluid_interface" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 2.5d
 			y: 1.0d
 		}
 		{
@@ -434,7 +396,7 @@
 				item: { count: 1, id: "create:hose_pulley" }
 				type: "item"
 			}]
-			x: 3.0d
+			x: 3.5d
 			y: -3.0d
 		}
 		{
@@ -477,7 +439,7 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
+			x: 4.5d
 			y: -3.0d
 		}
 		{
@@ -503,7 +465,7 @@
 				item: { count: 1, id: "fluid:communicating_vessel" }
 				type: "item"
 			}]
-			x: 4.0d
+			x: 3.5d
 			y: 1.0d
 		}
 		{
@@ -759,8 +721,32 @@
 				id: "6FAEAA1124885F07"
 				type: "checkmark"
 			}]
-			x: 2.0d
-			y: -2.0d
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0172930769CA91D7"]
+			id: "13370391FD9FC71C"
+			rewards: [
+				{
+					id: "3294565F10D34A5F"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "615ED20FB5AA8DF9"
+					table_id: 4313871248370990527L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "418FD28383D2FC71"
+				item: { count: 1, id: "create_dragons_plus:fluid_hatch" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
 		}
 	]
 }

@@ -344,6 +344,7 @@
 		{
 			dependencies: ["774291101D99615E"]
 			id: "34B331B2581F1480"
+			preset: "Achiugments"
 			rewards: [
 				{
 					id: "7C46EB244ACBDFA8"
@@ -456,7 +457,7 @@
 				item: { count: 1, id: "create:weighted_ejector" }
 				type: "item"
 			}]
-			x: 6.5d
+			x: 6.0d
 			y: 0.5d
 		}
 		{
@@ -746,10 +747,11 @@
 			dependencies: ["51FB462DA31CB755"]
 			id: "6BA7F02C8E3129AE"
 			optional: true
+			preset: "Achiugments"
 			rewards: [{
 				id: "70560C606470A17E"
 				type: "xp"
-				xp: 25
+				xp: 75
 			}]
 			shape: "circle"
 			tasks: [{
@@ -859,11 +861,6 @@
 				{
 					id: "0A22483BCB2EF42F"
 					item: { count: 1, id: "create:millstone" }
-					type: "item"
-				}
-				{
-					id: "2DE88558E1F3BE13"
-					item: { components: { "ftbquests:missing_item": "sliceanddice:slicer" }, count: 1, id: "ftbquests:missing_item" }
 					type: "item"
 				}
 			]

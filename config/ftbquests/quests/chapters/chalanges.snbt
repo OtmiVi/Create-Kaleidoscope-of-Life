@@ -4,7 +4,15 @@
 	filename: "chalanges"
 	group: ""
 	id: "6E227DB696AD3F13"
-	images: [ ]
+	images: [{
+		height: 1.0d
+		id: "62771984DE32F4B8"
+		image: "create:block/experience_block"
+		rotation: 0.0d
+		width: 1.0d
+		x: -1.0d
+		y: 4.0d
+	}]
 	order_index: 5
 	quest_links: [ ]
 	quests: [
@@ -78,43 +86,6 @@
 			y: -1.0d
 		}
 		{
-			dependencies: [
-				"46623234B4CF0B70"
-				"523660FE10EF49CE"
-				"5FA9681203ACC1BD"
-				"76B4F56D94BA5428"
-				"117C9D22C48E17FB"
-				"21108AB2B43CF633"
-				"6243552162861A74"
-				"0240A3E4E25E6A0A"
-				"0631BBE72968BC0D"
-				"22EAE43FE33B93B8"
-				"1E3998D573261A92"
-				"230DD8C9195057CC"
-				"4C2A687A89830BAB"
-				"2FB0C954D1D05CAD"
-				"17295E745C925212"
-			]
-			icon_scale: 0.8d
-			id: "2459000626583166"
-			preset: "chalanges"
-			rewards: [{
-				id: "0262598F8433E0C7"
-				type: "xp"
-				xp: 500
-			}]
-			shape: "circle"
-			size: 3.0d
-			tasks: [{
-				advancement: "brewinandchewin:main/crafting_problem"
-				criterion: ""
-				id: "4C5A31FE5D98C058"
-				type: "advancement"
-			}]
-			x: 4.0d
-			y: -1.0d
-		}
-		{
 			dependencies: ["3260161847AC90E1"]
 			icon_scale: 0.8d
 			id: "08451CF3D720B25E"
@@ -128,8 +99,125 @@
 				id: "60541179A3166152"
 				type: "fluid"
 			}]
-			x: 6.5d
+			x: 4.0d
 			y: -1.0d
+		}
+		{
+			dependencies: ["181186E256272E35"]
+			icon_scale: 0.8d
+			id: "459E43A440CA2DD5"
+			preset: "chalanges"
+			rewards: [
+				{
+					id: "0505D4F8108253FB"
+					type: "xp"
+					xp: 500
+				}
+				{
+					count: 32
+					id: "07F7AD170054112A"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:super_experience_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "create_enchantment_industry:experienced_recycler"
+				criterion: ""
+				id: "7910908D57EB19B7"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["68CDC9FEC7D1C545"]
+			id: "401FC5EAC86ED2BD"
+			preset: "chalanges"
+			rewards: [
+				{
+					id: "41999A42D43C4C81"
+					type: "xp"
+					xp: 500
+				}
+				{
+					count: 32
+					id: "701C2BE77407310D"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:super_experience_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "create_enchantment_industry:thousand_runes"
+				criterion: ""
+				id: "795D35E29F8F975E"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["266E1B1345DE3792"]
+			id: "70E3727DE9CE36F8"
+			preset: "chalanges"
+			rewards: [
+				{
+					id: "36772AAFA6B7550F"
+					type: "xp_levels"
+					xp_levels: 500
+				}
+				{
+					count: 32
+					id: "2F49A9A3CF989FFB"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:super_experience_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "create_enchantment_industry:blazing_centurion"
+				criterion: ""
+				id: "1CAD3BECE9A6E860"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["31A8F6CD2AEC9561"]
+			id: "6F3415767500416F"
+			preset: "chalanges"
+			rewards: [
+				{
+					id: "234F623C3E9DFB2B"
+					type: "xp"
+					xp: 500
+				}
+				{
+					count: 32
+					id: "0B6BB1AE104E6464"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:super_experience_block"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "create_enchantment_industry:omni_enchanter"
+				criterion: ""
+				id: "133D1042A01E0E62"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 5.0d
 		}
 	]
 }

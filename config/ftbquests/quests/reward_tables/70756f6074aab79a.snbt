@@ -1,0 +1,6 @@
+{
+	id: "70756F6074AAB79A"
+	loot_size: 1
+	order_index: 4
+	rewards: [{ id: "3D3F2EB082E46095", item: { count: 1, id: "create:experience_nugget" } }]
+}

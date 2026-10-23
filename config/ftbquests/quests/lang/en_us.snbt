@@ -1,5 +1,4 @@
 {
-	chapter.0BB763BBF3492AF4.title: "kitcher"
 	chapter.16BAAF5A6A89C74B.title: "Storages"
 	chapter.1B6D3098329B01E0.title: "villagers"
 	chapter.1E5E232C9AC9DF9D.title: "Exposure"
@@ -10,18 +9,13 @@
 	chapter.3DB0FC039BC2B070.title: "Deep dark"
 	chapter.4AD2C0503D04FA56.title: "Aquatic"
 	chapter.4BB6B2ED220F896D.title: "Abdesite era"
-	chapter.5093A56CAF6CA075.title: "End's Delight"
-	chapter.5A2FEE4E77F412F2.title: "Brewin' and Chewin'"
 	chapter.5C04F22B08E3F615.title: "Snifer Overhaul"
 	chapter.69462E61A113C180.title: "Brass era"
-	chapter.6AFE0638A04ACE83.title: "enchant"
-	chapter.6D3F01332853C377.title: "Miner's Delight"
+	chapter.6AFE0638A04ACE83.title: "Enchantment Industry"
 	chapter.6E227DB696AD3F13.title: "Chalanges"
 	chapter.77C4932A795646A1.title: "01 - Hello world"
-	chapter.7BAF1B89F46DFB31.title: "My Neather's Delight"
 	chapter.7DDB4665547C3D95.title: "Storage"
 	chapter_group.0A13135CCD72B2AA.title: "02 - Create"
-	chapter_group.3E6357996498E1C7.title: "Fermers deloght"
 	quest.03C14112270873B7.title: "Netherite tools"
 	quest.0BEBB2510D8435FE.title: "Diamond tools"
 	quest.0F8EFABEF34E7C58.title: "How it grow there?"
@@ -115,31 +109,140 @@
 	quest.754CDEB099E74278.title: "Let's drink it"
 	quest.780AF722C380D38C.title: "Copper armor"
 	quest.7D19D2E0346C7CD1.title: "I can fly!"
+	quest.34B7A2BBC02333B1.title: "A Blazing Upgrade"
+	quest.34B7A2BBC02333B1.quest_desc: [
+		"Obtain a Blaze Upgrade Smithing Template. Use it at a Smithing Table to make blaze-powered enchanting equipment. Check JEI for the ingredients."
+	]
+	quest.7AEE5B1EC5B455A4.title: "An Enchanter with a Temper"
+	quest.7AEE5B1EC5B455A4.quest_desc: [
+		"Obtain a Blaze Enchanter and supply it with Liquid Experience. Set the enchanting level on its panel, then give it an unenchanted item."
+	]
+	quest.218B6C60AB1E94C1.title: "Strike While It's Enchanted"
+	quest.218B6C60AB1E94C1.quest_desc: [
+		"Obtain a Blaze Forger and supply it with Liquid Experience. Use its side panel to switch between merging enchantments, applying templates, and extracting enchantments into blank templates."
+	]
+	quest.4C6AD6CB9F99191D.title: "Experience, Compacted"
+	quest.4C6AD6CB9F99191D.quest_desc: [
+		"Obtain a Block of Experience. These blocks are used to make Enchanting Templates and can be transformed into Blocks of Super Experience by lightning. Check JEI for the recipe."
+	]
+	quest.3D8E5877B1DDB989.title: "Lightning in a Block"
+	quest.3D8E5877B1DDB989.quest_desc: [
+		"Place a Lightning Rod on a Block of Experience under an open sky and let lightning strike it. Collect the resulting Block of Super Experience."
+		"Natural lightning only has a chance to transform the block. Lightning produced by Super Enchanting guarantees the transformation."
+	]
+	quest.7F55FA09B39D0603.title: "A Blueprint for Magic"
+	quest.7F55FA09B39D0603.quest_desc: [
+		"Obtain an Enchanting Template. Check JEI for its recipe."
+		"Set an equipment item in the Blaze Enchanter's filter slot, then give it the blank template to write compatible enchantments onto it. A Blaze Forger can apply them to equipment."
+	]
+	quest.0BDD49E0B7056D1E.title: "A Supernatural Blueprint"
+	quest.0BDD49E0B7056D1E.quest_desc: [
+		"Obtain a Super Enchanting Template using a Block of Super Experience. Check JEI for its recipe."
+		"Blaze Enchanters and Blaze Forgers in Super Enchanting mode require these upgraded templates instead of normal ones."
+	]
+	quest.665547A2097D3C1F.title: "A Bright Idea"
+	quest.665547A2097D3C1F.quest_desc: [
+		"Obtain an Experience Lantern. It collects nearby experience orbs and can absorb experience from players. The more experience it stores, the brighter it glows."
+	]
+	quest.22B9B33AB325C110.title: "Bank Your Levels"
+	quest.22B9B33AB325C110.quest_desc: [
+		"Obtain an Experience Hatch and attach it to your experience storage. Right-click to deposit experience. Sneak-right-click to withdraw it. Adjust the amount transferred with the hatch's scroll panel."
+	]
+	quest.26A4E6CE696C4E90.title: "Grind Away the Magic"
+	quest.26A4E6CE696C4E90.quest_desc: [
+		"Obtain two Mechanical Grindstones and one Item Drain. Right-click the Item Drain with one grindstone to make a Grindstone Drain, then place the second grindstone above it and supply rotation."
+		"Use the setup to remove enchantments or turn Nuggets of Experience into Liquid Experience."
+	]
+	quest.31A8F6CD2AEC9561.title: "Let Them Eat Experience"
+	quest.31A8F6CD2AEC9561.quest_desc: [
+		"Obtain a Cake o' Enchanting. Check JEI for its recipe. Feed it to a Blaze Enchanter or Blaze Forger to activate Super Enchanting mode."
+		"Keep supplying Liquid Experience, and place a Lightning Rod nearby before processing anything."
+	]
+	quest.3C9ECE6486F81907.title: "Liquid Knowledge"
+	quest.3C9ECE6486F81907.quest_desc: [
+		"Obtain a Bucket of Liquid Experience. Use Mechanical Grindstones to process Nuggets of Experience, or deposit your own experience through an Experience Hatch. Collect the liquid in storage and fill a bucket with a Spout."
+	]
+	quest.57993FFBF672E682.title: "The Magic Copy Shop"
+	quest.57993FFBF672E682.quest_desc: [
+		"Obtain a Printer. Set the item to copy in its filter slot, supply the required fluid, and feed blank items underneath it. It can copy books, rename items, and more. Check JEI for printing recipes."
+	]
+	quest.181186E256272E35.title: "Gone with the Foil"
+	quest.181186E256272E35.quest_desc: [
+		"Build a working Grindstone Drain with a Mechanical Grindstone above it and supply rotation."
+		"Feed an enchanted item through the setup and stay nearby while its enchantments are removed. Witnessing the disenchanting process grants Gone with the Foil."
+	]
+	quest.2DFAFB151DCAA2E9.title: "Copy, Paste, Enchant"
+	quest.2DFAFB151DCAA2E9.quest_desc: [
+		"Set an Enchanted Book in the Printer's filter slot and supply Liquid Experience."
+		"Send a normal Book underneath the Printer and let it finish copying the enchantments. This grants Copiable Mystery. Check JEI for the required fluid amount."
+	]
+	quest.266E1B1345DE3792.title: "Blazing Fusion"
+	quest.266E1B1345DE3792.quest_desc: [
+		"Supply a Blaze Forger with Liquid Experience and select its merge mode."
+		"Give it two items of the same type, such as two enchanted swords, and let it combine them. A successful merge grants Blazing Fusion."
+	]
+	quest.3E0EA003CE92277D.title: "Experience Comes and Goes"
+	quest.3E0EA003CE92277D.quest_desc: [
+		"This quest requires both Spirit-Taking and Spiritual Return."
+		"Attach an Experience Hatch to experience storage. While you have some experience, right-click the hatch to deposit it and earn Spirit-Taking."
+		"Then sneak-right-click the hatch to withdraw stored experience and earn Spiritual Return."
+	]
+	quest.68CDC9FEC7D1C545.title: "Blazing Enchantment"
+	quest.68CDC9FEC7D1C545.quest_desc: [
+		"Supply a Blaze Enchanter with Liquid Experience and set an enchanting level on its panel."
+		"Give it an unenchanted tool, weapon, or piece of armor and let it finish enchanting. This grants Blazing Enchantment."
+	]
+	quest.663ABDA70E76261B.title: "OSHA Violation"
+	quest.663ABDA70E76261B.quest_desc: [
+		"Use a spare Blaze Enchanter: this hidden advancement destroys the machine."
+		"Work under an open sky with no exposed Lightning Rod within 128 blocks. Supply Liquid Experience and feed the enchanter a Cake o' Enchanting to activate Super Enchanting mode."
+		"Set an equipment item in its filter slot, choose an enchanting level, and start processing a Super Enchanting Template. Without a rod to catch the lightning, the enchanter is destroyed and replaced by a lit Blaze Burner, granting OSHA Violation."
+	]
+	quest.4DB5312EFD5053BB.title: "A Treasure in the Odds"
+	quest.4DB5312EFD5053BB.quest_desc: [
+		"Obtain a Lightning Rod for this quest and place it near a Blaze Enchanter under an open sky."
+		"Supply Liquid Experience and feed the enchanter a Cake o' Enchanting to activate Super Enchanting mode. Set an equipment item, such as a pickaxe, in its filter slot and choose an enchanting level."
+		"Process Super Enchanting Templates until a result includes a treasure enchantment, such as Mending. This grants Probability Spike. You may need several attempts."
+	]
+	quest.19E084093DF5A0D0.title: "Put the Plan to Work"
+	quest.19E084093DF5A0D0.quest_desc: [
+		"Supply a Blaze Forger with Liquid Experience and switch its side panel to Application Mode."
+		"Give it an Enchanting Template that already holds an enchantment and a compatible item. Applying the template grants Sigil Casting."
+	]
+	quest.66DC3AFFE849F91F.title: "Unbind the Magic"
+	quest.66DC3AFFE849F91F.quest_desc: [
+		"Supply a Blaze Forger with Liquid Experience and switch its side panel to Extract Mode."
+		"Give it an enchanted item, book, or template together with a blank Enchanting Template. Extracting an enchantment into the blank template grants Magic Unbinding."
+	]
+	quest.6A09757C266B3F48.title: "A Shower of Experience"
+	quest.6A09757C266B3F48.quest_desc: [
+		"Pump Liquid Experience through Create Fluid Pipes. Break a section so the liquid leaks from an open pipe end."
+		"Stand in the leaking experience to absorb it and earn the hidden advancement A Shower Experience. Keep the pump running so experience continues to flow."
+	]
+	quest.6DA5A56C1215A7BE.title: "A Heap of Knowledge"
+	quest.6DA5A56C1215A7BE.quest_desc: [
+		"Obtain a Heap of Experience from Create: Stuff & Additions. Check JEI for its recipe and uses."
+	]
+	quest.7A3DD8F510A38490.title: "Tools of Experience"
+	quest.7A3DD8F510A38490.quest_desc: [
+		"Obtain all four Experience tools: the Sword, Axe, Shovel, and Pickaxe. Check JEI for their recipes."
+	]
 	reward_table.08C0C15BE6D062E4.title: "storege_upgrades"
 	reward_table.0911E74F7877A7BF.title: "Brass"
-	reward_table.17065C270AB7E9C8.title: "End Food"
 	reward_table.3BDDF30B65EC7DBF.title: "copper"
-	reward_table.3F02DF04FDB22D0D.title: "Farmers Food"
 	reward_table.59D672C31E81EFB9.title: "andeside"
-	reward_table.6FB577EDD2D5E00D.title: "Nether Food"
-	reward_table.70CCEE4FD867A1C8.title: "Miners Food"
+	reward_table.70756F6074AAB79A.title: "Exp"
 	task.047F566F14E16B87.title: "Any wood"
-	task.0682335B4B6DA9B7.title: "Any #farmersdelight:hanging_canvas_signs"
-	task.0A3518170BA9D861.title: "Any #farmersdelight:cabinets"
 	task.0BCD0F67B3F7827A.title: "First diamonds"
 	task.15BDF2DC63D8E206.title: "Any #sophisticatedstorage:storage_connectors"
 	task.1A20E303F966D9D9.title: "Any #curios:back"
-	task.1B47D8036F7E490A.title: "Any #farmersdelight:tools/knives"
 	task.24C596CEB4046A53.title: "Any #sophisticatedstorage:limited_barrels"
 	task.2B0E157ACF5450AD.title: "Found villager"
-	task.2B23E4BA41553D2F.title: "Any #choppersdelight:cutting_boards"
 	task.2B95EF8275695159.title: "Feed tho same animals"
 	task.2D94523F9AC8D588.title: "foodbook"
 	task.3529D6577C40F1D2.title: "Any #waystones:portstones"
-	task.525C4E2C5266644C.title: "use soulsend"
 	task.5D6CFA8028AC4840.title: "Get first stone"
 	task.5E6F86028E9EB56B.title: "Any #c:potions"
-	task.64198EC97768B9BB.title: "Any #farmersdelight:canvas_signs"
 	task.6FAEAA1124885F07.title: "You can color"
 	task.77AB968774D5F534.title: "Any #waystones:sharestones"
 	task.7FDA5D4654E97782.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
