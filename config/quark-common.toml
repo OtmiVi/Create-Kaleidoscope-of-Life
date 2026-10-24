@@ -336,7 +336,7 @@
 	"Bottled Cloud" = false
 	"Color Runes" = false
 	"Endermosh Music Disc" = true
-	"Parrot Eggs" = true
+	"Parrot Eggs" = false
 	"Pathfinder Maps" = true
 	Pickarang = false
 	"Seed Pouch" = true
@@ -1884,7 +1884,7 @@
 	Backpack = false
 	Crate = false
 	Magnets = false
-	"Matrix Enchanting" = true
+	"Matrix Enchanting" = false
 	Pipes = false
 	"Tiny Potato" = true
 	"Totem Of Holding" = false
@@ -1982,7 +1982,7 @@
 		#How much each candle influences an enchantment. This works as a multiplier to its weight
 		"Influence Power" = 0.125
 		#If you set this to false, the vanilla Enchanting Table will no longer automatically convert to the Matrix Enchanting table. You'll have to add a recipe for the Matrix Enchanting Table to make use of this.
-		"Automatically Convert" = true
+		"Automatically Convert" = false
 
 	[oddities.pipes]
 		#How long it takes for an item to cross a pipe. Bigger = slower.

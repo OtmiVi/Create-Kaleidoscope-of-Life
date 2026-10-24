@@ -2391,46 +2391,6 @@
 		}
 		{
 			dependencies: ["29BBE84EA28C1152"]
-			id: "00B8DF26FB2D5C24"
-			rewards: [{
-				id: "48E2D9CB5C57D0F5"
-				type: "xp"
-				xp: 25
-			}]
-			tasks: [{
-				id: "26A71EFC1C4C112E"
-				item: { count: 1, id: "sophisticatedbackpacks:pump_upgrade" }
-				type: "item"
-			}]
-			x: -10.0d
-			y: 12.0d
-		}
-		{
-			dependencies: ["00B8DF26FB2D5C24"]
-			id: "62753710D1890C32"
-			rewards: [
-				{
-					exclude_from_claim_all: true
-					id: "77A641A6A67AA76B"
-					table_id: 630716548290470628L
-					type: "random"
-				}
-				{
-					id: "6736942FA3BA3F4A"
-					type: "xp"
-					xp: 25
-				}
-			]
-			tasks: [{
-				id: "0FDD28E183DBC067"
-				item: { count: 1, id: "sophisticatedbackpacks:advanced_pump_upgrade" }
-				type: "item"
-			}]
-			x: -10.0d
-			y: 13.5d
-		}
-		{
-			dependencies: ["29BBE84EA28C1152"]
 			id: "410136DBD81826AE"
 			rewards: [{
 				id: "5D9AF4DB37407735"
@@ -2474,24 +2434,8 @@
 				item: { count: 1, id: "sophisticatedbackpacks:smithing_upgrade" }
 				type: "item"
 			}]
-			x: -1.5d
-			y: 13.5d
-		}
-		{
-			dependencies: ["29BBE84EA28C1152"]
-			id: "085830CDD34723FE"
-			rewards: [{
-				id: "2E7191A3BC0B9558"
-				type: "xp"
-				xp: 25
-			}]
-			tasks: [{
-				id: "6534A13C3E7DBCEA"
-				item: { count: 1, id: "sophisticatedbackpacks:anvil_upgrade" }
-				type: "item"
-			}]
-			x: -2.5d
-			y: 13.5d
+			x: -2.0d
+			y: 13.0d
 		}
 		{
 			id: "27107D85E82C0F47"

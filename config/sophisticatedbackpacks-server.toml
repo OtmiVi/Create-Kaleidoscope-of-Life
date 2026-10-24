@@ -11,7 +11,7 @@
 	#If true, disallows all blocks from connecting to backpacks
 	allBlockConnectionsDisallowed = false
 	#Maximum number of upgrades of type per backpack in format of "UpgradeRegistryName[or UpgradeGroup]|MaxNumber"
-	maxUpgradesPerStorage = ["furnace_upgrades|1", "jukebox_upgrades|1", "stack_upgrades|3"]
+	maxUpgradesPerStorage = ["furnace_upgrades|1", "jukebox_upgrades|1", "stack_upgrades|3", "inception_upgrade|0", "everlasting_upgrade|0", "xp_pump_upgrade|0", "mob_catcher_upgrade|0", "advanced_mob_catcher_upgrade|0", "tank_upgrade|0", "battery_upgrade|0", "anvil_upgrade|0", "pump_upgrade|0", "advanced_pump_upgrade|0"]
 	#Turns on/off item fluid handler of backpack in its item form. There are some dupe bugs caused by default fluid handling implementation that manifest when backpack is drained / filled in its item form in another mod's tank and the only way to prevent them is disallowing drain/fill in item form altogether
 	itemFluidHandlerEnabled = true
 	#Determines whether player can right click on backpack that another player is wearing to open it. If off will turn off that capability for everyone and remove related settings from backpack.
@@ -492,7 +492,7 @@
 	#Xp Pump Upgrade Settings
 	[server.xpPumpUpgrade]
 		#Whether xp pump can mend items with mending. Set false here to turn off the feature altogether.
-		mendingOn = true
+		mendingOn = false
 		#How many experience points at a maximum would be used to mend an item per operation (every 5 ticks and 1 xp point usually translates to 2 damage repaired).
 		# Default: 5
 		# Range: 1 ~ 20

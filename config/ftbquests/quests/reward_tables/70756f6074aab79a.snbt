@@ -2,5 +2,9 @@
 	id: "70756F6074AAB79A"
 	loot_size: 1
 	order_index: 4
-	rewards: [{ id: "3D3F2EB082E46095", item: { count: 1, id: "create:experience_nugget" } }]
+	rewards: [
+		{ id: "3D3F2EB082E46095", item: { count: 1, id: "create:experience_nugget" } }
+		{ id: "1C0251A0EC3CE909", item: { count: 1, id: "create_enchantment_industry:experience_cake_slice" } }
+		{ id: "2FD52715BA8CA7F5", item: { count: 1, id: "create_enchantment_industry:super_experience_nugget" } }
+	]
 }

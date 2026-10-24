@@ -55,11 +55,19 @@
 			dependencies: ["34B7A2BBC02333B1"]
 			id: "7AEE5B1EC5B455A4"
 			preset: "Important"
-			rewards: [{
-				id: "6B9B54E8B7AE475C"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "6B9B54E8B7AE475C"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50DFAB128F1F690C"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "17707D8F0A0D37DB"
 				item: { count: 1, id: "create_enchantment_industry:blaze_enchanter" }
@@ -72,11 +80,19 @@
 			dependencies: ["34B7A2BBC02333B1"]
 			id: "218B6C60AB1E94C1"
 			preset: "Important"
-			rewards: [{
-				id: "19635C7FB92CF161"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "19635C7FB92CF161"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "613A521B76C8C5C7"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "4AD825B34E2DB386"
 				item: { count: 1, id: "create_enchantment_industry:blaze_forger" }
@@ -104,11 +120,19 @@
 		{
 			dependencies: ["4C6AD6CB9F99191D"]
 			id: "3D8E5877B1DDB989"
-			rewards: [{
-				id: "7E043F71A3D44AD9"
-				type: "xp"
-				xp: 25
-			}]
+			rewards: [
+				{
+					id: "7E043F71A3D44AD9"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1674D74344861A5C"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "57CFE96CF546411A"
 				item: { count: 1, id: "create_enchantment_industry:super_experience_block" }
@@ -136,11 +160,19 @@
 		{
 			dependencies: ["3D8E5877B1DDB989"]
 			id: "0BDD49E0B7056D1E"
-			rewards: [{
-				id: "5EE52AA607193ECD"
-				type: "xp"
-				xp: 25
-			}]
+			rewards: [
+				{
+					id: "5EE52AA607193ECD"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "67A4C3F9BEACCE11"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "69FFE74E845BF64D"
 				item: { count: 1, id: "create_enchantment_industry:super_enchanting_template" }
@@ -209,11 +241,19 @@
 		{
 			dependencies: ["3C9ECE6486F81907"]
 			id: "31A8F6CD2AEC9561"
-			rewards: [{
-				id: "09F5AB3DF3C3BFC7"
-				type: "xp"
-				xp: 25
-			}]
+			rewards: [
+				{
+					id: "09F5AB3DF3C3BFC7"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "09C203F7D0C4D537"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "40CB81A765DDBC71"
 				item: { count: 1, id: "create_enchantment_industry:experience_cake" }
@@ -226,11 +266,19 @@
 			dependencies: ["26A4E6CE696C4E90"]
 			id: "3C9ECE6486F81907"
 			preset: "Important"
-			rewards: [{
-				id: "4D436A5EF3EE68B7"
-				type: "xp"
-				xp: 100
-			}]
+			rewards: [
+				{
+					id: "4D436A5EF3EE68B7"
+					type: "xp"
+					xp: 100
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5309F8BAF2F36B3F"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "6B115F751D29C128"
 				item: { count: 1, id: "create_enchantment_industry:experience_bucket" }
@@ -272,11 +320,19 @@
 			dependencies: ["57993FFBF672E682"]
 			id: "2DFAFB151DCAA2E9"
 			preset: "Achiugments"
-			rewards: [{
-				id: "6E4BA105566673BF"
-				type: "xp"
-				xp: 75
-			}]
+			rewards: [
+				{
+					id: "6E4BA105566673BF"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "23AD8A49BCDD297C"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				advancement: "create_enchantment_industry:copiable_mystery"
 				criterion: ""
@@ -290,11 +346,19 @@
 			dependencies: ["218B6C60AB1E94C1"]
 			id: "266E1B1345DE3792"
 			preset: "Achiugments"
-			rewards: [{
-				id: "3DCE14EAB9790961"
-				type: "xp"
-				xp: 75
-			}]
+			rewards: [
+				{
+					id: "3DCE14EAB9790961"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3DE04B7200F2122D"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				advancement: "create_enchantment_industry:blazing_fusion"
 				criterion: ""
@@ -308,11 +372,19 @@
 			dependencies: ["22B9B33AB325C110"]
 			id: "3E0EA003CE92277D"
 			preset: "Achiugments"
-			rewards: [{
-				id: "06F4039A1AE28CC7"
-				type: "xp"
-				xp: 75
-			}]
+			rewards: [
+				{
+					id: "06F4039A1AE28CC7"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "395FAA78233D0633"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					advancement: "create_enchantment_industry:spirit_taking"
@@ -334,11 +406,19 @@
 			dependencies: ["7AEE5B1EC5B455A4"]
 			id: "68CDC9FEC7D1C545"
 			preset: "Achiugments"
-			rewards: [{
-				id: "1E78CD52C1BC687D"
-				type: "xp"
-				xp: 75
-			}]
+			rewards: [
+				{
+					id: "1E78CD52C1BC687D"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2320A83FC4B5BD92"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				advancement: "create_enchantment_industry:blazing_enchantment"
 				criterion: ""
@@ -352,11 +432,19 @@
 			dependencies: ["68CDC9FEC7D1C545"]
 			id: "663ABDA70E76261B"
 			preset: "Achiugments"
-			rewards: [{
-				id: "2BAC8163BC942021"
-				type: "xp"
-				xp: 75
-			}]
+			rewards: [
+				{
+					id: "2BAC8163BC942021"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7DC7A0A98F785BBB"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				advancement: "create_enchantment_industry:osha_violation"
 				criterion: ""
@@ -370,11 +458,19 @@
 			dependencies: ["68CDC9FEC7D1C545"]
 			id: "4DB5312EFD5053BB"
 			preset: "Achiugments"
-			rewards: [{
-				id: "111E3C1D87ABA5EF"
-				type: "xp"
-				xp: 75
-			}]
+			rewards: [
+				{
+					id: "111E3C1D87ABA5EF"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "04C11728880CCB66"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [
 				{
 					advancement: "create_enchantment_industry:probability_spike"
@@ -395,11 +491,19 @@
 			dependencies: ["266E1B1345DE3792"]
 			id: "19E084093DF5A0D0"
 			preset: "Achiugments"
-			rewards: [{
-				id: "3A28C0805355832D"
-				type: "xp"
-				xp: 75
-			}]
+			rewards: [
+				{
+					id: "3A28C0805355832D"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5B2CB5E54F452573"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				advancement: "create_enchantment_industry:sigil_casting"
 				criterion: ""
@@ -413,11 +517,19 @@
 			dependencies: ["19E084093DF5A0D0"]
 			id: "66DC3AFFE849F91F"
 			preset: "Achiugments"
-			rewards: [{
-				id: "17B6653C067295F3"
-				type: "xp"
-				xp: 75
-			}]
+			rewards: [
+				{
+					id: "17B6653C067295F3"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6861406607F1D7AB"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				advancement: "create_enchantment_industry:magic_unbinding"
 				criterion: ""
@@ -431,11 +543,19 @@
 			dependencies: ["3E0EA003CE92277D"]
 			id: "6A09757C266B3F48"
 			preset: "Achiugments"
-			rewards: [{
-				id: "28568D6B135155D9"
-				type: "xp"
-				xp: 75
-			}]
+			rewards: [
+				{
+					id: "28568D6B135155D9"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "55E4DBEC2181AB28"
+					table_id: 8103505564587964314L
+					type: "random"
+				}
+			]
 			tasks: [{
 				advancement: "create_enchantment_industry:a_shower_experience"
 				criterion: ""

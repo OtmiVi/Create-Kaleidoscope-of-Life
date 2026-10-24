@@ -28,11 +28,14 @@
 					xp: 500
 				}
 				{
-					count: 3
-					id: "637891095A0CF291"
+					id: "6015B297602BA42C"
 					item: {
+						components: {
+							"sophisticatedcore:number_of_inventory_slots": 120
+							"sophisticatedcore:number_of_upgrade_slots": 7
+						}
 						count: 1
-						id: "sophisticatedstorage:xp_pump_upgrade"
+						id: "sophisticatedbackpacks:netherite_backpack"
 					}
 					type: "item"
 				}
@@ -52,31 +55,11 @@
 			icon_scale: 0.8d
 			id: "5353C969A2D50CB7"
 			preset: "chalanges"
-			rewards: [
-				{
-					id: "3ED5C3651FD92C1B"
-					type: "xp"
-					xp: 500
-				}
-				{
-					count: 3
-					id: "5330A7B6A35448B0"
-					item: {
-						count: 1
-						id: "sophisticatedbackpacks:inception_upgrade"
-					}
-					type: "item"
-				}
-				{
-					count: 3
-					id: "5AEFA5E8DF760D29"
-					item: {
-						count: 1
-						id: "sophisticatedbackpacks:everlasting_upgrade"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "3ED5C3651FD92C1B"
+				type: "xp"
+				xp: 500
+			}]
 			tasks: [{
 				id: "44761E13DCD01B14"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_omega_tier" }

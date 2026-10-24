@@ -16,6 +16,48 @@
 	chapter.77C4932A795646A1.title: "01 - Hello world"
 	chapter.7DDB4665547C3D95.title: "Storage"
 	chapter_group.0A13135CCD72B2AA.title: "02 - Create"
+	quest.31F52CD7E69B4517.title: "Enchanting Has Moved"
+	quest.31F52CD7E69B4517.quest_desc: [
+		"The vanilla Enchanting Table can still be crafted and placed, but its enchanting interface is disabled."
+		""
+		"Use a Blaze Enchanter from Create: Enchantment Industry to enchant equipment."
+		""
+		"{\"text\":\"Open the Blaze Enchanter quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"7AEE5B1EC5B455A4\"}}"
+		""
+		"Tick the checkmark once you have read this."
+	]
+	quest.30BAD4A8F5EA495E.title: "Anvils: Repair and Rename"
+	quest.30BAD4A8F5EA495E.quest_desc: [
+		"Vanilla anvils repair equipment and rename items. Repair with the correct material or combine two matching pieces of equipment. Renaming alone costs one experience level; renaming during a repair adds one level."
+		""
+		"Repairs keep the first item's enchantments. Enchantments from the second item are never transferred or upgraded, and enchanted books cannot be applied."
+		""
+		"Use a Blaze Forger to combine or apply enchantments."
+		""
+		"{\"text\":\"Open the Blaze Forger quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"218B6C60AB1E94C1\"}}"
+		""
+		"Tick the checkmark once you have read this."
+	]
+	quest.3DE01069F66D40DC.title: "Disenchanting Uses Create"
+	quest.3DE01069F66D40DC.quest_desc: [
+		"The vanilla Grindstone can still be crafted, placed and used as a villager workstation, but its interface is disabled. Repairing two tools in the crafting grid is also disabled; use an anvil for repairs."
+		""
+		"Use Mechanical Grindstones from Create: Enchantment Industry to remove enchantments. Follow the linked quest to build a Grindstone Drain."
+		""
+		"{\"text\":\"Open the Mechanical Grindstone quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"26A4E6CE696C4E90\"}}"
+		""
+		"Tick the checkmark once you have read this."
+	]
+	quest.30622D9F1018E73D.title: "Potions Use Create"
+	quest.30622D9F1018E73D.quest_desc: [
+		"The vanilla Brewing Stand does not brew potions and its interface is disabled. Its crafting recipe is removed. Stands found in the world remain decorative blocks and cleric workstations."
+		""
+		"Brew potions with a Mechanical Mixer over a Basin. Check JEI for ingredients and heating requirements."
+		""
+		"{\"text\":\"Open the Mechanical Mixer quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"20F032D0D2DD5D12\"}}"
+		""
+		"Tick the checkmark once you have read this."
+	]
 	quest.03C14112270873B7.title: "Netherite tools"
 	quest.0BEBB2510D8435FE.title: "Diamond tools"
 	quest.0F8EFABEF34E7C58.title: "How it grow there?"

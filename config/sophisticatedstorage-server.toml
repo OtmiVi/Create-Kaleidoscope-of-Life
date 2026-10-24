@@ -1,7 +1,7 @@
 #Server Settings
 [server]
 	#Limit of maximum number of upgrades of type per storage in format of "StorageType|UpgradeRegistryName[or UpgradeGroup]|MaxNumber"
-	maxUpgradesPerStorage = ["shulker_box|stack_upgrades|2", "shulker_box|furnace_upgrades|1", "shulker_box|jukebox_upgrades|1", "chest|stack_upgrades|2", "chest|furnace_upgrades|1", "chest|jukebox_upgrades|1", "limited_barrel|jukebox_upgrades|1", "limited_barrel|furnace_upgrades|1", "barrel|stack_upgrades|2", "barrel|furnace_upgrades|1", "barrel|jukebox_upgrades|1"]
+	maxUpgradesPerStorage = ["shulker_box|stack_upgrades|2", "shulker_box|furnace_upgrades|1", "shulker_box|jukebox_upgrades|1", "chest|stack_upgrades|2", "chest|furnace_upgrades|1", "chest|jukebox_upgrades|1", "limited_barrel|jukebox_upgrades|1", "limited_barrel|furnace_upgrades|1", "barrel|stack_upgrades|2", "barrel|furnace_upgrades|1", "barrel|jukebox_upgrades|1", "chest|xp_pump_upgrade|0", "barrel|xp_pump_upgrade|0", "limited_barrel|xp_pump_upgrade|0", "shulker_box|xp_pump_upgrade|0", "chest|pump_upgrade|0", "chest|advanced_pump_upgrade|0", "barrel|pump_upgrade|0", "barrel|advanced_pump_upgrade|0", "limited_barrel|pump_upgrade|0", "limited_barrel|advanced_pump_upgrade|0", "shulker_box|pump_upgrade|0", "shulker_box|advanced_pump_upgrade|0"]
 	#Threshold of item entities dropped from chest / barrel above which breaking is canceled (unless shift is pressed) and a message explains there would be many drops and packing tape should be used
 	# Default: 200
 	# Range: 0 ~ 1000
@@ -775,7 +775,7 @@
 	#Xp Pump Upgrade Settings
 	[server.xpPumpUpgrade]
 		#Whether xp pump can mend items with mending. Set false here to turn off the feature altogether.
-		mendingOn = true
+		mendingOn = false
 		#How many experience points at a maximum would be used to mend an item per operation (every 5 ticks and 1 xp point usually translates to 2 damage repaired).
 		# Default: 5
 		# Range: 1 ~ 20

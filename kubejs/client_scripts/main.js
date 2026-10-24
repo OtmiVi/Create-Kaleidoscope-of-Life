@@ -1,3 +1,16 @@
-// Visit the wiki for more info - https://kubejs.com/
-console.info('Hello, World! (Loaded client example script)')
+// Apply directly when JEI initializes, without waiting for server viewer data.
+RecipeViewerEvents.removeEntriesCompletely('fluid', event => {
+    event.remove('sophisticatedcore:xp_still')
+    event.remove('sophisticatedcore:xp_flowing')
+})
+
+RecipeViewerEvents.removeEntriesCompletely('item', event => {
+    const mods = ['sophisticatedbackpacks', 'sophisticatedstorage']
+    const upgrades = ['pump_upgrade', 'advanced_pump_upgrade', 'xp_pump_upgrade']
+    mods.forEach(mod => {
+        upgrades.forEach(upgrade => {
+            event.remove(mod + ':' + upgrade)
+        })
+    })
+})
 
