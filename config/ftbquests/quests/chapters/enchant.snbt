@@ -307,6 +307,11 @@
 			dependencies: ["26A4E6CE696C4E90"]
 			id: "181186E256272E35"
 			preset: "Achiugments"
+			rewards: [{
+				id: "0E9B22D58FC6554F"
+				type: "xp"
+				xp: 75
+			}]
 			tasks: [{
 				advancement: "create_enchantment_industry:gone_with_the_foil"
 				criterion: ""
