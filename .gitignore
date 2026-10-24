@@ -29,6 +29,10 @@ local/
 *.p12
 
 # Mod caches, diagnostics and automatic config backups.
+/config/fabric/indigo-renderer.properties
+/config/jeiworldgen-generation-cache.dat
+/config/jeiworldgen-loot-cache.dat
+/config/zfastnoise.mixin.properties
 /config/almostunified/debug.json
 /config/spark/tmp/
 /config/spark/tmp-client/
