@@ -4,6 +4,7 @@ KubeJS loads JavaScript files from subfolders within each script directory.
 
 - `server_scripts/recipes/`: crafting recipes and ingredient changes.
 - `server_scripts/tags/`: item tags for storage connectors and waystones.
+- `server_scripts/compat/`: mod compatibility fixes. `placed_food_foodbook.js` counts successful bites of placed Kaleidoscope Cookery dishes (including addons) in the Spice of Life food book, using its normal progression and sync.
 - `server_scripts/restrictions/`: disabled items, recipes, and brewing behavior, including related recipe viewer changes.
 - `server_scripts/jei/`: recipe viewer information pages, including water and lava tank filling instructions.
 - `client_scripts/jei/`: visual JEI recipes for filling tanks under a Create Spout. These displays do not add server recipes.

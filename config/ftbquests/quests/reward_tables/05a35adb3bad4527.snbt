@@ -1,0 +1,33 @@
+{
+	id: "05A35ADB3BAD4527"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{ id: "25B5BAF730FA77C8", item: { count: 1, id: "minecraft:sugar" } }
+		{ id: "70F674C0AAA0E30B", item: { count: 1, id: "minecraft:honey_bottle" } }
+		{
+			count: 2
+			id: "4A66C2FEB7BA4EA2"
+			item: {
+				count: 1
+				id: "minecraft:glass_bottle"
+			}
+		}
+		{
+			count: 2
+			id: "4B49B65C41AA6AD3"
+			item: {
+				count: 1
+				id: "kaleidoscope_cookery:empty_cup"
+			}
+		}
+		{
+			count: 2
+			id: "3245949833235F67"
+			item: {
+				count: 1
+				id: "minecraft:cookie"
+			}
+		}
+	]
+}

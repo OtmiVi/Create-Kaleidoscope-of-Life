@@ -202,5 +202,49 @@
 			x: -2.0d
 			y: 5.0d
 		}
+		{
+			icon_scale: 0.8d
+			id: "0749C059A711739E"
+			preset: "chalanges"
+			rewards: [{
+				id: "3CA626134E3648BC"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_cookery:nitrogen_3000"
+				criterion: ""
+				id: "51B2207B70EC5618"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["4C21BD4944CBDC53"]
+			id: "78902351B2D4C08A"
+			preset: "chalanges"
+			rewards: [
+				{
+					id: "72F64418AB7CB882"
+					type: "xp"
+					xp: 500
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64CBD0AFEF4E81CD"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "kaleidoscope_flora:full_bouquet"
+				criterion: ""
+				id: "4A10A8C219472181"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
 	]
 }

@@ -1,0 +1,1016 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cookery"
+	group: "624E7CB211C91071"
+	id: "5B8DD4295904CF7B"
+	images: [ ]
+	order_index: 0
+	quest_links: [{
+		id: "7B20D9B54956D58A"
+		linked_quest: "4BA7892EA25F733A"
+		x: 6.0d
+		y: 0.0d
+	}]
+	quests: [
+		{
+			id: "1F29B43874969679"
+			preset: "Important"
+			rewards: [
+				{
+					id: "64A91E5B790BDFCD"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 8
+					id: "36B12878E2DE1CAE"
+					item: {
+						count: 1
+						id: "minecraft:bone_meal"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5283BEBF8720BF87"
+				item: { count: 1, id: "kaleidoscope_cookery:straw_hat" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1F29B43874969679"]
+			id: "6D4C85DCCCAECD96"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "0B4FCFF2E0622498"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "71DAC690FBF10C83"
+					item: { count: 1, id: "kaleidoscope_cookery:straw_hat_flower" }
+					type: "item"
+				}
+				{
+					id: "4D9DF692CD994652"
+					item: { count: 1, id: "kaleidoscope_cookery:farmer_chest_plate" }
+					type: "item"
+				}
+				{
+					id: "0A9245684EE2D30E"
+					item: { count: 1, id: "kaleidoscope_cookery:farmer_leggings" }
+					type: "item"
+				}
+				{
+					id: "28DFC63AEB19DC42"
+					item: { count: 1, id: "kaleidoscope_cookery:farmer_boots" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1F29B43874969679"]
+			id: "4C8BA6D3AB53C9EE"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "68E3A99BB6E52C80"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "4A5352E658316735"
+				item: { count: 1, id: "kaleidoscope_cookery:sickle" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1F29B43874969679"]
+			id: "325643FC0C0B7A5C"
+			rewards: [{
+				id: "369DE38D2E97BA17"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "680D5B886EB33A6C"
+				item: { count: 1, id: "kaleidoscope_cookery:tea_seed" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["017D36B7F519B774"]
+			id: "5B0FA1FF4D71B700"
+			rewards: [{
+				id: "19B68D99168B7133"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "4A8B5F62C041CFAC"
+					item: { count: 1, id: "kaleidoscope_cookery:lettuce" }
+					type: "item"
+				}
+				{
+					id: "437A0A9499BC974B"
+					item: { count: 1, id: "kaleidoscope_cookery:caterpillar" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5B0FA1FF4D71B700"]
+			id: "6F0B94B4E9F14856"
+			preset: "Achiugments"
+			rewards: [{
+				id: "2F794AD0712E6253"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_cookery:feed_chicken"
+				criterion: ""
+				id: "717F9277718E2109"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1F29B43874969679"]
+			id: "4ECC51DB18B1540D"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "57C53581FCD99FB2"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "hexagon"
+			tasks: [{
+				id: "2B4334306C0FBCE9"
+				item: { count: 1, id: "kaleidoscope_cookery:scarecrow" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4ECC51DB18B1540D"]
+			id: "0B22C27008D8732E"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "6DD26DBBE1909F98"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_cookery:scarecrow_head"
+				criterion: ""
+				id: "2DC5070AB38F17D8"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1F29B43874969679"]
+			id: "595F2FF6E6A6425F"
+			rewards: [{
+				id: "0ADF4C03EAFE4773"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3C8FC7746FAADBFE"
+				item: { count: 1, id: "kaleidoscope_cookery:wild_rice" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1F29B43874969679"]
+			id: "6F846C8AA00B0321"
+			rewards: [{
+				id: "4B65E537C28B36F8"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "3A345ECEFC7F065B"
+				item: { count: 1, id: "kaleidoscope_cookery:tomato_seed" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1F29B43874969679"]
+			id: "6C1439E67BA46B05"
+			rewards: [{
+				id: "09818B31B218AB87"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "0CBD821812E8262E"
+				item: { count: 1, id: "kaleidoscope_cookery:chili_seed" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1F29B43874969679"]
+			id: "017D36B7F519B774"
+			rewards: [{
+				id: "08E607732F914753"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "196CBADE89D228D5"
+				item: { count: 1, id: "kaleidoscope_cookery:lettuce_seed" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["595F2FF6E6A6425F"]
+			id: "3467CE92D0994FE3"
+			preset: "Achiugments"
+			rewards: [{
+				id: "2DF598F2BA4F5791"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					advancement: "kaleidoscope_cookery:iron_hoe"
+					criterion: ""
+					id: "29C83127DD9B7FDD"
+					type: "advancement"
+				}
+				{
+					advancement: "kaleidoscope_cookery:rice_panicle"
+					criterion: ""
+					id: "33DFB5B68E2F600E"
+					type: "advancement"
+				}
+			]
+			x: 5.25d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3467CE92D0994FE3"]
+			id: "01965A016BFD347D"
+			preset: "Achiugments"
+			rewards: [{
+				id: "71DA2ECC024B3A91"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_cookery:fish_rice"
+				criterion: ""
+				id: "41617352928C57F0"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 2.25d
+		}
+		{
+			dependencies: ["6C1439E67BA46B05"]
+			id: "1CAE63D2EF47179F"
+			rewards: [{
+				id: "0320EC6D782C7856"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "631A54CC7D3D0058"
+					item: { count: 1, id: "kaleidoscope_cookery:red_chili" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "14BFE469642FF792"
+					item: { count: 1, id: "kaleidoscope_cookery:green_chili" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			id: "51181E7058AA394E"
+			rewards: [{
+				id: "611C00FE51731DAC"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "37999D2A964BD26D"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/knives)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["51181E7058AA394E"]
+			id: "0C8B9821D43ED752"
+			rewards: [{
+				id: "500F38AA4FA87FF5"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 8L
+				id: "397BBE050FE11075"
+				item: { count: 1, id: "kaleidoscope_cookery:oil" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["0C8B9821D43ED752"]
+			id: "37AEDAA5DCD73DFB"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "2D2DD08F1E8DBB41"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "none"
+			tasks: [{
+				id: "6C102677BD5506A5"
+				item: { count: 1, id: "kaleidoscope_cookery:oil_pot" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["0C8B9821D43ED752"]
+			id: "46E5C8D3EB55E094"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "25197BFF3D31BC83"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0A513B35E8C6A796"
+				item: { count: 1, id: "kaleidoscope_cookery:enamel_basin" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["51181E7058AA394E"]
+			id: "381A43D155C8D44B"
+			rewards: [{
+				id: "745337A30EF9AE27"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "60489B1516F838D3"
+				item: { count: 1, id: "kaleidoscope_cookery:chopping_board" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["381A43D155C8D44B"]
+			id: "572F0A52E3B4C07F"
+			rewards: [{
+				id: "0D3E5EC7BB6720F6"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_cookery:chopping_board"
+				criterion: ""
+				id: "1A913514852A4A88"
+				type: "advancement"
+			}]
+			x: -5.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["381A43D155C8D44B"]
+			id: "5DAC077462DE4567"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "22E86E02E5AB6957"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "78D63AA10581F678"
+				item: { count: 1, id: "kaleidoscope_cookery:shawarma_spit" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"0C8B9821D43ED752"
+				"41A20ACB13164437"
+			]
+			id: "733FCF269775E418"
+			rewards: [
+				{
+					id: "6618E529A7F3D083"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 8
+					id: "0F19D43936FA36C7"
+					item: {
+						count: 1
+						id: "minecraft:bowl"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "03D87214D11F9A34"
+					item: { count: 1, id: "kaleidoscope_cookery:pot" }
+					type: "item"
+				}
+				{
+					id: "21F626A789BABA12"
+					item: { count: 1, id: "kaleidoscope_cookery:kitchen_shovel" }
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: -3.0d
+		}
+		{
+			id: "41A20ACB13164437"
+			preset: "Important"
+			rewards: [{
+				id: "7A7C2D014E78B73F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2817AD8017AA8089"
+				item: { count: 1, id: "kaleidoscope_cookery:stove" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["41A20ACB13164437"]
+			id: "331F655A447D9BC3"
+			rewards: [{
+				id: "2892B9B34AC936FE"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "1C2996559896D1C6"
+					item: { count: 1, id: "kaleidoscope_cookery:stockpot" }
+					type: "item"
+				}
+				{
+					id: "77C160A1945C663F"
+					item: { count: 1, id: "kaleidoscope_cookery:stockpot_lid" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			id: "195E74A1833DE00D"
+			optional: true
+			preset: "Optional"
+			rewards: [
+				{
+					id: "1F0A6E796D259AF4"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 2
+					id: "1768D857F9F5BA31"
+					item: {
+						count: 1
+						id: "kaleidoscope_cookery:red_lantern"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "1AF0C59439752E04"
+					item: { count: 1, id: "kaleidoscope_cookery:kitchenware_racks" }
+					type: "item"
+				}
+				{
+					id: "1E489CA86CCEF9E6"
+					item: { count: 1, id: "kaleidoscope_cookery:fruit_basket" }
+					type: "item"
+				}
+				{
+					id: "325E967D6F1BF250"
+					item: { count: 1, id: "kaleidoscope_cookery:tea_banner" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "7CEA7321A4EC1BC8"
+			rewards: [{
+				id: "094525CFB7E2E2AC"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "37F300397AE9E9A2"
+				item: { count: 1, id: "kaleidoscope_cookery:steamer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["325643FC0C0B7A5C"]
+			id: "775F114D30179638"
+			rewards: [{
+				id: "035DFC6141E8C4F9"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "39B070BB6C18CCFA"
+					item: { count: 1, id: "kaleidoscope_cookery:bamboo_tray" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "1EC32A6A7AE8E0B5"
+					item: { count: 1, id: "kaleidoscope_cookery:dried_tea_leaves" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F846C8AA00B0321"]
+			id: "32B261048B074E97"
+			rewards: [{
+				id: "3629801F258B295E"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 16L
+				id: "2464CF427ECBBF9C"
+				item: { count: 1, id: "kaleidoscope_cookery:tomato" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3467CE92D0994FE3"]
+			id: "5BCDC4A61F7A3413"
+			rewards: [{
+				id: "57DCD1418191CE30"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 16L
+				id: "39C2AF830B150D8C"
+				item: { count: 1, id: "kaleidoscope_cookery:rice" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["331F655A447D9BC3"]
+			id: "645892F182BAC7E8"
+			preset: "Optional"
+			rewards: [{
+				id: "377F92E2092CF794"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "40706E340F517A52"
+				item: { count: 1, id: "kaleidoscope_cookery:cooked_rice" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["7CEA7321A4EC1BC8"]
+			id: "26F5EDFCE5206941"
+			rewards: [{
+				id: "5CA6E834B1C08FD6"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "5DAC04DB606C87F1"
+					item: { count: 1, id: "kaleidoscope_cookery:flour" }
+					type: "item"
+				}
+				{
+					id: "50D220DD0852BDD2"
+					item: { count: 1, id: "kaleidoscope_cookery:raw_dough" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["26F5EDFCE5206941"]
+			id: "0E76A85ED049A798"
+			rewards: [{
+				id: "53A2D35A87FD12C0"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "022EE71260995F91"
+				item: { count: 1, id: "kaleidoscope_cookery:raw_noodles" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -9.0d
+		}
+		{
+			dependencies: [
+				"7CEA7321A4EC1BC8"
+				"26F5EDFCE5206941"
+			]
+			id: "65D2F27DFF313DB0"
+			rewards: [{
+				id: "016693C06EB54D8B"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "5FF10B5223563D22"
+				item: { count: 1, id: "kaleidoscope_cookery:mantou" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["65D2F27DFF313DB0"]
+			id: "79D85F0CE7026A9C"
+			rewards: [{
+				id: "0CAD874B29C71492"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "4A76549174F24CEC"
+				item: { count: 1, id: "kaleidoscope_cookery:baozi" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -9.0d
+		}
+		{
+			dependencies: ["7CEA7321A4EC1BC8"]
+			id: "74B6DA366E71A547"
+			rewards: [{
+				id: "451A525608813FE1"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "1DCC83CF221E1D0B"
+				item: { count: 1, id: "kaleidoscope_cookery:bamboo_tube_rice" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["41A20ACB13164437"]
+			id: "186DD501F439D1A4"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "33D35E612F478646"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1C18FDEFD62CE332"
+				item: { count: 1, id: "kaleidoscope_cookery:recipe_item" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["51181E7058AA394E"]
+			id: "4CE6CAC38213C268"
+			preset: "Important"
+			rewards: [{
+				id: "0587589F7DC7F8EA"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "26F1158ACAD93164"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/knives)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["79D85F0CE7026A9C"]
+			id: "0EB72C4C224E6FD9"
+			optional: true
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "030C50C189A749DF"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 4
+					id: "1ED24E31F89BDCCE"
+					item: {
+						count: 1
+						id: "minecraft:bone"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "kaleidoscope_cookery:baozi"
+				criterion: ""
+				id: "66C8707DDE5A00FA"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -11.25d
+		}
+		{
+			dependencies: ["733FCF269775E418"]
+			id: "3EB63084D4EADE95"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "20F3441308BD2560"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "1217AE193BD77B7A"
+					item: { count: 1, id: "kaleidoscope_cookery:pan_seared_knight_steak" }
+					type: "item"
+				}
+				{
+					id: "52990631B725290A"
+					item: { count: 1, id: "kaleidoscope_cookery:blaze_lamb_chop" }
+					type: "item"
+				}
+				{
+					id: "01AEC3742B85162D"
+					item: { count: 1, id: "kaleidoscope_cookery:braised_beef" }
+					type: "item"
+				}
+				{
+					id: "063B8343E3545482"
+					item: { count: 1, id: "kaleidoscope_cookery:frost_lamb_chop" }
+					type: "item"
+				}
+				{
+					id: "7C6C332B8BE72B73"
+					item: { count: 1, id: "kaleidoscope_cookery:crystal_lamb_chop" }
+					type: "item"
+				}
+				{
+					id: "57252F6C2A74B510"
+					item: { count: 1, id: "kaleidoscope_cookery:sweet_and_sour_pork" }
+					type: "item"
+				}
+				{
+					id: "6E3EAD5B7D33895F"
+					item: { count: 1, id: "kaleidoscope_cookery:scramble_egg_with_tomatoes" }
+					type: "item"
+				}
+				{
+					id: "53C3A2C5880F519D"
+					item: { count: 1, id: "kaleidoscope_cookery:fish_flavored_shredded_pork" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["331F655A447D9BC3"]
+			id: "2655497B751A1091"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "2AB6F2CFC9D5FD27"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "74F67D5D6FDDB19D"
+					item: { count: 1, id: "kaleidoscope_cookery:udon_noodle" }
+					type: "item"
+				}
+				{
+					id: "6EB0068D9E3276D9"
+					item: { count: 1, id: "kaleidoscope_cookery:beef_noodle" }
+					type: "item"
+				}
+				{
+					id: "014FB63316244CE7"
+					item: { count: 1, id: "kaleidoscope_cookery:laba_congee" }
+					type: "item"
+				}
+				{
+					id: "25BF3D0F16E0348D"
+					item: { count: 1, id: "kaleidoscope_cookery:hui_noodle" }
+					type: "item"
+				}
+				{
+					id: "34556B0F25E98CF7"
+					item: { count: 1, id: "kaleidoscope_cookery:hot_dry_noodles" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["733FCF269775E418"]
+			id: "626BEE24D4EAE1D4"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "09DEF781067F1706"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "772A3803050DB4B2"
+					item: { count: 1, id: "kaleidoscope_cookery:spicy_rabbit_head" }
+					type: "item"
+				}
+				{
+					id: "0157928B1E1F9223"
+					item: { count: 1, id: "kaleidoscope_cookery:fried_spring_roll" }
+					type: "item"
+				}
+				{
+					id: "145394D8BB58DA2D"
+					item: { count: 1, id: "kaleidoscope_cookery:oil_splashed_fish" }
+					type: "item"
+				}
+				{
+					id: "0F7AB76E3A990CE7"
+					item: { count: 1, id: "kaleidoscope_cookery:stuffed_tiger_skin_pepper" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["331F655A447D9BC3"]
+			id: "46E5C078BBA7DBA0"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "088E755DAF44070A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "64325F4774133600"
+					item: { count: 1, id: "kaleidoscope_cookery:dough_drop_soup" }
+					type: "item"
+				}
+				{
+					id: "25B60C779F88DCEA"
+					item: { count: 1, id: "kaleidoscope_cookery:spicy_blood_stew" }
+					type: "item"
+				}
+				{
+					id: "19B1A63AAA823ADB"
+					item: { count: 1, id: "kaleidoscope_cookery:numbing_spicy_chicken" }
+					type: "item"
+				}
+				{
+					id: "3B8A9BAE80C54D36"
+					item: { count: 1, id: "kaleidoscope_cookery:four_joy_meatball_soup" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["645892F182BAC7E8"]
+			id: "45F6C4E6B990D7E1"
+			preset: "Optional"
+			rewards: [{
+				id: "205F9A0A75971FDA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "61A379851D8EB5CD"
+					item: { count: 1, id: "kaleidoscope_cookery:braised_beef_rice_bowl" }
+					type: "item"
+				}
+				{
+					id: "3B3904A01246FED1"
+					item: { count: 1, id: "kaleidoscope_cookery:egg_fried_rice" }
+					type: "item"
+				}
+				{
+					id: "7579444794BCE342"
+					item: { count: 1, id: "kaleidoscope_cookery:scramble_egg_with_tomatoes_rice_bowl" }
+					type: "item"
+				}
+				{
+					id: "5E4FA8749C71E28C"
+					item: { count: 1, id: "kaleidoscope_cookery:fish_flavored_shredded_pork_rice_bowl" }
+					type: "item"
+				}
+				{
+					id: "1F1A5B2AB2AA3DB5"
+					item: { count: 1, id: "kaleidoscope_cookery:stir_fried_pork_with_peppers_rice_bowl" }
+					type: "item"
+				}
+				{
+					id: "44D4EECA44D69569"
+					item: { count: 1, id: "kaleidoscope_cookery:sweet_and_sour_pork_rice_bowl" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 2.0d
+		}
+	]
+}

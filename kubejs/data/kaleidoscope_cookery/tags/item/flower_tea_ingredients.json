@@ -1,0 +1,10 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:torchflower",
+    "minecraft:pitcher_plant",
+    "northstar:mars_palm_flower",
+    "northstar:mars_sprout_flower",
+    "northstar:mars_tulip_flower"
+  ]
+}

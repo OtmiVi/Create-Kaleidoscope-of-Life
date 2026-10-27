@@ -3,12 +3,14 @@
 	chapter.1B6D3098329B01E0.title: "villagers"
 	chapter.1E5E232C9AC9DF9D.title: "Exposure"
 	chapter.23964F71E81F7706.title: "Waistones"
+	chapter.2440470F0EF46013.title: "tea"
 	chapter.28AD0F9B46A3A947.title: "00 - Welcome!"
 	chapter.2FE9765A1A335D56.title: "Quark"
 	chapter.309A8927799B5C99.title: "Copper"
 	chapter.3DB0FC039BC2B070.title: "Deep dark"
 	chapter.4AD2C0503D04FA56.title: "Aquatic"
 	chapter.4BB6B2ED220F896D.title: "Abdesite era"
+	chapter.5B8DD4295904CF7B.title: "Cookery"
 	chapter.5C04F22B08E3F615.title: "Snifer Overhaul"
 	chapter.69462E61A113C180.title: "Brass era"
 	chapter.6AFE0638A04ACE83.title: "Enchantment Industry"
@@ -16,17 +18,214 @@
 	chapter.77C4932A795646A1.title: "01 - Hello world"
 	chapter.7DDB4665547C3D95.title: "Storage"
 	chapter_group.0A13135CCD72B2AA.title: "02 - Create"
-	quest.31F52CD7E69B4517.title: "Enchanting Has Moved"
-	quest.31F52CD7E69B4517.quest_desc: [
-		"The vanilla Enchanting Table can still be crafted and placed, but its enchanting interface is disabled."
+	chapter_group.624E7CB211C91071.title: "ащщв"
+	quest.017D36B7F519B774.quest_desc: [
+		"Obtain Lettuce Seeds by breaking grass while wearing a Straw Hat, then plant them on farmland."
+		"Grow a steady supply for soups and stuffed dough. Watch for caterpillars when harvesting."
+	]
+	quest.017D36B7F519B774.title: "Leaves for Lunch"
+	quest.01965A016BFD347D.quest_desc: [
+		"Release a fish from a bucket into your flooded rice field."
+		"Fish help the rice grow and grant the Fish-Rice Symbiosis advancement."
+	]
+	quest.01965A016BFD347D.title: "Fish Among the Rice"
+	quest.01B105DD883B7FC1.quest_desc: [
+		"Prepare the White Tulip Tea Bag and brew Absolution."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.01B105DD883B7FC1.title: "Absolution"
+	quest.03C14112270873B7.title: "Netherite tools"
+	quest.05BC17815B49C91C.quest_desc: ["Drink three different flower drinks within one minute"]
+	quest.05BC17815B49C91C.title: "Flowers for Wine"
+	quest.0749C059A711739E.quest_desc: [
+		"Gain the Flatulence effect, then sneak to propel yourself upward."
+		"Ascend 1900 blocks from your starting position during the flight to complete this pack-adjusted Cookery advancement."
+		"Begin at Y = -60 or higher and remain at or below Y = 3200 when completing the ascent."
+	]
+	quest.0749C059A711739E.title: "Rocket-Powered Digestion"
+	quest.07670213AF28B8EF.quest_desc: ["Pin three different creatures within one second"]
+	quest.07670213AF28B8EF.title: "Three Blooms at Once"
+	quest.0833150753998783.quest_desc: [
+		"Prepare the tea bag and its matching brewed tea to complete this tasting."
+		"Keep a cup ready beside your Teapot."
+	]
+	quest.0833150753998783.title: "Tieguanyin"
+	quest.0B22C27008D8732E.quest_desc: [
+		"Use a skull on a placed Scarecrow to replace its head."
+		"This completes The Art of Grafting advancement. Choose a face that suits your farm."
+	]
+	quest.0B22C27008D8732E.title: "A Change of Face"
+	quest.0BDD49E0B7056D1E.quest_desc: [
+		"Obtain a Super Enchanting Template using a Block of Super Experience. Check JEI for its recipe."
+		"Blaze Enchanters and Blaze Forgers in Super Enchanting mode require these upgraded templates instead of normal ones."
+	]
+	quest.0BDD49E0B7056D1E.title: "A Supernatural Blueprint"
+	quest.0BEBB2510D8435FE.title: "Diamond tools"
+	quest.0C8B9821D43ED752.quest_desc: [
+		"Collect 8 Oil. Killing pigs, piglins or hoglins with a Cookery kitchen knife can provide it."
+		"Keep Oil beside your stove: it is the first ingredient added to the wok before stir-frying."
+	]
+	quest.0C8B9821D43ED752.title: "Oil on the Blade"
+	quest.0DEE0F0A32566514.quest_desc: [
+		"Prepare the Oxeye Daisy Tea Bag and brew Loves Me Not."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.0DEE0F0A32566514.title: "Loves Me Not"
+	quest.0E19B7FD3C6ADBFD.quest_desc: ["Hold The Sunward's day form from sunrise to sunset of one day"]
+	quest.0E19B7FD3C6ADBFD.title: "Kuafu Chases the Sun"
+	quest.0E76A85ED049A798.quest_desc: [
+		"Hold Raw Dough and keep right-click pressed to stretch it into Raw Noodles."
+		"Alternatively, place dough on a Chopping Board and cut it four times with a kitchen knife to get three Raw Noodles."
+		"Keep the noodles for the Stockpot recipe collection."
+	]
+	quest.0E76A85ED049A798.title: "Pull Your Own Noodles"
+	quest.0EB72C4C224E6FD9.quest_desc: [
+		"Sneak and throw a Baozi at a wolf that is missing health to heal it."
+		"This completes the base Cookery Baozi advancement. A good meal is better when shared."
+	]
+	quest.0EB72C4C224E6FD9.title: "Share a Bun"
+	quest.0EC4467B69DBC4C3.quest_desc: ["Land a dew flower cake shockwave after falling at least twenty blocks"]
+	quest.0EC4467B69DBC4C3.title: "From the Sky"
+	quest.0F8EFABEF34E7C58.title: "How it grow there?"
+	quest.10F4A2976081820E.title: "Something bether"
+	quest.11F8FC84B04CA3F0.quest_desc: ["After eating a blossom mooncake, swim 100 blocks through the air without touching ground"]
+	quest.11F8FC84B04CA3F0.title: "I Would Ride the Wind Home"
+	quest.12053A64424FE7CB.title: "Lets find him!"
+	quest.1261F51007BC60A6.title: "Iron tools"
+	quest.13530E4C44B87217.title: "Firt copper"
+	quest.13FE7D33D4CA6CE7.title: "Stone tools"
+	quest.140D56A08C937664.quest_desc: [
+		"Prepare a Raw Flower Cake to accompany your tea."
+		"This starts the flower-cake branch below the tea circle."
+	]
+	quest.140D56A08C937664.title: "Raw Flower Cake"
+	quest.14F8C1786EB82B7A.quest_desc: [
+		"Prepare the Torchflower Tea Bag and brew Breath of the Ancients."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.14F8C1786EB82B7A.title: "Breath of the Ancients"
+	quest.16C38A47D457DF54.title: "I kill'd him!"
+	quest.181186E256272E35.quest_desc: [
+		"Build a working Grindstone Drain with a Mechanical Grindstone above it and supply rotation."
+		"Feed an enchanted item through the setup and stay nearby while its enchantments are removed. Witnessing the disenchanting process grants Gone with the Foil."
+	]
+	quest.181186E256272E35.title: "Gone with the Foil"
+	quest.186DD501F439D1A4.quest_desc: [
+		"Craft a Recipe item from four Paper arranged in a square."
+		"Use it on a Wok or Stockpot to record ingredients for one-click cooking later. Keep useful recipes beside your stove."
+	]
+	quest.186DD501F439D1A4.title: "Write It Down"
+	quest.18FB820A56B1C8C4.quest_desc: [
+		"Prepare the Chorus Flower Tea Bag and brew Echo of the End."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.18FB820A56B1C8C4.title: "Echo of the End"
+	quest.195E74A1833DE00D.quest_desc: [
+		"Craft Kitchenware Racks, a Fruit Basket and a Tea Banner."
+		"Hang cooking tools on the racks. The basket stores eight stacks of items and keeps them when carried, while the banner decorates your kitchen."
+	]
+	quest.195E74A1833DE00D.title: "A Kitchen That Feels Like Home"
+	quest.19E084093DF5A0D0.quest_desc: [
+		"Supply a Blaze Forger with Liquid Experience and switch its side panel to Application Mode."
+		"Give it an Enchanting Template that already holds an enchantment and a compatible item. Applying the template grants Sigil Casting."
+	]
+	quest.19E084093DF5A0D0.title: "Put the Plan to Work"
+	quest.1B677906BB80775E.quest_desc: [
+		"Combine a Fishing Rod with certain items to create special locator rods."
 		""
-		"Use a Blaze Enchanter from Create: Enchantment Industry to enchant equipment."
+		"Different rods can point your Sniffer toward different biomes and structures."
 		""
-		"{\"text\":\"Open the Blaze Enchanter quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"7AEE5B1EC5B455A4\"}}"
+		"Mount your Sniffer and use a locator rod to begin searching. Use it again to switch back to manual control."
+	]
+	quest.1B677906BB80775E.title: "Sniffer Navigation System"
+	quest.1CAE63D2EF47179F.quest_desc: [
+		"Harvest 8 Red Chilis and 8 Green Chilis."
+		"Keep both colors in your pantry. Some recipes accept either color, while others specifically need green peppers."
+	]
+	quest.1CAE63D2EF47179F.title: "Two Colors of Heat"
+	quest.1CE3D2ACF9DAE82D.title: "I can do something from this"
+	quest.1EC672DB21FC8697.quest_desc: [
+		"Prepare the Lilac Tea Bag and brew Spring Waltz."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.1EC672DB21FC8697.title: "Spring Waltz"
+	quest.1F29B43874969679.quest_desc: [
+		"Craft a Straw Hat and wear it while breaking grass. This gives you a chance to find Tomato, Chili, Lettuce and Tea Seeds, as well as Wild Rice."
+		"Start a small farm and save some of every crop. Your harvest will supply the steamer, wok and stockpot branches."
+	]
+	quest.1F29B43874969679.title: "A Straw Hat and a Fresh Start"
+	quest.1FAF140FB6D4064B.quest_desc: ["Eat a dew flower cake, then land its shockwave on something from at least two blocks up"]
+	quest.1FAF140FB6D4064B.title: "Treading the Dew"
+	quest.21259D5AE8804173.quest_desc: [
+		"Prepare the Spore Blossom Tea Bag and brew Vernal Awakening."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.21259D5AE8804173.title: "Vernal Awakening"
+	quest.21775B3DBED2E2D8.quest_desc: ["Taste 9 different flower drinks"]
+	quest.21775B3DBED2E2D8.title: "Half a Cup of the World"
+	quest.218B6C60AB1E94C1.quest_desc: ["Obtain a Blaze Forger and supply it with Liquid Experience. Use its side panel to switch between merging enchantments, applying templates, and extracting enchantments into blank templates."]
+	quest.218B6C60AB1E94C1.title: "Strike While It's Enchanted"
+	quest.22B9B33AB325C110.quest_desc: ["Obtain an Experience Hatch and attach it to your experience storage. Right-click to deposit experience. Sneak-right-click to withdraw it. Adjust the amount transferred with the hatch's scroll panel."]
+	quest.22B9B33AB325C110.title: "Bank Your Levels"
+	quest.22C6644CC2675898.quest_desc: [
+		"Prepare the Poppy Tea Bag and brew Lullaby."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.22C6644CC2675898.title: "Lullaby"
+	quest.242F82EDB7AD82B9.title: "Get some arms"
+	quest.2655497B751A1091.quest_desc: [
+		"Prepare all five noodle and congee dishes in this Stockpot collection."
+		"From a warming broth to a hearty bowl of noodles, there is something here for every appetite."
+	]
+	quest.2655497B751A1091.title: "Noodles and a Pot of Comfort"
+	quest.266E1B1345DE3792.quest_desc: [
+		"Supply a Blaze Forger with Liquid Experience and select its merge mode."
+		"Give it two items of the same type, such as two enchanted swords, and let it combine them. A successful merge grants Blazing Fusion."
+	]
+	quest.266E1B1345DE3792.title: "Blazing Fusion"
+	quest.26A4E6CE696C4E90.quest_desc: [
+		"Obtain two Mechanical Grindstones and one Item Drain. Right-click the Item Drain with one grindstone to make a Grindstone Drain, then place the second grindstone above it and supply rotation."
+		"Use the setup to remove enchantments or turn Nuggets of Experience into Liquid Experience."
+	]
+	quest.26A4E6CE696C4E90.title: "Grind Away the Magic"
+	quest.26F5EDFCE5206941.quest_desc: [
+		"Mill Wheat in a powered Create Millstone to obtain Flour."
+		"Turn the Flour into Raw Dough by washing it with an Encased Fan blowing through water. Place the flour in the washing air stream and let processing finish."
+		"Save some dough for steamed buns, stuffed dough and noodles."
+		""
+		"{\"text\":\"Open the quest with Create\\u0027s Millstone\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"449A09FC50B32D81\"}}"
+		""
+		"{\"text\":\"Open the Encased Fan quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"0594598C4D16819F\"}}"
+	]
+	quest.26F5EDFCE5206941.title: "Flour, Water, Possibilities"
+	quest.29606372FC3CABF2.title: "Anchient ore"
+	quest.2A7E83771DD008F5.title: "The end?"
+	quest.2BA36221D25AD34E.quest_desc: [
+		"Prepare the Blue Orchid Tea Bag and brew First Bloom."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.2BA36221D25AD34E.title: "First Bloom"
+	quest.2D100A94F7E38C73.quest_desc: ["Stop 5 projectiles with a single Hanami Tale"]
+	quest.2D100A94F7E38C73.title: "Shield of Petals"
+	quest.2D19C03AADA330A6.title: "Lets enchant more"
+	quest.2DE5E000B96E5CF1.quest_desc: ["Finish a When the Wind Rises mid-fall"]
+	quest.2DE5E000B96E5CF1.title: "Play with the Wind"
+	quest.2DFAFB151DCAA2E9.quest_desc: [
+		"Set an Enchanted Book in the Printer's filter slot and supply Liquid Experience."
+		"Send a normal Book underneath the Printer and let it finish copying the enchantments. This grants Copiable Mystery. Check JEI for the required fluid amount."
+	]
+	quest.2DFAFB151DCAA2E9.title: "Copy, Paste, Enchant"
+	quest.2E9FA72B8E45D381.title: "Lets glow"
+	quest.30622D9F1018E73D.quest_desc: [
+		"The vanilla Brewing Stand does not brew potions and its interface is disabled. Its crafting recipe is removed. Stands found in the world remain decorative blocks and cleric workstations."
+		""
+		"Brew potions with a Mechanical Mixer over a Basin. Check JEI for ingredients and heating requirements."
+		""
+		"{\"text\":\"Open the Mechanical Mixer quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"20F032D0D2DD5D12\"}}"
 		""
 		"Tick the checkmark once you have read this."
 	]
-	quest.30BAD4A8F5EA495E.title: "Anvils: Repair and Rename"
+	quest.30622D9F1018E73D.title: "Potions Use Create"
 	quest.30BAD4A8F5EA495E.quest_desc: [
 		"Vanilla anvils repair equipment and rename items. Repair with the correct material or combine two matching pieces of equipment. Renaming alone costs one experience level; renaming during a repair adds one level."
 		""
@@ -38,7 +237,86 @@
 		""
 		"Tick the checkmark once you have read this."
 	]
-	quest.3DE01069F66D40DC.title: "Disenchanting Uses Create"
+	quest.30BAD4A8F5EA495E.title: "Anvils: Repair and Rename"
+	quest.31A8F6CD2AEC9561.quest_desc: [
+		"Obtain a Cake o' Enchanting. Check JEI for its recipe. Feed it to a Blaze Enchanter or Blaze Forger to activate Super Enchanting mode."
+		"Keep supplying Liquid Experience, and place a Lightning Rod nearby before processing anything."
+	]
+	quest.31A8F6CD2AEC9561.title: "Let Them Eat Experience"
+	quest.31F52CD7E69B4517.quest_desc: [
+		"The vanilla Enchanting Table can still be crafted and placed, but its enchanting interface is disabled."
+		""
+		"Use a Blaze Enchanter from Create: Enchantment Industry to enchant equipment."
+		""
+		"{\"text\":\"Open the Blaze Enchanter quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"7AEE5B1EC5B455A4\"}}"
+		""
+		"Tick the checkmark once you have read this."
+	]
+	quest.31F52CD7E69B4517.title: "Enchanting Has Moved"
+	quest.3231F96980C158AD.title: "Get some heat"
+	quest.325643FC0C0B7A5C.quest_desc: [
+		"Wear a Straw Hat and break grass until you find Tea Seeds."
+		"Grow tea plants and harvest Fresh Tea Leaves. Drying the leaves is the next step toward brewing your first cup."
+	]
+	quest.325643FC0C0B7A5C.title: "A Tea Garden"
+	quest.3260161847AC90E1.title: "Honney"
+	quest.32B261048B074E97.quest_desc: [
+		"Grow your Tomato Seeds and collect 16 Tomatoes."
+		"Keep a supply for Scrambled Eggs with Tomatoes, Borscht and rice bowls."
+	]
+	quest.32B261048B074E97.title: "Red Harvest"
+	quest.331F655A447D9BC3.quest_desc: [
+		"Craft a Stockpot and Stockpot Lid. Place the pot over a lit heat source."
+		"Add the correct broth first, then the ingredients. Close the lid and wait for cooking to finish. Opening the lid pauses cooking."
+		"Lift the lid and serve with the required container. Most soups use Bowls; certain dishes use Flower Pots. Water, milk and lava bases lead to different recipes."
+	]
+	quest.331F655A447D9BC3.title: "Soup Needs a Lid"
+	quest.33FFC4F03C4643E8.title: "Diamond armor"
+	quest.342F2C0639E8DC32.title: "TMNT!"
+	quest.344B774B8B7F9F85.quest_desc: ["Let Echo of the End answer a killing blow for you"]
+	quest.344B774B8B7F9F85.title: "Cheated Death"
+	quest.3467CE92D0994FE3.quest_desc: [
+		"Use a hoe on soil under water to create paddy farmland. Plant Wild Rice and let it mature before harvesting Rice Panicles."
+		"Complete both the flooded-farmland and rice-harvest advancements for this quest."
+	]
+	quest.3467CE92D0994FE3.title: "A Paddy and Its First Harvest"
+	quest.34B7A2BBC02333B1.quest_desc: ["Obtain a Blaze Upgrade Smithing Template. Use it at a Smithing Table to make blaze-powered enchanting equipment. Check JEI for the ingredients."]
+	quest.34B7A2BBC02333B1.title: "A Blazing Upgrade"
+	quest.34E093D3D00D4C04.title: "Netherite armor"
+	quest.3653A4F5DEB5848D.quest_desc: [
+		"Prepare the Peony Tea Bag and brew Coronation."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.3653A4F5DEB5848D.title: "Coronation"
+	quest.369A0BBDBC1EA479.title: "First logic"
+	quest.37673ABCE02F2D8C.title: "First iron"
+	quest.37AEDAA5DCD73DFB.quest_desc: [
+		"Craft an Oil Can and fill it with Oil."
+		"Use the filled can on a wok to add oil before cooking. The item tooltip shows how much oil remains."
+	]
+	quest.37AEDAA5DCD73DFB.title: "An Oil Can for the Cook"
+	quest.37BBD0F69107DDD9.quest_desc: ["Obtain a Toasted Flower Cake for your tea table."]
+	quest.37BBD0F69107DDD9.title: "Toasted Flower Cake"
+	quest.37C8B239F69E5EB7.title: "I`m not alone"
+	quest.381A43D155C8D44B.quest_desc: [
+		"Craft and place a Chopping Board. Put a suitable ingredient on it, then cut it with a Cookery kitchen knife."
+		"For example, four cuts turn a Raw Porkchop into three Raw Pork Bellies. Cutting dough is another way to prepare Raw Noodles."
+	]
+	quest.381A43D155C8D44B.title: "A Place to Chop"
+	quest.3AA7EA5DAD1AE8FB.title: "Now i have a baby!"
+	quest.3C9ECE6486F81907.quest_desc: ["Obtain a Bucket of Liquid Experience. Use Mechanical Grindstones to process Nuggets of Experience, or deposit your own experience through an Experience Hatch. Collect the liquid in storage and fill a bucket with a Spout."]
+	quest.3C9ECE6486F81907.title: "Liquid Knowledge"
+	quest.3CE44311899D723E.title: "Additional tools"
+	quest.3D8E5877B1DDB989.quest_desc: [
+		"Place a Lightning Rod on a Block of Experience under an open sky and let lightning strike it. Collect the resulting Block of Super Experience."
+		"Natural lightning only has a chance to transform the block. Lightning produced by Super Enchanting guarantees the transformation."
+	]
+	quest.3D8E5877B1DDB989.title: "Lightning in a Block"
+	quest.3DC5D5F823216033.quest_desc: [
+		"Prepare the tea bag and its matching brewed tea to complete this tasting."
+		"Keep a cup ready beside your Teapot."
+	]
+	quest.3DC5D5F823216033.title: "Dong Ding Oolong Tea"
 	quest.3DE01069F66D40DC.quest_desc: [
 		"The vanilla Grindstone can still be crafted, placed and used as a villager workstation, but its interface is disabled. Repairing two tools in the crafting grid is also disabled; use an anvil for repairs."
 		""
@@ -48,51 +326,83 @@
 		""
 		"Tick the checkmark once you have read this."
 	]
-	quest.30622D9F1018E73D.title: "Potions Use Create"
-	quest.30622D9F1018E73D.quest_desc: [
-		"The vanilla Brewing Stand does not brew potions and its interface is disabled. Its crafting recipe is removed. Stands found in the world remain decorative blocks and cleric workstations."
-		""
-		"Brew potions with a Mechanical Mixer over a Basin. Check JEI for ingredients and heating requirements."
-		""
-		"{\"text\":\"Open the Mechanical Mixer quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"20F032D0D2DD5D12\"}}"
-		""
-		"Tick the checkmark once you have read this."
+	quest.3DE01069F66D40DC.title: "Disenchanting Uses Create"
+	quest.3E0EA003CE92277D.quest_desc: [
+		"This quest requires both Spirit-Taking and Spiritual Return."
+		"Attach an Experience Hatch to experience storage. While you have some experience, right-click the hatch to deposit it and earn Spirit-Taking."
+		"Then sneak-right-click the hatch to withdraw stored experience and earn Spiritual Return."
 	]
-	quest.03C14112270873B7.title: "Netherite tools"
-	quest.0BEBB2510D8435FE.title: "Diamond tools"
-	quest.0F8EFABEF34E7C58.title: "How it grow there?"
-	quest.10F4A2976081820E.title: "Something bether"
-	quest.12053A64424FE7CB.title: "Lets find him!"
-	quest.1261F51007BC60A6.title: "Iron tools"
-	quest.13530E4C44B87217.title: "Firt copper"
-	quest.13FE7D33D4CA6CE7.title: "Stone tools"
-	quest.16C38A47D457DF54.title: "I kill'd him!"
-	quest.1B677906BB80775E.quest_desc: [
-		"Combine a Fishing Rod with certain items to create special locator rods."
-		""
-		"Different rods can point your Sniffer toward different biomes and structures."
-		""
-		"Mount your Sniffer and use a locator rod to begin searching. Use it again to switch back to manual control."
+	quest.3E0EA003CE92277D.title: "Experience Comes and Goes"
+	quest.3EB63084D4EADE95.quest_desc: [
+		"Prepare all eight wok dishes in this collection."
+		"A full table of meat dishes and homestyle favorites is a fine way to show how far your cooking has come."
 	]
-	quest.1B677906BB80775E.title: "Sniffer Navigation System"
-	quest.1CE3D2ACF9DAE82D.title: "I can do something from this"
-	quest.242F82EDB7AD82B9.title: "Get some arms"
-	quest.29606372FC3CABF2.title: "Anchient ore"
-	quest.2A7E83771DD008F5.title: "The end?"
-	quest.2D19C03AADA330A6.title: "Lets enchant more"
-	quest.2E9FA72B8E45D381.title: "Lets glow"
-	quest.3231F96980C158AD.title: "Get some heat"
-	quest.3260161847AC90E1.title: "Honney"
-	quest.33FFC4F03C4643E8.title: "Diamond armor"
-	quest.342F2C0639E8DC32.title: "TMNT!"
-	quest.34E093D3D00D4C04.title: "Netherite armor"
-	quest.369A0BBDBC1EA479.title: "First logic"
-	quest.37673ABCE02F2D8C.title: "First iron"
-	quest.37C8B239F69E5EB7.title: "I`m not alone"
-	quest.3AA7EA5DAD1AE8FB.title: "Now i have a baby!"
-	quest.3CE44311899D723E.title: "Additional tools"
+	quest.3EB63084D4EADE95.title: "A Wok Full of Possibilities"
+	quest.4072B9308C60E030.quest_desc: [
+		"Prepare the tea bag and its matching brewed tea to complete this tasting."
+		"Keep a cup ready beside your Teapot."
+	]
+	quest.4072B9308C60E030.title: "Wheat Aroma Oolong Tea"
 	quest.407B72483A170B38.title: "Golden tools"
 	quest.40CF4CF2C6070E83.title: "Copper tools"
+	quest.41A20ACB13164437.quest_desc: [
+		"Craft and place a Stove, then light it with Flint and Steel."
+		"Place your cookware directly above it. The Wok, Stockpot, Steamer and Teapot all need a suitable heat source to work."
+	]
+	quest.41A20ACB13164437.title: "Light the Kitchen Stove"
+	quest.43480626E3969730.quest_desc: [
+		"Prepare the Red Tulip Tea Bag and brew Crimson Heartbeat."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.43480626E3969730.title: "Crimson Heartbeat"
+	quest.4412073CF62DE5A0.quest_desc: ["Pin a creature with a thrown raw flower cake"]
+	quest.4412073CF62DE5A0.title: "A Flower Blooms in an Instant"
+	quest.456D272E7E8BA723.quest_desc: ["Obtain a Dew Flower Cake. Its special effects are explored in the separate achievement group."]
+	quest.456D272E7E8BA723.title: "Dew Flower Cake"
+	quest.45F6C4E6B990D7E1.quest_desc: [
+		"Prepare all six rice dishes in this collection."
+		"A simple bowl of rice can become a satisfying meal in many different ways."
+	]
+	quest.45F6C4E6B990D7E1.title: "Everything Goes with Rice"
+	quest.45F96D7285E43614.quest_desc: [
+		"Prepare the tea bag and its matching brewed tea to complete this tasting."
+		"Keep a cup ready beside your Teapot."
+	]
+	quest.45F96D7285E43614.title: "Sakura Fubuki"
+	quest.467C8D49D8B06F28.quest_desc: [
+		"Prepare the Allium Tea Bag and brew Fire Waltz."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.467C8D49D8B06F28.title: "Fire Waltz"
+	quest.468E483F6C1824A1.quest_desc: [
+		"Prepare the Wither Rose Tea Bag and brew Les Fleurs du Mal."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.468E483F6C1824A1.title: "Les Fleurs du Mal"
+	quest.46E5C078BBA7DBA0.quest_desc: [
+		"Prepare all four dishes in this Stockpot collection."
+		"A few hearty pots of food will keep your kitchen busy and your guests well fed."
+	]
+	quest.46E5C078BBA7DBA0.title: "Four Hearty Pots"
+	quest.46E5C8D3EB55E094.quest_desc: [
+		"Craft a Grease Crock and fill it with Oil."
+		"Right-click it with a Kitchen Spatula to coat the tool, then use the spatula on your wok to add oil."
+	]
+	quest.46E5C8D3EB55E094.title: "Keep the Grease Close"
+	quest.4708422455C5A9D2.quest_desc: ["Roll three double drops within one Voracious Urn"]
+	quest.4708422455C5A9D2.title: "Greed Without End"
+	quest.4BA7892EA25F733A.quest_desc: [
+		"Place a Teapot on a suitable heat source. Add the liquid and tea ingredient required for the tea you want to brew."
+		"Wait until brewing finishes, then serve with Empty Cups. Add liquid and ingredients while the teapot is in its preparation stage."
+	]
+	quest.4BA7892EA25F733A.title: "Put the Kettle On"
+	quest.4C14663895EEEF52.quest_desc: [
+		"Prepare the Pink Tulip Tea Bag and brew Rosy Stride."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.4C14663895EEEF52.title: "Rosy Stride"
+	quest.4C21BD4944CBDC53.quest_desc: ["Taste every available Flora flower drink."]
+	quest.4C21BD4944CBDC53.title: "A Garden in Full Bloom"
 	quest.4C4599A10BE1B633.quest_desc: [
 		"Your Sniffer has discovered cosplay."
 		""
@@ -117,6 +427,24 @@
 		"Find your favorite look... or collect them all. Your Sniffer didn't survive extinction just to have one outfit."
 	]
 	quest.4C4599A10BE1B633.title: "Sniffer Cosplay Convention"
+	quest.4C6AD6CB9F99191D.quest_desc: ["Obtain a Block of Experience. These blocks are used to make Enchanting Templates and can be transformed into Blocks of Super Experience by lightning. Check JEI for the recipe."]
+	quest.4C6AD6CB9F99191D.title: "Experience, Compacted"
+	quest.4C8BA6D3AB53C9EE.quest_desc: [
+		"Craft a Sickle. Right-click crops to harvest them and remove weeds."
+		"Keep it with your farming tools as your vegetable beds and rice fields expand."
+	]
+	quest.4C8BA6D3AB53C9EE.title: "A Cleaner Harvest"
+	quest.4CE6CAC38213C268.quest_desc: [
+		"Obtain a kitchen knife accepted by this task and keep it ready at your cooking station."
+		"Cookery knives prepare ingredients on the Chopping Board. Higher-tier knives make useful upgrades as you spend more time in the kitchen."
+	]
+	quest.4CE6CAC38213C268.title: "A Blade for the Chef"
+	quest.4DB5312EFD5053BB.quest_desc: [
+		"Obtain a Lightning Rod for this quest and place it near a Blaze Enchanter under an open sky."
+		"Supply Liquid Experience and feed the enchanter a Cake o' Enchanting to activate Super Enchanting mode. Set an equipment item, such as a pickaxe, in its filter slot and choose an enchanting level."
+		"Process Super Enchanting Templates until a result includes a treasure enchantment, such as Mending. This grants Probability Spike. You may need several attempts."
+	]
+	quest.4DB5312EFD5053BB.title: "A Treasure in the Odds"
 	quest.4E6536570DDAD4B9.quest_desc: [
 		"This ancient creature may look like it pays taxes to nobody... and that's because it doesn't."
 		""
@@ -131,144 +459,236 @@
 		"Its chest provides 25 storage slots, making your new prehistoric friend surprisingly useful on long adventures."
 	]
 	quest.4E6536570DDAD4B9.title: "A Sniffer Companion"
+	quest.4EABF4A050EC94CD.quest_desc: [
+		"Prepare the Lily of the Valley Tea Bag and brew May Kiss."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.4EABF4A050EC94CD.title: "May Kiss"
+	quest.4ECC51DB18B1540D.quest_desc: [
+		"Craft and place a Scarecrow to protect the surrounding farmland."
+		"Right-click it with suitable heads, lanterns or tools to decorate your new field guardian."
+	]
+	quest.4ECC51DB18B1540D.title: "Someone to Watch the Crops"
 	quest.4EF30842961B514C.title: "There is hot"
+	quest.4F914EAA5FC2FD3F.quest_desc: [
+		"Prepare the Azure Bluet Tea Bag and brew The Unnoticed."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.4F914EAA5FC2FD3F.title: "The Unnoticed"
+	quest.4FE8D62B58B25DBC.quest_desc: ["Prepare a cup of Flower Tea for your tasting collection."]
+	quest.4FE8D62B58B25DBC.title: "Flower Tea"
+	quest.51181E7058AA394E.quest_desc: [
+		"Obtain a kitchen knife accepted by this task. A Cookery Iron Kitchen Knife can be crafted from three Iron Ingots and a Stick."
+		"Cookery kitchen knives cut ingredients on a Chopping Board. They can also provide Oil when used to kill pigs, piglins or hoglins."
+	]
+	quest.51181E7058AA394E.title: "Every Kitchen Needs a Knife"
 	quest.5161081A58AD5C77.quest_desc: ["You can use trial key to  reset vault"]
 	quest.5161081A58AD5C77.title: "Reuse key"
+	quest.5166ACCCD8F53010.quest_desc: [
+		"Prepare the Cornflower Tea Bag and brew The Prussian Leap."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.5166ACCCD8F53010.title: "The Prussian Leap"
 	quest.517CAFE33962A58E.title: "Some hot rods"
 	quest.51D70276D620DD81.title: "Iron armor"
+	quest.550BCB5EA87CE32E.quest_desc: [
+		"Prepare the Orange Tulip Tea Bag and brew Autumn Serenade."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.550BCB5EA87CE32E.title: "Autumn Serenade"
+	quest.5561E25A984A8C55.quest_desc: ["Ripen 50 crops within one Vernal Awakening"]
+	quest.5561E25A984A8C55.title: "Believe in the Whole Spring"
+	quest.572F0A52E3B4C07F.quest_desc: [
+		"Finish cutting an ingredient on a Chopping Board with a Cookery kitchen knife."
+		"Continue cutting until the ingredient changes into its prepared result. This grants the chopping advancement."
+	]
+	quest.572F0A52E3B4C07F.title: "Chop, Chop, Chop!"
+	quest.57993FFBF672E682.quest_desc: ["Obtain a Printer. Set the item to copy in its filter slot, supply the required fluid, and feed blank items underneath it. It can copy books, rename items, and more. Check JEI for printing recipes."]
+	quest.57993FFBF672E682.title: "The Magic Copy Shop"
 	quest.57CFEF7965C2F8C2.title: "Some white stuf"
+	quest.595F2FF6E6A6425F.quest_desc: [
+		"Break grass while wearing a Straw Hat to find Wild Rice."
+		"Prepare flooded farmland before planting it. Mature rice plants provide Rice Panicles for your kitchen."
+	]
+	quest.595F2FF6E6A6425F.title: "Find Wild Rice"
 	quest.5B07B986302DE4A7.title: "Fire and Water"
+	quest.5B0FA1FF4D71B700.quest_desc: [
+		"Harvest 16 Lettuce and keep one Caterpillar. Caterpillars have a chance to appear when you harvest lettuce."
+		"Lettuce is useful in soups and stuffed dough. The caterpillar can become a treat for a baby chicken."
+	]
+	quest.5B0FA1FF4D71B700.title: "An Unexpected Garden Guest"
 	quest.5B18D1B9AA2FFC2A.title: "Stone age"
+	quest.5BCDC4A61F7A3413.quest_desc: [
+		"Collect 16 Rice by processing Rice Panicles in a powered Create Millstone."
+		"Feed the panicles into the top of the millstone and supply rotation. Each panicle gives two Rice, with a chance for one more."
+		""
+		"{\"text\":\"Open the quest with Create\\u0027s Millstone\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"449A09FC50B32D81\"}}"
+	]
+	quest.5BCDC4A61F7A3413.title: "From Panicle to Grain"
 	quest.5BEEA73118C314D0.title: "Better gold"
 	quest.5C05217D7F061B19.title: "First gold"
 	quest.5C184812CBA507FD.title: "Some bodes"
+	quest.5C7B63F20EA5E2B1.quest_desc: ["Cross 50 blocks of open water in one unbroken Rosy Stride"]
+	quest.5C7B63F20EA5E2B1.title: "Walk on Water"
+	quest.5DAC077462DE4567.quest_desc: [
+		"Craft a Shawarma Spit. Its crafting grid uses Iron Sheets and a Shaft on top, Iron Sheets around a Cogwheel in the middle, and Magma Blocks around a Campfire on the bottom."
+		"Load suitable food and power the spit with redstone to cook. Turn the redstone signal off before removing the food."
+	]
+	quest.5DAC077462DE4567.title: "Turning Up the Roast"
+	quest.5FBCB143DBF47BD2.quest_desc: ["Obtain a cup of Mystery Tea for the more unusual end of your collection."]
+	quest.5FBCB143DBF47BD2.title: "Mystery Tea"
+	quest.5FF517ECD284B19A.quest_desc: [
+		"Prepare the Sunflower Tea Bag and brew The Sunward."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.5FF517ECD284B19A.title: "The Sunward"
+	quest.6159EBCB14058ADE.quest_desc: ["Drink a First Bloom on an empty hunger bar"]
+	quest.6159EBCB14058ADE.title: "Coffee Is Our Bread"
+	quest.626BEE24D4EAE1D4.quest_desc: [
+		"Prepare all four wok specialties in this collection."
+		"Crispy rolls, spicy dishes and stuffed peppers bring a little variety to the dinner table."
+	]
+	quest.626BEE24D4EAE1D4.title: "Crispy, Spicy, Delicious"
+	quest.62B1E27D756BCE91.quest_desc: [
+		"Drink Lullaby at night to receive a Blossom Mooncake."
+		"Enjoy it with your tea, or use its Floating effect for the air-swimming achievement."
+	]
+	quest.62B1E27D756BCE91.title: "A Mooncake with Your Lullaby"
+	quest.63959D56376D9898.quest_desc: ["Drink your first flower drink"]
+	quest.63959D56376D9898.title: "First Sip"
+	quest.645892F182BAC7E8.quest_desc: [
+		"Prepare Cooked Rice in your Stockpot."
+		"Keep a few portions ready for the rice dishes further along this branch."
+	]
+	quest.645892F182BAC7E8.title: "A Bowl of Rice"
 	quest.64BA735081D86131.title: "Get some prismarine"
-	quest.68D2C737BAB62DEE.title: "Lets enchant"
-	quest.69F6289F71DC379E.title: "Golden armor"
-	quest.6F1B12DD98D4F81E.title: "Better enchant"
-	quest.71DEA555C859C16F.title: "Get wood"
-	quest.735DF7ABE693CD2A.title: "Royale food"
-	quest.754CDEB099E74278.title: "Let's drink it"
-	quest.780AF722C380D38C.title: "Copper armor"
-	quest.7D19D2E0346C7CD1.title: "I can fly!"
-	quest.34B7A2BBC02333B1.title: "A Blazing Upgrade"
-	quest.34B7A2BBC02333B1.quest_desc: [
-		"Obtain a Blaze Upgrade Smithing Template. Use it at a Smithing Table to make blaze-powered enchanting equipment. Check JEI for the ingredients."
+	quest.65772ABCF259B164.quest_desc: [
+		"Prepare the Pitcher Plant Tea Bag and brew The Voracious Urn."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
-	quest.7AEE5B1EC5B455A4.title: "An Enchanter with a Temper"
-	quest.7AEE5B1EC5B455A4.quest_desc: [
-		"Obtain a Blaze Enchanter and supply it with Liquid Experience. Set the enchanting level on its panel, then give it an unenchanted item."
+	quest.65772ABCF259B164.title: "The Voracious Urn"
+	quest.65D2F27DFF313DB0.quest_desc: [
+		"Prepare Mantou in your Steamer."
+		"Soft steamed buns make a simple first meal from your new cookware."
 	]
-	quest.218B6C60AB1E94C1.title: "Strike While It's Enchanted"
-	quest.218B6C60AB1E94C1.quest_desc: [
-		"Obtain a Blaze Forger and supply it with Liquid Experience. Use its side panel to switch between merging enchantments, applying templates, and extracting enchantments into blank templates."
-	]
-	quest.4C6AD6CB9F99191D.title: "Experience, Compacted"
-	quest.4C6AD6CB9F99191D.quest_desc: [
-		"Obtain a Block of Experience. These blocks are used to make Enchanting Templates and can be transformed into Blocks of Super Experience by lightning. Check JEI for the recipe."
-	]
-	quest.3D8E5877B1DDB989.title: "Lightning in a Block"
-	quest.3D8E5877B1DDB989.quest_desc: [
-		"Place a Lightning Rod on a Block of Experience under an open sky and let lightning strike it. Collect the resulting Block of Super Experience."
-		"Natural lightning only has a chance to transform the block. Lightning produced by Super Enchanting guarantees the transformation."
-	]
-	quest.7F55FA09B39D0603.title: "A Blueprint for Magic"
-	quest.7F55FA09B39D0603.quest_desc: [
-		"Obtain an Enchanting Template. Check JEI for its recipe."
-		"Set an equipment item in the Blaze Enchanter's filter slot, then give it the blank template to write compatible enchantments onto it. A Blaze Forger can apply them to equipment."
-	]
-	quest.0BDD49E0B7056D1E.title: "A Supernatural Blueprint"
-	quest.0BDD49E0B7056D1E.quest_desc: [
-		"Obtain a Super Enchanting Template using a Block of Super Experience. Check JEI for its recipe."
-		"Blaze Enchanters and Blaze Forgers in Super Enchanting mode require these upgraded templates instead of normal ones."
-	]
-	quest.665547A2097D3C1F.title: "A Bright Idea"
-	quest.665547A2097D3C1F.quest_desc: [
-		"Obtain an Experience Lantern. It collects nearby experience orbs and can absorb experience from players. The more experience it stores, the brighter it glows."
-	]
-	quest.22B9B33AB325C110.title: "Bank Your Levels"
-	quest.22B9B33AB325C110.quest_desc: [
-		"Obtain an Experience Hatch and attach it to your experience storage. Right-click to deposit experience. Sneak-right-click to withdraw it. Adjust the amount transferred with the hatch's scroll panel."
-	]
-	quest.26A4E6CE696C4E90.title: "Grind Away the Magic"
-	quest.26A4E6CE696C4E90.quest_desc: [
-		"Obtain two Mechanical Grindstones and one Item Drain. Right-click the Item Drain with one grindstone to make a Grindstone Drain, then place the second grindstone above it and supply rotation."
-		"Use the setup to remove enchantments or turn Nuggets of Experience into Liquid Experience."
-	]
-	quest.31A8F6CD2AEC9561.title: "Let Them Eat Experience"
-	quest.31A8F6CD2AEC9561.quest_desc: [
-		"Obtain a Cake o' Enchanting. Check JEI for its recipe. Feed it to a Blaze Enchanter or Blaze Forger to activate Super Enchanting mode."
-		"Keep supplying Liquid Experience, and place a Lightning Rod nearby before processing anything."
-	]
-	quest.3C9ECE6486F81907.title: "Liquid Knowledge"
-	quest.3C9ECE6486F81907.quest_desc: [
-		"Obtain a Bucket of Liquid Experience. Use Mechanical Grindstones to process Nuggets of Experience, or deposit your own experience through an Experience Hatch. Collect the liquid in storage and fill a bucket with a Spout."
-	]
-	quest.57993FFBF672E682.title: "The Magic Copy Shop"
-	quest.57993FFBF672E682.quest_desc: [
-		"Obtain a Printer. Set the item to copy in its filter slot, supply the required fluid, and feed blank items underneath it. It can copy books, rename items, and more. Check JEI for printing recipes."
-	]
-	quest.181186E256272E35.title: "Gone with the Foil"
-	quest.181186E256272E35.quest_desc: [
-		"Build a working Grindstone Drain with a Mechanical Grindstone above it and supply rotation."
-		"Feed an enchanted item through the setup and stay nearby while its enchantments are removed. Witnessing the disenchanting process grants Gone with the Foil."
-	]
-	quest.2DFAFB151DCAA2E9.title: "Copy, Paste, Enchant"
-	quest.2DFAFB151DCAA2E9.quest_desc: [
-		"Set an Enchanted Book in the Printer's filter slot and supply Liquid Experience."
-		"Send a normal Book underneath the Printer and let it finish copying the enchantments. This grants Copiable Mystery. Check JEI for the required fluid amount."
-	]
-	quest.266E1B1345DE3792.title: "Blazing Fusion"
-	quest.266E1B1345DE3792.quest_desc: [
-		"Supply a Blaze Forger with Liquid Experience and select its merge mode."
-		"Give it two items of the same type, such as two enchanted swords, and let it combine them. A successful merge grants Blazing Fusion."
-	]
-	quest.3E0EA003CE92277D.title: "Experience Comes and Goes"
-	quest.3E0EA003CE92277D.quest_desc: [
-		"This quest requires both Spirit-Taking and Spiritual Return."
-		"Attach an Experience Hatch to experience storage. While you have some experience, right-click the hatch to deposit it and earn Spirit-Taking."
-		"Then sneak-right-click the hatch to withdraw stored experience and earn Spiritual Return."
-	]
-	quest.68CDC9FEC7D1C545.title: "Blazing Enchantment"
-	quest.68CDC9FEC7D1C545.quest_desc: [
-		"Supply a Blaze Enchanter with Liquid Experience and set an enchanting level on its panel."
-		"Give it an unenchanted tool, weapon, or piece of armor and let it finish enchanting. This grants Blazing Enchantment."
-	]
-	quest.663ABDA70E76261B.title: "OSHA Violation"
+	quest.65D2F27DFF313DB0.title: "Steam Does the Work"
 	quest.663ABDA70E76261B.quest_desc: [
 		"Use a spare Blaze Enchanter: this hidden advancement destroys the machine."
 		"Work under an open sky with no exposed Lightning Rod within 128 blocks. Supply Liquid Experience and feed the enchanter a Cake o' Enchanting to activate Super Enchanting mode."
 		"Set an equipment item in its filter slot, choose an enchanting level, and start processing a Super Enchanting Template. Without a rod to catch the lightning, the enchanter is destroyed and replaced by a lit Blaze Burner, granting OSHA Violation."
 	]
-	quest.4DB5312EFD5053BB.title: "A Treasure in the Odds"
-	quest.4DB5312EFD5053BB.quest_desc: [
-		"Obtain a Lightning Rod for this quest and place it near a Blaze Enchanter under an open sky."
-		"Supply Liquid Experience and feed the enchanter a Cake o' Enchanting to activate Super Enchanting mode. Set an equipment item, such as a pickaxe, in its filter slot and choose an enchanting level."
-		"Process Super Enchanting Templates until a result includes a treasure enchantment, such as Mending. This grants Probability Spike. You may need several attempts."
-	]
-	quest.19E084093DF5A0D0.title: "Put the Plan to Work"
-	quest.19E084093DF5A0D0.quest_desc: [
-		"Supply a Blaze Forger with Liquid Experience and switch its side panel to Application Mode."
-		"Give it an Enchanting Template that already holds an enchantment and a compatible item. Applying the template grants Sigil Casting."
-	]
-	quest.66DC3AFFE849F91F.title: "Unbind the Magic"
+	quest.663ABDA70E76261B.title: "OSHA Violation"
+	quest.665547A2097D3C1F.quest_desc: ["Obtain an Experience Lantern. It collects nearby experience orbs and can absorb experience from players. The more experience it stores, the brighter it glows."]
+	quest.665547A2097D3C1F.title: "A Bright Idea"
 	quest.66DC3AFFE849F91F.quest_desc: [
 		"Supply a Blaze Forger with Liquid Experience and switch its side panel to Extract Mode."
 		"Give it an enchanted item, book, or template together with a blank Enchanting Template. Extracting an enchantment into the blank template grants Magic Unbinding."
 	]
-	quest.6A09757C266B3F48.title: "A Shower of Experience"
+	quest.66DC3AFFE849F91F.title: "Unbind the Magic"
+	quest.68CDC9FEC7D1C545.quest_desc: [
+		"Supply a Blaze Enchanter with Liquid Experience and set an enchanting level on its panel."
+		"Give it an unenchanted tool, weapon, or piece of armor and let it finish enchanting. This grants Blazing Enchantment."
+	]
+	quest.68CDC9FEC7D1C545.title: "Blazing Enchantment"
+	quest.68D2C737BAB62DEE.title: "Lets enchant"
+	quest.69F6289F71DC379E.title: "Golden armor"
 	quest.6A09757C266B3F48.quest_desc: [
 		"Pump Liquid Experience through Create Fluid Pipes. Break a section so the liquid leaks from an open pipe end."
 		"Stand in the leaking experience to absorb it and earn the hidden advancement A Shower Experience. Keep the pump running so experience continues to flow."
 	]
+	quest.6A09757C266B3F48.title: "A Shower of Experience"
+	quest.6C1439E67BA46B05.quest_desc: [
+		"Break grass while wearing a Straw Hat to find Chili Seeds."
+		"Grow chili plants and collect both green and red peppers. They give many wok and stockpot recipes their heat."
+	]
+	quest.6C1439E67BA46B05.title: "A Little Heat in the Garden"
+	quest.6D4C85DCCCAECD96.quest_desc: [
+		"Obtain the Flowery Straw Hat, Farmer Chestplate, Farmer Leggings and Farmer Boots."
+		"Wear the complete farmer set for a movement bonus in water. It is especially useful when tending flooded rice fields."
+	]
+	quest.6D4C85DCCCAECD96.title: "Dressed for the Paddy Fields"
+	quest.6DA5A56C1215A7BE.quest_desc: ["Obtain a Heap of Experience from Create: Stuff & Additions. Check JEI for its recipe and uses."]
 	quest.6DA5A56C1215A7BE.title: "A Heap of Knowledge"
-	quest.6DA5A56C1215A7BE.quest_desc: [
-		"Obtain a Heap of Experience from Create: Stuff & Additions. Check JEI for its recipe and uses."
+	quest.6F0B94B4E9F14856.quest_desc: [
+		"Feed a Caterpillar to a baby chicken to complete the High-Quality Protein advancement."
+		"Use a chick rather than an adult chicken. Save a caterpillar from your lettuce harvest for this task."
 	]
+	quest.6F0B94B4E9F14856.title: "Protein for a Little Chick"
+	quest.6F1B12DD98D4F81E.title: "Better enchant"
+	quest.6F846C8AA00B0321.quest_desc: [
+		"Wear a Straw Hat and break grass to obtain Tomato Seeds."
+		"Plant and grow them on farmland. Keep the ripe tomatoes for stir-fries, soups and rice bowls."
+	]
+	quest.6F846C8AA00B0321.title: "Tomatoes Start Small"
+	quest.71DEA555C859C16F.title: "Get wood"
+	quest.7204A1D376F3D7F6.quest_desc: [
+		"Prepare the tea bag and its matching brewed tea to complete this tasting."
+		"Keep a cup ready beside your Teapot."
+	]
+	quest.7204A1D376F3D7F6.title: "Butter Tea"
+	quest.733FCF269775E418.quest_desc: [
+		"Craft a Wok and Kitchen Spatula. Place the wok directly over a lit Stove or another suitable heat source."
+		"Add Oil, then the recipe ingredients. Stir with the spatula until cooking finishes; wrong ingredients or waiting too long can spoil the dish."
+		"Use the required serving container, usually a Bowl, to collect the result. For dishes without a container, sneak-right-click with the Kitchen Spatula."
+	]
+	quest.733FCF269775E418.title: "Your First Wok"
+	quest.735DF7ABE693CD2A.title: "Royale food"
+	quest.74B6DA366E71A547.quest_desc: [
+		"Prepare Bamboo Tube Rice in your Steamer."
+		"A meal packed in bamboo is ready for a well-earned break after a day in the fields."
+	]
+	quest.74B6DA366E71A547.title: "Lunch in a Bamboo Tube"
+	quest.754CDEB099E74278.title: "Let's drink it"
+	quest.775F114D30179638.quest_desc: [
+		"Craft a Bamboo Tray and lay Fresh Tea Leaves on it to dry."
+		"Collect 4 Dried Tea Leaves. These are used to prepare tea ingredients for your Teapot."
+	]
+	quest.775F114D30179638.title: "Leaves on the Drying Tray"
+	quest.780AF722C380D38C.title: "Copper armor"
+	quest.78902351B2D4C08A.quest_desc: ["Hold every available Flora flower drink in your inventory at once."]
+	quest.78902351B2D4C08A.title: "The Complete Bouquet"
+	quest.79D85F0CE7026A9C.quest_desc: [
+		"Prepare Baozi in your Steamer."
+		"These filled buns are a hearty addition to your menu. Save one to share with a hungry wolf."
+	]
+	quest.79D85F0CE7026A9C.title: "Something Good Inside"
+	quest.7A3DD8F510A38490.quest_desc: ["Obtain all four Experience tools: the Sword, Axe, Shovel, and Pickaxe. Check JEI for their recipes."]
 	quest.7A3DD8F510A38490.title: "Tools of Experience"
-	quest.7A3DD8F510A38490.quest_desc: [
-		"Obtain all four Experience tools: the Sword, Axe, Shovel, and Pickaxe. Check JEI for their recipes."
+	quest.7AEE5B1EC5B455A4.quest_desc: ["Obtain a Blaze Enchanter and supply it with Liquid Experience. Set the enchanting level on its panel, then give it an unenchanted item."]
+	quest.7AEE5B1EC5B455A4.title: "An Enchanter with a Temper"
+	quest.7B5B424C06E2A5B6.quest_desc: [
+		"Prepare the Pink Petals Tea Bag and brew Hanami Tale."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
+	quest.7B5B424C06E2A5B6.title: "Hanami Tale"
+	quest.7C43EF073F6FD620.quest_desc: [
+		"Prepare the Dandelion Tea Bag and brew When the Wind Rises."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.7C43EF073F6FD620.title: "When the Wind Rises"
+	quest.7CAB79FFAFE796AC.quest_desc: [
+		"Prepare the tea bag and its matching brewed tea to complete this tasting."
+		"Keep a cup ready beside your Teapot."
+	]
+	quest.7CAB79FFAFE796AC.title: "Biluochun"
+	quest.7CEA7321A4EC1BC8.quest_desc: [
+		"Place a Steamer on a lit Stove or another suitable heat source. Insert ingredients from the top before adding another layer."
+		"With an empty hand, sneak-right-click the top steamer to close its lid and start cooking. One heat source supports up to eight layers."
+		"Once the food is ready, sneak-right-click with an empty hand to open the lid, then right-click to collect it. Work down through a stack from the top."
+	]
+	quest.7CEA7321A4EC1BC8.title: "A Stack of Steamers"
+	quest.7D19D2E0346C7CD1.title: "I can fly!"
+	quest.7E9DA9380C835EAD.quest_desc: [
+		"Prepare the Rose Bush Tea Bag and brew Tender Thorns."
+		"Serve this flower tea from your heated Teapot in an Empty Cup."
+	]
+	quest.7E9DA9380C835EAD.title: "Tender Thorns"
+	quest.7F55FA09B39D0603.quest_desc: [
+		"Obtain an Enchanting Template. Check JEI for its recipe."
+		"Set an equipment item in the Blaze Enchanter's filter slot, then give it the blank template to write compatible enchantments onto it. A Blaze Forger can apply them to equipment."
+	]
+	quest.7F55FA09B39D0603.title: "A Blueprint for Magic"
+	reward_table.05A35ADB3BAD4527.title: "Tea Pantry Surprise"
 	reward_table.08C0C15BE6D062E4.title: "storege_upgrades"
 	reward_table.0911E74F7877A7BF.title: "Brass"
 	reward_table.3BDDF30B65EC7DBF.title: "copper"
@@ -279,10 +699,12 @@
 	task.15BDF2DC63D8E206.title: "Any #sophisticatedstorage:storage_connectors"
 	task.1A20E303F966D9D9.title: "Any #curios:back"
 	task.24C596CEB4046A53.title: "Any #sophisticatedstorage:limited_barrels"
+	task.26F1158ACAD93164.title: "Any #c:tools/knives"
 	task.2B0E157ACF5450AD.title: "Found villager"
 	task.2B95EF8275695159.title: "Feed tho same animals"
 	task.2D94523F9AC8D588.title: "foodbook"
 	task.3529D6577C40F1D2.title: "Any #waystones:portstones"
+	task.37999D2A964BD26D.title: "Any #c:tools/knives"
 	task.5D6CFA8028AC4840.title: "Get first stone"
 	task.5E6F86028E9EB56B.title: "Any #c:potions"
 	task.6FAEAA1124885F07.title: "You can color"

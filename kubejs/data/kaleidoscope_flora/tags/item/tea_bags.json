@@ -1,0 +1,43 @@
+{
+  "replace": false,
+  "values": [
+    "kaleidoscope_flora:allium_tea_bag",
+    "kaleidoscope_flora:azure_bluet_tea_bag",
+    "kaleidoscope_flora:blue_orchid_tea_bag",
+    {
+      "id": "kaleidoscope_flora:cactus_flower_tea_bag",
+      "required": false
+    },
+    "kaleidoscope_flora:chorus_flower_tea_bag",
+    "kaleidoscope_flora:cornflower_tea_bag",
+    "kaleidoscope_flora:dandelion_tea_bag",
+    {
+      "id": "kaleidoscope_flora:eyeblossom_tea_bag",
+      "required": false
+    },
+    {
+      "id": "kaleidoscope_flora:golden_dandelion_tea_bag",
+      "required": false
+    },
+    "kaleidoscope_flora:lilac_tea_bag",
+    "kaleidoscope_flora:lily_of_the_valley_tea_bag",
+    "kaleidoscope_flora:orange_tulip_tea_bag",
+    "kaleidoscope_flora:oxeye_daisy_tea_bag",
+    "kaleidoscope_flora:peony_tea_bag",
+    "kaleidoscope_flora:pink_petals_tea_bag",
+    "kaleidoscope_flora:pink_tulip_tea_bag",
+    "kaleidoscope_flora:pitcher_plant_tea_bag",
+    "kaleidoscope_flora:poppy_tea_bag",
+    "kaleidoscope_flora:red_tulip_tea_bag",
+    "kaleidoscope_flora:rose_bush_tea_bag",
+    "kaleidoscope_flora:spore_blossom_tea_bag",
+    "kaleidoscope_flora:sunflower_tea_bag",
+    "kaleidoscope_flora:torchflower_tea_bag",
+    "kaleidoscope_flora:white_tulip_tea_bag",
+    {
+      "id": "kaleidoscope_flora:wildflowers_tea_bag",
+      "required": false
+    },
+    "kaleidoscope_flora:wither_rose_tea_bag"
+  ]
+}

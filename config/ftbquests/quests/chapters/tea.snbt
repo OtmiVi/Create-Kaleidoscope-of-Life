@@ -1,0 +1,1369 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tea"
+	group: "624E7CB211C91071"
+	id: "2440470F0EF46013"
+	images: [ ]
+	order_index: 1
+	quest_links: [{
+		id: "50A42CCB4543E799"
+		linked_quest: "78902351B2D4C08A"
+		x: 12.75d
+		y: 0.0d
+	}]
+	quests: [
+		{
+			dependencies: ["775F114D30179638"]
+			id: "4BA7892EA25F733A"
+			preset: "Important"
+			rewards: [
+				{
+					id: "280F5CBDE8945FBE"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 4
+					id: "7F707F53AFC21B0D"
+					item: {
+						count: 1
+						id: "kaleidoscope_cookery:empty_cup"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "47AA93BFEDD8FAF3"
+				item: { count: 1, id: "kaleidoscope_cookery:teapot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_cookery:mystery_tea"
+			}
+			id: "5FBCB143DBF47BD2"
+			rewards: [{
+				id: "1915C13DD1B73C80"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "698A80022EC0CCC9"
+				item: { count: 1, id: "kaleidoscope_cookery:mystery_tea" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -3.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_cookery:flower_tea"
+			}
+			id: "4FE8D62B58B25DBC"
+			rewards: [
+				{
+					id: "4A8CD915FF9F2FC1"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0B61BCC2DC9E2B72"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2E4B0CE391826CED"
+				item: { count: 1, id: "kaleidoscope_cookery:flower_tea" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -5.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_cookery:oolong"
+			}
+			id: "3DC5D5F823216033"
+			rewards: [
+				{
+					id: "389467FBC3EE090D"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "24208E0CB2A0CADA"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "75627D34768946B8"
+					item: { count: 1, id: "kaleidoscope_cookery:oolong_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "6ECD8E5CDCC4246A"
+					item: { count: 1, id: "kaleidoscope_cookery:oolong" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_cookery:sakura_fubuki"
+			}
+			id: "45F96D7285E43614"
+			rewards: [
+				{
+					id: "1FEF2C720D0901E2"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "735A1BED7028F2BB"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5148FC758860E32D"
+					item: { count: 1, id: "kaleidoscope_cookery:sakura_fubuki_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "2CA03E1DABBFAFC6"
+					item: { count: 1, id: "kaleidoscope_cookery:sakura_fubuki" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_cookery:butter_tea"
+			}
+			id: "7204A1D376F3D7F6"
+			rewards: [
+				{
+					id: "2A76F664C257BA28"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E3D8C94FB6A8452"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "018E52320829512D"
+					item: { count: 1, id: "kaleidoscope_cookery:butter_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "7002758F24E5A484"
+					item: { count: 1, id: "kaleidoscope_cookery:butter_tea" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_cookery:tieguanyin"
+			}
+			id: "0833150753998783"
+			rewards: [
+				{
+					id: "5CF5626D549C0F84"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7ACEF7563B0E4D2B"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "356A82BD45441D54"
+					item: { count: 1, id: "kaleidoscope_cookery:tieguanyin_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "180CF8D135E6CF0D"
+					item: { count: 1, id: "kaleidoscope_cookery:tieguanyin" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_cookery:biluochun"
+			}
+			id: "7CAB79FFAFE796AC"
+			rewards: [
+				{
+					id: "4B29FF51EDAED4E1"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0EFDC7AB1F90C5E4"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "4AE9CA9F383B93A3"
+					item: { count: 1, id: "kaleidoscope_cookery:biluochun_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "7B2CE209083710AA"
+					item: { count: 1, id: "kaleidoscope_cookery:biluochun" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_cookery:barley_tea"
+			}
+			id: "4072B9308C60E030"
+			rewards: [
+				{
+					id: "7C27F52006CD5846"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0A2D011EB70B92A0"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "61B72647EB04423C"
+					item: { count: 1, id: "kaleidoscope_cookery:barley_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "103918E153775786"
+					item: { count: 1, id: "kaleidoscope_cookery:barley_tea" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "140D56A08C937664"
+			rewards: [{
+				id: "6C0743E64FB358B5"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "28B7513E02717734"
+				item: { count: 1, id: "kaleidoscope_flora:raw_flower_cake" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["140D56A08C937664"]
+			id: "37BBD0F69107DDD9"
+			rewards: [
+				{
+					id: "61A8E5B120E82618"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5DCE2166F69FB8B0"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "127DCD045D012BD2"
+				item: { count: 1, id: "kaleidoscope_flora:toasted_flower_cake" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["140D56A08C937664"]
+			id: "456D272E7E8BA723"
+			rewards: [{
+				id: "6B7239C157289DA5"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "4FC9BFE827583E9F"
+				item: { count: 1, id: "kaleidoscope_flora:dew_flower_cake" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:absolution"
+			}
+			id: "01B105DD883B7FC1"
+			rewards: [
+				{
+					id: "2A1325240A9A796A"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "525B4C1B940150DD"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0EF5D961BF95F22D"
+					item: { count: 1, id: "kaleidoscope_flora:white_tulip_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "2950F7F321EB1EF9"
+					item: { count: 1, id: "kaleidoscope_flora:absolution" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:autumn_serenade"
+			}
+			id: "550BCB5EA87CE32E"
+			rewards: [
+				{
+					id: "1E6BD336F9067ABE"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "295077EF4757F2E1"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3BE14696B7320DB6"
+					item: { count: 1, id: "kaleidoscope_flora:orange_tulip_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "673F0C049D9E8D71"
+					item: { count: 1, id: "kaleidoscope_flora:autumn_serenade" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:breath_of_ancients"
+			}
+			id: "14F8C1786EB82B7A"
+			rewards: [{
+				id: "15123AAAC1386C2F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "11DEAA76B9A0F6CD"
+					item: { count: 1, id: "kaleidoscope_flora:torchflower_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "5B98CCC2B5F983DD"
+					item: { count: 1, id: "kaleidoscope_flora:breath_of_ancients" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:coronation"
+			}
+			id: "3653A4F5DEB5848D"
+			rewards: [
+				{
+					id: "086B286B5E500B56"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "51874C0EB99DFF81"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "7CE50A26F1F31F50"
+					item: { count: 1, id: "kaleidoscope_flora:peony_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "7E10617890242805"
+					item: { count: 1, id: "kaleidoscope_flora:coronation" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:crimson_heartbeat"
+			}
+			id: "43480626E3969730"
+			rewards: [
+				{
+					id: "51C36E543E94D7B3"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "04EE1D844EEA4698"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "48033734F9BCB2CF"
+					item: { count: 1, id: "kaleidoscope_flora:red_tulip_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "0943C5B3BF968B0B"
+					item: { count: 1, id: "kaleidoscope_flora:crimson_heartbeat" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:echo_of_the_end"
+			}
+			id: "18FB820A56B1C8C4"
+			rewards: [
+				{
+					id: "1D5B95F531743AD5"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "153075C366BA51A7"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5D4E992B8E93BF3C"
+					item: { count: 1, id: "kaleidoscope_flora:chorus_flower_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "6F7054EBCB4BC1ED"
+					item: { count: 1, id: "kaleidoscope_flora:echo_of_the_end" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:fire_waltz"
+			}
+			id: "467C8D49D8B06F28"
+			rewards: [{
+				id: "263460262052F9A7"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "0094C68C75844E8E"
+					item: { count: 1, id: "kaleidoscope_flora:allium_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "119A203BE7FD19F9"
+					item: { count: 1, id: "kaleidoscope_flora:fire_waltz" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:first_bloom"
+			}
+			id: "2BA36221D25AD34E"
+			rewards: [
+				{
+					id: "1A747458CBBC2F87"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "276C828E1A60FFEE"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "445705DA91FD7114"
+					item: { count: 1, id: "kaleidoscope_flora:blue_orchid_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "23D201DFAA50F905"
+					item: { count: 1, id: "kaleidoscope_flora:first_bloom" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:fleurs_du_mal"
+			}
+			id: "468E483F6C1824A1"
+			rewards: [{
+				id: "58BBF08704E18738"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "53A837B2E5EE1A9F"
+					item: { count: 1, id: "kaleidoscope_flora:wither_rose_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "3A537EF497F03F28"
+					item: { count: 1, id: "kaleidoscope_flora:fleurs_du_mal" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:hanami_tale"
+			}
+			id: "7B5B424C06E2A5B6"
+			rewards: [
+				{
+					id: "403DE52F75C29049"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64300C7640A5F32E"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "3085544E5A8AB692"
+					item: { count: 1, id: "kaleidoscope_flora:pink_petals_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "42F021FF140FA9DF"
+					item: { count: 1, id: "kaleidoscope_flora:hanami_tale" }
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -4.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:loves_me_not"
+			}
+			id: "0DEE0F0A32566514"
+			rewards: [{
+				id: "105CE675FB4410B2"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "6B7EB12DB56AA01B"
+					item: { count: 1, id: "kaleidoscope_flora:oxeye_daisy_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "71FA4D96BAF242CB"
+					item: { count: 1, id: "kaleidoscope_flora:loves_me_not" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:lullaby"
+			}
+			id: "22C6644CC2675898"
+			rewards: [
+				{
+					id: "41063A670D176F09"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4BA658FD9513445C"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "5DE8906C329D2101"
+					item: { count: 1, id: "kaleidoscope_flora:poppy_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "7BED125DEA2FA3A7"
+					item: { count: 1, id: "kaleidoscope_flora:lullaby" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -3.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:may_kiss"
+			}
+			id: "4EABF4A050EC94CD"
+			rewards: [{
+				id: "2CC38C2BE987C66F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "56877A29E18B4F3C"
+					item: { count: 1, id: "kaleidoscope_flora:lily_of_the_valley_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "55F38FD94DB76FF0"
+					item: { count: 1, id: "kaleidoscope_flora:may_kiss" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:prussian_leap"
+			}
+			id: "5166ACCCD8F53010"
+			rewards: [
+				{
+					id: "5AB035CA10FDD2B5"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "23ADED47045C4AF6"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "53C3D23042FD93E0"
+					item: { count: 1, id: "kaleidoscope_flora:cornflower_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "5838F406A2A2B8AF"
+					item: { count: 1, id: "kaleidoscope_flora:prussian_leap" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:rosy_stride"
+			}
+			id: "4C14663895EEEF52"
+			rewards: [
+				{
+					id: "2D174A052BAE23B1"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1905B3BDF70E4B90"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "76E37D2D73AC3D31"
+					item: { count: 1, id: "kaleidoscope_flora:pink_tulip_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "4C794E83FBD112FA"
+					item: { count: 1, id: "kaleidoscope_flora:rosy_stride" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: -1.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:spring_waltz"
+			}
+			id: "1EC672DB21FC8697"
+			rewards: [{
+				id: "07DB96C60B65863E"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "48757EFC88544595"
+					item: { count: 1, id: "kaleidoscope_flora:lilac_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "6F55795A3EBBE2AE"
+					item: { count: 1, id: "kaleidoscope_flora:spring_waltz" }
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:tender_thorns"
+			}
+			id: "7E9DA9380C835EAD"
+			rewards: [{
+				id: "396CE8079FB9FEE6"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "65D2C25D88AFF39A"
+					item: { count: 1, id: "kaleidoscope_flora:rose_bush_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "0F99FD80E6C17698"
+					item: { count: 1, id: "kaleidoscope_flora:tender_thorns" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:the_sunward"
+			}
+			id: "5FF517ECD284B19A"
+			rewards: [
+				{
+					id: "72AF71B139EB5956"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7DF71783E037820D"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "41FE1EBA540CF45A"
+					item: { count: 1, id: "kaleidoscope_flora:sunflower_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "1EE29BA095179BE2"
+					item: { count: 1, id: "kaleidoscope_flora:the_sunward" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:the_unnoticed"
+			}
+			id: "4F914EAA5FC2FD3F"
+			rewards: [{
+				id: "3A9F2E9E0BF915E1"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "6932825C547DCA39"
+					item: { count: 1, id: "kaleidoscope_flora:azure_bluet_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "7CEA884B22D73713"
+					item: { count: 1, id: "kaleidoscope_flora:the_unnoticed" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:vernal_awakening"
+			}
+			id: "21259D5AE8804173"
+			rewards: [
+				{
+					id: "31A625C2584E7F46"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1923B47239AEE7E1"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6890B1A7A3F97CAD"
+					item: { count: 1, id: "kaleidoscope_flora:spore_blossom_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "0D2C847A56785EA2"
+					item: { count: 1, id: "kaleidoscope_flora:vernal_awakening" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:voracious_urn"
+			}
+			id: "65772ABCF259B164"
+			rewards: [{
+				id: "7498CF9BE97F4C2A"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "3B35E83DE336574C"
+					item: { count: 1, id: "kaleidoscope_flora:pitcher_plant_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "1F8EC1290AAF8F76"
+					item: { count: 1, id: "kaleidoscope_flora:voracious_urn" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			icon: {
+				id: "kaleidoscope_flora:when_the_wind_rises"
+			}
+			id: "7C43EF073F6FD620"
+			rewards: [
+				{
+					id: "5E3E3828E4E8A46A"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "71912DD3F12180F3"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "0970CBF021DE852E"
+					item: { count: 1, id: "kaleidoscope_flora:dandelion_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "03AC9F70D8EB54AD"
+					item: { count: 1, id: "kaleidoscope_flora:when_the_wind_rises" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["22C6644CC2675898"]
+			icon: {
+				id: "kaleidoscope_flora:blossom_mooncake"
+			}
+			id: "62B1E27D756BCE91"
+			rewards: [
+				{
+					id: "1B9B720FF9F6F26E"
+					type: "xp"
+					xp: 25
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2BCB69C240839CFE"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "669BA0F07A075BC1"
+				item: { count: 1, id: "kaleidoscope_flora:blossom_mooncake" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			id: "63959D56376D9898"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "1FA41BAA439BDB08"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2588896BE22CC472"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "kaleidoscope_flora:root"
+				criterion: ""
+				id: "3D886F117B1D6E33"
+				type: "advancement"
+			}]
+			x: 14.25d
+			y: -5.25d
+		}
+		{
+			dependencies: ["63959D56376D9898"]
+			id: "21775B3DBED2E2D8"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "5C51036CED8C9F09"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "12E6949FB1B3C6B7"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "kaleidoscope_flora:half_world"
+				criterion: ""
+				id: "7754FC28C90511DF"
+				type: "advancement"
+			}]
+			x: 12.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["21775B3DBED2E2D8"]
+			id: "4C21BD4944CBDC53"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "6C946F633FD04870"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "331A93095F93322B"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "kaleidoscope_flora:full_garden"
+				criterion: ""
+				id: "3C0A4D33227A4945"
+				type: "advancement"
+			}]
+			x: 12.75d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7C43EF073F6FD620"]
+			id: "2DE5E000B96E5CF1"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "368C48D5344F72E4"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:wind_play"
+				criterion: ""
+				id: "2CBD5548C4743001"
+				type: "advancement"
+			}]
+			x: 6.75d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2BA36221D25AD34E"]
+			id: "6159EBCB14058ADE"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "53AEC952C885DD34"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:bread_of_life"
+				criterion: ""
+				id: "45AB43566C4C713A"
+				type: "advancement"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["18FB820A56B1C8C4"]
+			id: "344B774B8B7F9F85"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "20DE8511431A0CDD"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:cheated_death"
+				criterion: ""
+				id: "4E7208031975F305"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: 5.25d
+		}
+		{
+			dependencies: ["4C14663895EEEF52"]
+			id: "5C7B63F20EA5E2B1"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "09B59360A3E2160C"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:water_dancer"
+				criterion: ""
+				id: "43905BE2E437C5F6"
+				type: "advancement"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7B5B424C06E2A5B6"]
+			id: "2D100A94F7E38C73"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "2AD3BB8E22BAA498"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:arrow_shield"
+				criterion: ""
+				id: "4980117A52E5A8CA"
+				type: "advancement"
+			}]
+			x: -5.25d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5FF517ECD284B19A"]
+			id: "0E19B7FD3C6ADBFD"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "738B59508813F0D2"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:chasing_sun"
+				criterion: ""
+				id: "6C755F5920ED8445"
+				type: "advancement"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["65772ABCF259B164"]
+			id: "4708422455C5A9D2"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "22537F2A2EB00965"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:greedy_urn"
+				criterion: ""
+				id: "038BEBEDA28CB356"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["63959D56376D9898"]
+			id: "05BC17815B49C91C"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "6CD3F88B53A26DD6"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:flowers_for_wine"
+				criterion: ""
+				id: "4B8B20D1BD3D4129"
+				type: "advancement"
+			}]
+			x: 15.75d
+			y: -3.0d
+		}
+		{
+			dependencies: ["21259D5AE8804173"]
+			id: "5561E25A984A8C55"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "266ABC29E3A61209"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:believe_spring"
+				criterion: ""
+				id: "3F24C7A7DE8DDB8B"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 6.75d
+		}
+		{
+			dependencies: ["62B1E27D756BCE91"]
+			id: "11F8FC84B04CA3F0"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "700632B61E00F8DD"
+					type: "xp"
+					xp: 75
+				}
+				{
+					exclude_from_claim_all: true
+					id: "435B5C6C56BD0094"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "kaleidoscope_flora:ride_the_wind"
+				criterion: ""
+				id: "3FABF92CA1DD0436"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["140D56A08C937664"]
+			id: "4412073CF62DE5A0"
+			preset: "Achiugments"
+			rewards: [{
+				id: "794E6CF05CC17357"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:raw_pin"
+				criterion: ""
+				id: "711F62359B0278D6"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["456D272E7E8BA723"]
+			id: "1FAF140FB6D4064B"
+			preset: "Achiugments"
+			rewards: [{
+				id: "50FB7DC1650ECF8B"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:dew_impact"
+				criterion: ""
+				id: "6497E4047A1360DE"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["4412073CF62DE5A0"]
+			id: "07670213AF28B8EF"
+			preset: "Achiugments"
+			rewards: [{
+				id: "4B5821EB031AC017"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:raw_three_pins"
+				criterion: ""
+				id: "0936AB4234FEDC14"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1FAF140FB6D4064B"]
+			id: "0EC4467B69DBC4C3"
+			preset: "Achiugments"
+			rewards: [{
+				id: "536DA98549D1164C"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_flora:dew_high_impact"
+				criterion: ""
+				id: "59289E93007EF51F"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: -1.0d
+		}
+	]
+}
