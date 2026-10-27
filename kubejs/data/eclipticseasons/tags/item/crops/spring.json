@@ -1,24 +1,12 @@
 {
   "replace": false,
   "values": [
-    "kaleidoscope_cookery:fresh_tea_leaves",
-    "kaleidoscope_cookery:lettuce",
     "kaleidoscope_cookery:lettuce_seed",
     "kaleidoscope_cookery:tea_seed",
     "kaleidoscope_end:ender_mint",
     "kaleidoscope_tavern:grapevine",
-    "northstar:dormant_martian_sapling",
-    "northstar:dormant_martian_sapling_sequenced",
-    "northstar:dormant_martian_seed",
-    "northstar:dormant_martian_seed_sequenced",
-    "northstar:mars_sprout",
-    "northstar:mars_sprout_big",
-    "northstar:mars_sprout_flower",
     "northstar:mars_sprout_seeds",
-    "northstar:mars_tulip",
-    "northstar:mars_tulip_flower",
     "northstar:mars_tulip_seeds",
-    "northstar:martian_strawberry",
-    "northstar:martian_strawberry_bush"
+    "northstar:martian_strawberry"
   ]
 }

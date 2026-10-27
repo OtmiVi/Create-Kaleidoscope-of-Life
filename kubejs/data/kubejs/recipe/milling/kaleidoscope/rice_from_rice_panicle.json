@@ -1,0 +1,25 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_cookery:rice_panicle"
+    }
+  ],
+  "results": [
+    {
+      "id": "kaleidoscope_cookery:rice",
+      "count": 2
+    },
+    {
+      "id": "kaleidoscope_cookery:rice",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "id": "kaleidoscope_cookery:oil",
+      "count": 1,
+      "chance": 0.1
+    }
+  ],
+  "processing_time": 100
+}

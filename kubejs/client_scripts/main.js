@@ -5,6 +5,8 @@ RecipeViewerEvents.removeEntriesCompletely('fluid', event => {
 })
 
 RecipeViewerEvents.removeEntriesCompletely('item', event => {
+    event.remove('kaleidoscope_cookery:millstone')
+
     const mods = ['sophisticatedbackpacks', 'sophisticatedstorage']
     const upgrades = ['pump_upgrade', 'advanced_pump_upgrade', 'xp_pump_upgrade']
     mods.forEach(mod => {

@@ -1,0 +1,20 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_nether:hoglin_hide"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:leather",
+      "count": 4
+    },
+    {
+      "id": "minecraft:leather",
+      "count": 1,
+      "chance": 0.5
+    }
+  ],
+  "processing_time": 100
+}

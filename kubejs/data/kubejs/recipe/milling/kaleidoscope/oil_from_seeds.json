@@ -1,0 +1,16 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "c:seeds"
+    }
+  ],
+  "results": [
+    {
+      "id": "kaleidoscope_cookery:oil",
+      "count": 1,
+      "chance": 0.33
+    }
+  ],
+  "processing_time": 100
+}

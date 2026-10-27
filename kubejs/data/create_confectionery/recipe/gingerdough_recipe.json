@@ -1,0 +1,25 @@
+{
+  "group": "create_confectionery",
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "create:cinder_flour"
+    },
+    {
+      "tag": "c:flours/wheat"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:honey"
+    }
+  ],
+  "results": [
+    {
+      "id": "create_confectionery:gingerdough"
+    }
+  ]
+}
