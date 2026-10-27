@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "kaleidoscope_cookery:chili_crop",
+    "kaleidoscope_cookery:rice_crop",
+    "kaleidoscope_cookery:tea_tree",
+    "kaleidoscope_cookery:tomato_crop",
+    "kaleidoscope_end:ender_mint",
+    "kaleidoscope_nether:poisonous_fruit",
+    "kaleidoscope_nether:soul_pepper",
+    "kaleidoscope_nether:twisting_cave_vines",
+    "kaleidoscope_nether:twisting_cave_vines_plant",
+    "kaleidoscope_nether:weeping_cave_vines",
+    "kaleidoscope_nether:weeping_cave_vines_plant",
+    "kaleidoscope_tavern:gold_grape_crop",
+    "kaleidoscope_tavern:gold_grapevine_trellis",
+    "kaleidoscope_tavern:grape_crop",
+    "kaleidoscope_tavern:grapevine_trellis",
+    "minecraft:chorus_flower",
+    "northstar:bloom_fungus",
+    "northstar:glowing_venus_vines",
+    "northstar:mars_palm",
+    "northstar:mars_sprout",
+    "northstar:mars_sprout_big",
+    "northstar:martian_strawberry_bush",
+    "northstar:mercury_shelf_fungus",
+    "northstar:plate_fungus",
+    "northstar:spike_fungus",
+    "northstar:tower_fungus",
+    "northstar:venus_vines"
+  ]
+}

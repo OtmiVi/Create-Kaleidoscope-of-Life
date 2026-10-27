@@ -1,0 +1,20 @@
+{
+  "replace": true,
+  "values": [
+    "mmr:desert_mineshaft_underground",
+    "mmr:dark_oak_mineshaft",
+    "mmr:desert_mineshaft",
+    "mmr:mineshaft",
+    "mmr:deep_dark_mineshaft_underground",
+    "mmr:mushroom_mineshaft_underground",
+    "mmr:snowy_mineshaft",
+    "mmr:mesa_mineshaft",
+    "mmr:dark_oak_mineshaft_underground",
+    "mmr:mesa_mineshaft_underground",
+    "mmr:jungle_mineshaft",
+    "mmr:jungle_mineshaft_underground",
+    "mmr:snowy_mineshaft_underground",
+    "mmr:mineshaft_underground",
+    "mmr:mushroom_mineshaft"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "item.kubejs.trader_map.castle_ruins": "Castle Ruins Map",
+  "item.kubejs.trader_map.cathedral": "Cathedral Map",
+  "item.kubejs.trader_map.towers": "Tower Map",
+  "item.kubejs.trader_map.ships": "Seafaring Map",
+  "item.kubejs.trader_map.ocean_ruins": "Sunken Ruins Map",
+  "tooltip.kubejs.echo_seed.planting": "Plant on a Sculk Catalyst."
+}

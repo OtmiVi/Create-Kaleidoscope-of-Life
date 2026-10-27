@@ -516,7 +516,7 @@
 	"Glass Shard" = true
 	"Gold Tools Have Fortune" = true
 	"Grab Chickens" = false
-	"Hoe Harvesting" = true
+	"Hoe Harvesting" = false
 	"Horses Swim" = true
 	"Improved Sponges" = true
 	"Lock Rotation" = false

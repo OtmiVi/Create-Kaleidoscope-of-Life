@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "mos:long_ship",
+    "mos:rare_travel_ship",
+    "mos:hauling_ship_1",
+    "mos:ship_small"
+  ]
+}

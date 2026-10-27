@@ -1,0 +1,160 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "kubejs:trader_maps/castle_ruins",
+              "decoration": "minecraft:banner_red",
+              "zoom": 1,
+              "search_radius": 8,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:item_name": "{\"translate\":\"item.kubejs.trader_map.castle_ruins\",\"fallback\":\"Castle Ruins Map\"}",
+                "minecraft:custom_data": {
+                  "kubejs:extra_trader_map": true,
+                  "wandering_trader_maps:map": true,
+                  "wandering_trader_maps:map:type": "kubejs_castle_ruins",
+                  "wandering_trader_maps:map:dimension": "overworld",
+                  "wandering_trader_maps:map:description": "Castle Ruins Map"
+                },
+                "minecraft:map_color": 11743532
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "kubejs:trader_maps/cathedral",
+              "decoration": "minecraft:banner_purple",
+              "zoom": 1,
+              "search_radius": 8,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:item_name": "{\"translate\":\"item.kubejs.trader_map.cathedral\",\"fallback\":\"Cathedral Map\"}",
+                "minecraft:custom_data": {
+                  "kubejs:extra_trader_map": true,
+                  "wandering_trader_maps:map": true,
+                  "wandering_trader_maps:map:type": "kubejs_cathedral",
+                  "wandering_trader_maps:map:dimension": "overworld",
+                  "wandering_trader_maps:map:description": "Cathedral Map"
+                },
+                "minecraft:map_color": 8073150
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "kubejs:trader_maps/towers",
+              "decoration": "minecraft:banner_yellow",
+              "zoom": 1,
+              "search_radius": 8,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:item_name": "{\"translate\":\"item.kubejs.trader_map.towers\",\"fallback\":\"Tower Map\"}",
+                "minecraft:custom_data": {
+                  "kubejs:extra_trader_map": true,
+                  "wandering_trader_maps:map": true,
+                  "wandering_trader_maps:map:type": "kubejs_towers",
+                  "wandering_trader_maps:map:dimension": "overworld",
+                  "wandering_trader_maps:map:description": "Tower Map"
+                },
+                "minecraft:map_color": 14602026
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "kubejs:trader_maps/ships",
+              "decoration": "minecraft:banner_cyan",
+              "zoom": 1,
+              "search_radius": 8,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:item_name": "{\"translate\":\"item.kubejs.trader_map.ships\",\"fallback\":\"Seafaring Map\"}",
+                "minecraft:custom_data": {
+                  "kubejs:extra_trader_map": true,
+                  "wandering_trader_maps:map": true,
+                  "wandering_trader_maps:map:type": "kubejs_ships",
+                  "wandering_trader_maps:map:dimension": "overworld",
+                  "wandering_trader_maps:map:description": "Seafaring Map"
+                },
+                "minecraft:map_color": 2651799
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:map",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:exploration_map",
+              "destination": "kubejs:trader_maps/ocean_ruins",
+              "decoration": "minecraft:banner_blue",
+              "zoom": 1,
+              "search_radius": 8,
+              "skip_existing_chunks": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:rarity": "uncommon",
+                "minecraft:item_name": "{\"translate\":\"item.kubejs.trader_map.ocean_ruins\",\"fallback\":\"Sunken Ruins Map\"}",
+                "minecraft:custom_data": {
+                  "kubejs:extra_trader_map": true,
+                  "wandering_trader_maps:map": true,
+                  "wandering_trader_maps:map:type": "kubejs_ocean_ruins",
+                  "wandering_trader_maps:map:dimension": "overworld",
+                  "wandering_trader_maps:map:description": "Sunken Ruins Map"
+                },
+                "minecraft:map_color": 3949738
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

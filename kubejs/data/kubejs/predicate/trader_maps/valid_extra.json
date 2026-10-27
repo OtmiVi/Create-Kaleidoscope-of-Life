@@ -1,0 +1,16 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "slots": {
+      "container.0": {
+        "items": "minecraft:filled_map",
+        "predicates": {
+          "minecraft:custom_data": {
+            "kubejs:extra_trader_map": true
+          }
+        }
+      }
+    }
+  }
+}

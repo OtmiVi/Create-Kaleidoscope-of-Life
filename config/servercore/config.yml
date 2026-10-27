@@ -173,15 +173,6 @@ mob-spawning:
       spawn-interval: 1
       despawn-distance: 64
 
-    - category: 'GLARES'
-      mobcap: 15
-      spawn-interval: 1
-      despawn-distance: 128
-
-    - category: 'RASCALS'
-      mobcap: 1
-      spawn-interval: 1
-      despawn-distance: 128
 
 
 # Settings for commands and their formatting.

@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "mvs:diorite_tower",
+    "mvs:red_tower",
+    "mvs:cartographer_tower",
+    "mvs:jungle_tower"
+  ]
+}

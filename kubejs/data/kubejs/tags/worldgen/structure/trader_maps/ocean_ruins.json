@@ -1,0 +1,9 @@
+{
+  "replace": true,
+  "values": [
+    "mos:ruined_castle",
+    "mos:ruins_atlantis",
+    "mos:atlantis_tribune",
+    "mos:underwater_shrine"
+  ]
+}

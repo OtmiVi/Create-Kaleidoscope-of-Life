@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "kaleidoscope_cookery:lettuce_crop",
+    "kaleidoscope_cookery:tea_tree",
+    "kaleidoscope_end:ender_mint",
+    "kaleidoscope_tavern:grapevine_trellis",
+    "northstar:mars_sprout",
+    "northstar:mars_sprout_big",
+    "northstar:mars_tulip",
+    "northstar:martian_strawberry_bush"
+  ]
+}

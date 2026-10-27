@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "kaleidoscope_end:dream_berry_head",
+    "kaleidoscope_end:dream_berry_plant",
+    "kaleidoscope_sculk:echo_crop",
+    "kaleidoscope_sculk:echo_crop_top",
+    "kaleidoscope_tavern:ice_grape_crop",
+    "kaleidoscope_tavern:ice_grapevine_trellis",
+    "minecraft:chorus_flower"
+  ]
+}

@@ -14,3 +14,9 @@ RecipeViewerEvents.removeEntriesCompletely('item', event => {
     })
 })
 
+ItemEvents.modifyTooltips(event => {
+    event.add('kaleidoscope_sculk:echo_seed', [
+        Text.translate('tooltip.kubejs.echo_seed.planting').gray()
+    ])
+})
+

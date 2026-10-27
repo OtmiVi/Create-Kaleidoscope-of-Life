@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "kaleidoscope_end:chorus_petal",
+    "kaleidoscope_end:chorus_seed",
+    "kaleidoscope_end:dream_berry",
+    "kaleidoscope_sculk:echo_seed",
+    "kaleidoscope_sculk:sculk_pinapple",
+    "kaleidoscope_tavern:green_grape",
+    "kaleidoscope_tavern:ice_grape",
+    "minecraft:chorus_flower",
+    "northstar:dormant_martian_sapling",
+    "northstar:dormant_martian_sapling_sequenced",
+    "northstar:dormant_martian_seed",
+    "northstar:dormant_martian_seed_sequenced"
+  ]
+}
