@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/root",
+  "criteria": {
+    "lava_roasted_chicken": {
+      "conditions": {
+        "item": {
+          "items": "kaleidoscope_nether:lava_roasted_chicken"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "requirements": [
+    [
+      "lava_roasted_chicken"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

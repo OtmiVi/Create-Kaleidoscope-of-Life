@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/wither_rib",
+  "criteria": {
+    "wither_bone_soup": {
+      "conditions": {
+        "item": {
+          "items": "kaleidoscope_nether:wither_bone_soup"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "requirements": [
+    [
+      "wither_bone_soup"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/root",
+  "criteria": {
+    "nether_caterpillar": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kaleidoscope_nether:nether_caterpillar"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "nether_caterpillar"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -457,23 +457,6 @@
 			y: -5.0d
 		}
 		{
-			id: "5B07B986302DE4A7"
-			optional: true
-			rewards: [{
-				id: "5EA8B9FF136F4614"
-				type: "xp"
-				xp: 50
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "7E00759C5461765C"
-				item: { count: 1, id: "minecraft:obsidian" }
-				type: "item"
-			}]
-			x: -4.0d
-			y: -6.5d
-		}
-		{
 			icon: {
 				id: "minecraft:netherrack"
 			}
@@ -506,65 +489,6 @@
 			}]
 			x: 6.0d
 			y: 2.5d
-		}
-		{
-			dependencies: [
-				"5B07B986302DE4A7"
-				"6036D24AE93B6289"
-			]
-			id: "68D2C737BAB62DEE"
-			optional: true
-			rewards: [
-				{
-					count: 6
-					id: "4E21908679A26A4F"
-					item: {
-						count: 1
-						id: "minecraft:book"
-					}
-					type: "item"
-				}
-				{
-					id: "1539E8829ACFBF30"
-					type: "xp"
-					xp: 50
-				}
-			]
-			shape: "circle"
-			tasks: [{
-				id: "5E8826CDA0F71E05"
-				item: { count: 1, id: "minecraft:enchanting_table" }
-				type: "item"
-			}]
-			x: -1.5d
-			y: -6.5d
-		}
-		{
-			dependencies: ["68D2C737BAB62DEE"]
-			icon_scale: 0.8d
-			id: "6F1B12DD98D4F81E"
-			rewards: [
-				{
-					id: "0C816E1E22BB5477"
-					item: {
-						count: 1
-						id: "create_enchantment_industry:super_experience_nugget"
-					}
-					type: "item"
-				}
-				{
-					id: "4F3BB0B5B011A432"
-					type: "xp"
-					xp: 50
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "4578569896F23717"
-				type: "checkmark"
-			}]
-			x: -1.5d
-			y: -8.5d
 		}
 		{
 			dependencies: ["4EF30842961B514C"]
@@ -733,6 +657,22 @@
 			y: -5.5d
 		}
 		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A82000000000001"
+			rewards: [{
+				id: "6A82000000000002"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6A82000000000003"
+				item: { count: 1, id: "minecraft:dragon_breath" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
 			dependencies: ["75B4499D270B3411"]
 			id: "5C184812CBA507FD"
 			optional: true
@@ -854,14 +794,13 @@
 		}
 		{
 			dependencies: ["4EF30842961B514C"]
-			hide_lock_icon: true
 			id: "0F8EFABEF34E7C58"
 			rewards: [{
 				id: "1FD626282835B7DB"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
-			shape: "circle"
+			shape: "rsquare"
 			tasks: [{
 				count: 8L
 				id: "13E67910FF3B0242"
@@ -1116,24 +1055,6 @@
 			y: 3.0d
 		}
 		{
-			id: "2D19C03AADA330A6"
-			optional: true
-			rewards: [{
-				id: "4AA6BAEAA151C817"
-				type: "xp"
-				xp: 50
-			}]
-			shape: "circle"
-			tasks: [{
-				count: 32L
-				id: "25A95C11106B0370"
-				item: { count: 1, id: "minecraft:lapis_lazuli" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: -6.5d
-		}
-		{
 			id: "2CB0422A1E4C20A0"
 			optional: true
 			preset: "Achiugments"
@@ -1302,6 +1223,100 @@
 			}]
 			x: 10.5d
 			y: 4.5d
+		}
+		{
+			id: "2D19C03AADA330A6"
+			optional: true
+			rewards: [{
+				id: "4AA6BAEAA151C817"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 32L
+				id: "25A95C11106B0370"
+				item: { count: 1, id: "minecraft:lapis_lazuli" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["68D2C737BAB62DEE"]
+			icon_scale: 0.8d
+			id: "6F1B12DD98D4F81E"
+			rewards: [
+				{
+					id: "4F3BB0B5B011A432"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "0C816E1E22BB5477"
+					item: {
+						count: 1
+						id: "create_enchantment_industry:super_experience_nugget"
+					}
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			tasks: [{
+				id: "4578569896F23717"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -8.5d
+		}
+		{
+			dependencies: [
+				"5B07B986302DE4A7"
+				"6036D24AE93B6289"
+			]
+			id: "68D2C737BAB62DEE"
+			optional: true
+			rewards: [
+				{
+					id: "1539E8829ACFBF30"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 6
+					id: "4E21908679A26A4F"
+					item: {
+						count: 1
+						id: "minecraft:book"
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "5E8826CDA0F71E05"
+				item: { count: 1, id: "minecraft:enchanting_table" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			id: "5B07B986302DE4A7"
+			optional: true
+			rewards: [{
+				id: "5EA8B9FF136F4614"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "7E00759C5461765C"
+				item: { count: 1, id: "minecraft:obsidian" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -6.5d
 		}
 	]
 }

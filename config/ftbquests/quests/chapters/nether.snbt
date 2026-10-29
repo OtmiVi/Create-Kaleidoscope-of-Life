@@ -1,0 +1,1164 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "nether"
+	group: "624E7CB211C91071"
+	icon: {
+		id: "kaleidoscope_nether:crimson_fruit"
+	}
+	id: "6A80000000000001"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4EF30842961B514C"]
+			id: "6A80000000000002"
+			preset: "Important"
+			rewards: [{
+				id: "6A80000000000003"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A80000000000004"
+				item: { count: 1, id: "kaleidoscope_nether:crimson_fruit" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4EF30842961B514C"]
+			id: "6A80000000000005"
+			preset: "Important"
+			rewards: [{
+				id: "6A80000000000006"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A80000000000007"
+				item: { count: 1, id: "kaleidoscope_nether:warped_fruit" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4EF30842961B514C"]
+			id: "6A80000000000008"
+			preset: "Important"
+			rewards: [{
+				id: "6A80000000000009"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A8000000000000A"
+				item: { count: 1, id: "kaleidoscope_nether:poisonous_fruit" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6A80000000000002"
+				"6A80000000000005"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000000E"
+			rewards: [{
+				id: "6A8000000000000F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000010"
+					item: { count: 1, id: "kaleidoscope_nether:crimson_salad" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000011"
+					item: { count: 1, id: "kaleidoscope_nether:warped_salad" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000012"
+					item: { count: 1, id: "kaleidoscope_nether:fruit_platter" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000013"
+					item: { count: 1, id: "kaleidoscope_nether:warped_cake" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6A80000000000002"
+				"6A80000000000005"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000014"
+			rewards: [{
+				id: "6A80000000000015"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000016"
+					item: { count: 1, id: "kaleidoscope_nether:crimson_kabob" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000017"
+					item: { count: 1, id: "kaleidoscope_nether:warped_kabob" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000018"
+					item: { count: 1, id: "kaleidoscope_nether:blazing_kabob" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000019"
+					item: { count: 1, id: "kaleidoscope_nether:golden_kabob" }
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"0F8EFABEF34E7C58"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000001E"
+			rewards: [{
+				id: "6A8000000000001F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6A80000000000020"
+				item: { count: 1, id: "kaleidoscope_nether:nether_caterpillar" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"6A8000000000001E"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000021"
+			rewards: [{
+				id: "6A80000000000022"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000023"
+					item: { count: 1, id: "kaleidoscope_nether:nether_caterpillar_sashimi" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000024"
+					item: { count: 1, id: "kaleidoscope_nether:caramel_nether_caterpillar" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000025"
+					item: { count: 1, id: "kaleidoscope_nether:caramel_nether_caterpillar_rice" }
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: -0.5d
+		}
+		{
+			dependencies: [
+				"6A80000000000021"
+				"4EF30842961B514C"
+			]
+			icon: {
+				id: "kaleidoscope_nether:nether_caterpillar_sashimi"
+			}
+			id: "6A80000000000026"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "6A80000000000027"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_nether:nether_caterpillar_feast"
+				criterion: ""
+				id: "6A80000000000028"
+				type: "advancement"
+			}]
+			x: -8.0d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"6A80000000000002"
+				"6A80000000000005"
+				"6A80000000000008"
+				"6A8000000000000B"
+				"4EF30842961B514C"
+			]
+			icon: {
+				id: "kaleidoscope_nether:crimson_fruit"
+			}
+			id: "6A80000000000029"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "6A8000000000002A"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_nether:nether_agriculturist"
+				criterion: ""
+				id: "6A8000000000002B"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -2.25d
+		}
+		{
+			dependencies: [
+				"51181E7058AA394E"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000002C"
+			preset: "Important"
+			rewards: [{
+				id: "6A8000000000002D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "6A8000000000002E"
+					item: { count: 1, id: "kaleidoscope_nether:hoglin_tusk" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6A8000000000002F"
+					item: { count: 1, id: "kaleidoscope_nether:hoglin_hide" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A80000000000030"
+					item: { count: 1, id: "kaleidoscope_nether:ham" }
+					type: "item"
+				}
+			]
+			x: -3.75d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"6A8000000000002C"
+				"381A43D155C8D44B"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000031"
+			rewards: [{
+				id: "6A80000000000032"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000033"
+					item: { count: 1, id: "kaleidoscope_nether:roasted_ham" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000034"
+					item: { count: 1, id: "kaleidoscope_nether:ham_slice" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000035"
+					item: { count: 1, id: "kaleidoscope_nether:roujiamo" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000036"
+					item: { count: 1, id: "kaleidoscope_nether:ham_yogurt" }
+					type: "item"
+				}
+			]
+			x: -5.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"51181E7058AA394E"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000037"
+			rewards: [{
+				id: "6A80000000000038"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A80000000000039"
+				item: { count: 1, id: "kaleidoscope_nether:gilded_fragment" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"6A8000000000002C"
+				"6A80000000000037"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000003A"
+			rewards: [{
+				id: "6A8000000000003B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A8000000000003C"
+					item: { count: 1, id: "kaleidoscope_nether:hoglin_tusk_braised_meat" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000003D"
+					item: { count: 1, id: "kaleidoscope_nether:golden_roast" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000003E"
+					item: { count: 1, id: "kaleidoscope_nether:gilded_barbaric_roast" }
+					type: "item"
+				}
+			]
+			x: -6.5d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"6A8000000000002C"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000003F"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A80000000000040"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "6A80000000000041"
+				item: { count: 1, id: "kaleidoscope_nether:primitive_machete" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"51181E7058AA394E"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000042"
+			preset: "Important"
+			rewards: [{
+				id: "6A80000000000043"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "6A80000000000044"
+					item: { count: 1, id: "kaleidoscope_nether:raw_strider_meat" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6A80000000000045"
+					item: { count: 1, id: "kaleidoscope_nether:strider_rock_shell" }
+					type: "item"
+				}
+			]
+			x: -4.5d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"6A80000000000042"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000046"
+			rewards: [{
+				id: "6A80000000000047"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000048"
+					item: { count: 1, id: "kaleidoscope_nether:cooked_strider_meat" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000049"
+					item: { count: 1, id: "kaleidoscope_nether:braised_strider" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000004A"
+					item: { count: 1, id: "kaleidoscope_nether:strider_nether_wart_stew" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"6A80000000000042"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000004B"
+			rewards: [{
+				id: "6A8000000000004C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A8000000000004D"
+					item: { count: 1, id: "kaleidoscope_nether:strider_shell_stir_fry" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000004E"
+					item: { count: 1, id: "kaleidoscope_nether:soul_strider_kabob" }
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: 10.5d
+		}
+		{
+			dependencies: [
+				"51181E7058AA394E"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000004F"
+			preset: "Important"
+			rewards: [{
+				id: "6A80000000000050"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "6A80000000000051"
+					item: { count: 1, id: "kaleidoscope_nether:ghast_hide" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A80000000000052"
+					item: { count: 1, id: "kaleidoscope_nether:ghast_tentacle" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"6A8000000000004F"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000053"
+			rewards: [{
+				id: "6A80000000000054"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000055"
+					item: { count: 1, id: "kaleidoscope_nether:roasted_ghast_tentacle" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000056"
+					item: { count: 1, id: "kaleidoscope_nether:ghast_kabob" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000057"
+					item: { count: 1, id: "kaleidoscope_nether:ghast_pasta" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000058"
+					item: { count: 1, id: "kaleidoscope_nether:ghast_pudding" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"6A8000000000004F"
+				"6A80000000000008"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000059"
+			rewards: [{
+				id: "6A8000000000005A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A8000000000005B"
+				item: { count: 1, id: "kaleidoscope_nether:poisonous_ghast_roast" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"51181E7058AA394E"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000005C"
+			rewards: [{
+				id: "6A8000000000005D"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A8000000000005E"
+				item: { count: 1, id: "kaleidoscope_nether:raw_piglin_meat" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"6A8000000000005C"
+				"6A80000000000005"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000005F"
+			rewards: [{
+				id: "6A80000000000060"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000061"
+					item: { count: 1, id: "kaleidoscope_nether:cooked_piglin_meat" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000062"
+					item: { count: 1, id: "kaleidoscope_nether:warped_hoglin_tenderloin_stew" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"51181E7058AA394E"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000066"
+			preset: "Important"
+			rewards: [{
+				id: "6A80000000000067"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A80000000000068"
+				item: { count: 1, id: "kaleidoscope_nether:wither_rib" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"6A80000000000066"
+				"331F655A447D9BC3"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000069"
+			rewards: [{
+				id: "6A8000000000006A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A8000000000006B"
+					item: { count: 1, id: "kaleidoscope_nether:blaze_soup" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000006C"
+					item: { count: 1, id: "kaleidoscope_nether:magma_cream_soup" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000006D"
+					item: { count: 1, id: "kaleidoscope_nether:wither_bone_soup" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000006E"
+			rewards: [{
+				id: "6A8000000000006F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000070"
+					item: { count: 1, id: "kaleidoscope_nether:magma_cream_stir_fry" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000071"
+					item: { count: 1, id: "kaleidoscope_nether:magma_cream_stir_fry_rice" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000072"
+					item: { count: 1, id: "kaleidoscope_nether:crimson_magma_stew" }
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000073"
+			rewards: [{
+				id: "6A80000000000074"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000075"
+					item: { count: 1, id: "kaleidoscope_nether:lava_roasted_chicken" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000076"
+					item: { count: 1, id: "kaleidoscope_nether:nether_fries_platter" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000077"
+			rewards: [{
+				id: "6A80000000000078"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000079"
+					item: { count: 1, id: "kaleidoscope_nether:magma_cream_pudding" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000007A"
+					item: { count: 1, id: "kaleidoscope_nether:lava_jelly" }
+					type: "item"
+				}
+			]
+			x: -8.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"6A8000000000000B"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000007B"
+			rewards: [{
+				id: "6A8000000000007C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A8000000000007D"
+					item: { count: 1, id: "kaleidoscope_nether:soul_lamb_chop" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000007E"
+					item: { count: 1, id: "kaleidoscope_nether:soul_glazed_roast" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000007F"
+					item: { count: 1, id: "kaleidoscope_nether:soul_pepper_stir_fry" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"6A8000000000000B"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000080"
+			rewards: [{
+				id: "6A80000000000081"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000082"
+					item: { count: 1, id: "kaleidoscope_nether:soul_stir_fry_meat" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000083"
+					item: { count: 1, id: "kaleidoscope_nether:soul_stir_fry_meat_rice" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"6A80000000000008"
+				"331F655A447D9BC3"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000084"
+			rewards: [{
+				id: "6A80000000000085"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A80000000000087"
+				item: { count: 1, id: "kaleidoscope_nether:poisonous_soup" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6A8000000000000B"
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000089"
+			rewards: [{
+				id: "6A8000000000008A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A8000000000008B"
+					item: { count: 1, id: "kaleidoscope_nether:spicy_pot" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000008C"
+					item: { count: 1, id: "kaleidoscope_nether:spicy_pot_rice" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000008D"
+					item: { count: 1, id: "kaleidoscope_nether:mapo_tofu" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"6A8000000000002C"
+				"331F655A447D9BC3"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000008E"
+			rewards: [{
+				id: "6A8000000000008F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000090"
+					item: { count: 1, id: "kaleidoscope_nether:chongqing_noodles" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000091"
+					item: { count: 1, id: "kaleidoscope_nether:luosifen" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000092"
+					item: { count: 1, id: "kaleidoscope_nether:spicy_hoglin_ramen" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"733FCF269775E418"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000093"
+			rewards: [{
+				id: "6A80000000000094"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A80000000000095"
+					item: { count: 1, id: "kaleidoscope_nether:braised_lion_head" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000096"
+					item: { count: 1, id: "kaleidoscope_nether:braised_pork_rice" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000097"
+					item: { count: 1, id: "kaleidoscope_nether:couples_lung_slice" }
+					type: "item"
+				}
+				{
+					id: "6A80000000000098"
+					item: { count: 1, id: "kaleidoscope_nether:garlic_oysters" }
+					type: "item"
+				}
+			]
+			x: -9.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"331F655A447D9BC3"
+				"4EF30842961B514C"
+			]
+			id: "6A80000000000099"
+			rewards: [{
+				id: "6A8000000000009A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A8000000000009B"
+					item: { count: 1, id: "kaleidoscope_nether:pepper_pork_belly_chicken_soup" }
+					type: "item"
+				}
+				{
+					id: "6A8000000000009C"
+					item: { count: 1, id: "kaleidoscope_nether:sauerkraut_fish" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"6A8000000000009D"
+				"733FCF269775E418"
+				"331F655A447D9BC3"
+				"4EF30842961B514C"
+			]
+			id: "6A800000000000A0"
+			rewards: [{
+				id: "6A800000000000A1"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "6A800000000000A2"
+					item: { count: 1, id: "kaleidoscope_nether:soul_return_rice" }
+					type: "item"
+				}
+				{
+					id: "6A800000000000A3"
+					item: { count: 1, id: "kaleidoscope_nether:star_stew" }
+					type: "item"
+				}
+				{
+					id: "6A800000000000A4"
+					item: { count: 1, id: "kaleidoscope_nether:star_ghast_pasta" }
+					type: "item"
+				}
+				{
+					id: "6A800000000000A5"
+					item: { count: 1, id: "kaleidoscope_nether:star_stew_meat" }
+					type: "item"
+				}
+			]
+			x: 2.75d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"6A800000000000A0"
+				"4EF30842961B514C"
+			]
+			icon: {
+				id: "kaleidoscope_nether:star_stew_meat"
+			}
+			id: "6A800000000000A6"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "6A800000000000A7"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_nether:star_diet"
+				criterion: ""
+				id: "6A800000000000A8"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: [
+				"6A800000000000A0"
+				"4EF30842961B514C"
+			]
+			icon: {
+				id: "kaleidoscope_nether:star_stew"
+			}
+			id: "6A800000000000A9"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "6A800000000000AA"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_nether:star_blessing_buff"
+				criterion: ""
+				id: "6A800000000000AB"
+				type: "advancement"
+			}]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["4EF30842961B514C"]
+			id: "6A800000000000AC"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A800000000000AD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A800000000000AE"
+				item: { count: 1, id: "kaleidoscope_nether:nether_stove" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"6A8000000000004F"
+				"4EF30842961B514C"
+			]
+			id: "6A800000000000AF"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A800000000000B0"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A800000000000B1"
+				item: { count: 1, id: "kaleidoscope_nether:ghast_pendant" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "6A800000000000B2"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A800000000000B3"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A800000000000B4"
+				item: { count: 1, id: "kaleidoscope_nether:blowgun" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.5d
+		}
+		{
+			dependencies: [
+				"6A8000000000009D"
+				"4EF30842961B514C"
+			]
+			icon: {
+				id: "kaleidoscope_nether:star_dust"
+			}
+			id: "6A800000000000B9"
+			optional: true
+			preset: "Hits"
+			tasks: [{
+				id: "6A800000000000BA"
+				type: "checkmark"
+			}]
+			x: 6.75d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"16C38A47D457DF54"
+				"4EF30842961B514C"
+			]
+			id: "6A8000000000009D"
+			preset: "Important"
+			rewards: [{
+				id: "6A8000000000009E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 3L
+				id: "6A8000000000009F"
+				item: { count: 1, id: "kaleidoscope_nether:star_dust" }
+				type: "item"
+			}]
+			x: 4.75d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"4EF30842961B514C"
+				"6C1439E67BA46B05"
+			]
+			id: "6A8000000000000B"
+			preset: "Important"
+			rewards: [{
+				id: "6A8000000000000C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A8000000000000D"
+				item: { count: 1, id: "kaleidoscope_nether:soul_pepper" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 0.0d
+		}
+	]
+}

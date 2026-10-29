@@ -1,0 +1,33 @@
+{
+	id: "6A7E000000001000"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			id: "6A7E000000001005"
+			item: {
+				count: 1
+				id: "kaleidoscope_tavern:empty_bottle"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "6A7E000000001006"
+			item: {
+				count: 1
+				id: "kaleidoscope_tavern:empty_glassware"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "6A7E000000001008"
+			item: {
+				count: 1
+				id: "minecraft:glass_bottle"
+			}
+			weight: 1.5f
+		}
+		{ id: "6A7E000000001009", item: { count: 1, id: "minecraft:sugar" } }
+		{ id: "6A7E00000000100A", item: { count: 1, id: "minecraft:honeycomb" } }
+	]
+}

@@ -13,6 +13,10 @@
 	chapter.5B8DD4295904CF7B.title: "Cookery"
 	chapter.5C04F22B08E3F615.title: "Snifer Overhaul"
 	chapter.69462E61A113C180.title: "Brass era"
+	chapter.6A7E000000000001.title: "Tavern"
+	chapter.6A7F000000000001.title: "Sculk"
+	chapter.6A80000000000001.title: "Nether"
+	chapter.6A81000000000001.title: "End"
 	chapter.6AFE0638A04ACE83.title: "Enchantment Industry"
 	chapter.6E227DB696AD3F13.title: "Chalanges"
 	chapter.77C4932A795646A1.title: "01 - Hello world"
@@ -597,6 +601,467 @@
 		"Stand in the leaking experience to absorb it and earn the hidden advancement A Shower Experience. Keep the pump running so experience continues to flow."
 	]
 	quest.6A09757C266B3F48.title: "A Shower of Experience"
+	quest.6A7E000000000002.quest_desc: [
+		"Find a Grapevine hanging from an oak tree and break it by hand to bring it home."
+		"Your tavern begins in the vineyard. Grow grapes, press juice, brew a cellar of drinks, then bring Create into the business."
+	]
+	quest.6A7E000000000002.title: "A Tavern Starts with a Vine"
+	quest.6A7E000000000005.quest_desc: [
+		"Craft 8 Trellises and plant your Grapevine on one placed one block above the soil."
+		"Vines grow upward first, then spread across neighboring trellises. Leave air beneath the fruit-bearing trellises so grapes can form."
+		"Harvest ripe grapes with Shears for 2-3 grapes instead of the usual 1-2."
+	]
+	quest.6A7E000000000005.title: "Room for One More Vine"
+	quest.6A7E000000000008.quest_desc: [
+		"Harvest 16 Grapes from your trellises."
+		"Use dirt or grass beneath the trellis for ordinary grapes. Keep some fruit for your first juice and some for later batches."
+	]
+	quest.6A7E000000000008.title: "The First Harvest"
+	quest.6A7E00000000000B.quest_desc: [
+		"Grow and collect 8 Ice Grapes using ice or snow beneath the trellis."
+		"The vineyard needs space below its trellises to bear fruit. Check the crop season as well as the ground when growth seems slow."
+	]
+	quest.6A7E00000000000B.title: "A Vineyard on Ice"
+	quest.6A7E00000000000E.quest_desc: [
+		"Use netherrack or a magma block beneath the trellis and collect 8 Gold Grapes."
+		"These grapes make the golden juice used for Honey Wine, Miner's Star and other warm-colored brews."
+	]
+	quest.6A7E00000000000E.title: "A Warmer Vintage"
+	quest.6A7E000000000011.quest_desc: [
+		"Collect 4 Green Grapes while harvesting your vineyard."
+		"Green Grapes are a chance drop from harvesting grapes. Keep harvesting your existing vines to find them."
+	]
+	quest.6A7E000000000011.title: "A Lucky Bunch"
+	quest.6A7E000000000014.quest_desc: ["You can grow grapes on Trellises."]
+	quest.6A7E000000000014.title: "Leaves Are Not a Vineyard"
+	quest.6A7E00000000001A.quest_desc: [
+		"Craft a Pressing Tub and place it flat on the ground."
+		"Add pressable fruit, then jump on the tub repeatedly to turn it into juice. The tub holds one type of item at a time."
+		"Keep an empty bucket ready to collect the juice."
+	]
+	quest.6A7E00000000001A.title: "Put Your Feet to Work"
+	quest.6A7E00000000001D.quest_desc: [
+		"Collect a Grape Bucket from your Pressing Tub."
+		"The juice is the starting fluid for Wine, Champagne, Brandy, Carignan and Sakura Wine. Save it for your first brewing barrel."
+	]
+	quest.6A7E00000000001D.title: "A Bucket of the Vineyard"
+	quest.6A7E000000000023.quest_desc: [
+		"Collect Ice Grape, Gold Grape, Green Grape, Sweet Berries and Glow Berries Buckets to complete your juice pantry."
+		"Together with ordinary grape juice, these supply six different colored brewing bases. Check JEI for each pressing recipe."
+	]
+	quest.6A7E000000000023.title: "Six Colors on Tap"
+	quest.6A7E00000000002B.quest_desc: [
+		"Craft a Tavern Barrel and open its lid."
+		"Fill the barrel with the recipe's fluid first, then add any required ingredients and close the lid to start brewing."
+		"The Tavern Barrel is a separate block from the ordinary Minecraft Barrel. Check its Ponder scene for the setup."
+	]
+	quest.6A7E00000000002B.title: "Something Is Brewing"
+	quest.6A7E00000000002E.quest_desc: [
+		"Craft an Empty Bottle and a Tap for your tavern."
+		"Place the recipe's empty container beneath the barrel's tap, then right-click the tap to bottle the drink."
+		"Wine recipes use Tavern Empty Bottles. Keep a supply beside the cellar."
+	]
+	quest.6A7E00000000002E.title: "Ready to Serve"
+	quest.6A7E000000000032.quest_desc: [
+		"Brew Wine from ordinary grape juice, then bottle it."
+		"Check the barrel's brewing progress before serving. Leaving it to age improves its brew level."
+		"Save several bottles at Fine quality or better if you want to use them in cocktails."
+	]
+	quest.6A7E000000000032.title: "The House Wine"
+	quest.6A7E000000000036.quest_desc: ["You can brew drinks by filling a Barrel, adding ingredients and closing its lid."]
+	quest.6A7E000000000036.title: "Fluid First, Ingredients Second"
+	quest.6A7E000000000039.quest_desc: ["You can leave drinks in the Barrel longer to improve their quality."]
+	quest.6A7E000000000039.title: "Give It Time"
+	quest.6A7E00000000003C.quest_desc: [
+		"Brew Champagne, Brandy, Carignan and Sakura Wine."
+		"All four begin with ordinary grape juice. Their added ingredients are Sugar, Apple, Sweet Berries and Pink Petals respectively."
+		"Fill each barrel with juice before adding its ingredient."
+	]
+	quest.6A7E00000000003C.title: "The Orchard Flight"
+	quest.6A7E000000000043.quest_desc: [
+		"Brew Ice Wine, Mother Snow, Polaris Sweet White and Sherry."
+		"All use Ice Grape Juice. Ice Wine needs no extra ingredient; Mother Snow adds Ice, Polaris adds Packed Ice, and Sherry adds Blue Ice."
+	]
+	quest.6A7E000000000043.title: "A Cellar Full of Winter"
+	quest.6A7E00000000004A.quest_desc: [
+		"Brew Honey Wine, Miner's Star, Madame Shexiang and Sunset Glow."
+		"Start with Gold Grape Juice. Add Honeycomb, Iron Nugget, Gold Nugget or Blaze Powder respectively."
+	]
+	quest.6A7E00000000004A.title: "The Golden Shelf"
+	quest.6A7E000000000051.quest_desc: [
+		"Brew Plum Wine, Sweet Berry Wine and Red Queen from Sweet Berries Juice."
+		"Use Sugar for Plum Wine, Sweet Berries for Sweet Berry Wine, and Redstone Dust for Red Queen."
+	]
+	quest.6A7E000000000051.title: "Berries in the Cellar"
+	quest.6A7E000000000057.quest_desc: [
+		"Brew Riesling Dry White and Sauvignon Blanc Dry White with Green Grape Juice."
+		"Riesling needs Gunpowder and Sugar. Sauvignon Blanc needs Sugar Cane and Sugar."
+		"These drinks supply the green ingredient group for your shaker."
+	]
+	quest.6A7E000000000057.title: "Good Things Come in Green"
+	quest.6A7E00000000005C.quest_desc: [
+		"Brew Luminous Bride and Glowflower Brew from Glow Berries Juice."
+		"Add a Glow Ink Sac for Luminous Bride or Glowstone Dust for Glowflower Brew. Both belong to the yellow cocktail ingredient group."
+	]
+	quest.6A7E00000000005C.title: "A Little Light in Every Bottle"
+	quest.6A7E000000000061.quest_desc: [
+		"Brew Vodka, Whiskey and Rum using water as the starting fluid."
+		"Add Potato for Vodka, Wheat for Whiskey, or Sugar Cane for Rum."
+		"These drinks belong to the white cocktail ingredient group."
+	]
+	quest.6A7E000000000061.title: "Clear Beginnings"
+	quest.6A7E000000000067.quest_desc: [
+		"Craft a Shaker and an Empty Glassware."
+		"Prepare at least three drinks of Fine quality or better. Cocktail recipes choose ingredients by color group; check JEI for the combinations."
+		"Save Empty Glassware for serving your finished cocktails."
+	]
+	quest.6A7E000000000067.title: "Shake Up the Menu"
+	quest.6A7E00000000006B.quest_desc: ["You can mix three Fine-quality drinks in a Shaker to make cocktails."]
+	quest.6A7E00000000006B.title: "Three Drinks and a Little Patience"
+	quest.6A7E00000000006E.quest_desc: [
+		"Prepare Allium Garden, Brass Heart and Emerald."
+		"Allium Garden uses three light-purple ingredients, Brass Heart uses three gold ingredients, and Emerald uses three green ingredients."
+		"Each brewing ingredient must be Fine quality or better."
+	]
+	quest.6A7E00000000006E.title: "One Color, Three Measures"
+	quest.6A7E000000000074.quest_desc: [
+		"Prepare Mojito, Grasshopper and White Lady."
+		"Mojito: white + white + green. Grasshopper: green + green + white. White Lady: white + green + yellow."
+		"Check JEI for matching bottles and let every brewing ingredient reach Fine quality."
+	]
+	quest.6A7E000000000074.title: "Something Fresh"
+	quest.6A7E00000000007A.quest_desc: [
+		"Prepare Bloody Mary, Godfather and Screwdriver."
+		"Bloody Mary: red + red + red. Godfather: red + red + gold. Screwdriver: yellow + yellow + gold."
+		"Keep a separate shelf for each ingredient color to make the next order easier."
+	]
+	quest.6A7E00000000007A.title: "A Bold Little Menu"
+	quest.6A7E000000000080.quest_desc: [
+		"Prepare Depth Charge, Nether Special and Sculk Special."
+		"Depth Charge: blue + light purple + white. Nether Special: red + green + blue. Sculk Special: blue + blue + light purple."
+		"Use Fine-quality ingredients or better for every recipe."
+	]
+	quest.6A7E000000000080.title: "A Round for the Adventurers"
+	quest.6A7E000000000086.quest_desc: [
+		"Craft a Bar Counter, Bar Cabinet and four Brown Bar Stools."
+		"Set up a serving area for your kitchen and cellar. Leave yourself room to reach the barrels and bottle storage."
+	]
+	quest.6A7E000000000086.title: "A Place to Pull Up a Stool"
+	quest.6A7E00000000008B.quest_desc: [
+		"Craft a Glass Bar Cabinet, Cellar Cabinet, Tilted Rack and Glassware Holder."
+		"Keep serving containers near the bar and display your collection on racks. Check a rack's accepted bottle shape if a drink will not fit."
+	]
+	quest.6A7E00000000008B.title: "Bottles Deserve a Shelf"
+	quest.6A7E000000000091.quest_desc: [
+		"Craft a Chalkboard, Table and Bell Pendant Lamp."
+		"Give your tavern a menu and a cozy corner. This branch is for making the place feel like home."
+	]
+	quest.6A7E000000000091.title: "Tonight's Specials"
+	quest.6A7E000000000096.quest_desc: [
+		"You can use a Mechanical Press and Basin to make grape juice."
+		"{\"text\":\"Mechanical Press\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6431C7321BFC0EFB\"}}"
+		"{\"text\":\"Basin\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"257A57B87BB76486\"}}"
+	]
+	quest.6A7E000000000096.title: "Let the Press Do the Stomping"
+	quest.6A7E00000000009A.quest_desc: [
+		"You can use pipes and a pump to send juice into tanks."
+		"{\"text\":\"Fluid Pipes\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4FC8B0B6D84E9EE0\"}}"
+		"{\"text\":\"Mechanical Pump\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"74952DAF91A29B22\"}}"
+		"{\"text\":\"Fluid Tanks\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"0172930769CA91D7\"}}"
+	]
+	quest.6A7E00000000009A.title: "From Vineyard to Cellar"
+	quest.6A7E0000000000A2.quest_desc: [
+		"You can use an Item Drain and Spout to empty and fill bottles."
+		"{\"text\":\"Item Drain and Spout\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"0172930769CA91D7\"}}"
+		"{\"text\":\"Depot\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"24A3A61046CA3464\"}}"
+	]
+	quest.6A7E0000000000A2.title: "A Bottling Line of Your Own"
+	quest.6A7F000000000002.quest_desc: ["Gather 4 Sculk Branches with a kitchen knife in the Deep Dark."]
+	quest.6A7F000000000002.title: "A Taste of the Deep Dark"
+	quest.6A7F000000000005.quest_desc: ["Mill Sculk Branches into 4 Sculk Dust."]
+	quest.6A7F000000000005.title: "A Pinch of Darkness"
+	quest.6A7F000000000008.quest_desc: [
+		"Cut a Sculk block four times on a Chopping Board to get 4 Sculk Fungus."
+		"{\"text\":\"Chopping Board\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"381A43D155C8D44B\"}}"
+	]
+	quest.6A7F000000000008.title: "Something Growing in the Dark"
+	quest.6A7F00000000000B.quest_desc: ["Craft an Erosion Kitchen Knife from a Sculk Branch, Sculk Catalyst and iron."]
+	quest.6A7F00000000000B.title: "An Edge of Erosion"
+	quest.6A7F00000000000E.quest_desc: ["Mill an Echo Shard into Echo Seeds and collect 2."]
+	quest.6A7F00000000000E.title: "Plant an Echo"
+	quest.6A7F000000000011.quest_desc: ["Plant Echo Seeds on a Sculk Catalyst and harvest 4 Sheer Purity."]
+	quest.6A7F000000000011.title: "Sheer Purity"
+	quest.6A7F000000000014.quest_desc: ["Cut Sheer Purity three times on a Chopping Board to get Sculk Flesh. Collect 6."]
+	quest.6A7F000000000014.title: "What Is Inside?"
+	quest.6A7F000000000017.quest_desc: ["Craft a Soul from nine Soul Sand or Soul Soil."]
+	quest.6A7F000000000017.title: "A Little Soul"
+	quest.6A7F00000000001A.quest_desc: ["Combine Sculk Dust, a Soul and a Water Bucket to make Sculk Dough. Collect 4."]
+	quest.6A7F00000000001A.title: "Dough from the Depths"
+	quest.6A7F00000000001D.quest_desc: ["Craft a Deepslate Stove for your underground kitchen."]
+	quest.6A7F00000000001D.title: "A Darker Hearth"
+	quest.6A7F000000000020.quest_desc: [
+		"Prepare Sculk Fungus Soup, Sculk Chicken Stew and Sculk Stew in a Stockpot."
+		"{\"text\":\"Stockpot\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"331F655A447D9BC3\"}}"
+	]
+	quest.6A7F000000000020.title: "Three Bowls from Below"
+	quest.6A7F000000000025.quest_desc: [
+		"Prepare Sculk Lamb Chop and Erosion Dumpling Skewer in a Wok."
+		"{\"text\":\"Wok\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"733FCF269775E418\"}}"
+	]
+	quest.6A7F000000000025.title: "A Sizzle in the Dark"
+	quest.6A7F000000000029.quest_desc: ["Prepare Boil Sheer Purity in a Stockpot and Sculk Pineapple Jelly in a Wok."]
+	quest.6A7F000000000029.title: "Soft, Sweet and Strange"
+	quest.6A7F00000000002D.quest_desc: ["Prepare a Soul Pancake and Deepslate Cake Slice from Sculk Dough."]
+	quest.6A7F00000000002D.title: "Dessert Has an Echo"
+	quest.6A7F000000000031.quest_desc: ["Craft Ancient City Style Sashimi from four Sashimi, a Red Candle, Sculk Shrieker and Bowl."]
+	quest.6A7F000000000031.title: "The City's Secret Recipe"
+	quest.6A7F000000000034.quest_desc: ["Collect 4 Ancient Bone Fragments while fighting a Warden."]
+	quest.6A7F000000000034.title: "Bones That Remember"
+	quest.6A7F000000000037.quest_desc: ["Defeat a Warden and collect 4 Warden Tendrils."]
+	quest.6A7F000000000037.title: "A Warden's Last Whisper"
+	quest.6A7F00000000003A.quest_desc: ["Use an Erosion Kitchen Knife or Silent Kitchen Knife to obtain Eerie Meat from animals."]
+	quest.6A7F00000000003A.title: "An Unusual Cut"
+	quest.6A7F000000000040.quest_desc: ["Prepare Sculk Pork Ribs and Ancient Brittle Bone Fragments in a Wok, plus Pork Ancient Bone Soup in a Stockpot."]
+	quest.6A7F000000000040.title: "A Meal on the Bone"
+	quest.6A7F000000000045.quest_desc: ["Prepare Cooked Warden Tendril Bowl and Sculk-Flavored Mooncake in a Wok."]
+	quest.6A7F000000000045.title: "Nothing Goes to Waste"
+	quest.6A7F000000000049.quest_desc: ["Craft a Silent Upgrade Smithing Template with Warden Tendrils, an Echo Shard and a smithing template."]
+	quest.6A7F000000000049.title: "A Silent Pattern"
+	quest.6A7F00000000004C.quest_desc: ["Upgrade an Erosion Kitchen Knife with the Silent Upgrade Smithing Template and a Sculk Shrieker."]
+	quest.6A7F00000000004C.title: "A Quieter Edge"
+	quest.6A7F00000000004F.quest_desc: ["Craft a Sculk Bone Sickle for harvesting crops and bushes."]
+	quest.6A7F00000000004F.title: "A Wider Harvest"
+	quest.6A7F000000000052.quest_desc: ["Craft a Soul Sail with a Silent Upgrade Smithing Template, Ancient Bone Fragments, wool and a wooden fence."]
+	quest.6A7F000000000052.title: "Souls on the Wind"
+	quest.6A7F000000000055.quest_desc: ["Find a Sculk Caterpillar while gathering sculk ingredients with a kitchen knife."]
+	quest.6A7F000000000055.title: "A Small Echo"
+	quest.6A7F000000000058.quest_desc: [
+		"Press Sculk Flesh into Sculk Juice and collect a bucket."
+		"{\"text\":\"Pressing Tub\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6A7E00000000001A\"}}"
+	]
+	quest.6A7F000000000058.title: "A Darker Juice"
+	quest.6A7F00000000005B.quest_desc: [
+		"Brew Sculk Brew from Sculk Juice, Sculk Fungus and Wheat."
+		"{\"text\":\"Barrel\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6A7E00000000002B\"}}"
+		"{\"text\":\"Bottles and Tap\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6A7E00000000002E\"}}"
+	]
+	quest.6A7F00000000005B.title: "A Barrel of Sculk"
+	quest.6A7F00000000005F.quest_desc: [
+		"Brew Honglan Wine from Sculk Juice, Glowstone Dust and a flower."
+		"{\"text\":\"Barrel\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6A7E00000000002B\"}}"
+		"{\"text\":\"Bottles and Tap\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6A7E00000000002E\"}}"
+	]
+	quest.6A7F00000000005F.title: "Honglan in the Cellar"
+	quest.6A7F000000000063.quest_desc: [
+		"Brew Huadiao Wine from Gold Grape Juice, Rice and Sculk Dust."
+		"{\"text\":\"Barrel\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6A7E00000000002B\"}}"
+		"{\"text\":\"Gold Grapes\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6A7E00000000000E\"}}"
+		"{\"text\":\"Bottles and Tap\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6A7E00000000002E\"}}"
+	]
+	quest.6A7F000000000063.title: "A Golden Echo"
+	quest.6A7F000000000067.quest_desc: [
+		"Prepare an Echo Pu-erh Tea Bag and brew Echo Pu-erh Tea."
+		"{\"text\":\"Teapot\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4BA7892EA25F733A\"}}"
+	]
+	quest.6A7F000000000067.title: "Tea with an Echo"
+	quest.6A7F00000000006D.quest_desc: ["You can plant Echo Seeds on a Sculk Catalyst."]
+	quest.6A7F00000000006D.title: "A Bed for Echoes"
+	quest.6A7F000000000075.quest_desc: ["You can use a Soul Sail to reap weakened creatures."]
+	quest.6A7F000000000075.title: "A Soul for the Taking"
+	quest.6A80000000000002.quest_desc: ["Collect 4 Crimson Fruits in the Crimson Forest."]
+	quest.6A80000000000002.title: "A Harvest in Hell"
+	quest.6A80000000000005.quest_desc: ["Collect 4 Warped Fruits in the Warped Forest."]
+	quest.6A80000000000005.title: "Something Blue"
+	quest.6A80000000000008.quest_desc: ["Collect 4 Mysterious Poison Fruits in the Soul Sand Valley."]
+	quest.6A80000000000008.title: "A Risky Little Fruit"
+	quest.6A8000000000000B.quest_desc: ["Grow chili seeds on Soul Soil and collect 4 Soul Peppers."]
+	quest.6A8000000000000B.title: "Heat from the Soul"
+	quest.6A8000000000000E.quest_desc: ["Prepare Crimson Salad, Warped Salad, Fruit Platter, Warped Cake."]
+	quest.6A8000000000000E.title: "A Brighter Kind of Nether"
+	quest.6A80000000000014.quest_desc: ["Prepare Crimson Kabob, Warped Kabob, Blazing Kabob, Golden Kabob."]
+	quest.6A80000000000014.title: "Four Sticks, Four Flavors"
+	quest.6A8000000000001E.quest_desc: ["Harvest Nether Wart to find 2 Nether Caterpillars."]
+	quest.6A8000000000001E.title: "A Little Nether Protein"
+	quest.6A80000000000021.quest_desc: ["Prepare Nether Caterpillar Sashimi, Caramel Nether Caterpillar, Caramel Nether Caterpillar Rice."]
+	quest.6A80000000000021.title: "Three Ways to Serve a Bug"
+	quest.6A80000000000026.quest_desc: ["Eat all three Nether Caterpillar dishes."]
+	quest.6A80000000000026.title: "A Bug Banquet"
+	quest.6A80000000000029.quest_desc: ["Collect all three Nether fruits and a Soul Pepper."]
+	quest.6A80000000000029.title: "Nether Agronomist"
+	quest.6A8000000000002C.quest_desc: ["Collect Hoglin Tusks, Hoglin Hide and Ham from Hoglins."]
+	quest.6A8000000000002C.title: "A Hoglin's Pantry"
+	quest.6A80000000000031.quest_desc: ["Prepare Roasted Ham, Ham Slice, Roujiamo, Ham Yogurt."]
+	quest.6A80000000000031.title: "Bring Home the Ham"
+	quest.6A80000000000037.quest_desc: ["Collect 2 Gilded Fragments from Piglin Brutes."]
+	quest.6A80000000000037.title: "The Brute's Share"
+	quest.6A8000000000003A.quest_desc: ["Prepare Hoglin Tusk Braised Meat, Golden Roast, Gilded Barbaric Roast."]
+	quest.6A8000000000003A.title: "A Feast for the Bold"
+	quest.6A8000000000003F.quest_desc: ["Craft a Primitive Machete from Hoglin Tusks and Netherite."]
+	quest.6A8000000000003F.title: "The Power of the Hog"
+	quest.6A80000000000042.quest_desc: ["Collect 4 Raw Strider Meat and 2 Strider Rock Shells."]
+	quest.6A80000000000042.title: "A Kitchen on Hot Feet"
+	quest.6A80000000000046.quest_desc: ["Prepare Cooked Strider Meat, Braised Strider, Strider Nether Wart Stew."]
+	quest.6A80000000000046.title: "Strider for Supper"
+	quest.6A8000000000004B.quest_desc: ["Prepare Strider Shell Stir Fry, Soul Strider Kabob."]
+	quest.6A8000000000004B.title: "Shells and Skewers"
+	quest.6A8000000000004F.quest_desc: ["Collect 2 Ghast Hide and 4 Ghast Tentacles from Ghasts."]
+	quest.6A8000000000004F.title: "A Taste of the Clouds"
+	quest.6A80000000000053.quest_desc: ["Prepare Roasted Ghast Tentacle, Ghast Kabob, Ghast Pasta, Ghast Pudding."]
+	quest.6A80000000000053.title: "Clouds on the Menu"
+	quest.6A80000000000059.quest_desc: ["Prepare Poisonous Ghast Roast."]
+	quest.6A80000000000059.title: "A Dangerous Roast"
+	quest.6A8000000000005C.quest_desc: ["Collect 4 Raw Piglin Meat from Piglins."]
+	quest.6A8000000000005C.title: "A Different Cut"
+	quest.6A8000000000005F.quest_desc: ["Prepare Cooked Piglin Meat, Warped Hoglin Tenderloin Stew."]
+	quest.6A8000000000005F.title: "Meat for the Warped Pot"
+	quest.6A80000000000066.quest_desc: ["Collect 4 Wither Ribs from Wither Skeletons."]
+	quest.6A80000000000066.title: "Remains of the Undead"
+	quest.6A80000000000069.quest_desc: ["Prepare Blaze Soup, Magma Cream Soup, Wither Bone Soup."]
+	quest.6A80000000000069.title: "A Fortress Full of Soup"
+	quest.6A8000000000006E.quest_desc: ["Prepare Magma Cream Stir Fry, Magma Cream Stir Fry Rice, Crimson Magma Stew."]
+	quest.6A8000000000006E.title: "A Very Hot Wok"
+	quest.6A80000000000073.quest_desc: ["Prepare Lava Roasted Chicken, Nether Fries Platter."]
+	quest.6A80000000000073.title: "Straight from the Fire"
+	quest.6A80000000000077.quest_desc: ["Prepare Magma Cream Pudding, Lava Jelly."]
+	quest.6A80000000000077.title: "Sweet Heat"
+	quest.6A8000000000007B.quest_desc: ["Prepare Soul Lamb Chop, Soul Glazed Roast, Soul Pepper Stir Fry."]
+	quest.6A8000000000007B.title: "A Little Soul in the Wok"
+	quest.6A80000000000080.quest_desc: ["Prepare Soul Stir Fry Meat, Soul Stir Fry Meat Rice."]
+	quest.6A80000000000080.title: "Two Bowls of Heat"
+	quest.6A80000000000084.quest_desc: ["Prepare Soul Soup, Poisonous Soup, Forgetfulness Soup."]
+	quest.6A80000000000084.title: "Soups with a Strange Aftertaste"
+	quest.6A80000000000089.quest_desc: ["Prepare Spicy Pot, Spicy Pot Rice, Mapo Tofu."]
+	quest.6A80000000000089.title: "The Spicy Corner"
+	quest.6A8000000000008E.quest_desc: ["Prepare Chongqing Noodles, Luosifen, Spicy Hoglin Ramen."]
+	quest.6A8000000000008E.title: "Three Bowls of Noodles"
+	quest.6A80000000000093.quest_desc: ["Prepare Braised Lion Head, Braised Pork Rice, Couples Lung Slice, Garlic Oysters."]
+	quest.6A80000000000093.title: "A Few House Specials"
+	quest.6A80000000000099.quest_desc: ["Prepare Pepper Pork Belly Chicken Soup, Sauerkraut Fish."]
+	quest.6A80000000000099.title: "Comfort by the Fire"
+	quest.6A8000000000009D.title: "A Pinch of Starlight"
+	quest.6A800000000000A0.quest_desc: ["Prepare Soul Return Rice, Star Stew, Star Ghast Pasta, Star Stew Meat."]
+	quest.6A800000000000A0.title: "Dinner Under the Stars"
+	quest.6A800000000000A6.quest_desc: ["Eat all four Star Dust dishes."]
+	quest.6A800000000000A6.title: "A Feast of Starlight"
+	quest.6A800000000000A9.quest_desc: ["Eat a Star Dust dish to gain Star Blessing."]
+	quest.6A800000000000A9.title: "Blessed by the Stars"
+	quest.6A800000000000AC.quest_desc: ["Craft a Nether Stove for your kitchen."]
+	quest.6A800000000000AC.title: "A Hearth of Blackstone"
+	quest.6A800000000000AF.quest_desc: ["Find a Ghast Pendant in an unopened Bastion Treasure chest."]
+	quest.6A800000000000AF.title: "A Sunny Day Charm"
+	quest.6A800000000000B2.quest_desc: [
+		"Craft a Blowgun from Bamboo and Red Wool."
+		"Keep arrows in your inventory, hold right-click, then release to fire."
+	]
+	quest.6A800000000000B2.title: "A Breath of Trouble"
+	quest.6A800000000000B9.quest_desc: ["You can use Star Dust to repair damaged equipment."]
+	quest.6A800000000000B9.title: "A Little Dust Goes a Long Way"
+	quest.6A81000000000002.quest_desc: [
+		"Cut Chorus Fruit twice on a Chopping Board to make Chorus Seeds. Collect 2."
+		"{\"text\":\"Chopping Board\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"381A43D155C8D44B\"}}"
+	]
+	quest.6A81000000000002.title: "Seeds at the Edge of the World"
+	quest.6A81000000000005.quest_desc: ["Use Shears on Chorus Flowers and collect 4 Chorus Petals."]
+	quest.6A81000000000005.title: "A Flower from the End"
+	quest.6A8100000000000C.quest_desc: ["Prepare Chorus Pasta."]
+	quest.6A8100000000000C.title: "Chorus for Dinner"
+	quest.6A81000000000010.quest_desc: ["Harvest 4 Ender Mint from End Stone."]
+	quest.6A81000000000010.title: "A Fresh Breath of the End"
+	quest.6A81000000000013.quest_desc: ["Prepare Ender Mint Candy, Mint Chorus Mousse."]
+	quest.6A81000000000013.title: "Fresh and Sweet"
+	quest.6A81000000000017.quest_desc: ["Prepare Mint Noodle Soup, Mint Sauce Shulker Meat, Mint Sauce Shulker Meat Rice Bowl."]
+	quest.6A81000000000017.title: "Mint on the Menu"
+	quest.6A8100000000001C.quest_desc: ["Collect 4 Dream Berries from the undersides of End islands."]
+	quest.6A8100000000001C.title: "A Dream Beneath the Islands"
+	quest.6A8100000000001F.quest_desc: ["Prepare End Salad."]
+	quest.6A8100000000001F.title: "A Bowl from Another World"
+	quest.6A81000000000022.quest_desc: ["Gain the Dream effect from End ingredients or dishes."]
+	quest.6A81000000000022.title: "A Little Dreaming"
+	quest.6A81000000000025.quest_desc: ["Kill Endermen with a kitchen knife and collect 4 Optic Nerves."]
+	quest.6A81000000000025.title: "Eye for an Ingredient"
+	quest.6A81000000000028.quest_desc: ["Prepare Optic Nerve Sweet and Sour Pork."]
+	quest.6A81000000000028.title: "A Different Kind of Sweet and Sour"
+	quest.6A8100000000002B.quest_desc: ["Defeat Shulkers and collect 4 Shulker Meat."]
+	quest.6A8100000000002B.title: "A Meal Inside a Shell"
+	quest.6A8100000000002E.quest_desc: ["Prepare Stuffed Shulker and Shulker Stew."]
+	quest.6A8100000000002E.title: "A Shell Full of Supper"
+	quest.6A81000000000033.quest_desc: ["Kill Endermites with a kitchen knife and collect 4 Raw Endermite Meat."]
+	quest.6A81000000000033.title: "Tiny Creature, Tiny Cut"
+	quest.6A81000000000036.quest_desc: ["Prepare Roasted Endermite Meat, Stir-fried Endermite Meat, Stir-fried Endermite Meat Rice Bowl."]
+	quest.6A81000000000036.title: "Small Bites"
+	quest.6A8100000000003B.quest_desc: ["Harvest Chorus Fruit to find an End Caterpillar."]
+	quest.6A8100000000003B.title: "A Bug at the End"
+	quest.6A8100000000003E.quest_desc: ["Prepare End Caterpillar Sashimi."]
+	quest.6A8100000000003E.title: "The Last Sashimi"
+	quest.6A81000000000044.quest_desc: ["Brush Suspicious End Stone and collect 2 Void Conches."]
+	quest.6A81000000000044.title: "A Whisper from the Void"
+	quest.6A81000000000047.quest_desc: ["Prepare Stuffed Void Conch, Void Conch Noodle Soup, Void Mutton Steak."]
+	quest.6A81000000000047.title: "A Taste of the Void"
+	quest.6A8100000000004C.quest_desc: ["Gain Void Erosion from an End dish."]
+	quest.6A8100000000004C.title: "A Touch of the Void"
+	quest.6A8100000000004F.quest_desc: ["Brush Suspicious Dragon Eggs to obtain Dragon Dust."]
+	quest.6A8100000000004F.title: "Dust of an Ancient Dragon"
+	quest.6A81000000000052.quest_desc: ["Craft a Dragon Egg Shell from Dragon Dust and Obsidian or Crying Obsidian."]
+	quest.6A81000000000052.title: "A Shell for the Table"
+	quest.6A81000000000055.quest_desc: ["Brush Suspicious Dragon Eggs and collect 2 Dragon Egg Liquid."]
+	quest.6A81000000000055.title: "Inside a Suspicious Egg"
+	quest.6A81000000000058.quest_desc: ["Prepare Fried Dragon Egg, Dragon Soufflé."]
+	quest.6A81000000000058.title: "An Egg and a Little Magic"
+	quest.6A8100000000005C.quest_desc: ["Prepare Dragon Egg Stew."]
+	quest.6A8100000000005C.title: "A Dragon's Breakfast"
+	quest.6A81000000000061.quest_desc: ["Eat Dragon Egg Stew and Dragon Egg Custard."]
+	quest.6A81000000000061.title: "An Eggcellent Feast"
+	quest.6A81000000000064.quest_desc: ["Use a Create Item Drain to empty Dragon's Breath bottles and collect a Dragon Breath Bucket."]
+	quest.6A81000000000064.title: "Catch Your Breath"
+	quest.6A81000000000067.quest_desc: ["Prepare Dragon Breath Chorus Soup, Dragon Breath Mixed Stew, Dragon Breath Popping Candy."]
+	quest.6A81000000000067.title: "A Dragon's Aftertaste"
+	quest.6A8100000000006C.quest_desc: ["Defeat the Ender Dragon and collect 2 Raw Ender Dragon Meat."]
+	quest.6A8100000000006C.title: "The Dragon's Share"
+	quest.6A81000000000070.quest_desc: ["Prepare Cooked Ender Dragon Meat and Dark Dragon Steak."]
+	quest.6A81000000000070.title: "A Feast for the Victor"
+	quest.6A81000000000075.quest_desc: ["Craft an Ender Dragon Smithing Template with Dragon Dust, Obsidian and a Netherite Upgrade Template."]
+	quest.6A81000000000075.title: "A Pattern from the End"
+	quest.6A81000000000078.quest_desc: ["Upgrade a Netherite Kitchen Knife with the Ender Dragon Smithing Template and Dragon Dust."]
+	quest.6A81000000000078.title: "The Dragon's Edge"
+	quest.6A8100000000007B.quest_desc: ["Craft an End Stove from End Stone Bricks and a Campfire."]
+	quest.6A8100000000007B.title: "A Hearth at the End"
+	quest.6A8100000000007E.quest_desc: [
+		"Prepare Chorus Flower Tea Bag and brew Chorus Flower Tea."
+		"{\"text\":\"Teapot\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4BA7892EA25F733A\"}}"
+	]
+	quest.6A8100000000007E.title: "A Flower in the Teapot"
+	quest.6A81000000000083.quest_desc: [
+		"Prepare Ender Mint Tea Bag and brew Ender Mint Tea."
+		"{\"text\":\"Teapot\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4BA7892EA25F733A\"}}"
+	]
+	quest.6A81000000000083.title: "A Fresh Cup"
+	quest.6A81000000000088.quest_desc: [
+		"Prepare Void Tea Bag and brew Void Tea."
+		"{\"text\":\"Teapot\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4BA7892EA25F733A\"}}"
+	]
+	quest.6A81000000000088.title: "A Cup of the Void"
+	quest.6A8100000000008D.quest_desc: [
+		"Prepare Ender Dragon Tea Bag and brew Ender Dragon Tea."
+		"{\"text\":\"Teapot\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"4BA7892EA25F733A\"}}"
+	]
+	quest.6A8100000000008D.title: "A Dragon in Your Teacup"
+	quest.6A81000000000092.quest_desc: ["You can use Chorus Seeds to plant chorus on End Stone."]
+	quest.6A81000000000092.title: "A Seed of Possibility"
+	quest.6A81000000000096.quest_desc: ["You can use Dragon Dust as reusable bone meal."]
+	quest.6A81000000000096.title: "A Dusting of Growth"
+	quest.6A8100000000009A.quest_desc: ["Prepare Chorus Flower Cake."]
+	quest.6A8100000000009A.title: "A Cake from the End"
+	quest.6A810000000000A0.quest_desc: ["Prepare Dragon Egg Ice Cream."]
+	quest.6A810000000000A0.title: "A Frozen Dragon's Egg"
+	quest.6A810000000000A3.quest_desc: ["Prepare Dragon Egg Custard."]
+	quest.6A810000000000A3.title: "A Silky Dragon's Egg"
+	quest.6A810000000000A6.quest_desc: ["Collect a Dragon Tooth from the Ender Dragon."]
+	quest.6A810000000000A6.title: "A Dragon's Tooth"
+	quest.6A82000000000001.quest_desc: [
+		"Use a Glass Bottle on the Ender Dragon's breath cloud to collect Dragon's Breath."
+		"{\"text\":\"Dragon Breath Bucket\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6A81000000000064\"}}"
+	]
+	quest.6A82000000000001.title: "A Breath in a Bottle"
 	quest.6C1439E67BA46B05.quest_desc: [
 		"Break grass while wearing a Straw Hat to find Chili Seeds."
 		"Grow chili plants and collect both green and red peppers. They give many wok and stockpot recipes their heat."
@@ -693,6 +1158,7 @@
 	reward_table.0911E74F7877A7BF.title: "Brass"
 	reward_table.3BDDF30B65EC7DBF.title: "copper"
 	reward_table.59D672C31E81EFB9.title: "andeside"
+	reward_table.6A7E000000001000.title: "Tavern Supplies"
 	reward_table.70756F6074AAB79A.title: "Exp"
 	task.047F566F14E16B87.title: "Any wood"
 	task.0BCD0F67B3F7827A.title: "First diamonds"

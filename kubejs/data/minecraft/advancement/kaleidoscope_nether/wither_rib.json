@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/root",
+  "criteria": {
+    "wither_rib": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kaleidoscope_nether:wither_rib"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "wither_rib"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

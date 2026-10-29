@@ -15,6 +15,7 @@
 	quests: [
 		{
 			dependencies: ["775F114D30179638"]
+			hide_dependent_lines: true
 			id: "4BA7892EA25F733A"
 			preset: "Important"
 			rewards: [
@@ -42,6 +43,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_cookery:mystery_tea"
 			}
@@ -60,6 +62,7 @@
 			y: -3.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_cookery:flower_tea"
 			}
@@ -86,6 +89,7 @@
 			y: -5.0d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_cookery:oolong"
 			}
@@ -119,6 +123,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_cookery:sakura_fubuki"
 			}
@@ -152,6 +157,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_cookery:butter_tea"
 			}
@@ -185,6 +191,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_cookery:tieguanyin"
 			}
@@ -215,9 +222,10 @@
 				}
 			]
 			x: -1.5d
-			y: -3.0d
+			y: -2.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_cookery:biluochun"
 			}
@@ -251,6 +259,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_cookery:barley_tea"
 			}
@@ -281,7 +290,7 @@
 				}
 			]
 			x: 0.0d
-			y: -3.0d
+			y: -2.5d
 		}
 		{
 			id: "140D56A08C937664"
@@ -339,6 +348,7 @@
 			y: 2.0d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:absolution"
 			}
@@ -369,9 +379,10 @@
 				}
 			]
 			x: 1.5d
-			y: -3.0d
+			y: -2.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:autumn_serenade"
 			}
@@ -405,6 +416,7 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:breath_of_ancients"
 			}
@@ -426,10 +438,11 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: 4.0d
+			x: 3.5d
+			y: 3.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:coronation"
 			}
@@ -463,6 +476,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:crimson_heartbeat"
 			}
@@ -496,6 +510,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:echo_of_the_end"
 			}
@@ -529,6 +544,7 @@
 			y: 3.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:fire_waltz"
 			}
@@ -554,6 +570,7 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:first_bloom"
 			}
@@ -587,6 +604,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:fleurs_du_mal"
 			}
@@ -609,9 +627,10 @@
 				}
 			]
 			x: 0.0d
-			y: -5.0d
+			y: -4.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:hanami_tale"
 			}
@@ -642,9 +661,10 @@
 				}
 			]
 			x: -4.0d
-			y: -4.0d
+			y: -3.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:loves_me_not"
 			}
@@ -670,6 +690,7 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:lullaby"
 			}
@@ -703,6 +724,7 @@
 			y: -3.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:may_kiss"
 			}
@@ -728,6 +750,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:prussian_leap"
 			}
@@ -761,6 +784,7 @@
 			y: 2.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:rosy_stride"
 			}
@@ -794,6 +818,7 @@
 			y: -1.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:spring_waltz"
 			}
@@ -819,6 +844,7 @@
 			y: 1.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:tender_thorns"
 			}
@@ -844,6 +870,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:the_sunward"
 			}
@@ -877,6 +904,7 @@
 			y: 0.0d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:the_unnoticed"
 			}
@@ -899,9 +927,10 @@
 				}
 			]
 			x: -1.5d
-			y: -5.0d
+			y: -4.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:vernal_awakening"
 			}
@@ -935,6 +964,7 @@
 			y: 4.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:voracious_urn"
 			}
@@ -957,9 +987,10 @@
 				}
 			]
 			x: 1.5d
-			y: -5.0d
+			y: -4.5d
 		}
 		{
+			dependencies: ["4BA7892EA25F733A"]
 			icon: {
 				id: "kaleidoscope_flora:when_the_wind_rises"
 			}
@@ -1189,7 +1220,7 @@
 				type: "advancement"
 			}]
 			x: -5.25d
-			y: -6.0d
+			y: -5.25d
 		}
 		{
 			dependencies: ["5FF517ECD284B19A"]
@@ -1227,7 +1258,7 @@
 				type: "advancement"
 			}]
 			x: 1.5d
-			y: -7.5d
+			y: -6.75d
 		}
 		{
 			dependencies: ["63959D56376D9898"]

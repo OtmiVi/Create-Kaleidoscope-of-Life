@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "mod_items": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#kaleidoscope_nether:mod_items"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "mod_items"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

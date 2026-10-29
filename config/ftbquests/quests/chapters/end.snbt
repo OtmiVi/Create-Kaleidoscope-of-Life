@@ -1,0 +1,1000 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "end"
+	group: "624E7CB211C91071"
+	icon: {
+		id: "kaleidoscope_end:chorus_petal"
+	}
+	id: "6A81000000000001"
+	images: [ ]
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A81000000000002"
+			preset: "Important"
+			rewards: [{
+				id: "6A81000000000003"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A81000000000004"
+				item: { count: 1, id: "kaleidoscope_end:chorus_seed" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A81000000000005"
+			preset: "Important"
+			rewards: [{
+				id: "6A81000000000006"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A81000000000007"
+				item: { count: 1, id: "kaleidoscope_end:chorus_petal" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6A81000000000002"
+				"2A7E83771DD008F5"
+			]
+			id: "6A8100000000000C"
+			rewards: [{
+				id: "6A8100000000000D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A8100000000000E"
+					item: { count: 1, id: "kaleidoscope_end:chorus_pasta" }
+					type: "item"
+				}
+				{
+					id: "4D3333C9A642126A"
+					item: { count: 1, id: "kaleidoscope_end:chorus_seed_cookie" }
+					type: "item"
+				}
+				{
+					id: "3962D7644CD453E7"
+					item: { count: 1, id: "kaleidoscope_end:chorus_flower_soup" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A81000000000010"
+			preset: "Important"
+			rewards: [{
+				id: "6A81000000000011"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A81000000000012"
+				item: { count: 1, id: "kaleidoscope_end:ender_mint" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6A81000000000010"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000013"
+			rewards: [{
+				id: "6A81000000000014"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A81000000000015"
+					item: { count: 1, id: "kaleidoscope_end:ender_mint_candy" }
+					type: "item"
+				}
+				{
+					id: "6A81000000000016"
+					item: { count: 1, id: "kaleidoscope_end:mint_chorus_mousse" }
+					type: "item"
+				}
+				{
+					id: "6535C9D6D38A09ED"
+					item: { count: 1, id: "kaleidoscope_end:dragon_head_with_sauce" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"6A81000000000010"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000017"
+			rewards: [{
+				id: "6A81000000000018"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A81000000000019"
+					item: { count: 1, id: "kaleidoscope_end:mint_noodle_soup" }
+					type: "item"
+				}
+				{
+					id: "6A8100000000001A"
+					item: { count: 1, id: "kaleidoscope_end:mint_sauce_shulker_meat" }
+					type: "item"
+				}
+				{
+					id: "6A8100000000001B"
+					item: { count: 1, id: "kaleidoscope_end:mint_sauce_shulker_meat_rice_bowl" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A8100000000001C"
+			preset: "Important"
+			rewards: [{
+				id: "6A8100000000001D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A8100000000001E"
+				item: { count: 1, id: "kaleidoscope_end:dream_berry" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"6A8100000000001C"
+				"2A7E83771DD008F5"
+			]
+			id: "6A8100000000001F"
+			rewards: [{
+				id: "6A81000000000020"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A81000000000021"
+				item: { count: 1, id: "kaleidoscope_end:end_salad" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"2A7E83771DD008F5"
+				"6A8100000000001F"
+			]
+			icon: {
+				id: "kaleidoscope_end:chorus_petal"
+			}
+			id: "6A81000000000022"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "6A81000000000023"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_end:dream"
+				criterion: ""
+				id: "6A81000000000024"
+				type: "advancement"
+			}]
+			x: -9.0d
+			y: 3.75d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A81000000000025"
+			preset: "Important"
+			rewards: [{
+				id: "6A81000000000026"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A81000000000027"
+				item: { count: 1, id: "kaleidoscope_end:optic_nerve" }
+				type: "item"
+			}]
+			x: -4.25d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"6A81000000000025"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000028"
+			rewards: [{
+				id: "6A81000000000029"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A8100000000002A"
+				item: { count: 1, id: "kaleidoscope_end:optic_nerve_sweet_and_sour_pork" }
+				type: "item"
+			}]
+			x: -4.25d
+			y: 9.5d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A8100000000002B"
+			preset: "Important"
+			rewards: [{
+				id: "6A8100000000002C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A8100000000002D"
+				item: { count: 1, id: "kaleidoscope_end:shulker_shell_meat" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6A8100000000002B"
+				"2A7E83771DD008F5"
+			]
+			id: "6A8100000000002E"
+			rewards: [{
+				id: "6A8100000000002F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A81000000000030"
+					item: { count: 1, id: "kaleidoscope_end:stuffed_shulker" }
+					type: "item"
+				}
+				{
+					id: "6A81000000000031"
+					item: { count: 1, id: "kaleidoscope_end:shulker_shell_stew" }
+					type: "item"
+				}
+				{
+					id: "7DCFAF6606F81782"
+					item: { count: 1, id: "kaleidoscope_end:shulker_ice_cream" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A81000000000033"
+			preset: "Important"
+			rewards: [{
+				id: "6A81000000000034"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A81000000000035"
+				item: { count: 1, id: "kaleidoscope_end:raw_endermite_meat" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"6A81000000000033"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000036"
+			rewards: [{
+				id: "6A81000000000037"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A81000000000038"
+					item: { count: 1, id: "kaleidoscope_end:roasted_endermite_meat" }
+					type: "item"
+				}
+				{
+					id: "6A81000000000039"
+					item: { count: 1, id: "kaleidoscope_end:stir_fried_endermite_meat" }
+					type: "item"
+				}
+				{
+					id: "6A8100000000003A"
+					item: { count: 1, id: "kaleidoscope_end:stir_fried_endermite_meat_rice_bowl" }
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"2A7E83771DD008F5"
+				"6A81000000000002"
+			]
+			id: "6A8100000000003B"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A8100000000003C"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6A8100000000003D"
+				item: { count: 1, id: "kaleidoscope_end:end_caterpillar" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"6A8100000000003B"
+				"2A7E83771DD008F5"
+			]
+			id: "6A8100000000003E"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A8100000000003F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A81000000000040"
+				item: { count: 1, id: "kaleidoscope_end:end_caterpillar_sashimi" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A81000000000044"
+			preset: "Important"
+			rewards: [{
+				id: "6A81000000000045"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A81000000000046"
+				item: { count: 1, id: "kaleidoscope_end:void_conch" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"6A81000000000044"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000047"
+			rewards: [{
+				id: "6A81000000000048"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A81000000000049"
+					item: { count: 1, id: "kaleidoscope_end:stuffed_void_conch" }
+					type: "item"
+				}
+				{
+					id: "6A8100000000004A"
+					item: { count: 1, id: "kaleidoscope_end:void_conch_noodle_soup" }
+					type: "item"
+				}
+				{
+					id: "6A8100000000004B"
+					item: { count: 1, id: "kaleidoscope_end:void_mutton_steak" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"6A81000000000044"
+				"2A7E83771DD008F5"
+			]
+			icon: {
+				id: "kaleidoscope_end:void_conch_noodle_soup"
+			}
+			id: "6A8100000000004C"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "6A8100000000004D"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_end:void_erosion"
+				criterion: ""
+				id: "6A8100000000004E"
+				type: "advancement"
+			}]
+			x: 5.25d
+			y: 3.75d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A8100000000004F"
+			preset: "Important"
+			rewards: [{
+				id: "6A81000000000050"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A81000000000051"
+				item: { count: 1, id: "kaleidoscope_end:dragon_dust" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A81000000000052"
+			preset: "Important"
+			rewards: [{
+				id: "6A81000000000053"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A81000000000054"
+				item: { count: 1, id: "kaleidoscope_end:dragon_egg_shell" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A81000000000055"
+			preset: "Important"
+			rewards: [{
+				id: "6A81000000000056"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A81000000000057"
+				item: { count: 1, id: "kaleidoscope_end:dragon_egg_liquid" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 7.5d
+		}
+		{
+			dependencies: [
+				"6A81000000000055"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000058"
+			rewards: [{
+				id: "6A81000000000059"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A8100000000005A"
+					item: { count: 1, id: "kaleidoscope_end:fried_dragon_egg" }
+					type: "item"
+				}
+				{
+					id: "6A8100000000005B"
+					item: { count: 1, id: "kaleidoscope_end:dragon_souffle" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"6A81000000000052"
+				"2A7E83771DD008F5"
+			]
+			id: "6A8100000000005C"
+			rewards: [{
+				id: "6A8100000000005D"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "6A8100000000005E"
+				item: { count: 1, id: "kaleidoscope_end:dark_dragon_egg_stew" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"6A81000000000052"
+				"2A7E83771DD008F5"
+			]
+			icon: {
+				id: "kaleidoscope_end:dark_dragon_egg_stew"
+			}
+			id: "6A81000000000061"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "6A81000000000062"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "kaleidoscope_end:dragon_egg_diet"
+				criterion: ""
+				id: "6A81000000000063"
+				type: "advancement"
+			}]
+			x: 5.25d
+			y: 0.75d
+		}
+		{
+			dependencies: [
+				"6A82000000000001"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000064"
+			preset: "Important"
+			rewards: [{
+				id: "6A81000000000065"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A81000000000066"
+				item: { count: 1, id: "create_dragons_plus:dragon_breath_bucket" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.75d
+		}
+		{
+			dependencies: [
+				"6A81000000000064"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000067"
+			rewards: [{
+				id: "6A81000000000068"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					id: "6A81000000000069"
+					item: { count: 1, id: "kaleidoscope_end:dragon_breath_chorus_soup" }
+					type: "item"
+				}
+				{
+					id: "6A8100000000006A"
+					item: { count: 1, id: "kaleidoscope_end:dragon_breath_mixed_stew" }
+					type: "item"
+				}
+				{
+					id: "6A8100000000006B"
+					item: { count: 1, id: "kaleidoscope_end:dragon_breath_popping_candy" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A8100000000006C"
+			preset: "Important"
+			rewards: [{
+				id: "6A8100000000006D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A8100000000006F"
+				item: { count: 1, id: "kaleidoscope_end:raw_ender_dragon_meat" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"6A8100000000006C"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000070"
+			rewards: [{
+				id: "6A81000000000071"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "6A81000000000072"
+					item: { count: 1, id: "kaleidoscope_end:cooked_ender_dragon_meat" }
+					type: "item"
+				}
+				{
+					id: "6A81000000000073"
+					item: { count: 1, id: "kaleidoscope_end:dark_dragon_steak" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A81000000000075"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A81000000000076"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A81000000000077"
+				item: { count: 1, id: "kaleidoscope_end:ender_dragon_smithing_template" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"6A81000000000075"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000078"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A81000000000079"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "6A8100000000007A"
+				item: { count: 1, id: "kaleidoscope_end:dragon_tooth_knife" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A8100000000007B"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A8100000000007C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A8100000000007D"
+				item: { count: 1, id: "kaleidoscope_end:end_stove" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"6A81000000000005"
+				"4BA7892EA25F733A"
+				"2A7E83771DD008F5"
+			]
+			id: "6A8100000000007E"
+			rewards: [
+				{
+					id: "6A8100000000007F"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A81000000000080"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6A81000000000081"
+					item: { count: 1, id: "kaleidoscope_end:chorus_flower_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "6A81000000000082"
+					item: { count: 1, id: "kaleidoscope_end:chorus_flower_tea" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"6A81000000000010"
+				"4BA7892EA25F733A"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000083"
+			rewards: [
+				{
+					id: "6A81000000000084"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A81000000000085"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6A81000000000086"
+					item: { count: 1, id: "kaleidoscope_end:ender_mint_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "6A81000000000087"
+					item: { count: 1, id: "kaleidoscope_end:ender_mint_tea" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"6A81000000000044"
+				"4BA7892EA25F733A"
+				"2A7E83771DD008F5"
+			]
+			id: "6A81000000000088"
+			rewards: [
+				{
+					id: "6A81000000000089"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A8100000000008A"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6A8100000000008B"
+					item: { count: 1, id: "kaleidoscope_end:void_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "6A8100000000008C"
+					item: { count: 1, id: "kaleidoscope_end:void_tea" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"6A8100000000004F"
+				"4BA7892EA25F733A"
+				"2A7E83771DD008F5"
+			]
+			id: "6A8100000000008D"
+			rewards: [
+				{
+					id: "6A8100000000008E"
+					type: "xp"
+					xp: 50
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A8100000000008F"
+					table_id: 406268289039025447L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6A81000000000090"
+					item: { count: 1, id: "kaleidoscope_end:ender_dragon_tea_bag" }
+					type: "item"
+				}
+				{
+					id: "6A81000000000091"
+					item: { count: 1, id: "kaleidoscope_end:ender_dragon_tea" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"6A81000000000002"
+				"2A7E83771DD008F5"
+			]
+			icon: {
+				id: "kaleidoscope_end:chorus_seed"
+			}
+			id: "6A81000000000092"
+			optional: true
+			preset: "Hits"
+			tasks: [{
+				id: "6A81000000000093"
+				type: "checkmark"
+			}]
+			x: -7.5d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"6A8100000000004F"
+				"2A7E83771DD008F5"
+			]
+			icon: {
+				id: "kaleidoscope_end:dragon_dust"
+			}
+			id: "6A81000000000096"
+			optional: true
+			preset: "Hits"
+			tasks: [{
+				id: "6A81000000000097"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"6A81000000000005"
+				"2A7E83771DD008F5"
+			]
+			id: "6A8100000000009A"
+			rewards: [{
+				id: "6A8100000000009B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A8100000000000B"
+				item: { count: 1, id: "kaleidoscope_end:chorus_flower_cake" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"6A81000000000052"
+				"2A7E83771DD008F5"
+			]
+			id: "6A810000000000A0"
+			rewards: [{
+				id: "6A810000000000A1"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A81000000000060"
+				item: { count: 1, id: "kaleidoscope_end:dragon_egg_ice_cream" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6A81000000000055"
+				"2A7E83771DD008F5"
+			]
+			id: "6A810000000000A3"
+			rewards: [{
+				id: "6A810000000000A4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A8100000000005F"
+				item: { count: 1, id: "kaleidoscope_end:dragon_egg_custard" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["2A7E83771DD008F5"]
+			id: "6A810000000000A6"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A810000000000A7"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6A8100000000006E"
+				item: { count: 1, id: "kaleidoscope_end:dragon_tooth" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.0d
+		}
+	]
+}

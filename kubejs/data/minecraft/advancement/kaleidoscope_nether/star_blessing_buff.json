@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/star_dust",
+  "criteria": {
+    "star_blessing_buff": {
+      "conditions": {
+        "effects": {
+          "kaleidoscope_nether:star_blessing": {}
+        }
+      },
+      "trigger": "minecraft:effects_changed"
+    }
+  },
+  "requirements": [
+    [
+      "star_blessing_buff"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

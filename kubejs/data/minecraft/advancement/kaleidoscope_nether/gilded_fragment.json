@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/root",
+  "criteria": {
+    "gilded_fragment": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kaleidoscope_nether:gilded_fragment"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "gilded_fragment"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

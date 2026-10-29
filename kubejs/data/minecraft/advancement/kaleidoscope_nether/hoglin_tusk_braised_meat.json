@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/hoglin_tusk",
+  "criteria": {
+    "hoglin_tusk_braised_meat": {
+      "conditions": {
+        "item": {
+          "items": "kaleidoscope_nether:hoglin_tusk_braised_meat"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "requirements": [
+    [
+      "hoglin_tusk_braised_meat"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

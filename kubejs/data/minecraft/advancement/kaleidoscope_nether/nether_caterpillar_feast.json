@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/nether_caterpillar",
+  "criteria": {
+    "caramel_nether_caterpillar": {
+      "conditions": {
+        "item": {
+          "items": "kaleidoscope_nether:caramel_nether_caterpillar"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "caramel_nether_caterpillar_rice": {
+      "conditions": {
+        "item": {
+          "items": "kaleidoscope_nether:caramel_nether_caterpillar_rice"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    },
+    "nether_caterpillar_sashimi": {
+      "conditions": {
+        "item": {
+          "items": "kaleidoscope_nether:nether_caterpillar_sashimi"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "requirements": [
+    [
+      "nether_caterpillar_sashimi"
+    ],
+    [
+      "caramel_nether_caterpillar"
+    ],
+    [
+      "caramel_nether_caterpillar_rice"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

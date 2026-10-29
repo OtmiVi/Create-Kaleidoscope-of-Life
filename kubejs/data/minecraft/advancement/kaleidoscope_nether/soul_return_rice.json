@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/star_dust",
+  "criteria": {
+    "soul_return_rice": {
+      "conditions": {
+        "item": {
+          "items": "kaleidoscope_nether:soul_return_rice"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "requirements": [
+    [
+      "soul_return_rice"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

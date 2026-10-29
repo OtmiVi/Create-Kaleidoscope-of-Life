@@ -4,5 +4,9 @@
   "item.kubejs.trader_map.towers": "Tower Map",
   "item.kubejs.trader_map.ships": "Seafaring Map",
   "item.kubejs.trader_map.ocean_ruins": "Sunken Ruins Map",
-  "tooltip.kubejs.echo_seed.planting": "Plant on a Sculk Catalyst."
+  "tooltip.kubejs.echo_seed.planting": "Plant on a Sculk Catalyst.",
+  "tooltip.kubejs.blowgun.usage": "Hold right-click with arrows in your inventory, then release to fire.",
+  "tooltip.kubejs.ghast_pendant.obtain": "Found in Bastion Treasure chests.",
+  "info.kubejs.ghast_pendant.source": "Found in treasure-room chests inside Bastion Remnants in the Nether.",
+  "info.kubejs.ghast_pendant.unopened": "Search treasure chests that have not been opened yet."
 }

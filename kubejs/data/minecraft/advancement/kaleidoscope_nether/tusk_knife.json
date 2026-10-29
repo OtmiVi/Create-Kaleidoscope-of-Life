@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/hoglin_tusk",
+  "criteria": {
+    "primitive_machete": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kaleidoscope_nether:primitive_machete"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "primitive_machete"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

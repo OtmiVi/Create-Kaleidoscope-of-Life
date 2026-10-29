@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/root",
+  "criteria": {
+    "star_dust": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kaleidoscope_nether:star_dust"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "star_dust"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

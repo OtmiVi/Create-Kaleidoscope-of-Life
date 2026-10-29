@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:kaleidoscope_nether/gilded_fragment",
+  "criteria": {
+    "gilded_barbaric_roast": {
+      "conditions": {
+        "item": {
+          "items": "kaleidoscope_nether:gilded_barbaric_roast"
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "requirements": [
+    [
+      "gilded_barbaric_roast"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
