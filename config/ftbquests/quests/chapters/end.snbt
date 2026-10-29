@@ -4,10 +4,169 @@
 	filename: "end"
 	group: "624E7CB211C91071"
 	icon: {
-		id: "kaleidoscope_end:chorus_petal"
+		id: "kaleidoscope_end:dragon_egg_ice_cream"
 	}
 	id: "6A81000000000001"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "343B9DE8BF5AC44E"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -8.3d
+			y: 9.07d
+		}
+		{
+			height: 0.04d
+			id: "641503EB16DCA2E6"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -8.3d
+			y: 7.79d
+		}
+		{
+			height: 0.04d
+			id: "0F5163CCF199F0FE"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -8.3d
+			y: 10.35d
+		}
+		{
+			height: 2.6d
+			id: "1962E26D260ACACB"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -11.405d
+			y: 9.07d
+		}
+		{
+			height: 2.6d
+			id: "02E0575C874C2DF2"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -5.195d
+			y: 9.07d
+		}
+		{
+			height: 1.5d
+			id: "029825E920B14755"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: -1.875d
+			y: -4.0d
+		}
+		{
+			height: 0.045d
+			id: "28BD2E5D2D42ACD9"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: -1.875d
+			y: -4.73d
+		}
+		{
+			height: 1.0d
+			id: "5BA40669893DBC9E"
+			image: "item:kaleidoscope_end:end_stove"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.125d
+			y: -4.0d
+		}
+		{
+			height: 1.0d
+			id: "12AC7FB1A0E4717C"
+			image: "item:kaleidoscope_end:dragon_tooth_knife"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.375d
+			y: -4.0d
+		}
+		{
+			height: 0.43d
+			id: "7BA0B9CBDEAE5DC1"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: -1.875d
+			y: -4.0d
+		}
+		{
+			height: 1.55d
+			id: "57715721B60F4960"
+			image: "item:kaleidoscope_end:end_stove"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -10.2d
+			y: 8.8d
+		}
+		{
+			height: 1.55d
+			id: "782FE39C50082477"
+			image: "item:kaleidoscope_end:void_conch"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -8.3d
+			y: 8.8d
+		}
+		{
+			height: 1.55d
+			id: "25823C4B8B061AA1"
+			image: "item:kaleidoscope_end:dragon_tooth_knife"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -6.4d
+			y: 8.8d
+		}
+		{
+			height: 0.23d
+			id: "1B66BC0117FBE492"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: -8.3d
+			y: 9.96d
+		}
+	]
 	order_index: 5
 	quest_links: [ ]
 	quests: [
@@ -56,7 +215,7 @@
 			rewards: [{
 				id: "6A8100000000000D"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -105,7 +264,7 @@
 			rewards: [{
 				id: "6A81000000000014"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -136,7 +295,7 @@
 			rewards: [{
 				id: "6A81000000000018"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -185,7 +344,7 @@
 			rewards: [{
 				id: "6A81000000000020"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				id: "6A81000000000021"
@@ -247,7 +406,7 @@
 			rewards: [{
 				id: "6A81000000000029"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				id: "6A8100000000002A"
@@ -284,7 +443,7 @@
 			rewards: [{
 				id: "6A8100000000002F"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -333,7 +492,7 @@
 			rewards: [{
 				id: "6A81000000000037"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -366,7 +525,7 @@
 			rewards: [{
 				id: "6A8100000000003C"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			tasks: [{
 				id: "6A8100000000003D"
@@ -407,7 +566,6 @@
 				xp: 100
 			}]
 			tasks: [{
-				count: 2L
 				id: "6A81000000000046"
 				item: { count: 1, id: "kaleidoscope_end:void_conch" }
 				type: "item"
@@ -424,7 +582,7 @@
 			rewards: [{
 				id: "6A81000000000048"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -532,7 +690,7 @@
 			rewards: [{
 				id: "6A81000000000059"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -558,7 +716,7 @@
 			rewards: [{
 				id: "6A8100000000005D"
 				type: "xp"
-				xp: 75
+				xp: 25
 			}]
 			tasks: [{
 				id: "6A8100000000005E"
@@ -582,7 +740,7 @@
 			rewards: [{
 				id: "6A81000000000062"
 				type: "xp"
-				xp: 100
+				xp: 75
 			}]
 			tasks: [{
 				advancement: "kaleidoscope_end:dragon_egg_diet"
@@ -622,7 +780,7 @@
 			rewards: [{
 				id: "6A81000000000068"
 				type: "xp"
-				xp: 75
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -671,7 +829,7 @@
 			rewards: [{
 				id: "6A81000000000071"
 				type: "xp"
-				xp: 100
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -717,7 +875,7 @@
 			rewards: [{
 				id: "6A81000000000079"
 				type: "xp"
-				xp: 75
+				xp: 50
 			}]
 			tasks: [{
 				id: "6A8100000000007A"
@@ -756,7 +914,7 @@
 				{
 					id: "6A8100000000007F"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -791,7 +949,7 @@
 				{
 					id: "6A81000000000084"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -826,7 +984,7 @@
 				{
 					id: "6A81000000000089"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -861,7 +1019,7 @@
 				{
 					id: "6A8100000000008E"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -930,7 +1088,7 @@
 			rewards: [{
 				id: "6A8100000000009B"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				id: "6A8100000000000B"
@@ -949,7 +1107,7 @@
 			rewards: [{
 				id: "6A810000000000A1"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				id: "6A81000000000060"
@@ -968,7 +1126,7 @@
 			rewards: [{
 				id: "6A810000000000A4"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				id: "6A8100000000005F"
@@ -986,7 +1144,7 @@
 			rewards: [{
 				id: "6A810000000000A7"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			tasks: [{
 				id: "6A8100000000006E"

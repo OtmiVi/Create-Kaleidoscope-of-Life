@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "space"
+	group: "0A13135CCD72B2AA"
+	icon: {
+		id: "northstar:rocket_thruster"
+	}
+	id: "6A85000000000001"
+	images: [ ]
+	order_index: 9
+	quest_links: [ ]
+	quests: [ ]
+}

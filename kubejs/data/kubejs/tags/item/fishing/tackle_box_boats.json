@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "starcatcher:acacia_tackle_box_boat",
+    "starcatcher:bamboo_tackle_box_boat",
+    "starcatcher:birch_tackle_box_boat",
+    "starcatcher:cherry_tackle_box_boat",
+    "starcatcher:dark_oak_tackle_box_boat",
+    "starcatcher:jungle_tackle_box_boat",
+    "starcatcher:mangrove_tackle_box_boat",
+    "starcatcher:oak_tackle_box_boat",
+    "starcatcher:spruce_tackle_box_boat"
+  ]
+}

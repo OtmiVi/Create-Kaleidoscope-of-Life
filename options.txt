@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","file/Baby Axolotl Panorama.zip","file/Better SB Upgrades.zip","file/CreateSophBackpacks.zip","file/CreateSophiStorage.zip","quark_programmer_art","file/waystones_1.21.1.zip","file/GEO - v1.115.0.zip","file/extras-animation-pack.zip","file/vanilla-animation-pack.zip","file/Better Create Glass Pipes.zip","file/Create_Your_Delightful_Adventure_Quest_Shapes_All_9_NoInnerStripes.zip","file/Simple Grass Flowers v2.0.0.zip","SnowySodiumStairs","mod/continuity:resourcepacks/default","mod/continuity:resourcepacks/glass_pane_culling_fix","file/Liam\u0027s 3D Experience (1.21.11-).zip","file/Silver\u0027s Compass Retexture.zip","file/Glowing+Ender+Dragon+1.19.zip"]
+resourcePacks:["vanilla","fabric","generated/fragmentum_layer","mod_resources","moonlight:merged_pack","file/Baby Axolotl Panorama.zip","file/Better SB Upgrades.zip","file/CreateSophBackpacks.zip","file/CreateSophiStorage.zip","quark_programmer_art","file/waystones_1.21.1.zip","file/GEO - v1.115.0.zip","file/extras-animation-pack.zip","file/vanilla-animation-pack.zip","file/Better Create Glass Pipes.zip","file/Create_Your_Delightful_Adventure_Quest_Shapes_All_9_NoInnerStripes.zip","file/Simple Grass Flowers v2.0.0.zip","SnowySodiumStairs","mod/continuity:resourcepacks/default","mod/continuity:resourcepacks/glass_pane_culling_fix","file/Liam\u0027s 3D Experience (1.21.11-).zip","file/Silver\u0027s Compass Retexture.zip","file/Glowing+Ender+Dragon+1.19.zip","file/VoidConchFinder.zip"]
 incompatibleResourcePacks:["file/Better Create Glass Pipes.zip","file/Glowing+Ender+Dragon+1.19.zip"]
 lastServer:
 lang:en_us
@@ -244,11 +244,11 @@ key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
+key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown

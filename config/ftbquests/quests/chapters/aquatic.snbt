@@ -4,10 +4,169 @@
 	filename: "aquatic"
 	group: "0A13135CCD72B2AA"
 	icon: {
-		id: "create_aquatic_ambitions:prismarine_alloy"
+		id: "create_aquatic_ambitions:mechanical_conduit"
 	}
 	id: "4AD2C0503D04FA56"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "0B9A27CAEC7E60C4"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -0.5d
+			y: 6.27d
+		}
+		{
+			height: 0.04d
+			id: "3248040445C7A2A9"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -0.5d
+			y: 4.99d
+		}
+		{
+			height: 0.04d
+			id: "5EBFC90B95EBF5A4"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -0.5d
+			y: 7.55d
+		}
+		{
+			height: 2.6d
+			id: "77F5A0411C73488E"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -3.605d
+			y: 6.27d
+		}
+		{
+			height: 2.6d
+			id: "1BBACC6F40F18DD6"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 2.605d
+			y: 6.27d
+		}
+		{
+			height: 1.5d
+			id: "047EC3B333A727CF"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			height: 0.045d
+			id: "00A578CCC8125902"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: -0.5d
+			y: -5.73d
+		}
+		{
+			height: 1.0d
+			id: "3C50D6AB19B5DE22"
+			image: "item:create_aquatic_ambitions:mechanical_conduit"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.75d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			id: "5CF06EA74EAB9950"
+			image: "item:creategbd:basic_laser_turret"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.75d
+			y: -5.0d
+		}
+		{
+			height: 0.43d
+			id: "2DEABA0832C12F91"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: -0.5d
+			y: -5.0d
+		}
+		{
+			height: 1.55d
+			id: "5FA3014BDF5BC7AE"
+			image: "item:create_aquatic_ambitions:prismarine_alloy"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -2.4d
+			y: 6.0d
+		}
+		{
+			height: 1.55d
+			id: "370710B8C3629C60"
+			image: "item:create_aquatic_ambitions:mechanical_conduit"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -0.5d
+			y: 6.0d
+		}
+		{
+			height: 1.55d
+			id: "6B5E61C38CFE62C9"
+			image: "item:creategbd:basic_laser_turret"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 1.4d
+			y: 6.0d
+		}
+		{
+			height: 0.23d
+			id: "4FC194006040298D"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: -0.5d
+			y: 7.16d
+		}
+	]
 	order_index: 6
 	quest_links: [ ]
 	quests: [

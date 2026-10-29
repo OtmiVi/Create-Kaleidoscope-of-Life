@@ -3,16 +3,30 @@
 	default_quest_shape: ""
 	filename: "chalanges"
 	group: ""
+	icon: {
+		id: "minecraft:nether_star"
+	}
 	id: "6E227DB696AD3F13"
-	images: [{
-		height: 1.0d
-		id: "62771984DE32F4B8"
-		image: "create:block/experience_block"
-		rotation: 0.0d
-		width: 1.0d
-		x: -1.0d
-		y: 4.0d
-	}]
+	images: [
+		{
+			height: 1.0d
+			id: "62771984DE32F4B8"
+			image: "create:block/experience_block"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			height: 1.0d
+			id: "1F7395256CCA768F"
+			image: "starcatcher:item/starcatcher_guide"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.0d
+			y: 9.0d
+		}
+	]
 	order_index: 5
 	quest_links: [ ]
 	quests: [
@@ -73,6 +87,11 @@
 			icon_scale: 0.8d
 			id: "08451CF3D720B25E"
 			preset: "chalanges"
+			rewards: [{
+				id: "7785CD3AA0F0026C"
+				type: "xp"
+				xp: 500
+			}]
 			shape: "window"
 			tasks: [{
 				fluid: {
@@ -151,8 +170,8 @@
 			rewards: [
 				{
 					id: "36772AAFA6B7550F"
-					type: "xp_levels"
-					xp_levels: 500
+					type: "xp"
+					xp: 500
 				}
 				{
 					count: 32
@@ -245,6 +264,172 @@
 			}]
 			x: 9.0d
 			y: 4.0d
+		}
+		{
+			dependencies: ["638076380D68B560"]
+			icon_scale: 0.8d
+			id: "390F1880AC24A74B"
+			preset: "chalanges"
+			rewards: [{
+				id: "6E2829B9F4674209"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "6ED5944B491A480C"
+				item: { count: 1, id: "starcatcher:trophy_of_the_older_angler" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"6FB787F8389A44C0"
+				"64FDA676FCB9478B"
+				"6659C032BEFB4202"
+				"6A6B32F574D84661"
+				"64C256FF535441A9"
+				"619EE3098BD54160"
+				"6D5D80E408E34164"
+				"609B5E13BFD6497D"
+				"6559BD3A57174C6D"
+				"68D6F3340B764914"
+				"6B87FBE30F6D4DB2"
+				"661E38F36D634500"
+				"64A7BFBE0FBD45C6"
+				"610720146BA9432A"
+				"28FEB827BAE264B5"
+				"6B7BDA36E0DB4890"
+				"6B3817CE19F747F9"
+				"6A8509BF5F7846DC"
+				"663D496317784DB6"
+				"67F86528E40B43A0"
+			]
+			hide_dependent_lines: true
+			icon: {
+				id: "starcatcher:colorful_smithing_template"
+			}
+			icon_scale: 0.8d
+			id: "681F2790616C4970"
+			preset: "chalanges"
+			rewards: [{
+				id: "619628531A3C475A"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				id: "6B19597BF41B48B7"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			icon_scale: 0.8d
+			id: "6DA10719A7A847E7"
+			preset: "chalanges"
+			rewards: [{
+				id: "62D4EE5E1AC946F7"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "6B9C16FE73824912"
+					item: { count: 1, id: "starcatcher_delight:blossom_toast" }
+					type: "item"
+				}
+				{
+					id: "66B67D1611534764"
+					item: { count: 1, id: "starcatcher_delight:cactifish_stew" }
+					type: "item"
+				}
+				{
+					id: "6E0E382C15414C49"
+					item: { count: 1, id: "starcatcher_delight:grilled_shroomfish" }
+					type: "item"
+				}
+				{
+					id: "66CA488078494CB4"
+					item: { count: 1, id: "starcatcher_delight:magma_fish_balls" }
+					type: "item"
+				}
+				{
+					id: "641F8E0F68C54FC3"
+					item: { count: 1, id: "starcatcher_delight:sludge_stew" }
+					type: "item"
+				}
+				{
+					id: "653054733ADE463F"
+					item: { count: 1, id: "starcatcher_delight:spore_nigiri" }
+					type: "item"
+				}
+				{
+					id: "63BCD850039641CC"
+					item: { count: 1, id: "starcatcher_delight:steamed_redscaled_tuna" }
+					type: "item"
+				}
+				{
+					id: "6E839026B3334C51"
+					item: { count: 1, id: "starcatcher_delight:weather_soup" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["6EC6298EF0A24B83"]
+			icon_scale: 0.8d
+			id: "61EE3C6C14DA4780"
+			preset: "chalanges"
+			rewards: [{
+				id: "66B22EB8CFD34E16"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					consume_items: false
+					count: 128L
+					id: "658F67BA875B4901"
+					item: { count: 1, id: "starcatcher:conch" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					count: 128L
+					id: "69962B40B87B45B0"
+					item: { count: 1, id: "starcatcher:clam" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["3856839706A473A7"]
+			icon: {
+				id: "create_deep_dark:molten_echo_bucket"
+			}
+			id: "5CBA5B8B8355E796"
+			preset: "chalanges"
+			rewards: [{
+				id: "74DDEC4629D3A59A"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				fluid: {
+					amount: 100000
+					id: "create_deep_dark:molten_echo"
+				}
+				id: "2C5990A39364F18B"
+				type: "fluid"
+			}]
+			x: 6.0d
+			y: -1.0d
 		}
 	]
 }

@@ -7,7 +7,166 @@
 		id: "create:andesite_alloy"
 	}
 	id: "4BB6B2ED220F896D"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "2916B741CB8B9C5E"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -2.0d
+			y: 1.67d
+		}
+		{
+			height: 0.04d
+			id: "099AC2314B829116"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -2.0d
+			y: 0.39d
+		}
+		{
+			height: 0.04d
+			id: "2FA4211179BF75C8"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -2.0d
+			y: 2.95d
+		}
+		{
+			height: 2.6d
+			id: "72024AAEBA60F245"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -5.105d
+			y: 1.67d
+		}
+		{
+			height: 2.6d
+			id: "074C8EF22A5EF6B6"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 1.105d
+			y: 1.67d
+		}
+		{
+			height: 1.5d
+			id: "1742B3829381440C"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 4.5d
+			y: -11.5d
+		}
+		{
+			height: 0.045d
+			id: "3B9B3D93B9A4D97B"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 4.5d
+			y: -12.23d
+		}
+		{
+			height: 1.0d
+			id: "2E35ED70575BDC78"
+			image: "item:create:water_wheel"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.25d
+			y: -11.5d
+		}
+		{
+			height: 1.0d
+			id: "78CAF20114CED8B8"
+			image: "item:create:mechanical_press"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.75d
+			y: -11.5d
+		}
+		{
+			height: 0.43d
+			id: "3BB341E527420D73"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: 4.5d
+			y: -11.5d
+		}
+		{
+			height: 1.55d
+			id: "4566FEFB20BD0AE3"
+			image: "item:create:water_wheel"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -3.9d
+			y: 1.4d
+		}
+		{
+			height: 1.55d
+			id: "360090268B5B04A2"
+			image: "item:create:large_cogwheel"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -2.0d
+			y: 1.4d
+		}
+		{
+			height: 1.55d
+			id: "2A4CD1064759E90C"
+			image: "item:create:mechanical_press"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -0.1d
+			y: 1.4d
+		}
+		{
+			height: 0.23d
+			id: "62408E3F641F21AD"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: -2.0d
+			y: 2.56d
+		}
+	]
 	order_index: 0
 	quest_links: [
 		{
@@ -87,7 +246,7 @@
 			rewards: [{
 				id: "611F6091CA4E102D"
 				type: "xp"
-				xp: 25
+				xp: 100
 			}]
 			tasks: [{
 				count: 4L
@@ -175,7 +334,7 @@
 			rewards: [{
 				id: "7E7CAB0B9E081B86"
 				type: "xp"
-				xp: 25
+				xp: 100
 			}]
 			tasks: [{
 				count: 16L
@@ -443,7 +602,7 @@
 				{
 					id: "3FF7C8FA815465D9"
 					type: "xp"
-					xp: 25
+					xp: 50
 				}
 				{
 					exclude_from_claim_all: true
@@ -581,7 +740,7 @@
 			rewards: [{
 				id: "44608DA79AD8C8DD"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			tasks: [
 				{
@@ -733,7 +892,7 @@
 			rewards: [{
 				id: "4D4BB44A79411E11"
 				type: "xp"
-				xp: 25
+				xp: 100
 			}]
 			tasks: [{
 				id: "5D37CD2FAA9ADF3E"
@@ -785,11 +944,6 @@
 			icon_scale: 0.8d
 			id: "535376AC4DDE123D"
 			preset: "Hits"
-			rewards: [{
-				id: "06ABC4A54B7E1B6E"
-				type: "xp"
-				xp: 50
-			}]
 			tasks: [{
 				id: "162C3B2CBE851F7C"
 				type: "checkmark"
@@ -927,7 +1081,7 @@
 			rewards: [{
 				id: "0A6FBE38EC7B8BF8"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			tasks: [{
 				id: "08BDB10B42748234"
@@ -945,7 +1099,7 @@
 				{
 					id: "73BFCD73176EC8F9"
 					type: "xp"
-					xp: 25
+					xp: 50
 				}
 				{
 					exclude_from_claim_all: true
@@ -1019,7 +1173,7 @@
 				{
 					id: "472B1ABCB209932A"
 					type: "xp"
-					xp: 25
+					xp: 100
 				}
 			]
 			tasks: [
@@ -1106,7 +1260,7 @@
 			rewards: [{
 				id: "4B36A3249B436C5B"
 				type: "xp"
-				xp: 25
+				xp: 100
 			}]
 			tasks: [{
 				id: "67AA01FFCEDBEDCC"

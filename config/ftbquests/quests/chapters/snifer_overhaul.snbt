@@ -4,13 +4,169 @@
 	filename: "snifer_overhaul"
 	group: ""
 	icon: {
-		components: {
-			"ftbquests:missing_item": "plushie_buddies:plushie_sniffer"
-		}
-		id: "ftbquests:missing_item"
+		id: "minecraft:sniffer_egg"
 	}
 	id: "5C04F22B08E3F615"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "5448507C39C9C4B5"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -4.5d
+			y: -2.73d
+		}
+		{
+			height: 0.04d
+			id: "4B3D62A97AA03F1D"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -4.5d
+			y: -4.01d
+		}
+		{
+			height: 0.04d
+			id: "6740291375542E52"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -4.5d
+			y: -1.45d
+		}
+		{
+			height: 2.6d
+			id: "721A6DF3C24C90A2"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -7.605d
+			y: -2.73d
+		}
+		{
+			height: 2.6d
+			id: "76D61DC86FC5327B"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -1.395d
+			y: -2.73d
+		}
+		{
+			height: 1.5d
+			id: "31D920CA683FBD55"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.0d
+			y: -11.0d
+		}
+		{
+			height: 0.045d
+			id: "72C0D4C3CA58FE38"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.0d
+			y: -11.73d
+		}
+		{
+			height: 1.0d
+			id: "428A0FA609B3FB3E"
+			image: "item:minecraft:sniffer_egg"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			id: "3A796AE76D425719"
+			image: "item:minecraft:pitcher_plant"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.25d
+			y: -11.0d
+		}
+		{
+			height: 0.43d
+			id: "3376DECB0A495FB2"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.0d
+			x: 0.0d
+			y: -11.0d
+		}
+		{
+			height: 1.55d
+			id: "3380D2051F5E7780"
+			image: "item:minecraft:sniffer_egg"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -6.4d
+			y: -3.0d
+		}
+		{
+			height: 1.55d
+			id: "3E2CDFEDB6CFBB46"
+			image: "item:minecraft:torchflower"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			height: 1.55d
+			id: "1661076E7961158F"
+			image: "item:minecraft:pitcher_plant"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -2.6d
+			y: -3.0d
+		}
+		{
+			height: 0.23d
+			id: "075B43F87631B3F1"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: -4.5d
+			y: -1.84d
+		}
+	]
 	order_index: 6
 	quest_links: [ ]
 	quests: [
@@ -77,11 +233,6 @@
 			}
 			icon_scale: 0.8d
 			id: "4E6536570DDAD4B9"
-			rewards: [{
-				id: "526DF23BF058D59A"
-				type: "xp"
-				xp: 50
-			}]
 			shape: "diamond"
 			tasks: [{
 				id: "47472DC82DC5B54A"
@@ -94,11 +245,6 @@
 			dependencies: ["5200A63BBA47114A"]
 			icon_scale: 0.8d
 			id: "4C4599A10BE1B633"
-			rewards: [{
-				id: "4EC95664627FD202"
-				type: "xp"
-				xp: 50
-			}]
 			shape: "diamond"
 			tasks: [{
 				id: "1AFEB542BDC5E13D"
@@ -114,11 +260,6 @@
 			}
 			icon_scale: 0.8d
 			id: "1B677906BB80775E"
-			rewards: [{
-				id: "77E60CCFC6B1B2A0"
-				type: "xp"
-				xp: 50
-			}]
 			shape: "diamond"
 			tasks: [{
 				id: "3BA38FFC31CC0128"

@@ -3,40 +3,233 @@
 	default_quest_shape: ""
 	filename: "deep_dark"
 	group: "0A13135CCD72B2AA"
+	icon: {
+		id: "create_deep_dark:echo_ingot"
+	}
 	id: "3DB0FC039BC2B070"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "433B7B16A75DA92B"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 1.0d
+			y: 4.77d
+		}
+		{
+			height: 0.04d
+			id: "58B9913F6C03A66D"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 1.0d
+			y: 3.49d
+		}
+		{
+			height: 0.04d
+			id: "347EB02163609B05"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 1.0d
+			y: 6.05d
+		}
+		{
+			height: 2.6d
+			id: "431F90ED10EF9D6F"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -2.105d
+			y: 4.77d
+		}
+		{
+			height: 2.6d
+			id: "1FA39DA4A782CC6A"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 4.105d
+			y: 4.77d
+		}
+		{
+			height: 1.5d
+			id: "3290E3B5018D683B"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 8.0d
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			height: 0.045d
+			id: "03C2854A9801306F"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 8.0d
+			x: 1.0d
+			y: -6.23d
+		}
+		{
+			height: 1.0d
+			id: "237260293839DFA5"
+			image: "item:minecraft:echo_shard"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.25d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			id: "00C74438A6C2FE97"
+			image: "item:create_deep_dark:echo_ingot"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: -5.5d
+		}
+		{
+			height: 0.43d
+			id: "014B3D6375EA8AA2"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.0d
+			x: 1.0d
+			y: -5.5d
+		}
+		{
+			height: 1.55d
+			id: "4F8C33CE17F8EE6F"
+			image: "item:create_deep_dark:echo_armor_chestplate"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -0.9d
+			y: 4.5d
+		}
+		{
+			height: 1.55d
+			id: "1B41754658A92462"
+			image: "item:create_deep_dark:molten_echo_bucket"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			height: 1.55d
+			id: "2C7B03518F792B47"
+			image: "item:create_deep_dark:echo_cake"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 2.9d
+			y: 4.5d
+		}
+		{
+			height: 0.23d
+			id: "07EAB4C9275BBBE3"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 1.0d
+			y: 5.66d
+		}
+	]
 	order_index: 3
-	quest_links: [ ]
+	quest_links: [{
+		id: "6FB2BCB9F09440C7"
+		linked_quest: "5CBA5B8B8355E796"
+		x: -1.0d
+		y: -0.5d
+	}]
 	quests: [
 		{
 			id: "3856839706A473A7"
 			preset: "Important"
-			rewards: [{
-				id: "12F548B27FF91C25"
-				type: "xp"
-				xp: 50
-			}]
+			rewards: [
+				{
+					id: "12F548B27FF91C25"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 8
+					id: "393A3C45A4424180"
+					item: {
+						count: 1
+						id: "minecraft:torch"
+					}
+					type: "item"
+				}
+			]
 			shape: "circle"
 			tasks: [{
 				id: "1DB3923BCDCB4000"
 				item: { count: 1, id: "minecraft:echo_shard" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: 1.0d
+			y: -0.5d
 		}
 		{
+			dependencies: ["3856839706A473A7"]
 			id: "6AFBA81B1AF60F4D"
+			rewards: [{
+				id: "061CF566A1F7D965"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				id: "1C30D620634727CC"
 				item: { count: 1, id: "create_deep_dark:echo_ingot" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: -1.5d
+			x: 1.0d
+			y: -2.0d
 		}
 		{
+			dependencies: ["6AFBA81B1AF60F4D"]
+			icon: {
+				id: "create_deep_dark:echo_sword"
+			}
 			id: "01406449A26CC04F"
+			rewards: [{
+				id: "7DF37075971CD77C"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [
 				{
 					id: "6DDECAEA46C0B11B"
@@ -64,31 +257,24 @@
 					type: "item"
 				}
 			]
-			x: 0.0d
-			y: -3.0d
+			x: 1.0d
+			y: -3.5d
 		}
 		{
+			dependencies: ["3856839706A473A7"]
 			id: "3573B0C3B203FBC9"
+			rewards: [{
+				id: "7AA6116DAECC1B9D"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				id: "31E740F4C669055D"
 				item: { count: 1, id: "create_deep_dark:echo_cake" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 0.0d
-		}
-		{
-			id: "5CBA5B8B8355E796"
-			tasks: [{
-				fluid: {
-					amount: 100000
-					id: "create_deep_dark:molten_echo"
-				}
-				id: "2C5990A39364F18B"
-				type: "fluid"
-			}]
-			x: 0.0d
-			y: 2.0d
+			x: 3.0d
+			y: -0.5d
 		}
 	]
 }

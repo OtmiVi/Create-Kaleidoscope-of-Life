@@ -4,10 +4,169 @@
 	filename: "copper"
 	group: "0A13135CCD72B2AA"
 	icon: {
-		id: "create:fluid_pipe"
+		id: "create:steam_engine"
 	}
 	id: "309A8927799B5C99"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "2FD462890C446B3F"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.5d
+			y: -4.98d
+		}
+		{
+			height: 0.04d
+			id: "23A1A1718DEB9ED1"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.5d
+			y: -6.26d
+		}
+		{
+			height: 0.04d
+			id: "3259A34D64B3B756"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.5d
+			y: -3.7d
+		}
+		{
+			height: 2.6d
+			id: "242D49CFC9303677"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 3.395d
+			y: -4.98d
+		}
+		{
+			height: 2.6d
+			id: "3E2BDE0E580BFDB0"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 9.605d
+			y: -4.98d
+		}
+		{
+			height: 1.5d
+			id: "56329533278FF903"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 1.75d
+			y: -8.0d
+		}
+		{
+			height: 0.045d
+			id: "3AD4636022B479EE"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 1.75d
+			y: -8.73d
+		}
+		{
+			height: 1.0d
+			id: "777AE6AFFD3EF159"
+			image: "item:create:fluid_tank"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			id: "1D19C49144F5623A"
+			image: "item:create:mechanical_pump"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.0d
+			y: -8.0d
+		}
+		{
+			height: 0.43d
+			id: "354647FC886C0D78"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: 1.75d
+			y: -8.0d
+		}
+		{
+			height: 1.55d
+			id: "5726A7E8EAA265D3"
+			image: "item:create:fluid_tank"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 4.6d
+			y: -5.25d
+		}
+		{
+			height: 1.55d
+			id: "75C438E9B23D5618"
+			image: "item:create:steam_engine"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 6.5d
+			y: -5.25d
+		}
+		{
+			height: 1.55d
+			id: "0023BD3804EABBDE"
+			image: "item:create:mechanical_pump"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 8.4d
+			y: -5.25d
+		}
+		{
+			height: 0.23d
+			id: "4D47B69BD37DFAE4"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 6.5d
+			y: -4.09d
+		}
+	]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -50,6 +209,11 @@
 			dependencies: ["21DC49BFB670FCDB"]
 			id: "7B363CADBD78324F"
 			optional: true
+			rewards: [{
+				id: "01AC7E3B41A51A33"
+				type: "xp"
+				xp: 50
+			}]
 			shape: "circle"
 			tasks: [
 				{
@@ -140,12 +304,19 @@
 		{
 			dependencies: ["4FC8B0B6D84E9EE0"]
 			id: "74952DAF91A29B22"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "41B4975BB83D7371"
-				table_id: 4313871248370990527L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "41B4975BB83D7371"
+					table_id: 4313871248370990527L
+					type: "random"
+				}
+				{
+					id: "0967C05CAA85760B"
+					type: "xp"
+					xp: 25
+				}
+			]
 			tasks: [{
 				id: "5960A2DA62012F62"
 				item: { count: 1, id: "create:mechanical_pump" }
@@ -712,11 +883,6 @@
 			id: "37B07006A3AB1EA0"
 			optional: true
 			preset: "Hits"
-			rewards: [{
-				id: "25371FA950EED5A8"
-				type: "xp"
-				xp: 50
-			}]
 			tasks: [{
 				id: "6FAEAA1124885F07"
 				type: "checkmark"

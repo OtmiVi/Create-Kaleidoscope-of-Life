@@ -4,10 +4,169 @@
 	filename: "sculk"
 	group: "624E7CB211C91071"
 	icon: {
-		id: "kaleidoscope_sculk:sculk_brew"
+		id: "kaleidoscope_sculk:sculk_fungus_soup"
 	}
 	id: "6A7F000000000001"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "15C7127BCBD8D8A3"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.2d
+			y: -2.13d
+		}
+		{
+			height: 0.04d
+			id: "7679E808622D5367"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.2d
+			y: -3.41d
+		}
+		{
+			height: 0.04d
+			id: "5C9F8D70EB18766B"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.2d
+			y: -0.85d
+		}
+		{
+			height: 2.6d
+			id: "36ABBC522D9D304D"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 3.095d
+			y: -2.13d
+		}
+		{
+			height: 2.6d
+			id: "4ACC4EF90E86F95E"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 9.305d
+			y: -2.13d
+		}
+		{
+			height: 1.5d
+			id: "4F32C03C08EA8475"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 0.045d
+			id: "386B5F2D6D353369"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 0.0d
+			y: -5.23d
+		}
+		{
+			height: 1.0d
+			id: "2B1E59DC39ED94DF"
+			image: "item:kaleidoscope_sculk:deepslate_stove"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.25d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			id: "6D9086E19C670253"
+			image: "item:kaleidoscope_sculk:silent_kitchen_knife"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.25d
+			y: -4.5d
+		}
+		{
+			height: 0.43d
+			id: "19077DF5A12D3558"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 1.55d
+			id: "7888ED835BA1F743"
+			image: "item:kaleidoscope_sculk:deepslate_stove"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 4.3d
+			y: -2.4d
+		}
+		{
+			height: 1.55d
+			id: "2EF0F8DD75177805"
+			image: "item:kaleidoscope_sculk:sculk_fungus_soup"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 6.2d
+			y: -2.4d
+		}
+		{
+			height: 1.55d
+			id: "6B212F3BEAD7426A"
+			image: "item:kaleidoscope_sculk:silent_kitchen_knife"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 8.1d
+			y: -2.4d
+		}
+		{
+			height: 0.23d
+			id: "284E9084891D1ADC"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 6.2d
+			y: -1.24d
+		}
+	]
 	order_index: 3
 	quest_links: [ ]
 	quests: [
@@ -70,7 +229,7 @@
 			rewards: [{
 				id: "6A7F00000000000C"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				id: "6A7F00000000000D"
@@ -198,7 +357,7 @@
 			rewards: [{
 				id: "6A7F000000000021"
 				type: "xp"
-				xp: 75
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -230,7 +389,7 @@
 			rewards: [{
 				id: "6A7F000000000026"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -257,7 +416,7 @@
 			rewards: [{
 				id: "6A7F00000000002A"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -283,7 +442,7 @@
 			rewards: [{
 				id: "6A7F00000000002E"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -358,7 +517,7 @@
 			rewards: [{
 				id: "6A7F00000000003B"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				count: 4L
@@ -380,7 +539,7 @@
 			rewards: [{
 				id: "6A7F000000000041"
 				type: "xp"
-				xp: 75
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -412,7 +571,7 @@
 			rewards: [{
 				id: "6A7F000000000046"
 				type: "xp"
-				xp: 75
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -458,7 +617,7 @@
 			rewards: [{
 				id: "6A7F00000000004D"
 				type: "xp"
-				xp: 75
+				xp: 50
 			}]
 			tasks: [{
 				id: "6A7F00000000004E"
@@ -501,7 +660,7 @@
 			rewards: [{
 				id: "6A7F000000000053"
 				type: "xp"
-				xp: 75
+				xp: 50
 			}]
 			tasks: [{
 				id: "6A7F000000000054"
@@ -519,7 +678,7 @@
 			rewards: [{
 				id: "6A7F000000000056"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			tasks: [{
 				id: "6A7F000000000057"
@@ -538,7 +697,7 @@
 			rewards: [{
 				id: "6A7F000000000059"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				id: "6A7F00000000005A"
@@ -560,7 +719,7 @@
 				{
 					id: "6A7F00000000005C"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -588,7 +747,7 @@
 				{
 					id: "6A7F000000000060"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -618,7 +777,7 @@
 				{
 					id: "6A7F000000000064"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -644,7 +803,7 @@
 			rewards: [{
 				id: "6A7F000000000068"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{

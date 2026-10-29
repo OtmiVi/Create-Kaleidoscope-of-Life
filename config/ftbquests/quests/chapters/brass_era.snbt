@@ -3,8 +3,170 @@
 	default_quest_shape: ""
 	filename: "brass_era"
 	group: "0A13135CCD72B2AA"
+	icon: {
+		id: "create:precision_mechanism"
+	}
 	id: "69462E61A113C180"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "5A4450140EFE3212"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -1.0d
+			y: 4.97d
+		}
+		{
+			height: 0.04d
+			id: "3EB9AA3887A36010"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -1.0d
+			y: 3.69d
+		}
+		{
+			height: 0.04d
+			id: "15D3B26D96F80D84"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -1.0d
+			y: 6.25d
+		}
+		{
+			height: 2.6d
+			id: "0F2EFDC4927D4107"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -4.105d
+			y: 4.97d
+		}
+		{
+			height: 2.6d
+			id: "0CBCCA6FFE7E7994"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 2.105d
+			y: 4.97d
+		}
+		{
+			height: 1.5d
+			id: "7884489C5754F510"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			height: 0.045d
+			id: "6B0E924C931C7CFE"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 4.5d
+			y: -5.23d
+		}
+		{
+			height: 1.0d
+			id: "5FBD4453AC023B8B"
+			image: "item:create:deployer"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.25d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			id: "6981C9D5B9FA2F97"
+			image: "item:create:mechanical_arm"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.75d
+			y: -4.5d
+		}
+		{
+			height: 0.43d
+			id: "5927C139695E7C06"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			height: 1.55d
+			id: "25BEF8AA60E74DAE"
+			image: "item:create:deployer"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -2.9d
+			y: 4.7d
+		}
+		{
+			height: 1.55d
+			id: "4DE163219A69B4F2"
+			image: "item:create:precision_mechanism"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -1.0d
+			y: 4.7d
+		}
+		{
+			height: 1.55d
+			id: "122914AA765D7C15"
+			image: "item:create:mechanical_arm"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 0.9d
+			y: 4.7d
+		}
+		{
+			height: 0.23d
+			id: "17DD1FE1FF9FE1B4"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: -1.0d
+			y: 5.86d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
@@ -448,11 +610,6 @@
 				}
 				{
 					id: "54C4875C3115E531"
-					type: "xp"
-					xp: 25
-				}
-				{
-					id: "18B44A8D0544CE2B"
 					type: "xp"
 					xp: 25
 				}

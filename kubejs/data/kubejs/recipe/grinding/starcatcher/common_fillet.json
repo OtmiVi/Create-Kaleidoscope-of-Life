@@ -1,0 +1,15 @@
+{
+    "type":  "create_enchantment_industry:grinding",
+    "ingredients":  [
+                        {
+                            "tag":  "starcatcher:common_starcaught_fishes"
+                        }
+                    ],
+    "results":  [
+                    {
+                        "id":  "starcatcher_delight:starcaught_fillet_common",
+                        "count":  1
+                    }
+                ],
+    "processing_time":  100
+}

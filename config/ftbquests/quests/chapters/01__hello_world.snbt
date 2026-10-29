@@ -8,7 +8,166 @@
 		id: "minecraft:crafting_table"
 	}
 	id: "77C4932A795646A1"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "39FFE9629C4D6BF6"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -8.0d
+			y: -5.23d
+		}
+		{
+			height: 0.04d
+			id: "65274FEB40E624BE"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -8.0d
+			y: -6.51d
+		}
+		{
+			height: 0.04d
+			id: "407B97ECC3DE9655"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -8.0d
+			y: -3.95d
+		}
+		{
+			height: 2.6d
+			id: "2A91522332734DDD"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -11.105d
+			y: -5.23d
+		}
+		{
+			height: 2.6d
+			id: "543A6ABD86865DF6"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -4.895d
+			y: -5.23d
+		}
+		{
+			height: 1.5d
+			id: "59FC76BCC80BACC3"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 1.25d
+			y: -11.0d
+		}
+		{
+			height: 0.045d
+			id: "4B38D29CB9870012"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 1.25d
+			y: -11.73d
+		}
+		{
+			height: 1.0d
+			id: "40CD3C6410BE2FA6"
+			image: "item:minecraft:crafting_table"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -11.0d
+		}
+		{
+			height: 1.0d
+			id: "1A035F9C96095D9C"
+			image: "item:minecraft:campfire"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -11.0d
+		}
+		{
+			height: 0.43d
+			id: "2E6458BB469D1280"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: 1.25d
+			y: -11.0d
+		}
+		{
+			height: 1.55d
+			id: "488BD1FAB6CECB1A"
+			image: "item:minecraft:crafting_table"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -9.9d
+			y: -5.5d
+		}
+		{
+			height: 1.55d
+			id: "7F1454A696CD5752"
+			image: "item:minecraft:iron_pickaxe"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -8.0d
+			y: -5.5d
+		}
+		{
+			height: 1.55d
+			id: "5C39508B473081DF"
+			image: "item:minecraft:campfire"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -6.1d
+			y: -5.5d
+		}
+		{
+			height: 0.23d
+			id: "1C7D480AE8C16A89"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: -8.0d
+			y: -4.34d
+		}
+	]
 	order_index: 1
 	quest_links: [ ]
 	quests: [
@@ -300,7 +459,7 @@
 			rewards: [{
 				id: "5BBC9B6CEE6347F3"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			shape: "rsquare"
 			tasks: [{
@@ -425,11 +584,6 @@
 			icon_scale: 0.8d
 			id: "5BEEA73118C314D0"
 			optional: true
-			rewards: [{
-				id: "19346A45DA12ABB7"
-				type: "xp"
-				xp: 50
-			}]
 			shape: "diamond"
 			tasks: [{
 				id: "7DDBE25FFEB7AC2C"
@@ -506,7 +660,7 @@
 				{
 					id: "52C61F54DCD50D3C"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 			]
 			tasks: [{
@@ -902,6 +1056,11 @@
 		{
 			dependencies: ["13530E4C44B87217"]
 			id: "3CE44311899D723E"
+			rewards: [{
+				id: "267D03A4E5A0B85F"
+				type: "xp"
+				xp: 50
+			}]
 			shape: "circle"
 			tasks: [
 				{
@@ -1015,7 +1174,7 @@
 			rewards: [{
 				id: "1C534D71DD331515"
 				type: "xp"
-				xp: 100
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1080,7 +1239,7 @@
 			rewards: [{
 				id: "19649F96FA1C9738"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1098,7 +1257,7 @@
 			rewards: [{
 				id: "18CAE628E163C006"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1115,11 +1274,6 @@
 			icon_scale: 0.8d
 			id: "5161081A58AD5C77"
 			preset: "Hits"
-			rewards: [{
-				id: "0852F14D260197F0"
-				type: "xp"
-				xp: 50
-			}]
 			tasks: [{
 				id: "5689C4F5BDB55158"
 				type: "checkmark"
@@ -1198,6 +1352,11 @@
 		{
 			dependencies: ["2457933959868E1D"]
 			id: "0E7ACA21FF037AE7"
+			rewards: [{
+				id: "3DA0BC0F43972442"
+				type: "xp"
+				xp: 25
+			}]
 			tasks: [{
 				id: "577B9FDEC44A765A"
 				item: { count: 1, id: "quark:seed_pouch" }
@@ -1223,100 +1382,6 @@
 			}]
 			x: 10.5d
 			y: 4.5d
-		}
-		{
-			id: "2D19C03AADA330A6"
-			optional: true
-			rewards: [{
-				id: "4AA6BAEAA151C817"
-				type: "xp"
-				xp: 50
-			}]
-			shape: "circle"
-			tasks: [{
-				count: 32L
-				id: "25A95C11106B0370"
-				item: { count: 1, id: "minecraft:lapis_lazuli" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: -6.5d
-		}
-		{
-			dependencies: ["68D2C737BAB62DEE"]
-			icon_scale: 0.8d
-			id: "6F1B12DD98D4F81E"
-			rewards: [
-				{
-					id: "4F3BB0B5B011A432"
-					type: "xp"
-					xp: 50
-				}
-				{
-					id: "0C816E1E22BB5477"
-					item: {
-						count: 1
-						id: "create_enchantment_industry:super_experience_nugget"
-					}
-					type: "item"
-				}
-			]
-			shape: "diamond"
-			tasks: [{
-				id: "4578569896F23717"
-				type: "checkmark"
-			}]
-			x: -1.5d
-			y: -8.5d
-		}
-		{
-			dependencies: [
-				"5B07B986302DE4A7"
-				"6036D24AE93B6289"
-			]
-			id: "68D2C737BAB62DEE"
-			optional: true
-			rewards: [
-				{
-					id: "1539E8829ACFBF30"
-					type: "xp"
-					xp: 50
-				}
-				{
-					count: 6
-					id: "4E21908679A26A4F"
-					item: {
-						count: 1
-						id: "minecraft:book"
-					}
-					type: "item"
-				}
-			]
-			shape: "circle"
-			tasks: [{
-				id: "5E8826CDA0F71E05"
-				item: { count: 1, id: "minecraft:enchanting_table" }
-				type: "item"
-			}]
-			x: -1.5d
-			y: -6.5d
-		}
-		{
-			id: "5B07B986302DE4A7"
-			optional: true
-			rewards: [{
-				id: "5EA8B9FF136F4614"
-				type: "xp"
-				xp: 50
-			}]
-			shape: "circle"
-			tasks: [{
-				id: "7E00759C5461765C"
-				item: { count: 1, id: "minecraft:obsidian" }
-				type: "item"
-			}]
-			x: -4.0d
-			y: -6.5d
 		}
 	]
 }

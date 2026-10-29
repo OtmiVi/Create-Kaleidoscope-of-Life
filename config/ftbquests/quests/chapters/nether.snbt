@@ -4,10 +4,169 @@
 	filename: "nether"
 	group: "624E7CB211C91071"
 	icon: {
-		id: "kaleidoscope_nether:crimson_fruit"
+		id: "kaleidoscope_nether:lava_roasted_chicken"
 	}
 	id: "6A80000000000001"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "5D51C612855A5A95"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.0d
+			y: -2.43d
+		}
+		{
+			height: 0.04d
+			id: "712079CC29A5F5FC"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.0d
+			y: -3.71d
+		}
+		{
+			height: 0.04d
+			id: "7284F95A8CADB325"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.0d
+			y: -1.15d
+		}
+		{
+			height: 2.6d
+			id: "4D3022017F2D16C2"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 2.895d
+			y: -2.43d
+		}
+		{
+			height: 2.6d
+			id: "31860F249F03AB38"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 9.105d
+			y: -2.43d
+		}
+		{
+			height: 1.5d
+			id: "6AE004993BD30AA7"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: -1.375d
+			y: -5.5d
+		}
+		{
+			height: 0.045d
+			id: "0F19DD2C138D69BB"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: -1.375d
+			y: -6.23d
+		}
+		{
+			height: 1.0d
+			id: "6F8ADBBCD00D8C4F"
+			image: "item:kaleidoscope_nether:nether_stove"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.625d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			id: "0AECE3149AEF2524"
+			image: "item:kaleidoscope_nether:hoglin_tusk"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.875d
+			y: -5.5d
+		}
+		{
+			height: 0.43d
+			id: "6DCA042F1B9799B1"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: -1.375d
+			y: -5.5d
+		}
+		{
+			height: 1.55d
+			id: "64A4A4A9BE6A98E6"
+			image: "item:kaleidoscope_nether:nether_stove"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 4.1d
+			y: -2.7d
+		}
+		{
+			height: 1.55d
+			id: "486A81BF2DC41422"
+			image: "item:kaleidoscope_nether:lava_roasted_chicken"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 6.0d
+			y: -2.7d
+		}
+		{
+			height: 1.55d
+			id: "3C2E6E9178D168B9"
+			image: "item:kaleidoscope_nether:hoglin_tusk"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 7.9d
+			y: -2.7d
+		}
+		{
+			height: 0.23d
+			id: "17D2AD50913014AB"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 6.0d
+			y: -1.54d
+		}
+	]
 	order_index: 4
 	quest_links: [ ]
 	quests: [
@@ -76,7 +235,7 @@
 			rewards: [{
 				id: "6A8000000000000F"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -114,7 +273,7 @@
 			rewards: [{
 				id: "6A80000000000015"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -170,7 +329,7 @@
 			rewards: [{
 				id: "6A80000000000022"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -291,7 +450,7 @@
 			rewards: [{
 				id: "6A80000000000032"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -349,7 +508,7 @@
 			rewards: [{
 				id: "6A8000000000003B"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -382,7 +541,7 @@
 			rewards: [{
 				id: "6A80000000000040"
 				type: "xp"
-				xp: 75
+				xp: 50
 			}]
 			tasks: [{
 				id: "6A80000000000041"
@@ -431,7 +590,7 @@
 			rewards: [{
 				id: "6A80000000000047"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -463,7 +622,7 @@
 			rewards: [{
 				id: "6A8000000000004C"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -519,7 +678,7 @@
 			rewards: [{
 				id: "6A80000000000054"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -557,7 +716,7 @@
 			rewards: [{
 				id: "6A8000000000005A"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				id: "6A8000000000005B"
@@ -598,7 +757,7 @@
 			rewards: [{
 				id: "6A80000000000060"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -646,7 +805,7 @@
 			rewards: [{
 				id: "6A8000000000006A"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -677,7 +836,7 @@
 			rewards: [{
 				id: "6A8000000000006F"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -708,7 +867,7 @@
 			rewards: [{
 				id: "6A80000000000074"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -734,7 +893,7 @@
 			rewards: [{
 				id: "6A80000000000078"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -761,7 +920,7 @@
 			rewards: [{
 				id: "6A8000000000007C"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -793,7 +952,7 @@
 			rewards: [{
 				id: "6A80000000000081"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -820,7 +979,7 @@
 			rewards: [{
 				id: "6A80000000000085"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				id: "6A80000000000087"
@@ -840,7 +999,7 @@
 			rewards: [{
 				id: "6A8000000000008A"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -872,7 +1031,7 @@
 			rewards: [{
 				id: "6A8000000000008F"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -903,7 +1062,7 @@
 			rewards: [{
 				id: "6A80000000000094"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -939,7 +1098,7 @@
 			rewards: [{
 				id: "6A8000000000009A"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -967,7 +1126,7 @@
 			rewards: [{
 				id: "6A800000000000A1"
 				type: "xp"
-				xp: 100
+				xp: 25
 			}]
 			tasks: [
 				{
@@ -1008,7 +1167,7 @@
 			rewards: [{
 				id: "6A800000000000A7"
 				type: "xp"
-				xp: 100
+				xp: 75
 			}]
 			tasks: [{
 				advancement: "kaleidoscope_nether:star_diet"

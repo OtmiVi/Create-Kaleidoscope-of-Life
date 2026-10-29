@@ -1,30 +1,110 @@
 {
-	chapter.16BAAF5A6A89C74B.title: "Storages"
-	chapter.1B6D3098329B01E0.title: "villagers"
-	chapter.1E5E232C9AC9DF9D.title: "Exposure"
-	chapter.23964F71E81F7706.title: "Waistones"
-	chapter.2440470F0EF46013.title: "tea"
-	chapter.28AD0F9B46A3A947.title: "00 - Welcome!"
-	chapter.2FE9765A1A335D56.title: "Quark"
-	chapter.309A8927799B5C99.title: "Copper"
-	chapter.3DB0FC039BC2B070.title: "Deep dark"
-	chapter.4AD2C0503D04FA56.title: "Aquatic"
-	chapter.4BB6B2ED220F896D.title: "Abdesite era"
-	chapter.5B8DD4295904CF7B.title: "Cookery"
-	chapter.5C04F22B08E3F615.title: "Snifer Overhaul"
-	chapter.69462E61A113C180.title: "Brass era"
-	chapter.6A7E000000000001.title: "Tavern"
-	chapter.6A7F000000000001.title: "Sculk"
-	chapter.6A80000000000001.title: "Nether"
-	chapter.6A81000000000001.title: "End"
-	chapter.6AFE0638A04ACE83.title: "Enchantment Industry"
-	chapter.6E227DB696AD3F13.title: "Chalanges"
-	chapter.77C4932A795646A1.title: "01 - Hello world"
-	chapter.7DDB4665547C3D95.title: "Storage"
-	chapter_group.0A13135CCD72B2AA.title: "02 - Create"
-	chapter_group.624E7CB211C91071.title: "ащщв"
+	chapter.16BAAF5A6A89C74B.title: "{\"text\":\"Storage\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.1B6D3098329B01E0.title: "{\"text\":\"Villagers\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.1E5E232C9AC9DF9D.title: "{\"text\":\"Exposure\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.23964F71E81F7706.title: "{\"text\":\"Waystones\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.2440470F0EF46013.title: "{\"text\":\"Tea \\u0026 Blossoms\",\"color\":\"#A9C58C\",\"bold\":false}"
+	chapter.28AD0F9B46A3A947.title: "{\"text\":\"Welcome\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.2FE9765A1A335D56.title: "{\"text\":\"Quark\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.309A8927799B5C99.title: "{\"text\":\"Copper Era\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter.3DB0FC039BC2B070.title: "{\"text\":\"Echo Create\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter.4AD2C0503D04FA56.title: "{\"text\":\"Aquatic Create\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter.4BB6B2ED220F896D.title: "{\"text\":\"Andesite Era\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter.56FDF13D8997E82F.title: "{\"text\":\"Fishing Gear\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.5B8DD4295904CF7B.title: "{\"text\":\"Field to Feast\",\"color\":\"#A9C58C\",\"bold\":false}"
+	chapter.5C04F22B08E3F615.title: "{\"text\":\"Sniffer\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.679ECAB501E84919.title: "{\"text\":\"Rod \\u0026 Tackle Skins\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.67D1DD08397D4C5F.title: "{\"text\":\"Fish Cooking\",\"color\":\"#A9C58C\",\"bold\":false}"
+	chapter.69462E61A113C180.title: "{\"text\":\"Brass Era\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter.6A7E000000000001.title: "{\"text\":\"Vine \\u0026 Barrel\",\"color\":\"#A9C58C\",\"bold\":false}"
+	chapter.6A7F000000000001.title: "{\"text\":\"Sculk Kitchen\",\"color\":\"#A9C58C\",\"bold\":false}"
+	chapter.6A80000000000001.title: "{\"text\":\"Nether Kitchen\",\"color\":\"#A9C58C\",\"bold\":false}"
+	chapter.6A81000000000001.title: "{\"text\":\"End Kitchen\",\"color\":\"#A9C58C\",\"bold\":false}"
+	chapter.6A83000000000001.title: "{\"text\":\"Trains\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter.6A84000000000001.title: "{\"text\":\"Power Grid\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter.6A85000000000001.title: "{\"text\":\"Space\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter.6AFE0638A04ACE83.title: "{\"text\":\"Enchanting\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter.6E227DB696AD3F13.title: "{\"text\":\"Challenges\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.77C4932A795646A1.title: "{\"text\":\"Hello World\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	chapter.7DDB4665547C3D95.title: "{\"text\":\"Logistics\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter_group.0A13135CCD72B2AA.title: "{\"text\":\"Create\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter_group.624E7CB211C91071.title: "{\"text\":\"Kaleidoscope\",\"color\":\"#A9C58C\",\"bold\":false}"
+	chapter_group.6FB79066314E4833.title: "{\"text\":\"Fishing\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.014B3D6375EA8AA2.title: "{\"text\":\"ECHO CREATE\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.04A73312069D8AED.title: "{\"text\":\"COMPANIONS \\u0026 SKILLS\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.075B43F87631B3F1.title: "{\"text\":\"Hatch a friend. Find ancient seeds.\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.07EAB4C9275BBBE3.title: "{\"text\":\"Echo metal. Stronger gear. Sculk recipes.\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.0BC3F651879A8008.title: "{\"text\":\"ENCHANTING\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.0D86CCEAEC790476.title: "{\"text\":\"STORAGE\",\"color\":\"#D4CDBE\",\"bold\":true}"
+	image.176FC119E81AEDA2.title: "{\"text\":\"TEA \\u0026 BLOSSOMS\",\"color\":\"#A9C58C\",\"bold\":true}"
+	image.17D2AD50913014AB.title: "{\"text\":\"Nether ingredients. Fiery recipes.\",\"color\":\"#A9C58C\",\"bold\":false}"
+	image.17DD1FE1FF9FE1B4.title: "{\"text\":\"Put precision to work.\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.19077DF5A12D3558.title: "{\"text\":\"SCULK KITCHEN\",\"color\":\"#A9C58C\",\"bold\":true}"
+	image.191A56191B14EBC1.title: "{\"text\":\"Trust. Hire. Build a community.\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.1B66BC0117FBE492.title: "{\"text\":\"Bring a taste of the End home.\",\"color\":\"#A9C58C\",\"bold\":false}"
+	image.1C7D480AE8C16A89.title: "{\"text\":\"Gather. Craft. Explore.\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.1E407A2588EFC638.title: "{\"text\":\"BUILDING A VILLAGE\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.1FDE88B6F006CAFE.title: "{\"text\":\"WORK \\u0026 WAGES\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.284E9084891D1ADC.title: "{\"text\":\"A kitchen in the Deep Dark.\",\"color\":\"#A9C58C\",\"bold\":false}"
+	image.2DEABA0832C12F91.title: "{\"text\":\"AQUATIC CREATE\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.2E6458BB469D1280.title: "{\"text\":\"HELLO WORLD\",\"color\":\"#D4CDBE\",\"bold\":true}"
+	image.327C6F0584352BF0.title: "{\"text\":\"Move items. Keep things tidy.\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.32CE946898E2C65D.title: "{\"text\":\"STORIES \\u0026 REQUESTS\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.3376DECB0A495FB2.title: "{\"text\":\"SNIFFER\",\"color\":\"#D4CDBE\",\"bold\":true}"
+	image.354647FC886C0D78.title: "{\"text\":\"COPPER ERA\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.36E89B1546DFA8FD.title: "{\"text\":\"Store, sort and pack for the road.\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.3817B32EB2FFA3C3.title: "{\"text\":\"LOGISTICS\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.3BB341E527420D73.title: "{\"text\":\"ANDESITE ERA\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.3F677598EDC34334.title: "{\"text\":\"Brew a cup. Share something sweet.\",\"color\":\"#A9C58C\",\"bold\":false}"
+	image.40806592DF3A16BC.title: "{\"text\":\"VINE \\u0026 BARREL\",\"color\":\"#A9C58C\",\"bold\":true}"
+	image.423DA6491A569571.title: "{\"text\":\"WAYSTONES\",\"color\":\"#D4CDBE\",\"bold\":true}"
+	image.435757B30DF8A658.title: "{\"text\":\"Grow, press and serve.\",\"color\":\"#A9C58C\",\"bold\":false}"
+	image.49908939FC7D8F6B.title: "{\"text\":\"FIELD TO FEAST\",\"color\":\"#A9C58C\",\"bold\":true}"
+	image.4D47B69BD37DFAE4.title: "{\"text\":\"Pipes, boilers and steam.\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.4FC194006040298D.title: "{\"text\":\"Prismarine power. Ocean machinery.\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.512A1013A006892A.title: "{\"text\":\"Collect XP. Upgrade your gear.\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.5927C139695E7C06.title: "{\"text\":\"BRASS ERA\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.592F8FE87BADE3C2.title: "{\"text\":\"VILLAGERS \\u0026 COMMUNITY\",\"color\":\"#D4CDBE\",\"bold\":true}"
+	image.6077AA23ACE94F9B.title: "{\"text\":\"FISH MENUS\",\"color\":\"#A9C58C\",\"bold\":false}"
+	image.608875ECB80D40D4.title: "{\"text\":\"Find every template. Choose your own style.\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.610A08441D2B404F.title: "{\"text\":\"Choose your tackle. Build your collection.\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.620B0E8E5223446B.title: "{\"text\":\"BOBBERS\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.62408E3F641F21AD.title: "{\"text\":\"Power your first machines.\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.64C40F1352EC417D.title: "{\"text\":\"BAIT \\u0026 WORMS\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.656AB8959102481C.title: "{\"text\":\"TOOLS, SHELLS \\u0026 DISPLAYS\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.65FE2585ACEB408B.title: "{\"text\":\"One good catch. A whole new menu.\",\"color\":\"#A9C58C\",\"bold\":false}"
+	image.661A5FB8CB0E4FAE.title: "{\"text\":\"HOOKS\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.6629A890DD63445B.title: "{\"text\":\"FROM CATCH TO PLATE\",\"color\":\"#A9C58C\",\"bold\":true}"
+	image.66A366C4A4AF47F5.title: "{\"text\":\"MAKE THE ROD YOUR OWN\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.67C393FBF9E348BE.title: "{\"text\":\"TACKLE TEMPLATES\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.68710DF8EA8945D9.title: "{\"text\":\"THE TROPHY LINE\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.68DECC8CDC4646A3.title: "{\"text\":\"ROD \\u0026 TACKLE SKINS\",\"color\":\"#D4CDBE\",\"bold\":true}"
+	image.6A088259B650496E.title: "{\"text\":\"Find a way back home.\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.6C0AEF58700F493C.title: "{\"text\":\"FILLETS\",\"color\":\"#A9C58C\",\"bold\":false}"
+	image.6CB4FC885BC5138F.title: "{\"text\":\"FILTERS \\u0026 LOGISTICS\",\"color\":\"#D4CDBE\",\"bold\":false}"
+	image.6DC540A2147642AC.title: "{\"text\":\"THE KITCHEN\",\"color\":\"#A9C58C\",\"bold\":false}"
+	image.6DCA042F1B9799B1.title: "{\"text\":\"NETHER KITCHEN\",\"color\":\"#A9C58C\",\"bold\":true}"
+	image.6E6A67F18A3AB002.title: "{\"text\":\"Chop. Stir-fry. Simmer.\",\"color\":\"#A9C58C\",\"bold\":false}"
+	image.6FA10DD31C9B45B9.title: "{\"text\":\"STARCATCHER\",\"color\":\"#D4CDBE\",\"bold\":true}"
+	image.7BA0B9CBDEAE5DC1.title: "{\"text\":\"END KITCHEN\",\"color\":\"#A9C58C\",\"bold\":true}"
+	quest.000B689515524AB1.quest_desc: ["Compacts items into their compressed variants Only 2x2 recipes Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.00699E41DD5435D6.quest_desc: [
+		"Use a Trial Key on a vault to earn Under Lock and Key."
+		"Ordinary and ominous vaults use different keys, so match the key to the vault you found."
+	]
+	quest.00903C87A134D20F.quest_desc: ["Apply this tier upgrade to a matching Gold storage container to raise it to Netherite tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.00943BF6A742C5FD.quest_desc: ["Speeds up bites and favors fish from cherry groves."]
+	quest.00943BF6A742C5FD.title: "A Taste of Cherry"
+	quest.00ECFF7D7405A921.quest_desc: ["Shafts carry rotation along a straight axis. Use cogwheels or gearboxes when the machine is not in line with the source."]
+	quest.00ECFF7D7405A921.title: "Shaft"
+	quest.01055F24A8E676D8.quest_desc: ["Complete ominous trial encounters to obtain keys for ominous vaults. Prepare equipment and food before triggering the harder encounter."]
+	quest.01406449A26CC04F.quest_desc: ["Use Echo Upgrade Smithing Templates and Echo Ingots to upgrade matching Netherite equipment. Keep enough materials for the complete set."]
+	quest.01406449A26CC04F.title: "Echo Sword and Armor"
+	quest.0143614D99A39DAB.quest_desc: ["Install this module to automatically switch to a suitable tool from your backpack when interacting with blocks or entities. Configure its filters and check the assigned key for swapping interaction tools."]
+	quest.0172930769CA91D7.quest_desc: ["Build a tank for bulk storage, use an Item Drain to empty containers, and place a Spout above items to fill them. Keep different fluids on separate lines."]
+	quest.0172930769CA91D7.title: "Fluid Storage, Draining and Filling"
 	quest.017D36B7F519B774.quest_desc: [
-		"Obtain Lettuce Seeds by breaking grass while wearing a Straw Hat, then plant them on farmland."
+		"Break grass while wearing a Straw Hat to find Lettuce Seeds, then plant them on farmland."
 		"Grow a steady supply for soups and stuffed dough. Watch for caterpillars when harvesting."
 	]
 	quest.017D36B7F519B774.title: "Leaves for Lunch"
@@ -38,9 +118,32 @@
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.01B105DD883B7FC1.title: "Absolution"
+	quest.01B52BEE22693FA6.quest_desc: ["Crafting table in an upgrade tab Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.0202C5B83CF0C7A2.quest_desc: ["Combine Fishing Rod and Iron Ingot to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Woodland Mansion. Use it again to return to manual control."]
+	quest.0242EC18C51E4903.quest_desc: ["Automatically compresses/decompresses items Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.02913910B8BC7B09.quest_desc: ["Install this stack upgrade in the storage to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.02DE6B0AF3ACE4A0.quest_desc: ["Install this stack upgrade in the backpack to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.03139DD7511FF6E8.quest_desc: ["Makes storage pickup items Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.03C14112270873B7.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
 	quest.03C14112270873B7.title: "Netherite tools"
+	quest.0451FE3705BED077.quest_desc: ["Smoking food in an upgrade tab Automatically pulls/pushes items Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.049404DD6AEF27A7.quest_desc: [
+		"Place a Sniffer Egg somewhere safe to hatch."
+		"Moss speeds up hatching. Protect the hatchling, then use the companion quest to learn this pack's taming and riding features."
+	]
+	quest.057CE0DED0A13A8B.quest_desc: ["Smelting in an upgrade tab Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.0594598C4D16819F.quest_desc: ["Power the fan and place the recipe's processing medium in its airflow. Ponder shows washing, smoking, blasting and haunting arrangements."]
+	quest.0594598C4D16819F.title: "Encased Fan"
+	quest.05A990050BDBB85E.quest_desc: ["Chassis and Stickers attach parts to contraptions; pulleys and gantries move them. Inspect the attachment range before assembling a large moving build."]
+	quest.05A990050BDBB85E.title: "Chassis, Pulleys and Gantries"
 	quest.05BC17815B49C91C.quest_desc: ["Drink three different flower drinks within one minute"]
 	quest.05BC17815B49C91C.title: "Flowers for Wine"
+	quest.066471407CC97D8F.quest_desc: [
+		"Reach Respected reputation with one villager: 250 points."
+		"Use requests, trade, conversation and preferred gifts."
+	]
+	quest.066471407CC97D8F.title: "Respect Is Earned"
+	quest.06DB9A54534E08AB.quest_desc: ["Upgrade Bases are components for functional storage upgrades. Craft only the modules you need, then install them in the storage's upgrade slots."]
 	quest.0749C059A711739E.quest_desc: [
 		"Gain the Flatulence effect, then sneak to propel yourself upward."
 		"Ascend 1900 blocks from your starting position during the flight to complete this pack-adjusted Cookery advancement."
@@ -49,27 +152,61 @@
 	quest.0749C059A711739E.title: "Rocket-Powered Digestion"
 	quest.07670213AF28B8EF.quest_desc: ["Pin three different creatures within one second"]
 	quest.07670213AF28B8EF.title: "Three Blooms at Once"
+	quest.07D28195999FC375.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
+	quest.07D28195999FC375.title: "Rose Quartz Tools"
 	quest.0833150753998783.quest_desc: [
 		"Prepare the tea bag and its matching brewed tea to complete this tasting."
 		"Keep a cup ready beside your Teapot."
 	]
 	quest.0833150753998783.title: "Tieguanyin"
+	quest.084F2A59DF8F3A06.quest_desc: ["Become Trusted in three different tracked villages."]
+	quest.084F2A59DF8F3A06.title: "Village Hopper"
+	quest.08F376945FD16964.quest_desc: ["Combine Fishing Rod and Acacia Log to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Savanna. Use it again to return to manual control."]
+	quest.09512212C7737B61.quest_desc: ["Restocks backpack from sneak right clicked inventory Has more filtering options Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.096D6806626CD6D4.quest_desc: ["Arrange the Mechanical Crafters in the shape of the recipe, connect their output paths and supply rotation. Slot Covers handle unused positions."]
+	quest.096D6806626CD6D4.title: "Mechanical Crafting"
+	quest.09C9528550E1FD6B.quest_desc: ["The Heavy Core is a rare reward from ominous vaults. Combine it with a Breeze Rod when you are ready to make a Mace."]
+	quest.0A2DAE5EAAE798AE.quest_desc: ["Add the Communicating Vessel to the fluid network. Use its Ponder preview to check the arrangement and connected fluid levels."]
+	quest.0A2DAE5EAAE798AE.title: "Communicating Vessel"
+	quest.0A64FE9FA8A36805.quest_desc: ["Keep Wood Pulp for paper production. Open its JEI recipes and uses to check the processing steps available in this pack."]
+	quest.0A64FE9FA8A36805.title: "Pulp"
+	quest.0AC244DE295B190A.quest_desc: ["Set up a Decoration Table and Paintbrush to customize storage colors and materials. Apply the design to your placed storage after testing a sample."]
 	quest.0B22C27008D8732E.quest_desc: [
 		"Use a skull on a placed Scarecrow to replace its head."
 		"This completes The Art of Grafting advancement. Choose a face that suits your farm."
 	]
 	quest.0B22C27008D8732E.title: "A Change of Face"
 	quest.0BDD49E0B7056D1E.quest_desc: [
-		"Obtain a Super Enchanting Template using a Block of Super Experience. Check JEI for its recipe."
+		"Use a Block of Super Experience to make a Super Enchanting Template. Check JEI for the recipe."
 		"Blaze Enchanters and Blaze Forgers in Super Enchanting mode require these upgraded templates instead of normal ones."
 	]
-	quest.0BDD49E0B7056D1E.title: "A Supernatural Blueprint"
+	quest.0BDD49E0B7056D1E.title: "Super Enchanting Template"
+	quest.0BEBB2510D8435FE.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
 	quest.0BEBB2510D8435FE.title: "Diamond tools"
+	quest.0BF74A0BE3031662.quest_desc: ["Smelting in an upgrade tab Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
 	quest.0C8B9821D43ED752.quest_desc: [
-		"Collect 8 Oil. Killing pigs, piglins or hoglins with a Cookery kitchen knife can provide it."
+		"Killing pigs, piglins or hoglins with a Cookery kitchen knife can provide it."
 		"Keep Oil beside your stove: it is the first ingredient added to the wok before stir-frying."
 	]
 	quest.0C8B9821D43ED752.title: "Oil on the Blade"
+	quest.0C9B6DB67E464948.quest_desc: ["Limited Barrels dedicate a small number of slots to bulk item storage. Choose a layout that matches your workshop's main materials."]
+	quest.0CD42B19BBFEA7F2.quest_desc: [
+		"Craft a List Filter and select the allowed or denied items."
+		"Set transfer direction and stock limits in the worker's storage policy."
+	]
+	quest.0CD42B19BBFEA7F2.title: "Choose What Moves"
+	quest.0D4174672201A7EA.quest_desc: ["Use Labels to make storage areas easier to recognize. Keep labels consistent across raw materials, processed components and expedition supplies."]
+	quest.0D4922724DA846AF.quest_desc: ["Install this stack upgrade in the backpack to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.0D71D46CD540A033.quest_desc: [
+		"Raise every villager skill to maximum through successful work."
+		"Use different roles and check the Skills panel."
+	]
+	quest.0D71D46CD540A033.title: "Master of All Trades"
+	quest.0DA7DEABAA66F7D3.quest_desc: ["Shortens the wait and makes legendary fish more likely to bite."]
+	quest.0DA7DEABAA66F7D3.title: "Something Legendary"
+	quest.0DD8F486B6DBB504.quest_desc: ["Apply this tier upgrade to a matching Basic storage container to raise it to Gold tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.0DDC839D3E3C7052.quest_desc: ["Share five discovered stories with villagers."]
+	quest.0DDC839D3E3C7052.title: "Keep the Stories Alive"
 	quest.0DEE0F0A32566514.quest_desc: [
 		"Prepare the Oxeye Daisy Tea Bag and brew Loves Me Not."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
@@ -83,20 +220,55 @@
 		"Keep the noodles for the Stockpot recipe collection."
 	]
 	quest.0E76A85ED049A798.title: "Pull Your Own Noodles"
+	quest.0E76A99BEAA3A310.quest_desc: ["Craft two Fishing Nets and attach them to a moving Create contraption. They catch fish and other items while passing through open water."]
+	quest.0E76A99BEAA3A310.title: "Fishing Net"
+	quest.0E7ACA21FF037AE7.quest_desc: ["Keep seeds together in a Seed Pouch while tending your farm. Open its tooltip for the pouch controls."]
 	quest.0EB72C4C224E6FD9.quest_desc: [
 		"Sneak and throw a Baozi at a wolf that is missing health to heal it."
 		"This completes the base Cookery Baozi advancement. A good meal is better when shared."
 	]
 	quest.0EB72C4C224E6FD9.title: "Share a Bun"
+	quest.0EC16E0ECEE17670.quest_desc: ["Use a Belt Connector between aligned shafts to create a moving belt. Add an Andesite Funnel to transfer items between the belt and storage."]
+	quest.0EC16E0ECEE17670.title: "Belts and Andesite Funnels"
 	quest.0EC4467B69DBC4C3.quest_desc: ["Land a dew flower cake shockwave after falling at least twenty blocks"]
 	quest.0EC4467B69DBC4C3.title: "From the Sky"
+	quest.0F5C6BEE74871EF1.quest_desc: [
+		"Craft a Warp Scroll for a single-use trip to an activated Waystone."
+		"Use it when you need a quick return and want to keep the reusable Warp Stone for another trip."
+	]
+	quest.0F8EFABEF34E7C58.quest_desc: ["Look for Nether Wart around fortresses and grow it on soul sand. Keep part of the harvest for brewing."]
 	quest.0F8EFABEF34E7C58.title: "How it grow there?"
+	quest.0FAD1CEFA42A4CC8.quest_desc: ["Magnets items into storage at a greater range Has more filtering options Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.105191606378BB4E.quest_desc: ["Take the Grapplin Whisk along as a movement tool. Check its controls and practice over safe ground before using it above a drop."]
+	quest.105191606378BB4E.title: "Grapplin Whisk"
+	quest.10A7B9C415B45AC7.quest_desc: ["Drowned can provide a Trident. Repair and enchant it before relying on it during a long ocean expedition."]
+	quest.10A7B9C415B45AC7.title: "Trident"
+	quest.10F4A2976081820E.quest_desc: ["This pack makes Netherite through Create processing. Open the JEI recipe and prepare the required heated machinery before spending your scrap."]
 	quest.10F4A2976081820E.title: "Something bether"
+	quest.1120591F2096169C.quest_desc: ["Makes undiscovered catches more likely, but hitting sweet spots brings darkness."]
+	quest.1120591F2096169C.title: "What Still Hides"
+	quest.11A456CC37B24B37.quest_desc: ["Start a rubber tree near your workshop. Keep room for it to grow and save saplings for a renewable rubber supply."]
+	quest.11A456CC37B24B37.title: "Rubber Sapling"
 	quest.11F8FC84B04CA3F0.quest_desc: ["After eating a blossom mooncake, swim 100 blocks through the air without touching ground"]
 	quest.11F8FC84B04CA3F0.title: "I Would Ride the Wind Home"
+	quest.12053A64424FE7CB.quest_desc: ["Use Eyes of Ender to locate a stronghold. Bring spare eyes to fill its End portal frames."]
 	quest.12053A64424FE7CB.title: "Lets find him!"
+	quest.123F04DB484F183E.quest_desc: ["Upgrades vanilla inventories to their sophisticated version"]
+	quest.1261F51007BC60A6.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
 	quest.1261F51007BC60A6.title: "Iron tools"
+	quest.1283427227AFFD27.quest_desc: ["Automatically uses potions, food with effects, or milk buckets Has additional effect filtering options Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.13343B1B393738AE.quest_desc: ["Install this stack upgrade in the storage to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.13370391FD9FC71C.quest_desc: ["Easily makes your tank interactable with fluid containers."]
+	quest.13370391FD9FC71C.title: "Fluid Hatch"
+	quest.1347F61EAEA71EB8.quest_desc: ["Smoking food in an upgrade tab Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.13530E4C44B87217.quest_desc: ["Copper starts the fluid-handling branch of Create. Save ingots for sheets, casings and pipes."]
 	quest.13530E4C44B87217.title: "Firt copper"
+	quest.13AB0B227B033B33.quest_desc: [
+		"Get a Construction Blueprint through a Builder's workflow."
+		"Preview placement, materials and cost before confirming."
+	]
+	quest.13AB0B227B033B33.title: "Plan a Building"
+	quest.13FE7D33D4CA6CE7.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
 	quest.13FE7D33D4CA6CE7.title: "Stone tools"
 	quest.140D56A08C937664.quest_desc: [
 		"Prepare a Raw Flower Cake to accompany your tea."
@@ -108,58 +280,114 @@
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.14F8C1786EB82B7A.title: "Breath of the Ancients"
+	quest.156058C0D44BC892.quest_desc: ["Keep Limestone for the aquatic recipes shown in JEI. Check the accepted ingredient variants before processing your supply."]
+	quest.156058C0D44BC892.title: "Limestone"
+	quest.1618A6824FE7FC0B.quest_desc: ["Convert an existing Tier 2 stack upgrade into Tier 4. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.166ADD5815474FB2.quest_desc: ["A sophisticated Laser Defense Unit that automatically Locks on to a specified mob should it come close."]
+	quest.166ADD5815474FB2.title: "Basic Guardian Beam Turret"
+	quest.16C38A47D457DF54.quest_desc: ["Wither skeleton skulls summon the Wither, whose defeat provides a Nether Star. Plan an arena before starting the fight."]
 	quest.16C38A47D457DF54.title: "I kill'd him!"
+	quest.16CDD173EBFB1698.quest_desc: ["Compacts items into their compressed variants Both 2x2 and 3x3 recipes with more filtering options Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.1709E369451C3C1D.quest_desc: ["Greatly increases reach distance of the wielder. Can be powered with Air Pressure from a Backtank"]
+	quest.1709E369451C3C1D.title: "Extendo Grip"
 	quest.181186E256272E35.quest_desc: [
 		"Build a working Grindstone Drain with a Mechanical Grindstone above it and supply rotation."
 		"Feed an enchanted item through the setup and stay nearby while its enchantments are removed. Witnessing the disenchanting process grants Gone with the Foil."
 	]
-	quest.181186E256272E35.title: "Gone with the Foil"
+	quest.181186E256272E35.title: "Remove Enchantments"
 	quest.186DD501F439D1A4.quest_desc: [
 		"Craft a Recipe item from four Paper arranged in a square."
 		"Use it on a Wok or Stockpot to record ingredients for one-click cooking later. Keep useful recipes beside your stove."
 	]
 	quest.186DD501F439D1A4.title: "Write It Down"
+	quest.1881526405D4AAC6.quest_desc: ["Build the Mechanical Conduit and inspect its Ponder scene. Check its required frame, environment and power arrangement before installing it underwater."]
+	quest.1881526405D4AAC6.title: "Conduit Cage"
+	quest.18927ADA609E970B.quest_desc: ["Craft every armor piece shown in the task and keep the complete set together. Equip it before the next expedition and check durability after combat."]
+	quest.18A10A5218F8F33E.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
+	quest.18A10A5218F8F33E.title: "Brass Tools"
 	quest.18FB820A56B1C8C4.quest_desc: [
 		"Prepare the Chorus Flower Tea Bag and brew Echo of the End."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.18FB820A56B1C8C4.title: "Echo of the End"
-	quest.195E74A1833DE00D.quest_desc: [
-		"Craft Kitchenware Racks, a Fruit Basket and a Tea Banner."
-		"Hang cooking tools on the racks. The basket stores eight stacks of items and keeps them when carried, while the banner decorates your kitchen."
-	]
+	quest.195E74A1833DE00D.quest_desc: ["Hang cooking tools on the racks. The basket stores eight stacks of items and keeps them when carried, while the banner decorates your kitchen."]
 	quest.195E74A1833DE00D.title: "A Kitchen That Feels Like Home"
+	quest.19B1B9224B374349.quest_desc: ["Combine Fishing Rod and Sand to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Desert. Use it again to return to manual control."]
+	quest.19C34F99BFBD511F.quest_desc: ["Combine Fishing Rod and Snowball to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Snowy Taiga. Use it again to return to manual control."]
 	quest.19E084093DF5A0D0.quest_desc: [
 		"Supply a Blaze Forger with Liquid Experience and switch its side panel to Application Mode."
 		"Give it an Enchanting Template that already holds an enchantment and a compatible item. Applying the template grants Sigil Casting."
 	]
-	quest.19E084093DF5A0D0.title: "Put the Plan to Work"
+	quest.19E084093DF5A0D0.title: "Apply an Enchanting Template"
+	quest.19F0BF2F1153A49E.quest_desc: ["Use a matching pair to transfer fluid between a moving contraption and stationary pipes. Align the interfaces at the contraption's stopping point."]
+	quest.19F0BF2F1153A49E.title: "Portable Fluid Interface"
+	quest.1A3C1F4EF310DD53.quest_desc: ["Portable Jukebox with support for more music discs Also more playback options Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.1AB1B5781A423A72.quest_desc: ["Apply this tier upgrade to a matching Iron storage container to raise it to Diamond tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.1AB7D7816A8FD1D3.quest_desc: ["Andesite Alloy starts most early Create machinery. Keep a batch for shafts, casings and processing components."]
+	quest.1AB7D7816A8FD1D3.title: "Andesite Alloy"
+	quest.1B146A6B5568A4E5.quest_desc: ["Craft every armor piece shown in the task and keep the complete set together. Equip it before the next expedition and check durability after combat."]
+	quest.1B146A6B5568A4E5.title: "Brass Armor"
 	quest.1B677906BB80775E.quest_desc: [
 		"Combine a Fishing Rod with certain items to create special locator rods."
-		""
 		"Different rods can point your Sniffer toward different biomes and structures."
-		""
 		"Mount your Sniffer and use a locator rod to begin searching. Use it again to switch back to manual control."
 	]
 	quest.1B677906BB80775E.title: "Sniffer Navigation System"
+	quest.1B68BFCD84890203.quest_desc: ["Get a map through trusted villager dialogue, then reach its destination."]
+	quest.1B68BFCD84890203.title: "Ask a Local"
+	quest.1B69D5E3D2627B8B.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
+	quest.1B69D5E3D2627B8B.title: "Zinc Tools"
+	quest.1C3BEE4E9DBCC163.quest_desc: ["This set expands container handling with outlets, a Can Filler and a Copper Sink. Inspect each block's Ponder scene before connecting the line."]
+	quest.1C3BEE4E9DBCC163.title: "Fluid Outlets and Utility Blocks"
+	quest.1C4DE705AFF768A7.quest_desc: ["Equip this Jetpack Chestplate and check its fuel or fluid requirements in the tooltip. Set the flight controls and test a short takeoff over safe ground."]
+	quest.1C4DE705AFF768A7.title: "Andesite Jetpack"
+	quest.1C94C629A95547D9.quest_desc: ["Harvest fully grown amethyst clusters in a geode. Leave budding amethyst intact so new clusters can grow."]
 	quest.1CAE63D2EF47179F.quest_desc: [
 		"Harvest 8 Red Chilis and 8 Green Chilis."
 		"Keep both colors in your pantry. Some recipes accept either color, while others specifically need green peppers."
 	]
 	quest.1CAE63D2EF47179F.title: "Two Colors of Heat"
-	quest.1CE3D2ACF9DAE82D.title: "I can do something from this"
+	quest.1CE3D2ACF9DAE82D.quest_desc: ["Andesite is the base material of the first Create era. Turn part of your supply into Andesite Alloy."]
+	quest.1CE3D2ACF9DAE82D.title: "Andesite"
+	quest.1D4CCF2F04AD943C.quest_desc: ["Reach this Starcatcher collection milestone and obtain its trophy. Follow the line toward the Older Angler's trophy."]
+	quest.1D4CCF2F04AD943C.title: "Gold Trophy"
+	quest.1DAC48DD446ED1B7.quest_desc: ["Use an Empty Blaze Burner to capture a blaze. Place the filled burner beneath a Basin when a recipe requires heat."]
+	quest.1DAC48DD446ED1B7.title: "Capture a Blaze Burner"
 	quest.1EC672DB21FC8697.quest_desc: [
 		"Prepare the Lilac Tea Bag and brew Spring Waltz."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.1EC672DB21FC8697.title: "Spring Waltz"
+	quest.1F2038D7E9891501.quest_desc: [
+		"Reach Trusted reputation with one villager: 75 points."
+		"Talk, trade, give preferred gifts and complete requests."
+	]
+	quest.1F2038D7E9891501.title: "A Familiar Face"
 	quest.1F29B43874969679.quest_desc: [
 		"Craft a Straw Hat and wear it while breaking grass. This gives you a chance to find Tomato, Chili, Lettuce and Tea Seeds, as well as Wild Rice."
 		"Start a small farm and save some of every crop. Your harvest will supply the steamer, wok and stockpot branches."
 	]
 	quest.1F29B43874969679.title: "A Straw Hat and a Fresh Start"
+	quest.1F47D79CD9A56B22.quest_desc: [
+		"Let a hired villager finish an assignment."
+		"Keep their contract active and provide tools, materials and reachable storage."
+	]
+	quest.1F47D79CD9A56B22.title: "An Honest Day's Work"
+	quest.1F4823C91E6EA822.quest_desc: ["The Block Picker is part of the portable construction toolkit. Check its tooltip and controls before using it on a build."]
+	quest.1F4823C91E6EA822.title: "Block Picker"
+	quest.1F50AE3534DAB66E.quest_desc: ["Place the wheel in flowing water to produce rotation. Connect its axle to a shaft and your first machine."]
+	quest.1F50AE3534DAB66E.title: "Water Wheel"
+	quest.1FA2378CD0706505.quest_desc: ["Smelt or smoke Sap into Rubber. Basin recipes offer alternatives using water or slimeballs. This pack uses Rubber instead of dried kelp in Create recipes, including Belt Connectors."]
+	quest.1FA2378CD0706505.title: "Rubber"
 	quest.1FAF140FB6D4064B.quest_desc: ["Eat a dew flower cake, then land its shockwave on something from at least two blocks up"]
 	quest.1FAF140FB6D4064B.title: "Treading the Dew"
+	quest.2079A647F3B44429.quest_desc: ["Use Andesite Casings to build early machines and tidy up exposed workshop parts. Check JEI for the casing recipe."]
+	quest.2079A647F3B44429.title: "Andesite Casing"
+	quest.20AA1DF0C7C9300D.quest_desc: ["The Clockwork Bearing moves clock hands; the Elevator Pulley moves a lift. Use their Ponder scenes to plan clear movement paths and stopping points."]
+	quest.20AA1DF0C7C9300D.title: "Clockwork Bearings and Elevators"
+	quest.20F032D0D2DD5D12.quest_desc: ["Place the mixer above a Basin and supply rotation. Heated recipes also need a suitable heat source beneath the Basin."]
+	quest.20F032D0D2DD5D12.title: "Mechanical Mixer"
+	quest.21254B6D23DB5B76.quest_desc: ["Convert an existing Tier 1 stack upgrade into Tier 4. Use the conversion recipe in JEI when upgrading a module you already own."]
 	quest.21259D5AE8804173.quest_desc: [
 		"Prepare the Spore Blossom Tea Bag and brew Vernal Awakening."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
@@ -167,16 +395,39 @@
 	quest.21259D5AE8804173.title: "Vernal Awakening"
 	quest.21775B3DBED2E2D8.quest_desc: ["Taste 9 different flower drinks"]
 	quest.21775B3DBED2E2D8.title: "Half a Cup of the World"
-	quest.218B6C60AB1E94C1.quest_desc: ["Obtain a Blaze Forger and supply it with Liquid Experience. Use its side panel to switch between merging enchantments, applying templates, and extracting enchantments into blank templates."]
-	quest.218B6C60AB1E94C1.title: "Strike While It's Enchanted"
-	quest.22B9B33AB325C110.quest_desc: ["Obtain an Experience Hatch and attach it to your experience storage. Right-click to deposit experience. Sneak-right-click to withdraw it. Adjust the amount transferred with the hatch's scroll panel."]
-	quest.22B9B33AB325C110.title: "Bank Your Levels"
+	quest.218B6C60AB1E94C1.quest_desc: ["Supply a Blaze Forger with Liquid Experience. Use its panel to merge enchantments, apply templates or extract enchantments into blank templates."]
+	quest.218B6C60AB1E94C1.title: "Blaze Forger"
+	quest.21DC49BFB670FCDB.quest_desc: ["Press copper ingots into sheets. They are used throughout the fluid-handling branch."]
+	quest.21DC49BFB670FCDB.title: "Copper Sheet"
+	quest.224EAC86A82372E5.quest_desc: [
+		"Recruit a villager through the party-contract menu."
+		"Check its requirements, then use Party to manage movement and combat. Self-check: tick when done."
+	]
+	quest.224EAC86A82372E5.title: "A Traveling Companion"
+	quest.22B9B33AB325C110.quest_desc: ["Attach an Experience Hatch to your experience storage. Right-click to deposit experience; sneak-right-click to withdraw it. Adjust amounts on its scroll panel."]
+	quest.22B9B33AB325C110.title: "Experience Hatch"
 	quest.22C6644CC2675898.quest_desc: [
 		"Prepare the Poppy Tea Bag and brew Lullaby."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.22C6644CC2675898.title: "Lullaby"
+	quest.2334644035F4FF23.quest_desc: ["Apply this tier upgrade to a matching Gold storage container to raise it to Diamond tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.23787F50BB3D3677.quest_desc: ["Blasting ores and metal stuff in an upgrade tab Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.23AED1B252070A01.quest_desc: [
+		"Finish a branching villager questline."
+		"Follow its dialogue choices and return after each objective."
+	]
+	quest.23AED1B252070A01.title: "Choose Your Own Adventure"
+	quest.23CDF71256CF5FC0.quest_desc: ["Install this downgrade to reduce stack capacity in the storage. It is useful when you want smaller buffers or tighter limits on stored ingredients."]
+	quest.23E70841DC3C1D63.quest_desc: ["Reach this Starcatcher collection milestone and obtain its trophy. Follow the line toward the Older Angler's trophy."]
+	quest.23E70841DC3C1D63.title: "Iron Trophy"
+	quest.242F82EDB7AD82B9.quest_desc: ["Use a brush on an armadillo to collect scutes. Keep a supply for wolf armor and its repairs."]
 	quest.242F82EDB7AD82B9.title: "Get some arms"
+	quest.2457933959868E1D.quest_desc: ["Leather is used for armor, books and storage equipment. Save some for the enchanting and backpack branches."]
+	quest.24A3A61046CA3464.quest_desc: ["A Depot holds an item beneath a press, spout or other processing block. Use it for a simple machine before adding belts."]
+	quest.24A3A61046CA3464.title: "Depot"
+	quest.257A57B87BB76486.quest_desc: ["Place a Basin beneath a compatible mixer or press for mixing and compacting recipes. Check whether a recipe also needs heat."]
+	quest.257A57B87BB76486.title: "Basin"
 	quest.2655497B751A1091.quest_desc: [
 		"Prepare all five noodle and congee dishes in this Stockpot collection."
 		"From a warming broth to a hearty bowl of noodles, there is something here for every appetite."
@@ -186,96 +437,171 @@
 		"Supply a Blaze Forger with Liquid Experience and select its merge mode."
 		"Give it two items of the same type, such as two enchanted swords, and let it combine them. A successful merge grants Blazing Fusion."
 	]
-	quest.266E1B1345DE3792.title: "Blazing Fusion"
+	quest.266E1B1345DE3792.title: "Merge Enchanted Items"
+	quest.2681A60AE034E158.quest_desc: [
+		"Right-click a villager to open Talk and Profile."
+		"Hold an emerald to view reputation. Sneak-right-click skips the dialogue screen. Self-check: tick when done."
+	]
+	quest.2681A60AE034E158.title: "Start a Conversation"
+	quest.2681DF99F0075CF6.quest_desc: ["Reach this Starcatcher collection milestone and obtain its trophy. Follow the line toward the Older Angler's trophy."]
+	quest.2681DF99F0075CF6.title: "Copper Trophy"
 	quest.26A4E6CE696C4E90.quest_desc: [
-		"Obtain two Mechanical Grindstones and one Item Drain. Right-click the Item Drain with one grindstone to make a Grindstone Drain, then place the second grindstone above it and supply rotation."
+		"Right-click the Item Drain with one grindstone to make a Grindstone Drain, then place the second grindstone above it and supply rotation."
 		"Use the setup to remove enchantments or turn Nuggets of Experience into Liquid Experience."
 	]
-	quest.26A4E6CE696C4E90.title: "Grind Away the Magic"
+	quest.26A4E6CE696C4E90.title: "Mechanical Grindstones and Item Drain"
 	quest.26F5EDFCE5206941.quest_desc: [
 		"Mill Wheat in a powered Create Millstone to obtain Flour."
 		"Turn the Flour into Raw Dough by washing it with an Encased Fan blowing through water. Place the flour in the washing air stream and let processing finish."
 		"Save some dough for steamed buns, stuffed dough and noodles."
-		""
 		"{\"text\":\"Open the quest with Create\\u0027s Millstone\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"449A09FC50B32D81\"}}"
-		""
 		"{\"text\":\"Open the Encased Fan quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"0594598C4D16819F\"}}"
 	]
 	quest.26F5EDFCE5206941.title: "Flour, Water, Possibilities"
+	quest.27107D85E82C0F47.quest_desc: ["This is the starting point for the storage tier upgrades. Choose a barrel or chest and leave room for the Controller network to grow."]
+	quest.27B52733B1A5D4E2.quest_desc: ["Portable Jukebox Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.27D78DD7D9A83968.quest_desc: ["Reach this Starcatcher collection milestone and obtain its trophy. Follow the line toward the Older Angler's trophy."]
+	quest.27D78DD7D9A83968.title: "Emerald Trophy"
+	quest.284CC02237165EC2.quest_desc: ["A perfect catch brings one extra fish alongside your catch."]
+	quest.284CC02237165EC2.title: "Two on the Line"
+	quest.284F81E957681C0B.quest_desc: ["Convert an existing Tier 1 Plus stack upgrade into Tier 5. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.28571EE231DBEE76.quest_desc: ["Keeps refilling stack of selected items in player's inventory Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.2872F18473170474.quest_desc: ["Collect Spiky Shells for the aquatic crafting branch. JEI shows the available sources and the recipes that use them."]
+	quest.2872F18473170474.title: "Spiky Shell"
+	quest.28D901913D5E7494.quest_desc: ["Apply this tier upgrade to a matching Iron storage container to raise it to Netherite tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.28FEB827BAE264B5.quest_desc: ["Apply this template at a Smithing Table to change the tackle's appearance. Check the recipe for its matching material."]
+	quest.28FEB827BAE264B5.title: "Frog Tackle Smithing Template"
+	quest.29606372FC3CABF2.quest_desc: ["Ancient Debris survives lava and can be smelted into Netherite Scrap. Bring a diamond pickaxe or better."]
 	quest.29606372FC3CABF2.title: "Anchient ore"
+	quest.29A5526C099C6643.quest_desc: ["Smelting in an upgrade tab Automatically pulls/pushes items Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.29BBE84EA28C1152.quest_desc: ["Backpack Upgrade Bases are components for portable upgrades. Match the upgrade namespace to the backpack before crafting a module."]
+	quest.2A4213D1093462B1.quest_desc: ["Finish hired-worker assignments for every supported profession."]
+	quest.2A4213D1093462B1.title: "Full Employment"
+	quest.2A7E83771DD008F5.quest_desc: [
+		"Enter the End to complete the matching Minecraft advancement."
+		"Find a stronghold, fill its portal frames and prepare equipment for the dragon fight before jumping in."
+	]
 	quest.2A7E83771DD008F5.title: "The end?"
 	quest.2BA36221D25AD34E.quest_desc: [
 		"Prepare the Blue Orchid Tea Bag and brew First Bloom."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.2BA36221D25AD34E.title: "First Bloom"
+	quest.2BA90D7AD57CB9BC.quest_desc: ["Install this stack upgrade in the storage to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.2BC50E5B7C28B81C.quest_desc: ["Sharestones connect to other Sharestones of the same color. Use separate colors for different travel networks."]
+	quest.2C3F068874FAC666.quest_desc: ["Use the Copper Magnet as a gathering aid. Check its tooltip and assigned controls before taking it mining."]
+	quest.2C8A918580A3ACF0.quest_desc: ["Mount two Crushing Wheels with their working gap between them and rotate them toward the gap. Use Ponder to check a safe item input arrangement."]
+	quest.2C8A918580A3ACF0.title: "Crushing Wheel"
+	quest.2CA89C5CD1750808.quest_desc: ["Automatically uses potions, food with effects, or milk buckets Has additional effect filtering options Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.2CB0422A1E4C20A0.quest_desc: [
+		"Enter a Trial Chamber and earn the Trial(s) Edition advancement."
+		"Look for its copper and tuff rooms underground. Bring food and light sources for the combat encounters."
+	]
 	quest.2D100A94F7E38C73.quest_desc: ["Stop 5 projectiles with a single Hanami Tale"]
 	quest.2D100A94F7E38C73.title: "Shield of Petals"
-	quest.2D19C03AADA330A6.title: "Lets enchant more"
+	quest.2D285B53EFF7C1D1.quest_desc: ["A much more advanced Laser Defense Unit capable of Locking on to ten mobs at once."]
+	quest.2D285B53EFF7C1D1.title: "Advanced Guardian Beam Turret"
+	quest.2D648D7F05233247.quest_desc: [
+		"Accept a villager request, complete it and return to the quest giver."
+		"Check Controls for the Quest Journal key. Self-check: tick when done."
+	]
+	quest.2D648D7F05233247.title: "Your First Village Request"
+	quest.2D86AD432DC01F15.quest_desc: ["Prismarine Alloy connects ocean materials to Create machinery. Prepare the JEI processing recipe before spending rare aquatic ingredients."]
+	quest.2D86AD432DC01F15.title: "Prismarine Alloy"
+	quest.2DA28365F9AF5916.quest_desc: ["Combine Fishing Rod and Birch Log to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Birch Forest. Use it again to return to manual control."]
 	quest.2DE5E000B96E5CF1.quest_desc: ["Finish a When the Wind Rises mid-fall"]
 	quest.2DE5E000B96E5CF1.title: "Play with the Wind"
 	quest.2DFAFB151DCAA2E9.quest_desc: [
 		"Set an Enchanted Book in the Printer's filter slot and supply Liquid Experience."
 		"Send a normal Book underneath the Printer and let it finish copying the enchantments. This grants Copiable Mystery. Check JEI for the required fluid amount."
 	]
-	quest.2DFAFB151DCAA2E9.title: "Copy, Paste, Enchant"
+	quest.2DFAFB151DCAA2E9.title: "Print Enchantments"
+	quest.2E284F5F1E2C5E8B.quest_desc: ["Install this downgrade to reduce stack capacity in the backpack. It is useful when you want smaller buffers or tighter limits on stored ingredients."]
+	quest.2E34DBBA8552B3A7.quest_desc: ["Convert an existing Tier 1 stack upgrade into Tier 2. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.2E9FA72B8E45D381.quest_desc: ["Glowstone dust and glow ink are useful for lighting and decoration. Collect glowstone in the Nether and glow ink from glow squids."]
 	quest.2E9FA72B8E45D381.title: "Lets glow"
+	quest.2F2D3AD96BA287FD.quest_desc: ["Collect Sap with a Treetap, or process Rubber Logs in a Millstone or Crushing Wheels. Smelt the Sap into Rubber, or compare the Basin recipes in JEI."]
+	quest.2F2D3AD96BA287FD.title: "Sap"
+	quest.2F64C6BB58AEFED6.quest_desc: ["Automatically swaps item in player's hand for the one effective on the block/entity when these are left clicked. Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.2F6C209015C5AE79.quest_desc: ["Place a Starcatcher's Display to show off your fishing collection."]
+	quest.2F6C209015C5AE79.title: "The Angler's Display"
+	quest.2FA0A34A470CBB4C.quest_desc: ["Makes storage pickup items Has more filtering options Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.2FE6370E7E54AC5C.quest_desc: ["Install this stack upgrade in the storage to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.2FE82AEBE415E7C6.quest_desc: ["Filters items piped in and/or out of storage Has more filtering options Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.302793E330894EA8.quest_desc: ["Voids items selected in filter Has more filtering options Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
 	quest.30622D9F1018E73D.quest_desc: [
 		"The vanilla Brewing Stand does not brew potions and its interface is disabled. Its crafting recipe is removed. Stands found in the world remain decorative blocks and cleric workstations."
-		""
 		"Brew potions with a Mechanical Mixer over a Basin. Check JEI for ingredients and heating requirements."
-		""
 		"{\"text\":\"Open the Mechanical Mixer quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"20F032D0D2DD5D12\"}}"
-		""
 		"Tick the checkmark once you have read this."
 	]
 	quest.30622D9F1018E73D.title: "Potions Use Create"
 	quest.30BAD4A8F5EA495E.quest_desc: [
 		"Vanilla anvils repair equipment and rename items. Repair with the correct material or combine two matching pieces of equipment. Renaming alone costs one experience level; renaming during a repair adds one level."
-		""
 		"Repairs keep the first item's enchantments. Enchantments from the second item are never transferred or upgraded, and enchanted books cannot be applied."
-		""
 		"Use a Blaze Forger to combine or apply enchantments."
-		""
 		"{\"text\":\"Open the Blaze Forger quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"218B6C60AB1E94C1\"}}"
-		""
 		"Tick the checkmark once you have read this."
 	]
 	quest.30BAD4A8F5EA495E.title: "Anvils: Repair and Rename"
+	quest.3112827E9ACCF62F.quest_desc: ["Feeds player with food from backpack's inventory More options for when food gets fed to player Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.31333469FE4F552C.quest_desc: ["Convert an existing Tier 1 Plus stack upgrade into Tier 4. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.3179FAFC15A4BD3D.quest_desc: ["Apply this tier upgrade to a matching Basic storage container to raise it to Netherite tier. Check the accepted base and ingredients in JEI before crafting."]
 	quest.31A8F6CD2AEC9561.quest_desc: [
-		"Obtain a Cake o' Enchanting. Check JEI for its recipe. Feed it to a Blaze Enchanter or Blaze Forger to activate Super Enchanting mode."
+		"Check JEI for its recipe. Feed it to a Blaze Enchanter or Blaze Forger to activate Super Enchanting mode."
 		"Keep supplying Liquid Experience, and place a Lightning Rod nearby before processing anything."
 	]
-	quest.31A8F6CD2AEC9561.title: "Let Them Eat Experience"
+	quest.31A8F6CD2AEC9561.title: "Cake o' Enchanting"
+	quest.31C9CF030EAE9B98.quest_desc: [
+		"Ask about gift preferences, then give a preferred item."
+		"Check their reaction. Repeating the same gift gives less reputation."
+	]
+	quest.31C9CF030EAE9B98.title: "A Gift They Actually Like"
 	quest.31F52CD7E69B4517.quest_desc: [
 		"The vanilla Enchanting Table can still be crafted and placed, but its enchanting interface is disabled."
-		""
 		"Use a Blaze Enchanter from Create: Enchantment Industry to enchant equipment."
-		""
 		"{\"text\":\"Open the Blaze Enchanter quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"7AEE5B1EC5B455A4\"}}"
-		""
 		"Tick the checkmark once you have read this."
 	]
 	quest.31F52CD7E69B4517.title: "Enchanting Has Moved"
+	quest.31F6B24DF0F03C1B.quest_desc: ["Craft every armor piece shown in the task and keep the complete set together. Equip it before the next expedition and check durability after combat."]
+	quest.31F6B24DF0F03C1B.title: "Zinc Armor"
+	quest.31FA5E78F5F3B499.quest_desc: ["Use the rewards to decorate a village meeting place."]
+	quest.31FA5E78F5F3B499.title: "A Welcoming Corner"
+	quest.3231F96980C158AD.quest_desc: ["Use coal for furnace fuel and torches. Light the route home before exploring deeper caves."]
 	quest.3231F96980C158AD.title: "Get some heat"
+	quest.324B7881A70D6BEA.quest_desc: [
+		"Pay 1,000 emeralds in wages through Payment Boxes."
+		"Optional long-term goal."
+	]
+	quest.324B7881A70D6BEA.title: "On the Payroll"
 	quest.325643FC0C0B7A5C.quest_desc: [
 		"Wear a Straw Hat and break grass until you find Tea Seeds."
 		"Grow tea plants and harvest Fresh Tea Leaves. Drying the leaves is the next step toward brewing your first cup."
 	]
 	quest.325643FC0C0B7A5C.title: "A Tea Garden"
-	quest.3260161847AC90E1.title: "Honney"
+	quest.3260161847AC90E1.quest_desc: ["Use smoke when harvesting an occupied hive."]
+	quest.3260161847AC90E1.title: "A Garden for Neighbors"
 	quest.32B261048B074E97.quest_desc: [
 		"Grow your Tomato Seeds and collect 16 Tomatoes."
 		"Keep a supply for Scrambled Eggs with Tomatoes, Borscht and rice bowls."
 	]
 	quest.32B261048B074E97.title: "Red Harvest"
+	quest.32DBFC50EF2DA03A.quest_desc: ["This tank supports the portable equipment branch. Check its JEI uses for compatible engines or equipment and compare its capacity before making the next tier."]
+	quest.32DBFC50EF2DA03A.title: "Small Fueling Tank"
+	quest.33168DDC01DE24BA.quest_desc: ["An advanced proxy block for fluid containers with filtering capabilities that restricts which fluids can pass through"]
+	quest.33168DDC01DE24BA.title: "Smart Fluid Interfaces and Outlets"
 	quest.331F655A447D9BC3.quest_desc: [
-		"Craft a Stockpot and Stockpot Lid. Place the pot over a lit heat source."
+		"Place the pot over a lit heat source."
 		"Add the correct broth first, then the ingredients. Close the lid and wait for cooking to finish. Opening the lid pauses cooking."
 		"Lift the lid and serve with the required container. Most soups use Bowls; certain dishes use Flower Pots. Water, milk and lava bases lead to different recipes."
 	]
 	quest.331F655A447D9BC3.title: "Soup Needs a Lid"
+	quest.3349195917161F45.quest_desc: ["Apply this tier upgrade to a matching Copper storage container to raise it to Iron tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.33D03300FCBE74B5.quest_desc: ["Makes backpack pickup items Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.33FFC4F03C4643E8.quest_desc: ["Craft every armor piece shown in the task and keep the complete set together. Equip it before the next expedition and check durability after combat."]
 	quest.33FFC4F03C4643E8.title: "Diamond armor"
+	quest.342F2C0639E8DC32.quest_desc: ["Turtles drop scutes as babies grow into adults. Protect eggs and hatchlings while waiting for them to mature."]
 	quest.342F2C0639E8DC32.title: "TMNT!"
 	quest.344B774B8B7F9F85.quest_desc: ["Let Echo of the End answer a killing blow for you"]
 	quest.344B774B8B7F9F85.title: "Cheated Death"
@@ -284,38 +610,106 @@
 		"Complete both the flooded-farmland and rice-harvest advancements for this quest."
 	]
 	quest.3467CE92D0994FE3.title: "A Paddy and Its First Harvest"
-	quest.34B7A2BBC02333B1.quest_desc: ["Obtain a Blaze Upgrade Smithing Template. Use it at a Smithing Table to make blaze-powered enchanting equipment. Check JEI for the ingredients."]
-	quest.34B7A2BBC02333B1.title: "A Blazing Upgrade"
+	quest.34B331B2581F1480.quest_desc: [
+		"Complete the Shifting Gears Create advancement."
+		"Connect small and large cogwheels to change a rotation network. Use the advancement screen for its exact trigger and Ponder to inspect gear ratios."
+	]
+	quest.34B331B2581F1480.title: "Change Gear Ratios"
+	quest.34B7A2BBC02333B1.quest_desc: ["Use it at a Smithing Table to make blaze-powered enchanting equipment. Check JEI for the ingredients."]
+	quest.34B7A2BBC02333B1.title: "Smithing Template"
+	quest.34E093D3D00D4C04.quest_desc: ["Craft every armor piece shown in the task and keep the complete set together. Equip it before the next expedition and check durability after combat."]
 	quest.34E093D3D00D4C04.title: "Netherite armor"
+	quest.3573B0C3B203FBC9.quest_desc: [
+		"Make an Echo Cake Base, then fill it with Molten Echo to obtain an Echo Cake."
+		"The base uses heated compacting with egg, sugar and Sculk Flour. The finished cake is made under a Spout; check JEI for the exact amounts."
+	]
+	quest.3573B0C3B203FBC9.title: "Echo Cake"
 	quest.3653A4F5DEB5848D.quest_desc: [
 		"Prepare the Peony Tea Bag and brew Coronation."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.3653A4F5DEB5848D.title: "Coronation"
-	quest.369A0BBDBC1EA479.title: "First logic"
+	quest.3699113CF194603C.quest_desc: ["Press iron ingots into sheets. Save them for machinery, fans and other workshop components."]
+	quest.3699113CF194603C.title: "Iron Sheet"
+	quest.369A0BBDBC1EA479.quest_desc: ["Redstone lets you control machines with levers, signals and sensors. Keep spare dust for workshop controls."]
+	quest.369A0BBDBC1EA479.title: "Redstone Dust"
+	quest.36A95B3D32196640.quest_desc: ["Blasting ores and metal stuff in an upgrade tab Automatically pulls/pushes items Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.36C73ED6CE9A478B.quest_desc: ["Filters items piped in and/or out of backpack Has more filtering options Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.370DF11CB7CA9B1D.quest_desc: ["Wooden and Metal Brackets decorate workshop machinery. Use them to support the appearance of a finished shaft or pipe run."]
+	quest.370DF11CB7CA9B1D.title: "Wooden and Metal Brackets"
+	quest.37673ABCE02F2D8C.quest_desc: ["Smelt raw iron and keep a small reserve for buckets, tools and the first Create components."]
 	quest.37673ABCE02F2D8C.title: "First iron"
+	quest.377F0737509A1E40.quest_desc: ["This engine belongs to the portable equipment branch. Check JEI uses to see which equipment and tanks it supports."]
+	quest.377F0737509A1E40.title: "Hydraulic Engine"
 	quest.37AEDAA5DCD73DFB.quest_desc: [
 		"Craft an Oil Can and fill it with Oil."
 		"Use the filled can on a wok to add oil before cooking. The item tooltip shows how much oil remains."
 	]
 	quest.37AEDAA5DCD73DFB.title: "An Oil Can for the Cook"
-	quest.37BBD0F69107DDD9.quest_desc: ["Obtain a Toasted Flower Cake for your tea table."]
+	quest.37B07006A3AB1EA0.quest_desc: [
+		"Plan fluid lines with a clear source, pump and destination."
+		"Use separate tanks or filtered lines for different fluids, and inspect pump direction before starting the machinery. Complete this information quest manually."
+	]
+	quest.37B07006A3AB1EA0.title: "Colored Fluid Pipes"
 	quest.37BBD0F69107DDD9.title: "Toasted Flower Cake"
-	quest.37C8B239F69E5EB7.title: "I`m not alone"
+	quest.37C8B239F69E5EB7.quest_desc: [
+		"Find a villager. This mod adds reputation, dialogue, hired workers and building."
+		"Start with Talk, then follow the trust and work branches."
+	]
+	quest.37C8B239F69E5EB7.title: "Meet the Village"
+	quest.37DDCD82AF641961.quest_desc: ["Smelt zinc ore into ingots. Zinc is useful for this equipment branch and later for Brass production."]
+	quest.37DDCD82AF641961.title: "Zinc Ingot"
+	quest.380016CD84BA8750.quest_desc: ["Combine Fishing Rod and Pink Petals to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Cherry Grove. Use it again to return to manual control."]
 	quest.381A43D155C8D44B.quest_desc: [
 		"Craft and place a Chopping Board. Put a suitable ingredient on it, then cut it with a Cookery kitchen knife."
 		"For example, four cuts turn a Raw Porkchop into three Raw Pork Bellies. Cutting dough is another way to prepare Raw Noodles."
 	]
 	quest.381A43D155C8D44B.title: "A Place to Chop"
-	quest.3AA7EA5DAD1AE8FB.title: "Now i have a baby!"
-	quest.3C9ECE6486F81907.quest_desc: ["Obtain a Bucket of Liquid Experience. Use Mechanical Grindstones to process Nuggets of Experience, or deposit your own experience through an Experience Hatch. Collect the liquid in storage and fill a bucket with a Spout."]
-	quest.3C9ECE6486F81907.title: "Liquid Knowledge"
+	quest.384D57C7926A4C21.quest_desc: ["Combine Fishing Rod and Dark Oak Log to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Dark Forest. Use it again to return to manual control."]
+	quest.3856839706A473A7.quest_desc: [
+		"Look for Echo Shards in Ancient City loot."
+		"Save it for the Echo Create processing chain. The heated recipes use Create machinery, so check JEI before spending a rare shard."
+	]
+	quest.3856839706A473A7.title: "Echo Shard"
+	quest.3858CBA666869D72.quest_desc: ["Complete a villager trade using the Trade option."]
+	quest.3858CBA666869D72.title: "A Fair Trade"
+	quest.390F1880AC24A74B.quest_desc: ["Finish the trophy progression and obtain the Trophy of the Older Angler."]
+	quest.390F1880AC24A74B.title: "Master Angler"
+	quest.3942FC6D7F2EABD0.quest_desc: ["Apply this tier upgrade to a matching Copper storage container to raise it to Diamond tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.39F6DE533381DD03.quest_desc: ["Install this downgrade to reduce stack capacity in the storage. It is useful when you want smaller buffers or tighter limits on stored ingredients."]
+	quest.3A80D70586C1874B.quest_desc: ["Combine Fishing Rod and Dirt to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Plains. Use it again to return to manual control."]
+	quest.3A9FDA6CBEEF79B0.quest_desc: ["Combine Fishing Rod and Sandstone to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Desert Pyramid. Use it again to return to manual control."]
+	quest.3AA7EA5DAD1AE8FB.quest_desc: [
+		"Breed an animal."
+		"Later, try the Animal Handling work role."
+	]
+	quest.3AA7EA5DAD1AE8FB.title: "Neighbors of Every Kind"
+	quest.3AB64A78FB2701A8.quest_desc: ["Combine Fishing Rod and Ice to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Ice Spikes. Use it again to return to manual control."]
+	quest.3AE82A5CE3BA0BA5.quest_desc: [
+		"Have ten villagers working in different roles with valid storage and payment."
+		"Use the Clipboard to fix idle jobs."
+	]
+	quest.3AE82A5CE3BA0BA5.title: "A Well-Oiled Village"
+	quest.3AFF12DA0AD60F58.quest_desc: ["Smithing Table in an upgrade tab Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.3B24329B4B8B46A8.quest_desc: ["Mix copper and zinc in a heated Basin to make Brass. Keep your Blaze Burner fueled while the mixer runs."]
+	quest.3B24329B4B8B46A8.title: "Brass Ingot"
+	quest.3C98262462D5A221.quest_desc: ["Place a Selling Bin and use its interface to check which catches can be sold."]
+	quest.3C98262462D5A221.title: "Sell the Surplus"
+	quest.3C9ECE6486F81907.quest_desc: ["Use Mechanical Grindstones to process Nuggets of Experience, or deposit your own experience through an Experience Hatch. Collect the liquid in storage and fill a bucket with a Spout."]
+	quest.3C9ECE6486F81907.title: "Bucket o' Enchanting"
+	quest.3CA8D351650A36E1.quest_desc: ["Keep your rod, bait and tackle together. Any color of Tackle Box completes this quest."]
+	quest.3CA8D351650A36E1.title: "Everything in One Box"
+	quest.3CE44311899D723E.quest_desc: ["The Brush uncovers items in suspicious sand and gravel; the Spyglass helps inspect distant landmarks. Bring both on exploration trips."]
 	quest.3CE44311899D723E.title: "Additional tools"
+	quest.3D1707A7126817AA.quest_desc: ["Pack storage with Packing Tape before moving it with its contents. Check the packed state before breaking the block."]
+	quest.3D50343FF5435045.quest_desc: ["Stonecutter in an upgrade tab Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.3D6CE534E2E35B95.quest_desc: ["Combine Fishing Rod and Mud to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Mangrove Swamp. Use it again to return to manual control."]
 	quest.3D8E5877B1DDB989.quest_desc: [
 		"Place a Lightning Rod on a Block of Experience under an open sky and let lightning strike it. Collect the resulting Block of Super Experience."
 		"Natural lightning only has a chance to transform the block. Lightning produced by Super Enchanting guarantees the transformation."
 	]
-	quest.3D8E5877B1DDB989.title: "Lightning in a Block"
+	quest.3D8E5877B1DDB989.title: "Block of Super Experience"
+	quest.3DA2C9898CC3CF37.quest_desc: ["Combine Fishing Rod and Gravel to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Deep Ocean. Use it again to return to manual control."]
 	quest.3DC5D5F823216033.quest_desc: [
 		"Prepare the tea bag and its matching brewed tea to complete this tasting."
 		"Keep a cup ready beside your Teapot."
@@ -323,11 +717,8 @@
 	quest.3DC5D5F823216033.title: "Dong Ding Oolong Tea"
 	quest.3DE01069F66D40DC.quest_desc: [
 		"The vanilla Grindstone can still be crafted, placed and used as a villager workstation, but its interface is disabled. Repairing two tools in the crafting grid is also disabled; use an anvil for repairs."
-		""
 		"Use Mechanical Grindstones from Create: Enchantment Industry to remove enchantments. Follow the linked quest to build a Grindstone Drain."
-		""
 		"{\"text\":\"Open the Mechanical Grindstone quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"26A4E6CE696C4E90\"}}"
-		""
 		"Tick the checkmark once you have read this."
 	]
 	quest.3DE01069F66D40DC.title: "Disenchanting Uses Create"
@@ -336,33 +727,86 @@
 		"Attach an Experience Hatch to experience storage. While you have some experience, right-click the hatch to deposit it and earn Spirit-Taking."
 		"Then sneak-right-click the hatch to withdraw stored experience and earn Spiritual Return."
 	]
-	quest.3E0EA003CE92277D.title: "Experience Comes and Goes"
+	quest.3E0EA003CE92277D.title: "Deposit and Withdraw Experience"
+	quest.3E4AAB0CA62EC7A5.quest_desc: ["Apply this tier upgrade to a matching Copper storage container to raise it to Netherite tier. Check the accepted base and ingredients in JEI before crafting."]
 	quest.3EB63084D4EADE95.quest_desc: [
 		"Prepare all eight wok dishes in this collection."
 		"A full table of meat dishes and homestyle favorites is a fine way to show how far your cooking has come."
 	]
 	quest.3EB63084D4EADE95.title: "A Wok Full of Possibilities"
+	quest.3EB8DF8E935FFAB2.quest_desc: ["Craft every armor piece shown in the task and keep the complete set together. Equip it before the next expedition and check durability after combat."]
+	quest.3EB8DF8E935FFAB2.title: "Beam Reactor Helmet"
+	quest.3EBFA9E79DA28C74.quest_desc: ["Chutes move items vertically; Portable Storage Interfaces transfer items between a moving contraption and a stationary inventory. Plan the unloading point before building the contraption."]
+	quest.3EBFA9E79DA28C74.title: "Chutes and Portable Storage Interfaces"
+	quest.3F0E3ACDF96118E0.quest_desc: ["Convert an existing Tier 3 stack upgrade into Tier 4. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.3F59E2A7EA323266.quest_desc: ["Install this downgrade to reduce stack capacity in the backpack. It is useful when you want smaller buffers or tighter limits on stored ingredients."]
+	quest.3F7CB76FAFCB60BB.quest_desc: ["Upgrade the diving equipment through the recipes shown in JEI. Keep the Backtank charged and check each piece's tooltip before entering hazardous areas."]
+	quest.3F7CB76FAFCB60BB.title: "Netherite Diving Equipment"
+	quest.3F868482803DAB14.quest_desc: ["Pulls items from block on top and/or pushes them to block below Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.3FEB945757AABD91.quest_desc: ["Blasting ores and metal stuff in an upgrade tab Automatically pulls/pushes items Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
 	quest.4072B9308C60E030.quest_desc: [
 		"Prepare the tea bag and its matching brewed tea to complete this tasting."
 		"Keep a cup ready beside your Teapot."
 	]
 	quest.4072B9308C60E030.title: "Wheat Aroma Oolong Tea"
+	quest.407B72483A170B38.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
 	quest.407B72483A170B38.title: "Golden tools"
+	quest.409497BFC3A95AA2.quest_desc: ["Used to configure interaction points for Mechanical Arm, Mechanical Pipette, Ejector Depot, Packager, Re-packager, Package Frogport and Postbox"]
+	quest.409497BFC3A95AA2.title: "Conductor's Baton"
+	quest.40A6565625187BB7.quest_desc: ["Combine Fishing Rod and Brown Mushroom to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Mushroom Fields. Use it again to return to manual control."]
+	quest.40CF4CF2C6070E83.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
 	quest.40CF4CF2C6070E83.title: "Copper tools"
+	quest.410136DBD81826AE.quest_desc: ["Stonecutter in an upgrade tab Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.414BD8183FC1DB59.quest_desc: ["Use Smart Fluid Pipes to filter a line. The Fluid Interface and Copper Tap add access points for containers and handling."]
+	quest.414BD8183FC1DB59.title: "Fluid Filtering and Interfaces"
+	quest.4163A6E3669BF1FE.quest_desc: ["Magnets items into backpack at range Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
 	quest.41A20ACB13164437.quest_desc: [
 		"Craft and place a Stove, then light it with Flint and Steel."
 		"Place your cookware directly above it. The Wok, Stockpot, Steamer and Teapot all need a suitable heat source to work."
 	]
 	quest.41A20ACB13164437.title: "Light the Kitchen Stove"
+	quest.41C9346D96132773.quest_desc: ["Magnets items into storage at range Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.41D5081374637198.quest_desc: [
+		"Backpack upgrades add portable processing, collection and storage functions."
+		"The pack includes Create integrations. Check JEI and the installed upgrade's controls when combining a backpack with workshop machinery. Complete this information quest manually."
+	]
+	quest.42098B324D18C982.quest_desc: ["Feed a Blaze Cake to a Blaze Burner when a recipe requires superheating. Prepare the other ingredients before starting the short heating window."]
+	quest.42098B324D18C982.title: "Blaze Cake"
+	quest.42408D30E9E3D5AA.quest_desc: [
+		"Craft two Warp Plates for a direct travel connection."
+		"Bind their Attuned Shards to the intended destinations. Test the connection before building around the plates."
+	]
+	quest.424CEB02A965702F.quest_desc: ["Install this stack upgrade in the backpack to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.4282DF8E765BC5A3.quest_desc: ["This portable engine is a crafting component for Create Stuff & Additions equipment. Check JEI uses to distinguish its recipes from Create's boiler-mounted engine."]
+	quest.4282DF8E765BC5A3.title: "Steam Engine"
+	quest.43107C302A84BCD3.quest_desc: ["Equip a villager with all four Netherite armor pieces."]
+	quest.43107C302A84BCD3.title: "Cover Them in Debris"
 	quest.43480626E3969730.quest_desc: [
 		"Prepare the Red Tulip Tea Bag and brew Crimson Heartbeat."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.43480626E3969730.title: "Crimson Heartbeat"
+	quest.4385CF0674440B79.quest_desc: ["Use the Treetap on a sap-bearing section of a Rubber Log to collect Sap. Harvesting turns that section into a dry log; look for another sap-bearing section when continuing collection."]
+	quest.4385CF0674440B79.title: "Treetap"
+	quest.43C3C2B27CBC81BB.quest_desc: ["Attach the engine to a heated, water-filled Fluid Tank boiler, connect its output to a shaft and run the setup. Check the advancement screen for the exact trigger."]
+	quest.43C3C2B27CBC81BB.title: "Steam Engine Power"
 	quest.4412073CF62DE5A0.quest_desc: ["Pin a creature with a thrown raw flower cake"]
 	quest.4412073CF62DE5A0.title: "A Flower Blooms in an Instant"
-	quest.456D272E7E8BA723.quest_desc: ["Obtain a Dew Flower Cake. Its special effects are explored in the separate achievement group."]
+	quest.4422717366FCA8B5.quest_desc: ["Attach the whistle to a boiler setup. Inspect its Ponder scene before arranging the steam connection and sound control."]
+	quest.4422717366FCA8B5.title: "Steam Whistle"
+	quest.449A09FC50B32D81.quest_desc: ["These blocks cover drilling, sawing, harvesting, ploughing and milling. Use Ponder on each machine to check its working face and rotation requirements."]
+	quest.449A09FC50B32D81.title: "Drilling, Sawing, Harvesting and Milling"
+	quest.44ACA092F075A53A.quest_desc: ["A Clutch can stop rotation with redstone, while a Gearshift reverses it. Use the controls before connecting a moving contraption."]
+	quest.44ACA092F075A53A.title: "Clutches and Gearshifts"
+	quest.44B5B724B77BA445.quest_desc: ["An uncommon Guardian drop that is useful in constructing sophisticated Laser Defense Systems."]
+	quest.44B5B724B77BA445.title: "Guardian Beam Capacitor"
+	quest.456D272E7E8BA723.quest_desc: ["Its special effects are explored in the separate achievement group."]
 	quest.456D272E7E8BA723.title: "Dew Flower Cake"
+	quest.4575562F00370907.quest_desc: [
+		"Craft a Warp Stone and activate at least one useful Waystone destination."
+		"Hold use to charge the stone and choose a destination. Keep it accessible while exploring."
+	]
+	quest.45E055006C565687.quest_desc: ["Super Packing Tape serves the same moving workflow as ordinary Packing Tape. Compare remaining uses in its tooltip before a large relocation."]
 	quest.45F6C4E6B990D7E1.quest_desc: [
 		"Prepare all six rice dishes in this collection."
 		"A simple bowl of rice can become a satisfying meal in many different ways."
@@ -373,6 +817,8 @@
 		"Keep a cup ready beside your Teapot."
 	]
 	quest.45F96D7285E43614.title: "Sakura Fubuki"
+	quest.465BA3AEA3A3CBA6.quest_desc: ["Combine Fishing Rod and Red Tulip to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Flower Forest. Use it again to return to manual control."]
+	quest.466C27AF96C42B6F.quest_desc: ["Convert an existing Tier 4 stack upgrade into Tier 5. Use the conversion recipe in JEI when upgrading a module you already own."]
 	quest.467C8D49D8B06F28.quest_desc: [
 		"Prepare the Allium Tea Bag and brew Fire Waltz."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
@@ -395,11 +841,35 @@
 	quest.46E5C8D3EB55E094.title: "Keep the Grease Close"
 	quest.4708422455C5A9D2.quest_desc: ["Roll three double drops within one Voracious Urn"]
 	quest.4708422455C5A9D2.title: "Greed Without End"
+	quest.4774F2251BA09C98.quest_desc: [
+		"Add a reference item and choose its properties."
+		"Use Match Any or Match All to control filtering."
+	]
+	quest.4774F2251BA09C98.title: "Filter by Properties"
+	quest.47F237EC52750253.quest_desc: ["Combine Fishing Rod and Mossy Cobblestone to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Jungle Pyramid. Use it again to return to manual control."]
+	quest.4883D2EDD94068B0.quest_desc: ["Combine Fishing Rod and Bamboo to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Bamboo Jungle. Use it again to return to manual control."]
+	quest.4884F241917CF638.quest_desc: ["Combine Fishing Rod and Terracotta to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Badlands. Use it again to return to manual control."]
+	quest.48BC7D32720211EC.quest_desc: ["Equip this Jetpack Chestplate and check its fuel or fluid requirements in the tooltip. Set the flight controls and test a short takeoff over safe ground."]
+	quest.48BC7D32720211EC.title: "Netherite Jetpack"
+	quest.4915E8EEF2C80B5F.quest_desc: ["Compacts items into their compressed variants Both 2x2 and 3x3 recipes with more filtering options Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.4947927209839467.quest_desc: ["Convert an existing Starter Tier stack upgrade into Tier 2. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.496A3712165EAE4F.quest_desc: ["Buried treasure can contain a Heart of the Sea, while Nautilus Shells are found through fishing and other sources. Save them for conduit-related recipes."]
+	quest.496A3712165EAE4F.title: "Conduit Ingredients"
+	quest.49AE28A4543EF4CB.quest_desc: ["Crafting table in an upgrade tab Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.49C623B7E769A901.quest_desc: ["Convert an existing Tier 1 Plus stack upgrade into Tier 2. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.4AC4AD33A0A1C6F5.quest_desc: ["Increases the chance of hooking a golden fish."]
+	quest.4AC4AD33A0A1C6F5.title: "A Golden Bite"
 	quest.4BA7892EA25F733A.quest_desc: [
 		"Place a Teapot on a suitable heat source. Add the liquid and tea ingredient required for the tea you want to brew."
 		"Wait until brewing finishes, then serve with Empty Cups. Add liquid and ingredients while the teapot is in its preparation stage."
 	]
 	quest.4BA7892EA25F733A.title: "Put the Kettle On"
+	quest.4BC316F0759BB2A5.quest_desc: [
+		"Craft a Portal Scroll to open a temporary travel portal."
+		"Hold use, select an activated Waystone and leave enough clear space for the portal to appear. The scroll is consumed when the portal opens."
+	]
+	quest.4BF0577D3CEC56AF.quest_desc: ["This tank supports the portable equipment branch. Check its JEI uses for compatible engines or equipment and compare its capacity before making the next tier."]
+	quest.4BF0577D3CEC56AF.title: "Medium Fueling Tank"
 	quest.4C14663895EEEF52.quest_desc: [
 		"Prepare the Pink Tulip Tea Bag and brew Rosy Stride."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
@@ -409,11 +879,8 @@
 	quest.4C21BD4944CBDC53.title: "A Garden in Full Bloom"
 	quest.4C4599A10BE1B633.quest_desc: [
 		"Your Sniffer has discovered cosplay."
-		""
 		"Right-click a tamed Sniffer with certain items to completely change its appearance. These variants are purely cosmetic, so choose your favorite or collect the whole prehistoric wardrobe."
-		""
 		"Available cosplays:"
-		""
 		"Acacia — Acacia Leaves"
 		"Sculk — Echo Shard"
 		"Cherry — Pink Petals"
@@ -425,41 +892,34 @@
 		"Mushroom — Mycelium"
 		"Nether — Crimson Roots"
 		"Swamp — Mangrove Propagule"
-		""
 		"And, of course, there is always the classic Default Sniffer for those who refuse to participate in cosplay."
-		""
 		"Find your favorite look... or collect them all. Your Sniffer didn't survive extinction just to have one outfit."
 	]
 	quest.4C4599A10BE1B633.title: "Sniffer Cosplay Convention"
-	quest.4C6AD6CB9F99191D.quest_desc: ["Obtain a Block of Experience. These blocks are used to make Enchanting Templates and can be transformed into Blocks of Super Experience by lightning. Check JEI for the recipe."]
-	quest.4C6AD6CB9F99191D.title: "Experience, Compacted"
+	quest.4C6AD6CB9F99191D.quest_desc: ["These blocks are used to make Enchanting Templates and can be transformed into Blocks of Super Experience by lightning. Check JEI for the recipe."]
+	quest.4C6AD6CB9F99191D.title: "Block of Experience"
+	quest.4C736C29248A426E.quest_desc: ["Choose Duel, select a loadout and wager, then win the non-lethal fight."]
+	quest.4C736C29248A426E.title: "Friendly Competition"
 	quest.4C8BA6D3AB53C9EE.quest_desc: [
-		"Craft a Sickle. Right-click crops to harvest them and remove weeds."
+		"Right-click crops to harvest them and remove weeds."
 		"Keep it with your farming tools as your vegetable beds and rice fields expand."
 	]
 	quest.4C8BA6D3AB53C9EE.title: "A Cleaner Harvest"
-	quest.4CE6CAC38213C268.quest_desc: [
-		"Obtain a kitchen knife accepted by this task and keep it ready at your cooking station."
-		"Cookery knives prepare ingredients on the Chopping Board. Higher-tier knives make useful upgrades as you spend more time in the kitchen."
-	]
+	quest.4CE6CAC38213C268.quest_desc: ["Cookery knives prepare ingredients on the Chopping Board. Higher-tier knives make useful upgrades as you spend more time in the kitchen."]
 	quest.4CE6CAC38213C268.title: "A Blade for the Chef"
 	quest.4DB5312EFD5053BB.quest_desc: [
-		"Obtain a Lightning Rod for this quest and place it near a Blaze Enchanter under an open sky."
+		"Place a Lightning Rod near a Blaze Enchanter under an open sky."
 		"Supply Liquid Experience and feed the enchanter a Cake o' Enchanting to activate Super Enchanting mode. Set an equipment item, such as a pickaxe, in its filter slot and choose an enchanting level."
 		"Process Super Enchanting Templates until a result includes a treasure enchantment, such as Mending. This grants Probability Spike. You may need several attempts."
 	]
-	quest.4DB5312EFD5053BB.title: "A Treasure in the Odds"
+	quest.4DB5312EFD5053BB.title: "Treasure Enchantments with Lightning"
 	quest.4E6536570DDAD4B9.quest_desc: [
 		"This ancient creature may look like it pays taxes to nobody... and that's because it doesn't."
-		""
 		"Give a Sniffer a Pitcher Pod to tame it."
-		""
 		"Once you've earned its trust, you can:"
-		""
 		"Equip a Saddle — yes, you can ride the giant mossy dinosaur."
 		"Attach a Chest — because apparently your dinosaur is also a backpack."
 		"Add a Carpet — all 16 colors work, because fashion is important even when you're extinct."
-		""
 		"Its chest provides 25 storage slots, making your new prehistoric friend surprisingly useful on long adventures."
 	]
 	quest.4E6536570DDAD4B9.title: "A Sniffer Companion"
@@ -473,19 +933,42 @@
 		"Right-click it with suitable heads, lanterns or tools to decorate your new field guardian."
 	]
 	quest.4ECC51DB18B1540D.title: "Someone to Watch the Crops"
+	quest.4EEF51C72C7FA08B.quest_desc: ["Keep the Heat Engine for the compatible portable equipment recipes shown in JEI. Prepare its required tank before upgrading your equipment."]
+	quest.4EEF51C72C7FA08B.title: "Heat Engine"
+	quest.4EF30842961B514C.quest_desc: [
+		"Enter the Nether through a lit Nether portal."
+		"Bring food, spare blocks and a way to relight the portal. Record the entrance before exploring."
+	]
 	quest.4EF30842961B514C.title: "There is hot"
+	quest.4F7A0DB004A895AA.quest_desc: ["Transports further and faster than Mechanical Pumps, can be encased with Copper Casing"]
+	quest.4F7A0DB004A895AA.title: "Pumps and Redstone Valves"
 	quest.4F914EAA5FC2FD3F.quest_desc: [
 		"Prepare the Azure Bluet Tea Bag and brew The Unnoticed."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.4F914EAA5FC2FD3F.title: "The Unnoticed"
+	quest.4FA6F8DB9FB7E44D.quest_desc: ["Copper Casings are used for fluid machinery. Make a small batch before building pumps and tanks."]
+	quest.4FA6F8DB9FB7E44D.title: "Copper Casing"
+	quest.4FB5C6F97628D84D.quest_desc: ["Apply this tier upgrade to a matching Copper storage container to raise it to Gold tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.4FC62F5A745262F5.quest_desc: ["Brass Casings support the precision stage of Create. Keep a batch for Mechanical Crafters and more advanced workshop machinery."]
+	quest.4FC62F5A745262F5.title: "Brass Casing"
+	quest.4FC8B0B6D84E9EE0.quest_desc: ["Connect pipes between your source and destination. A powered Mechanical Pump supplies the direction and flow for the line."]
+	quest.4FC8B0B6D84E9EE0.title: "Fluid Pipe"
+	quest.4FE7E5CB1B9402CD.quest_desc: ["Complete quests for ten different villagers in the same village."]
+	quest.4FE7E5CB1B9402CD.title: "The People's Champion"
 	quest.4FE8D62B58B25DBC.quest_desc: ["Prepare a cup of Flower Tea for your tasting collection."]
 	quest.4FE8D62B58B25DBC.title: "Flower Tea"
+	quest.5001800E8FE5FA4F.quest_desc: ["Use the Fish Radar to inspect fishing conditions and plan your next catch."]
+	quest.5001800E8FE5FA4F.title: "Read the Water"
+	quest.504ADAA47E732AB6.quest_desc: ["This tank supports the portable equipment branch. Check its JEI uses for compatible engines or equipment and compare its capacity before making the next tier."]
+	quest.504ADAA47E732AB6.title: "Medium Filling Tank"
 	quest.51181E7058AA394E.quest_desc: [
-		"Obtain a kitchen knife accepted by this task. A Cookery Iron Kitchen Knife can be crafted from three Iron Ingots and a Stick."
+		"A Cookery Iron Kitchen Knife can be crafted from three Iron Ingots and a Stick."
 		"Cookery kitchen knives cut ingredients on a Chopping Board. They can also provide Oil when used to kill pigs, piglins or hoglins."
 	]
 	quest.51181E7058AA394E.title: "Every Kitchen Needs a Knife"
+	quest.51554766CA897553.quest_desc: ["Make a Fish Plaque to display a catch. Any wood variant counts."]
+	quest.51554766CA897553.title: "A Catch for the Wall"
 	quest.5161081A58AD5C77.quest_desc: ["You can use trial key to  reset vault"]
 	quest.5161081A58AD5C77.title: "Reuse key"
 	quest.5166ACCCD8F53010.quest_desc: [
@@ -493,114 +976,379 @@
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.5166ACCCD8F53010.title: "The Prussian Leap"
+	quest.517CAFE33962A58E.quest_desc: ["Look for blazes in Nether fortresses. Rods become blaze powder for brewing and Eyes of Ender."]
 	quest.517CAFE33962A58E.title: "Some hot rods"
+	quest.518102CB0AC51869.quest_desc: ["Install this stack upgrade in the backpack to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.51D70276D620DD81.quest_desc: ["Craft every armor piece shown in the task and keep the complete set together. Equip it before the next expedition and check durability after combat."]
 	quest.51D70276D620DD81.title: "Iron armor"
+	quest.51FB462DA31CB755.quest_desc: ["Set the ejector's destination before supplying items. Keep its landing area clear and use Ponder to inspect the trajectory setup."]
+	quest.51FB462DA31CB755.title: "Weighted Ejector"
+	quest.5200A63BBA47114A.quest_desc: ["Let a Sniffer search suitable ground, and grow the recovered seeds before harvesting the flowers. Check JEI for the Ancient Sapling's available sources."]
+	quest.525F9C43C7D2E378.quest_desc: [
+		"Hire a worker through Recruit or Hire."
+		"Assign a reachable work area, tools, storage and payment. Check Clipboard diagnostics if work stops. Self-check: tick when done."
+	]
+	quest.525F9C43C7D2E378.title: "Hire Your First Worker"
+	quest.52BBE1F320D98911.quest_desc: ["Portable Jukebox with support for more music discs Also more playback options Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.52CBF69BE2AB6465.quest_desc: ["Convert an existing Tier 1 stack upgrade into Tier 5. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.530872E6174F2B8B.quest_desc: ["Equip the Exoskeleton Chestplate and inspect its operating requirements. Check the assigned controls before testing its movement features."]
+	quest.530872E6174F2B8B.title: "Netherite Exoskeleton"
+	quest.533F256CE5FF18DA.quest_desc: ["Smoking food in an upgrade tab Automatically pulls/pushes items Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.534757936CD06941.quest_desc: ["Blasting ores and metal stuff in an upgrade tab Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.535376AC4DDE123D.quest_desc: [
+		"A windmill is a renewable source of rotation for your workshop."
+		"Assemble sails around a Windmill Bearing, check that the structure can rotate, and connect its output to your machines. Complete this information quest manually."
+	]
+	quest.535376AC4DDE123D.title: "Windmill Setup"
+	quest.535855FF6D033C77.quest_desc: ["Super Glue joins blocks into a contraption. Use the bearing, piston or Cart Assembler suited to the movement you want, and leave its route clear."]
+	quest.535855FF6D033C77.title: "Build Moving Contraptions"
+	quest.5366AD37EA36D995.quest_desc: ["Portable Jukebox Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.543C2519A43A09F0.quest_desc: ["Convert an existing Starter Tier stack upgrade into Tier 3. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.5476426B444157D0.quest_desc: ["Compacts items into their compressed variants Only 2x2 recipes Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.54CDCEC18486F91D.quest_desc: ["Feeds player with food from storage's inventory More options for when food gets fed to player Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
 	quest.550BCB5EA87CE32E.quest_desc: [
 		"Prepare the Orange Tulip Tea Bag and brew Autumn Serenade."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.550BCB5EA87CE32E.title: "Autumn Serenade"
+	quest.553658BD42F3F7FE.quest_desc: ["Convert an existing Tier 1 stack upgrade into Tier 3. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.553CCE4F4F33FBCD.quest_desc: ["Convert an existing Tier 1 stack upgrade into Tier 1 Plus. Use the conversion recipe in JEI when upgrading a module you already own."]
 	quest.5561E25A984A8C55.quest_desc: ["Ripen 50 crops within one Vernal Awakening"]
 	quest.5561E25A984A8C55.title: "Believe in the Whole Spring"
+	quest.557B800D64D59710.quest_desc: ["Convert an existing Tier 1 Plus stack upgrade into Tier 3. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.55B40D3BAB1FA6A5.quest_desc: ["A Valve Handle provides manual rotation; a Fluid Valve controls a fluid line. Check the valve state before starting the pump."]
+	quest.55B40D3BAB1FA6A5.title: "Fluid Valves and Handles"
+	quest.55D6541D605E5BCC.quest_desc: ["Restocks backpack from sneak right clicked inventory Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.56944AF4479395C5.quest_desc: ["Convert an existing Starter Tier stack upgrade into Tier 4. Use the conversion recipe in JEI when upgrading a module you already own."]
 	quest.572F0A52E3B4C07F.quest_desc: [
 		"Finish cutting an ingredient on a Chopping Board with a Cookery kitchen knife."
 		"Continue cutting until the ingredient changes into its prepared result. This grants the chopping advancement."
 	]
 	quest.572F0A52E3B4C07F.title: "Chop, Chop, Chop!"
-	quest.57993FFBF672E682.quest_desc: ["Obtain a Printer. Set the item to copy in its filter slot, supply the required fluid, and feed blank items underneath it. It can copy books, rename items, and more. Check JEI for printing recipes."]
-	quest.57993FFBF672E682.title: "The Magic Copy Shop"
-	quest.57CFEF7965C2F8C2.title: "Some white stuf"
+	quest.57993FFBF672E682.quest_desc: ["Set the item to copy in its filter slot, supply the required fluid, and feed blank items underneath it. It can copy books, rename items, and more. Check JEI for printing recipes."]
+	quest.57993FFBF672E682.title: "Printer"
+	quest.57CFEF7965C2F8C2.quest_desc: ["Mine Nether Quartz for machinery and redstone components. It also feeds the Rose Quartz branch of Create."]
+	quest.57CFEF7965C2F8C2.title: "Nether Quartz"
+	quest.5938C2A162743DC7.quest_desc: ["Encased Chain Drives share rotation between connected units. Gearboxes help route the same network around corners."]
+	quest.5938C2A162743DC7.title: "Gearboxes and Chain Drives"
 	quest.595F2FF6E6A6425F.quest_desc: [
 		"Break grass while wearing a Straw Hat to find Wild Rice."
 		"Prepare flooded farmland before planting it. Mature rice plants provide Rice Panicles for your kitchen."
 	]
 	quest.595F2FF6E6A6425F.title: "Find Wild Rice"
-	quest.5B07B986302DE4A7.title: "Fire and Water"
+	quest.5985D87670983A7A.quest_desc: [
+		"Pay 10,000 emeralds in wages through Payment Boxes."
+		"Optional settlement goal."
+	]
+	quest.5985D87670983A7A.title: "An Emerald Economy"
+	quest.5993A0F3FAA25498.quest_desc: ["For the upgrade branches in this chapter, use a compatible Sophisticated Backpack. Open its inventory and inspect its upgrade slots before crafting modules."]
+	quest.59A23E744C86727F.quest_desc: ["The Large Water Wheel needs more room around its axle. Set up flowing water and connect its rotation to your workshop."]
+	quest.59A23E744C86727F.title: "Large Water Wheel"
 	quest.5B0FA1FF4D71B700.quest_desc: [
 		"Harvest 16 Lettuce and keep one Caterpillar. Caterpillars have a chance to appear when you harvest lettuce."
 		"Lettuce is useful in soups and stuffed dough. The caterpillar can become a treat for a baby chicken."
 	]
 	quest.5B0FA1FF4D71B700.title: "An Unexpected Garden Guest"
+	quest.5B18D1B9AA2FFC2A.quest_desc: ["Use them to replace wooden tools and build a furnace. The task accepts its listed material tag."]
 	quest.5B18D1B9AA2FFC2A.title: "Stone age"
+	quest.5B284C6EAAB96805.quest_desc: ["Allows your fishing tackle to survive lava and reach lava catches."]
+	quest.5B284C6EAAB96805.title: "Fishing in Lava"
+	quest.5B337FE46BEC0A30.quest_desc: ["Slimeballs are useful for sticky pistons and Super Glue. Keep a stack near the Create workbench."]
 	quest.5BCDC4A61F7A3413.quest_desc: [
 		"Collect 16 Rice by processing Rice Panicles in a powered Create Millstone."
 		"Feed the panicles into the top of the millstone and supply rotation. Each panicle gives two Rice, with a chance for one more."
-		""
 		"{\"text\":\"Open the quest with Create\\u0027s Millstone\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"449A09FC50B32D81\"}}"
 	]
 	quest.5BCDC4A61F7A3413.title: "From Panicle to Grain"
+	quest.5BEEA73118C314D0.quest_desc: [
+		"Gold equipment wears out quickly, so reserve your gold for the recipes and equipment you actually need."
+		"This is an information quest. Read the advice, then complete its checkmark manually."
+	]
 	quest.5BEEA73118C314D0.title: "Better gold"
+	quest.5C05217D7F061B19.quest_desc: ["Gold is useful for golden food, redstone components and later alloys. Keep some for your workshop."]
 	quest.5C05217D7F061B19.title: "First gold"
+	quest.5C184812CBA507FD.quest_desc: ["Search End cities for shulkers. Two shells and a chest make portable shulker storage."]
 	quest.5C184812CBA507FD.title: "Some bodes"
+	quest.5C3E81FDED808200.quest_desc: ["Install this stack upgrade in the backpack to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.5C5517B276FCD993.quest_desc: ["A rare Elder Guardian drop that is useful in constructing even better sophisticated Laser Defense Systems as well as other useful gadgets."]
+	quest.5C5517B276FCD993.title: "Elder Guardian Beam Capacitor"
+	quest.5C73A308C37AA0C1.quest_desc: ["Combine Fishing Rod and Sea Pickle to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Warm Ocean. Use it again to return to manual control."]
 	quest.5C7B63F20EA5E2B1.quest_desc: ["Cross 50 blocks of open water in one unbroken Rosy Stride"]
 	quest.5C7B63F20EA5E2B1.title: "Walk on Water"
+	quest.5CBA5B8B8355E796.quest_desc: [
+		"Collect 100,000 mB of Molten Echo for the fluid task."
+		"The installed mixing recipe uses Echo Shards in a superheated Basin. Prepare a reliable shard supply and enough tank capacity before running the batch."
+	]
+	quest.5CBA5B8B8355E796.title: "Molten Echo"
+	quest.5CD0E5FACB3D13F2.quest_desc: ["Moves items between storage and adjacent blocks Faster, configurable input/output from any side Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.5D86D49820763D05.quest_desc: [
+		"Complete requests or assignments for three related villagers."
+		"Use Profile and Family to find their relatives."
+	]
+	quest.5D86D49820763D05.title: "Family Business"
 	quest.5DAC077462DE4567.quest_desc: [
-		"Craft a Shawarma Spit. Its crafting grid uses Iron Sheets and a Shaft on top, Iron Sheets around a Cogwheel in the middle, and Magma Blocks around a Campfire on the bottom."
+		"Its crafting grid uses Iron Sheets and a Shaft on top, Iron Sheets around a Cogwheel in the middle, and Magma Blocks around a Campfire on the bottom."
 		"Load suitable food and power the spit with redstone to cook. Turn the redstone signal off before removing the food."
 	]
 	quest.5DAC077462DE4567.title: "Turning Up the Roast"
-	quest.5FBCB143DBF47BD2.quest_desc: ["Obtain a cup of Mystery Tea for the more unusual end of your collection."]
+	quest.5DE7D88D11E26952.quest_desc: ["Prepare Worms, Almighty Worms and Seeking Worms. They reduce the wait; upgraded worms favor live fish or undiscovered catches."]
+	quest.5DE7D88D11E26952.title: "A Better Bite"
+	quest.5DF30D479544B885.quest_desc: ["This tank supports the portable equipment branch. Check its JEI uses for compatible engines or equipment and compare its capacity before making the next tier."]
+	quest.5DF30D479544B885.title: "Small Filling Tank"
+	quest.5E135F02750C499F.quest_desc: ["Lower the hose into a fluid source and connect a pump. Check the supply and destination before starting a large transfer."]
+	quest.5E135F02750C499F.title: "Hose Pulley"
+	quest.5E5A5EBC3FCB5F63.quest_desc: ["Filters items piped in and/or out of backpack Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.5EB9C24D71733512.quest_desc: ["Convert an existing Tier 3 stack upgrade into Tier 4. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.5F58FB388F2B49B0.quest_desc: ["Makes backpack pickup items Has more filtering options Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.5F73B7BB16F14553.quest_desc: ["Portstones provide access to your Waystone destinations. Read its tooltip before choosing where to place it."]
+	quest.5F7B6BD9791F7DDA.quest_desc: [
+		"Have a Courier deliver materials that another worker uses."
+		"Configure route nodes and storage policies with the Clipboard."
+	]
+	quest.5F7B6BD9791F7DDA.title: "Supply and Demand"
 	quest.5FBCB143DBF47BD2.title: "Mystery Tea"
 	quest.5FF517ECD284B19A.quest_desc: [
 		"Prepare the Sunflower Tea Bag and brew The Sunward."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.5FF517ECD284B19A.title: "The Sunward"
+	quest.600EE515D60B9DFB.quest_desc: [
+		"Craft a Materials Checklist using your blueprint's JEI recipe."
+		"Shift-right-click a container to count its supplies."
+	]
+	quest.600EE515D60B9DFB.title: "Count the Materials"
+	quest.6017060BF8F94AD9.quest_desc: ["Makes fish easier to reel in, but increases the penalty for missed sweet spots."]
+	quest.6017060BF8F94AD9.title: "A Risky Shortcut"
+	quest.6036D24AE93B6289.quest_desc: ["Use an iron pickaxe or better to collect diamond ore. Decide whether tools, armor or an enchanting table comes first."]
+	quest.606C629D9F6348F6.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.606C629D9F6348F6.title: "Sharktooth Rod"
+	quest.608B3CF370684E4F.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.608B3CF370684E4F.title: "Lush Glowberry Rod"
+	quest.609B5E13BFD6497D.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.609B5E13BFD6497D.title: "Naturalist Skin Smithing Template"
+	quest.60B97E0BD2394954.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.60B97E0BD2394954.title: "Magmaforged Rod"
+	quest.6104CD72489FCCE7.quest_desc: ["Pair the controller with a large cogwheel and set the desired speed. Keep the network's stress capacity in mind when increasing it."]
+	quest.6104CD72489FCCE7.title: "Rotation Speed Controller"
+	quest.610720146BA9432A.quest_desc: ["Apply this template at a Smithing Table to change the tackle's appearance. Check the recipe for its matching material."]
+	quest.610720146BA9432A.title: "Colorful Tackle Smithing Template"
+	quest.61334EB1858E2D24.quest_desc: ["Prepare the Flamethrower through JEI and read its operating requirements. Test its controls in a clear area away from your workshop."]
+	quest.61334EB1858E2D24.title: "Flamethrower"
+	quest.61346F5489F544D6.quest_desc: ["Makes vanishing sweet spots linger longer."]
+	quest.61346F5489F544D6.title: "Time to React"
+	quest.6136C452C18F4455.quest_desc: ["Adds leaf sweet spots to the fishing minigame."]
+	quest.6136C452C18F4455.title: "Leaves on the Water"
 	quest.6159EBCB14058ADE.quest_desc: ["Drink a First Bloom on an empty hunger bar"]
 	quest.6159EBCB14058ADE.title: "Coffee Is Our Bread"
+	quest.617D155592A57008.quest_desc: ["Automatically uses potions, food with effects, or milk buckets Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.6185AEC0FC2832A6.quest_desc: ["Configure the arm's input and output points before placing it. Supply rotation and ensure the destination can accept the transferred items."]
+	quest.6185AEC0FC2832A6.title: "Mechanical Arm"
+	quest.619E0E1AE376329A.quest_desc: ["Magnets items into backpack at a greater range Has more filtering options Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.619EE3098BD54160.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.619EE3098BD54160.title: "Lush Glowberry Skin Smithing Template"
+	quest.61A308DDC83E9C6C.quest_desc: [
+		"Prepare the listed sword, shield and food for your companion."
+		"Use their equipment options when available; inventory access can require reputation."
+	]
+	quest.61A308DDC83E9C6C.title: "Prepare the Companion"
+	quest.61B12239EB7342D9.quest_desc: ["Use common fillets to prepare all seven dishes: hosomaki, nigiri, temaki, uramaki, salad, omelette and fish and chips."]
+	quest.61B12239EB7342D9.title: "Common Fish Menu"
+	quest.61ECB5479DA14668.quest_desc: ["Slows moving sweet spots, making them easier to follow."]
+	quest.61ECB5479DA14668.title: "A Steadier Target"
+	quest.61EDBA31CBDA4266.quest_desc: ["Bypasses the daytime and weather restrictions on fishing."]
+	quest.61EDBA31CBDA4266.title: "Any Time, Any Weather"
+	quest.61EE3C6C14DA4780.quest_desc: ["Collect 128 Conch and 128 Clam: two full stacks of each shell."]
+	quest.61EE3C6C14DA4780.title: "A Sea of Shells"
 	quest.626BEE24D4EAE1D4.quest_desc: [
 		"Prepare all four wok specialties in this collection."
 		"Crispy rolls, spicy dishes and stuffed peppers bring a little variety to the dinner table."
 	]
 	quest.626BEE24D4EAE1D4.title: "Crispy, Spicy, Delicious"
+	quest.629A147FF607C3D3.quest_desc: ["Apply this tier upgrade to a matching Basic storage container to raise it to Iron tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.62A328D78B904B22.quest_desc: ["Adds five fish per catch, but hides the catch, prevents golden fish and makes the minigame harder."]
+	quest.62A328D78B904B22.title: "An Angler's Gamble"
 	quest.62B1E27D756BCE91.quest_desc: [
 		"Drink Lullaby at night to receive a Blossom Mooncake."
 		"Enjoy it with your tea, or use its Floating effect for the air-swimming achievement."
 	]
 	quest.62B1E27D756BCE91.title: "A Mooncake with Your Lullaby"
+	quest.62DBA85F6D134398.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.62DBA85F6D134398.title: "Naturalist Rod"
+	quest.63036345F63042BC.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.63036345F63042BC.title: "Obsidian Rod"
+	quest.63109AB80AA44468.quest_desc: ["Cut a rare fish, or process it in a powered Mechanical Grindstone. The fillet keeps the fish's rarity."]
+	quest.63109AB80AA44468.title: "Rare Fillet"
+	quest.632869EDA948403C.quest_desc: ["Fit this iron hook to a Starcatcher rod. Other hooks change how the minigame behaves."]
+	quest.632869EDA948403C.title: "The First Hook"
+	quest.63392CE419AD4E80.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.63392CE419AD4E80.title: "Azure Crystal Rod"
+	quest.634A8B39EA73269B.quest_desc: ["Smoking food in an upgrade tab Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.635DB8FA34054BCB.quest_desc: ["Speeds up the minigame handle. Oxidation gradually slows its rotation."]
+	quest.635DB8FA34054BCB.title: "Fresh Copper"
+	quest.63686571274A4890.quest_desc: ["Cut a epic fish, or process it in a powered Mechanical Grindstone. The fillet keeps the fish's rarity."]
+	quest.63686571274A4890.title: "Epic Fillet"
+	quest.636FBFCB5BD04DBC.quest_desc: ["Speeds up bites and favors dripstone cave catches."]
+	quest.636FBFCB5BD04DBC.title: "Under the Stalactites"
+	quest.638076380D68B560.quest_desc: ["Reach this Starcatcher collection milestone and obtain its trophy. Follow the line toward the Older Angler's trophy."]
+	quest.638076380D68B560.title: "Diamond Trophy"
 	quest.63959D56376D9898.quest_desc: ["Drink your first flower drink"]
 	quest.63959D56376D9898.title: "First Sip"
+	quest.63CE9DFC76701DDD.quest_desc: [
+		"Craft a Payment Box and fill it with emeralds."
+		"Use the Clipboard to assign it to a hired worker for recurring payment."
+	]
+	quest.63CE9DFC76701DDD.title: "A Place for Wages"
+	quest.63E4583F741341FD.quest_desc: ["Cut a common fish, or process it in a powered Mechanical Grindstone. The fillet keeps the fish's rarity."]
+	quest.63E4583F741341FD.title: "Common Fillet"
+	quest.63F2877C9B8EB2DD.quest_desc: ["Become Revered in three different tracked villages."]
+	quest.63F2877C9B8EB2DD.title: "A Living Legend"
+	quest.6431C7321BFC0EFB.quest_desc: ["Power the press above a Depot or belt to flatten metal into sheets. A Basin below it enables compacting recipes."]
+	quest.6431C7321BFC0EFB.title: "Mechanical Press"
+	quest.643C315F4D59415F.quest_desc: ["Speeds up bites and attracts an unusual, explosive visitor."]
+	quest.643C315F4D59415F.title: "An Explosive Bite"
 	quest.645892F182BAC7E8.quest_desc: [
 		"Prepare Cooked Rice in your Stockpot."
 		"Keep a few portions ready for the rice dishes further along this branch."
 	]
 	quest.645892F182BAC7E8.title: "A Bowl of Rice"
-	quest.64BA735081D86131.title: "Get some prismarine"
+	quest.64A7BFBE0FBD45C6.quest_desc: ["Apply this template at a Smithing Table to change the tackle's appearance. Check the recipe for its matching material."]
+	quest.64A7BFBE0FBD45C6.title: "Clear Tackle Smithing Template"
+	quest.64B2CE2D6982A883.quest_desc: ["Add the Mechanical Pipette to the fluid workshop. Inspect its Ponder scene to see how it interacts with fluid containers."]
+	quest.64B2CE2D6982A883.title: "Mechanical Pipette"
+	quest.64BA735081D86131.quest_desc: ["Collect Prismarine Shards and Crystals for the aquatic machinery branch. Guardians are a renewable source once you have a suitable setup."]
+	quest.64BA735081D86131.title: "Prismarine Shards and Crystals"
+	quest.64C256FF535441A9.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.64C256FF535441A9.title: "Iceborn Skin Smithing Template"
+	quest.64FDA676FCB9478B.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.64FDA676FCB9478B.title: "Bamboo Skin Smithing Template"
+	quest.653E54C5183845FD.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.653E54C5183845FD.title: "Iceborn Rod"
+	quest.6550DE072B97E2D3.quest_desc: ["Convert an existing Tier 2 stack upgrade into Tier 3. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.6559BD3A57174C6D.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.6559BD3A57174C6D.title: "Obsidian Skin Smithing Template"
+	quest.656A9707AD4041DF.quest_desc: ["Prepare every taiyaki flavor listed here, including the suspicious one."]
+	quest.656A9707AD4041DF.title: "Seven Little Fish Cakes"
 	quest.65772ABCF259B164.quest_desc: [
 		"Prepare the Pitcher Plant Tea Bag and brew The Voracious Urn."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.65772ABCF259B164.title: "The Voracious Urn"
+	quest.65BA07B9F7C1BBDE.quest_desc: ["This tank supports the portable equipment branch. Check its JEI uses for compatible engines or equipment and compare its capacity before making the next tier."]
+	quest.65BA07B9F7C1BBDE.title: "Large Filling Tank"
 	quest.65D2F27DFF313DB0.quest_desc: [
 		"Prepare Mantou in your Steamer."
 		"Soft steamed buns make a simple first meal from your new cookware."
 	]
 	quest.65D2F27DFF313DB0.title: "Steam Does the Work"
+	quest.65E25F0A71E2205A.quest_desc: ["Install this stack upgrade in the storage to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.6610822C3C6CCC41.quest_desc: ["Smelting in an upgrade tab Automatically pulls/pushes items Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.661E38F36D634500.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.661E38F36D634500.title: "Slimed Skin Smithing Template"
+	quest.661F129017FB8B14.quest_desc: ["Electron Tubes are used in more advanced Create components. Keep polished Rose Quartz and iron sheets ready for this step."]
+	quest.661F129017FB8B14.title: "Electron Tube"
+	quest.66233B8905EBBE1E.quest_desc: ["Build your fishing rod, then fit a hook, bobber and bait to suit the catch."]
+	quest.66233B8905EBBE1E.title: "Starcatcher's Rod"
 	quest.663ABDA70E76261B.quest_desc: [
 		"Use a spare Blaze Enchanter: this hidden advancement destroys the machine."
 		"Work under an open sky with no exposed Lightning Rod within 128 blocks. Supply Liquid Experience and feed the enchanter a Cake o' Enchanting to activate Super Enchanting mode."
 		"Set an equipment item in its filter slot, choose an enchanting level, and start processing a Super Enchanting Template. Without a rod to catch the lightning, the enchanter is destroyed and replaced by a lit Blaze Burner, granting OSHA Violation."
 	]
-	quest.663ABDA70E76261B.title: "OSHA Violation"
-	quest.665547A2097D3C1F.quest_desc: ["Obtain an Experience Lantern. It collects nearby experience orbs and can absorb experience from players. The more experience it stores, the brighter it glows."]
-	quest.665547A2097D3C1F.title: "A Bright Idea"
+	quest.663ABDA70E76261B.title: "Overload the Blaze Enchanter"
+	quest.663D496317784DB6.quest_desc: ["Apply this template at a Smithing Table to change the tackle's appearance. Check the recipe for its matching material."]
+	quest.663D496317784DB6.title: "Survivor Tackle Smithing Template"
+	quest.665547A2097D3C1F.quest_desc: ["It collects nearby experience orbs and can absorb experience from players. The more experience it stores, the brighter it glows."]
+	quest.665547A2097D3C1F.title: "Experience Lantern"
+	quest.6659C032BEFB4202.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.6659C032BEFB4202.title: "Bone Skin Smithing Template"
+	quest.66600200AE8140FF.quest_desc: [
+		"A powered Mechanical Grindstone turns each fish into one fillet of the same rarity. Open the equipment quest below for the setup instructions."
+		"{\"text\":\"Open the Mechanical Grindstone quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"26A4E6CE696C4E90\"}}"
+	]
+	quest.66600200AE8140FF.title: "Fish Fillets with Create"
+	quest.6664A5D3570B9311.quest_desc: [
+		"Craft a Clipboard to manage workers, storage, routes and payment."
+		"Right-click it in your inventory to change mode. Its tooltip shows the controls."
+	]
+	quest.6664A5D3570B9311.title: "Manage the Workforce"
+	quest.667620A02D84FE46.quest_desc: ["Convert an existing Tier 3 stack upgrade into Tier 5. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.668CE97943444CA1.quest_desc: ["Slows the handle below its normal rotation speed."]
+	quest.668CE97943444CA1.title: "Weathered Copper"
+	quest.66B10304A30F4897.quest_desc: ["Prepare Targeted Bait for the fish you want. Check its recipe to set the target."]
+	quest.66B10304A30F4897.title: "Choose Your Catch"
+	quest.66B9A70BAE4D45FF.quest_desc: ["Speeds up bites and favors fish from lush caves."]
+	quest.66B9A70BAE4D45FF.title: "Below the Moss"
+	quest.66BD29FF82FF23D9.quest_desc: ["Rose Quartz is an intermediate for Electron Tubes. Open JEI to check its ingredients before crafting a batch."]
+	quest.66BD29FF82FF23D9.title: "Rose Quartz"
+	quest.66C0EA063EE44787.quest_desc: ["Hides the fish during the minigame; three consecutive hits summon a treasure."]
+	quest.66C0EA063EE44787.title: "Hidden Treasure"
 	quest.66DC3AFFE849F91F.quest_desc: [
 		"Supply a Blaze Forger with Liquid Experience and switch its side panel to Extract Mode."
 		"Give it an enchanted item, book, or template together with a blank Enchanting Template. Extracting an enchantment into the blank template grants Magic Unbinding."
 	]
-	quest.66DC3AFFE849F91F.title: "Unbind the Magic"
+	quest.66DC3AFFE849F91F.title: "Extract Enchantments"
+	quest.66E6260FBB799BBC.quest_desc: ["Equip the Exoskeleton Chestplate and inspect its operating requirements. Check the assigned controls before testing its movement features."]
+	quest.66E6260FBB799BBC.title: "Brass Exoskeleton"
+	quest.66EEB5B8ABBEEAA1.quest_desc: ["Polish Rose Quartz with Sand Paper. The polished result is used to make Electron Tubes."]
+	quest.66EEB5B8ABBEEAA1.title: "Polished Rose Quartz"
+	quest.671ABC2EF438F0BD.quest_desc: ["Convert an existing Tier 1 stack upgrade into Tier 3. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.672CD1F2F79C4285.quest_desc: ["Cut a uncommon fish, or process it in a powered Mechanical Grindstone. The fillet keeps the fish's rarity."]
+	quest.672CD1F2F79C4285.title: "Uncommon Fillet"
+	quest.6778F242C5E878D9.quest_desc: ["Convert an existing Starter Tier stack upgrade into Tier 1. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.679361395EFE2C62.quest_desc: ["Apply this tier upgrade to a matching Basic storage container to raise it to Copper tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.67C6B5DDA98843EF.quest_desc: ["Increases the chance that a golden fish will bite."]
+	quest.67C6B5DDA98843EF.title: "Golden Ripples"
+	quest.67F86528E40B43A0.quest_desc: ["Apply this template at a Smithing Table to change the tackle's appearance. Check the recipe for its matching material."]
+	quest.67F86528E40B43A0.title: "Valley Tackle Smithing Template"
+	quest.67FCA6CF4C6F8A79.quest_desc: ["Craft every armor piece shown in the task and keep the complete set together. Equip it before the next expedition and check durability after combat."]
+	quest.67FCA6CF4C6F8A79.title: "Slime Armor"
+	quest.6800E210F618D5AC.quest_desc: ["Feeds player with food from storage's inventory Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.680B707B63AC4AC2.quest_desc: ["Use legendary fillets to prepare all seven dishes: hosomaki, nigiri, temaki, uramaki, salad, omelette and fish and chips."]
+	quest.680B707B63AC4AC2.title: "Legendary Fish Menu"
+	quest.680BB9A35FC2293A.quest_desc: ["Install this downgrade to reduce stack capacity in the backpack. It is useful when you want smaller buffers or tighter limits on stored ingredients."]
+	quest.681F2790616C4970.quest_desc: ["Complete all 20 fishing template quests, then confirm your collection."]
+	quest.681F2790616C4970.title: "Every Fishing Template"
+	quest.6828DCB11C52ADB4.quest_desc: ["Combine Fishing Rod and Vine to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Swamp. Use it again to return to manual control."]
+	quest.6883C3A5B54E4C14.quest_desc: ["Prevents your minigame handle from freezing."]
+	quest.6883C3A5B54E4C14.title: "Keep Turning"
 	quest.68CDC9FEC7D1C545.quest_desc: [
 		"Supply a Blaze Enchanter with Liquid Experience and set an enchanting level on its panel."
 		"Give it an unenchanted tool, weapon, or piece of armor and let it finish enchanting. This grants Blazing Enchantment."
 	]
-	quest.68CDC9FEC7D1C545.title: "Blazing Enchantment"
-	quest.68D2C737BAB62DEE.title: "Lets enchant"
+	quest.68CDC9FEC7D1C545.title: "Enchant with a Blaze Enchanter"
+	quest.68D6F3340B764914.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.68D6F3340B764914.title: "Sharktooth Skin Smithing Template"
+	quest.68E11C3C91904CE3.quest_desc: ["Use epic fillets to prepare all seven dishes: hosomaki, nigiri, temaki, uramaki, salad, omelette and fish and chips."]
+	quest.68E11C3C91904CE3.title: "Epic Fish Menu"
+	quest.69044A0819C04091.quest_desc: ["Adds a glowing sweet spot to the fishing minigame."]
+	quest.69044A0819C04091.title: "A Glowing Target"
+	quest.69092122D1E54BE0.quest_desc: ["Adds a dripstone sweet spot to the fishing minigame."]
+	quest.69092122D1E54BE0.title: "A Dripstone Target"
+	quest.693E6063C314CC51.quest_desc: ["The Controller provides a common access point for connected storage. Storage I/O lets pipes insert and extract through the connected storage network."]
+	quest.6956E97398147BBD.quest_desc: ["Set up an Aquarium to display fish from your collection."]
+	quest.6956E97398147BBD.title: "A Home for Your Catch"
+	quest.6968BF339C368EED.quest_desc: ["Convert an existing Tier 1 stack upgrade into Tier 4. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.69A7B4FB278A4961.quest_desc: ["Lures a creeper and shortens the wait for a bite."]
+	quest.69A7B4FB278A4961.title: "An Unexpected Visitor"
+	quest.69F6289F71DC379E.quest_desc: ["Craft every armor piece shown in the task and keep the complete set together. Equip it before the next expedition and check durability after combat."]
 	quest.69F6289F71DC379E.title: "Golden armor"
+	quest.69FB459A6E304138.quest_desc: ["Gather bone meal and use the bait recipes to prepare for different fishing conditions."]
+	quest.69FB459A6E304138.title: "The Bait Bench"
 	quest.6A09757C266B3F48.quest_desc: [
 		"Pump Liquid Experience through Create Fluid Pipes. Break a section so the liquid leaks from an open pipe end."
 		"Stand in the leaking experience to absorb it and earn the hidden advancement A Shower Experience. Keep the pump running so experience continues to flow."
 	]
-	quest.6A09757C266B3F48.title: "A Shower of Experience"
+	quest.6A09757C266B3F48.title: "Absorb Leaking Experience"
+	quest.6A23E24D50AA419C.quest_desc: ["Bites take longer, but hitting a sweet spot briefly stops the fish from escaping."]
+	quest.6A23E24D50AA419C.title: "Slow and Steady"
+	quest.6A48F5260426487B.quest_desc: ["Cut a legendary fish, or process it in a powered Mechanical Grindstone. The fillet keeps the fish's rarity."]
+	quest.6A48F5260426487B.title: "Legendary Fillet"
+	quest.6A57AB7BC4740C09.quest_desc: ["Enlarges green sweet spots for a more forgiving catch."]
+	quest.6A57AB7BC4740C09.title: "A Little More Room"
+	quest.6A6B32F574D84661.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.6A6B32F574D84661.title: "Humble Skin Smithing Template"
+	quest.6A73382DEA994C22.quest_desc: ["Bounces an escaping fish back once during the catch."]
+	quest.6A73382DEA994C22.title: "One More Chance"
+	quest.6A741ED634D2725C.quest_desc: ["Filters items piped in and/or out of storage Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
 	quest.6A7E000000000002.quest_desc: [
 		"Find a Grapevine hanging from an oak tree and break it by hand to bring it home."
 		"Your tavern begins in the vineyard. Grow grapes, press juice, brew a cellar of drinks, then bring Create into the business."
@@ -711,7 +1459,6 @@
 	]
 	quest.6A7E000000000061.title: "Clear Beginnings"
 	quest.6A7E000000000067.quest_desc: [
-		"Craft a Shaker and an Empty Glassware."
 		"Prepare at least three drinks of Fine quality or better. Cocktail recipes choose ingredients by color group; check JEI for the combinations."
 		"Save Empty Glassware for serving your finished cocktails."
 	]
@@ -719,43 +1466,30 @@
 	quest.6A7E00000000006B.quest_desc: ["You can mix three Fine-quality drinks in a Shaker to make cocktails."]
 	quest.6A7E00000000006B.title: "Three Drinks and a Little Patience"
 	quest.6A7E00000000006E.quest_desc: [
-		"Prepare Allium Garden, Brass Heart and Emerald."
 		"Allium Garden uses three light-purple ingredients, Brass Heart uses three gold ingredients, and Emerald uses three green ingredients."
 		"Each brewing ingredient must be Fine quality or better."
 	]
 	quest.6A7E00000000006E.title: "One Color, Three Measures"
 	quest.6A7E000000000074.quest_desc: [
-		"Prepare Mojito, Grasshopper and White Lady."
 		"Mojito: white + white + green. Grasshopper: green + green + white. White Lady: white + green + yellow."
 		"Check JEI for matching bottles and let every brewing ingredient reach Fine quality."
 	]
 	quest.6A7E000000000074.title: "Something Fresh"
 	quest.6A7E00000000007A.quest_desc: [
-		"Prepare Bloody Mary, Godfather and Screwdriver."
 		"Bloody Mary: red + red + red. Godfather: red + red + gold. Screwdriver: yellow + yellow + gold."
 		"Keep a separate shelf for each ingredient color to make the next order easier."
 	]
 	quest.6A7E00000000007A.title: "A Bold Little Menu"
 	quest.6A7E000000000080.quest_desc: [
-		"Prepare Depth Charge, Nether Special and Sculk Special."
 		"Depth Charge: blue + light purple + white. Nether Special: red + green + blue. Sculk Special: blue + blue + light purple."
 		"Use Fine-quality ingredients or better for every recipe."
 	]
 	quest.6A7E000000000080.title: "A Round for the Adventurers"
-	quest.6A7E000000000086.quest_desc: [
-		"Craft a Bar Counter, Bar Cabinet and four Brown Bar Stools."
-		"Set up a serving area for your kitchen and cellar. Leave yourself room to reach the barrels and bottle storage."
-	]
+	quest.6A7E000000000086.quest_desc: ["Set up a serving area for your kitchen and cellar. Leave yourself room to reach the barrels and bottle storage."]
 	quest.6A7E000000000086.title: "A Place to Pull Up a Stool"
-	quest.6A7E00000000008B.quest_desc: [
-		"Craft a Glass Bar Cabinet, Cellar Cabinet, Tilted Rack and Glassware Holder."
-		"Keep serving containers near the bar and display your collection on racks. Check a rack's accepted bottle shape if a drink will not fit."
-	]
+	quest.6A7E00000000008B.quest_desc: ["Keep serving containers near the bar and display your collection on racks. Check a rack's accepted bottle shape if a drink will not fit."]
 	quest.6A7E00000000008B.title: "Bottles Deserve a Shelf"
-	quest.6A7E000000000091.quest_desc: [
-		"Craft a Chalkboard, Table and Bell Pendant Lamp."
-		"Give your tavern a menu and a cozy corner. This branch is for making the place feel like home."
-	]
+	quest.6A7E000000000091.quest_desc: ["Give your tavern a menu and a cozy corner. This branch is for making the place feel like home."]
 	quest.6A7E000000000091.title: "Tonight's Specials"
 	quest.6A7E000000000096.quest_desc: [
 		"You can use a Mechanical Press and Basin to make grape juice."
@@ -876,70 +1610,46 @@
 	quest.6A80000000000008.title: "A Risky Little Fruit"
 	quest.6A8000000000000B.quest_desc: ["Grow chili seeds on Soul Soil and collect 4 Soul Peppers."]
 	quest.6A8000000000000B.title: "Heat from the Soul"
-	quest.6A8000000000000E.quest_desc: ["Prepare Crimson Salad, Warped Salad, Fruit Platter, Warped Cake."]
 	quest.6A8000000000000E.title: "A Brighter Kind of Nether"
-	quest.6A80000000000014.quest_desc: ["Prepare Crimson Kabob, Warped Kabob, Blazing Kabob, Golden Kabob."]
 	quest.6A80000000000014.title: "Four Sticks, Four Flavors"
 	quest.6A8000000000001E.quest_desc: ["Harvest Nether Wart to find 2 Nether Caterpillars."]
 	quest.6A8000000000001E.title: "A Little Nether Protein"
-	quest.6A80000000000021.quest_desc: ["Prepare Nether Caterpillar Sashimi, Caramel Nether Caterpillar, Caramel Nether Caterpillar Rice."]
 	quest.6A80000000000021.title: "Three Ways to Serve a Bug"
 	quest.6A80000000000026.quest_desc: ["Eat all three Nether Caterpillar dishes."]
 	quest.6A80000000000026.title: "A Bug Banquet"
-	quest.6A80000000000029.quest_desc: ["Collect all three Nether fruits and a Soul Pepper."]
 	quest.6A80000000000029.title: "Nether Agronomist"
 	quest.6A8000000000002C.quest_desc: ["Collect Hoglin Tusks, Hoglin Hide and Ham from Hoglins."]
 	quest.6A8000000000002C.title: "A Hoglin's Pantry"
-	quest.6A80000000000031.quest_desc: ["Prepare Roasted Ham, Ham Slice, Roujiamo, Ham Yogurt."]
 	quest.6A80000000000031.title: "Bring Home the Ham"
 	quest.6A80000000000037.quest_desc: ["Collect 2 Gilded Fragments from Piglin Brutes."]
 	quest.6A80000000000037.title: "The Brute's Share"
-	quest.6A8000000000003A.quest_desc: ["Prepare Hoglin Tusk Braised Meat, Golden Roast, Gilded Barbaric Roast."]
 	quest.6A8000000000003A.title: "A Feast for the Bold"
 	quest.6A8000000000003F.quest_desc: ["Craft a Primitive Machete from Hoglin Tusks and Netherite."]
 	quest.6A8000000000003F.title: "The Power of the Hog"
-	quest.6A80000000000042.quest_desc: ["Collect 4 Raw Strider Meat and 2 Strider Rock Shells."]
 	quest.6A80000000000042.title: "A Kitchen on Hot Feet"
-	quest.6A80000000000046.quest_desc: ["Prepare Cooked Strider Meat, Braised Strider, Strider Nether Wart Stew."]
 	quest.6A80000000000046.title: "Strider for Supper"
-	quest.6A8000000000004B.quest_desc: ["Prepare Strider Shell Stir Fry, Soul Strider Kabob."]
 	quest.6A8000000000004B.title: "Shells and Skewers"
 	quest.6A8000000000004F.quest_desc: ["Collect 2 Ghast Hide and 4 Ghast Tentacles from Ghasts."]
 	quest.6A8000000000004F.title: "A Taste of the Clouds"
-	quest.6A80000000000053.quest_desc: ["Prepare Roasted Ghast Tentacle, Ghast Kabob, Ghast Pasta, Ghast Pudding."]
 	quest.6A80000000000053.title: "Clouds on the Menu"
-	quest.6A80000000000059.quest_desc: ["Prepare Poisonous Ghast Roast."]
 	quest.6A80000000000059.title: "A Dangerous Roast"
 	quest.6A8000000000005C.quest_desc: ["Collect 4 Raw Piglin Meat from Piglins."]
 	quest.6A8000000000005C.title: "A Different Cut"
-	quest.6A8000000000005F.quest_desc: ["Prepare Cooked Piglin Meat, Warped Hoglin Tenderloin Stew."]
 	quest.6A8000000000005F.title: "Meat for the Warped Pot"
 	quest.6A80000000000066.quest_desc: ["Collect 4 Wither Ribs from Wither Skeletons."]
 	quest.6A80000000000066.title: "Remains of the Undead"
-	quest.6A80000000000069.quest_desc: ["Prepare Blaze Soup, Magma Cream Soup, Wither Bone Soup."]
 	quest.6A80000000000069.title: "A Fortress Full of Soup"
-	quest.6A8000000000006E.quest_desc: ["Prepare Magma Cream Stir Fry, Magma Cream Stir Fry Rice, Crimson Magma Stew."]
 	quest.6A8000000000006E.title: "A Very Hot Wok"
-	quest.6A80000000000073.quest_desc: ["Prepare Lava Roasted Chicken, Nether Fries Platter."]
 	quest.6A80000000000073.title: "Straight from the Fire"
-	quest.6A80000000000077.quest_desc: ["Prepare Magma Cream Pudding, Lava Jelly."]
 	quest.6A80000000000077.title: "Sweet Heat"
-	quest.6A8000000000007B.quest_desc: ["Prepare Soul Lamb Chop, Soul Glazed Roast, Soul Pepper Stir Fry."]
 	quest.6A8000000000007B.title: "A Little Soul in the Wok"
-	quest.6A80000000000080.quest_desc: ["Prepare Soul Stir Fry Meat, Soul Stir Fry Meat Rice."]
 	quest.6A80000000000080.title: "Two Bowls of Heat"
-	quest.6A80000000000084.quest_desc: ["Prepare Soul Soup, Poisonous Soup, Forgetfulness Soup."]
 	quest.6A80000000000084.title: "Soups with a Strange Aftertaste"
-	quest.6A80000000000089.quest_desc: ["Prepare Spicy Pot, Spicy Pot Rice, Mapo Tofu."]
 	quest.6A80000000000089.title: "The Spicy Corner"
-	quest.6A8000000000008E.quest_desc: ["Prepare Chongqing Noodles, Luosifen, Spicy Hoglin Ramen."]
 	quest.6A8000000000008E.title: "Three Bowls of Noodles"
-	quest.6A80000000000093.quest_desc: ["Prepare Braised Lion Head, Braised Pork Rice, Couples Lung Slice, Garlic Oysters."]
 	quest.6A80000000000093.title: "A Few House Specials"
-	quest.6A80000000000099.quest_desc: ["Prepare Pepper Pork Belly Chicken Soup, Sauerkraut Fish."]
 	quest.6A80000000000099.title: "Comfort by the Fire"
 	quest.6A8000000000009D.title: "A Pinch of Starlight"
-	quest.6A800000000000A0.quest_desc: ["Prepare Soul Return Rice, Star Stew, Star Ghast Pasta, Star Stew Meat."]
 	quest.6A800000000000A0.title: "Dinner Under the Stars"
 	quest.6A800000000000A6.quest_desc: ["Eat all four Star Dust dishes."]
 	quest.6A800000000000A6.title: "A Feast of Starlight"
@@ -961,41 +1671,32 @@
 		"{\"text\":\"Chopping Board\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"381A43D155C8D44B\"}}"
 	]
 	quest.6A81000000000002.title: "Seeds at the Edge of the World"
-	quest.6A81000000000005.quest_desc: ["Use Shears on Chorus Flowers and collect 4 Chorus Petals."]
+	quest.6A81000000000005.quest_desc: ["Use Shears on Chorus Flowers and collect 2 Chorus Petals."]
 	quest.6A81000000000005.title: "A Flower from the End"
-	quest.6A8100000000000C.quest_desc: ["Prepare Chorus Pasta."]
 	quest.6A8100000000000C.title: "Chorus for Dinner"
 	quest.6A81000000000010.quest_desc: ["Harvest 4 Ender Mint from End Stone."]
 	quest.6A81000000000010.title: "A Fresh Breath of the End"
-	quest.6A81000000000013.quest_desc: ["Prepare Ender Mint Candy, Mint Chorus Mousse."]
 	quest.6A81000000000013.title: "Fresh and Sweet"
-	quest.6A81000000000017.quest_desc: ["Prepare Mint Noodle Soup, Mint Sauce Shulker Meat, Mint Sauce Shulker Meat Rice Bowl."]
 	quest.6A81000000000017.title: "Mint on the Menu"
 	quest.6A8100000000001C.quest_desc: ["Collect 4 Dream Berries from the undersides of End islands."]
 	quest.6A8100000000001C.title: "A Dream Beneath the Islands"
-	quest.6A8100000000001F.quest_desc: ["Prepare End Salad."]
 	quest.6A8100000000001F.title: "A Bowl from Another World"
 	quest.6A81000000000022.quest_desc: ["Gain the Dream effect from End ingredients or dishes."]
 	quest.6A81000000000022.title: "A Little Dreaming"
 	quest.6A81000000000025.quest_desc: ["Kill Endermen with a kitchen knife and collect 4 Optic Nerves."]
 	quest.6A81000000000025.title: "Eye for an Ingredient"
-	quest.6A81000000000028.quest_desc: ["Prepare Optic Nerve Sweet and Sour Pork."]
 	quest.6A81000000000028.title: "A Different Kind of Sweet and Sour"
 	quest.6A8100000000002B.quest_desc: ["Defeat Shulkers and collect 4 Shulker Meat."]
 	quest.6A8100000000002B.title: "A Meal Inside a Shell"
-	quest.6A8100000000002E.quest_desc: ["Prepare Stuffed Shulker and Shulker Stew."]
 	quest.6A8100000000002E.title: "A Shell Full of Supper"
 	quest.6A81000000000033.quest_desc: ["Kill Endermites with a kitchen knife and collect 4 Raw Endermite Meat."]
 	quest.6A81000000000033.title: "Tiny Creature, Tiny Cut"
-	quest.6A81000000000036.quest_desc: ["Prepare Roasted Endermite Meat, Stir-fried Endermite Meat, Stir-fried Endermite Meat Rice Bowl."]
 	quest.6A81000000000036.title: "Small Bites"
 	quest.6A8100000000003B.quest_desc: ["Harvest Chorus Fruit to find an End Caterpillar."]
 	quest.6A8100000000003B.title: "A Bug at the End"
-	quest.6A8100000000003E.quest_desc: ["Prepare End Caterpillar Sashimi."]
 	quest.6A8100000000003E.title: "The Last Sashimi"
-	quest.6A81000000000044.quest_desc: ["Brush Suspicious End Stone and collect 2 Void Conches."]
+	quest.6A81000000000044.quest_desc: ["Brush Suspicious End Stone and get Void Conches."]
 	quest.6A81000000000044.title: "A Whisper from the Void"
-	quest.6A81000000000047.quest_desc: ["Prepare Stuffed Void Conch, Void Conch Noodle Soup, Void Mutton Steak."]
 	quest.6A81000000000047.title: "A Taste of the Void"
 	quest.6A8100000000004C.quest_desc: ["Gain Void Erosion from an End dish."]
 	quest.6A8100000000004C.title: "A Touch of the Void"
@@ -1005,19 +1706,15 @@
 	quest.6A81000000000052.title: "A Shell for the Table"
 	quest.6A81000000000055.quest_desc: ["Brush Suspicious Dragon Eggs and collect 2 Dragon Egg Liquid."]
 	quest.6A81000000000055.title: "Inside a Suspicious Egg"
-	quest.6A81000000000058.quest_desc: ["Prepare Fried Dragon Egg, Dragon Soufflé."]
 	quest.6A81000000000058.title: "An Egg and a Little Magic"
-	quest.6A8100000000005C.quest_desc: ["Prepare Dragon Egg Stew."]
 	quest.6A8100000000005C.title: "A Dragon's Breakfast"
 	quest.6A81000000000061.quest_desc: ["Eat Dragon Egg Stew and Dragon Egg Custard."]
 	quest.6A81000000000061.title: "An Eggcellent Feast"
 	quest.6A81000000000064.quest_desc: ["Use a Create Item Drain to empty Dragon's Breath bottles and collect a Dragon Breath Bucket."]
 	quest.6A81000000000064.title: "Catch Your Breath"
-	quest.6A81000000000067.quest_desc: ["Prepare Dragon Breath Chorus Soup, Dragon Breath Mixed Stew, Dragon Breath Popping Candy."]
 	quest.6A81000000000067.title: "A Dragon's Aftertaste"
 	quest.6A8100000000006C.quest_desc: ["Defeat the Ender Dragon and collect 2 Raw Ender Dragon Meat."]
 	quest.6A8100000000006C.title: "The Dragon's Share"
-	quest.6A81000000000070.quest_desc: ["Prepare Cooked Ender Dragon Meat and Dark Dragon Steak."]
 	quest.6A81000000000070.title: "A Feast for the Victor"
 	quest.6A81000000000075.quest_desc: ["Craft an Ender Dragon Smithing Template with Dragon Dust, Obsidian and a Netherite Upgrade Template."]
 	quest.6A81000000000075.title: "A Pattern from the End"
@@ -1049,11 +1746,8 @@
 	quest.6A81000000000092.title: "A Seed of Possibility"
 	quest.6A81000000000096.quest_desc: ["You can use Dragon Dust as reusable bone meal."]
 	quest.6A81000000000096.title: "A Dusting of Growth"
-	quest.6A8100000000009A.quest_desc: ["Prepare Chorus Flower Cake."]
 	quest.6A8100000000009A.title: "A Cake from the End"
-	quest.6A810000000000A0.quest_desc: ["Prepare Dragon Egg Ice Cream."]
 	quest.6A810000000000A0.title: "A Frozen Dragon's Egg"
-	quest.6A810000000000A3.quest_desc: ["Prepare Dragon Egg Custard."]
 	quest.6A810000000000A3.title: "A Silky Dragon's Egg"
 	quest.6A810000000000A6.quest_desc: ["Collect a Dragon Tooth from the Ender Dragon."]
 	quest.6A810000000000A6.title: "A Dragon's Tooth"
@@ -1062,70 +1756,224 @@
 		"{\"text\":\"Dragon Breath Bucket\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"6A81000000000064\"}}"
 	]
 	quest.6A82000000000001.title: "A Breath in a Bottle"
+	quest.6A8509BF5F7846DC.quest_desc: ["Apply this template at a Smithing Table to change the tackle's appearance. Check the recipe for its matching material."]
+	quest.6A8509BF5F7846DC.title: "Pearl Tackle Smithing Template"
+	quest.6A96249657454FB1.quest_desc: ["Speeds up bites and favors swamp fish."]
+	quest.6A96249657454FB1.title: "Murky Waters"
+	quest.6AADEDD4135544C6.quest_desc: ["Restores vanilla fishing loot. Pair it with the Vanilla-flavoured Hook to skip the minigame."]
+	quest.6AADEDD4135544C6.title: "Back to Basics"
+	quest.6AAF9B27F5D15786.quest_desc: ["Combine Fishing Rod and Soul Sand to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Ancient City. Use it again to return to manual control."]
+	quest.6AFBA81B1AF60F4D.quest_desc: [
+		"Produce an Echo Ingot through the Sequenced Assembly recipe shown in JEI."
+		"The installed recipe starts with Netherite and alternates filling, pressing and deploying steps. Prepare lava, Molten Echo and blaze powder before beginning the sequence."
+	]
+	quest.6AFBA81B1AF60F4D.title: "Echo Ingot"
+	quest.6B3817CE19F747F9.quest_desc: ["Apply this template at a Smithing Table to change the tackle's appearance. Check the recipe for its matching material."]
+	quest.6B3817CE19F747F9.title: "King Tackle Smithing Template"
+	quest.6B7BDA36E0DB4890.quest_desc: ["Apply this template at a Smithing Table to change the tackle's appearance. Check the recipe for its matching material."]
+	quest.6B7BDA36E0DB4890.title: "Kimbe Tackle Smithing Template"
+	quest.6B87FBE30F6D4DB2.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.6B87FBE30F6D4DB2.title: "Sky Skin Smithing Template"
+	quest.6BA47FF208C2449B.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.6BA47FF208C2449B.title: "Humble Rod"
+	quest.6BA7F02C8E3129AE.quest_desc: [
+		"Complete Springboard Champion by getting launched more than 30 blocks by a Weighted Ejector."
+		"Configure the destination and supply rotation before stepping onto the ejector. Keep the flight path clear and prepare a safe landing."
+	]
+	quest.6BA7F02C8E3129AE.title: "Weighted Ejector: 30-Block Launch"
+	quest.6BBC501044BF447A.quest_desc: ["Provides the slowest handle rotation in the copper hook family."]
+	quest.6BBC501044BF447A.title: "Fully Oxidised"
+	quest.6BC3DCFD64731926.quest_desc: ["This tank supports the portable equipment branch. Check its JEI uses for compatible engines or equipment and compare its capacity before making the next tier."]
+	quest.6BC3DCFD64731926.title: "Large Fueling Tank"
+	quest.6BE9566FE65CECC2.quest_desc: ["Discover a story, then share it through villager dialogue."]
+	quest.6BE9566FE65CECC2.title: "Once Upon a Time"
 	quest.6C1439E67BA46B05.quest_desc: [
 		"Break grass while wearing a Straw Hat to find Chili Seeds."
 		"Grow chili plants and collect both green and red peppers. They give many wok and stockpot recipes their heat."
 	]
 	quest.6C1439E67BA46B05.title: "A Little Heat in the Garden"
-	quest.6D4C85DCCCAECD96.quest_desc: [
-		"Obtain the Flowery Straw Hat, Farmer Chestplate, Farmer Leggings and Farmer Boots."
-		"Wear the complete farmer set for a movement bonus in water. It is especially useful when tending flooded rice fields."
+	quest.6C19D6E258919DDB.quest_desc: ["Apply this tier upgrade to a matching Diamond storage container to raise it to Netherite tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.6C48155E798D4EB6.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.6C48155E798D4EB6.title: "Sky Rod"
+	quest.6C85D51F0D584C18.quest_desc: ["Hat colors have different fishing effects. Choose a hat by its tooltip; any color counts here."]
+	quest.6C85D51F0D584C18.title: "An Angler's Hat"
+	quest.6C895B6F0490FFB7.quest_desc: ["Install this downgrade to reduce stack capacity in the storage. It is useful when you want smaller buffers or tighter limits on stored ingredients."]
+	quest.6CA0CEC19965328E.quest_desc: [
+		"Complete ten distinct blueprint structures."
+		"Repeating the same structure does not count as ten different builds."
 	]
+	quest.6CA0CEC19965328E.title: "Urban Planner"
+	quest.6CA12E83B1AB4DD7.quest_desc: ["Speeds up bites and favors Deep Dark catches."]
+	quest.6CA12E83B1AB4DD7.title: "Into the Deep Dark"
+	quest.6CDA65A499AA47D7.quest_desc: ["Removes gravity from the bobber."]
+	quest.6CDA65A499AA47D7.title: "Above the Water"
+	quest.6CE1C28BDD5749CA.quest_desc: ["Use uncommon fillets to prepare all seven dishes: hosomaki, nigiri, temaki, uramaki, salad, omelette and fish and chips."]
+	quest.6CE1C28BDD5749CA.title: "Uncommon Fish Menu"
+	quest.6D1E755F90354626.quest_desc: ["Set up a Tournament Stand for fishing competitions."]
+	quest.6D1E755F90354626.title: "A Friendly Competition"
+	quest.6D2D375E8B224C8A.quest_desc: ["Perfect catches have a chance to award extra treasure."]
+	quest.6D2D375E8B224C8A.title: "Treasure in the Moss"
+	quest.6D4C85DCCCAECD96.quest_desc: ["Wear the complete farmer set for a movement bonus in water. It is especially useful when tending flooded rice fields."]
 	quest.6D4C85DCCCAECD96.title: "Dressed for the Paddy Fields"
-	quest.6DA5A56C1215A7BE.quest_desc: ["Obtain a Heap of Experience from Create: Stuff & Additions. Check JEI for its recipe and uses."]
-	quest.6DA5A56C1215A7BE.title: "A Heap of Knowledge"
+	quest.6D5D80E408E34164.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.6D5D80E408E34164.title: "Magmaforged Skin Smithing Template"
+	quest.6D69B55649D64DAB.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.6D69B55649D64DAB.title: "Boner Rod"
+	quest.6DA10719A7A847E7.quest_desc: ["Prepare all eight unique fish dishes listed here. Each recipe calls for its own special catch."]
+	quest.6DA10719A7A847E7.title: "Eight Special Catches, Eight Dishes"
+	quest.6DA5A56C1215A7BE.quest_desc: ["Check JEI for Heap of Experience recipes and uses."]
+	quest.6DA5A56C1215A7BE.title: "Heap of Experience"
+	quest.6DF89BF9237402F9.quest_desc: [
+		"Raise one villager skill to its maximum through successful work."
+		"Check Profile and Skills for progress."
+	]
+	quest.6DF89BF9237402F9.title: "Master of the Craft"
+	quest.6DFF1A692717E667.quest_desc: ["Voids items selected in filter Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.6E1B0A766750F3A4.quest_desc: ["Pay 100 emeralds in wages through assigned Payment Boxes."]
+	quest.6E1B0A766750F3A4.title: "Payday"
+	quest.6E71642B09598EF0.quest_desc: ["Save a build with a schematic, then load it into the Schematicannon. Supply the required building materials and gunpowder before printing."]
+	quest.6E71642B09598EF0.title: "Schematic Building"
+	quest.6E7501E0002746C7.quest_desc: ["Voids items selected in filter Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.6EC6298EF0A24B83.quest_desc: ["Collect a Conch and a Clam. These two shells also have their own collection challenge."]
+	quest.6EC6298EF0A24B83.title: "Shells from the Water"
+	quest.6ED43ACFA19F4838.quest_desc: ["Pair this hook with the Vanilla-flavoured Bobber to skip the fishing minigame."]
+	quest.6ED43ACFA19F4838.title: "A Familiar Cast"
+	quest.6ED7324FF4CF0761.quest_desc: ["Convert an existing Tier 2 stack upgrade into Tier 3. Use the conversion recipe in JEI when upgrading a module you already own."]
 	quest.6F0B94B4E9F14856.quest_desc: [
 		"Feed a Caterpillar to a baby chicken to complete the High-Quality Protein advancement."
 		"Use a chick rather than an adult chicken. Save a caterpillar from your lettuce harvest for this task."
 	]
 	quest.6F0B94B4E9F14856.title: "Protein for a Little Chick"
-	quest.6F1B12DD98D4F81E.title: "Better enchant"
+	quest.6F17248B4FFB4F5F.quest_desc: ["Offers a smaller handle-speed increase than fresh copper."]
+	quest.6F17248B4FFB4F5F.title: "Exposed Copper"
+	quest.6F5B36047883480E.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.6F5B36047883480E.title: "Slimed Rod"
+	quest.6F6B3B11ED00D9ED.quest_desc: ["Automatically uses potions, food with effects, or milk buckets Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.6F775DE9D8554866.quest_desc: ["Fit a basic bobber to your rod, then try variants with different minigame effects."]
+	quest.6F775DE9D8554866.title: "Stay Afloat"
 	quest.6F846C8AA00B0321.quest_desc: [
 		"Wear a Straw Hat and break grass to obtain Tomato Seeds."
 		"Plant and grow them on farmland. Keep the ripe tomatoes for stir-fries, soups and rice bowls."
 	]
 	quest.6F846C8AA00B0321.title: "Tomatoes Start Small"
+	quest.6F8E07DEFFBF4D1D.quest_desc: ["Use rare fillets to prepare all seven dishes: hosomaki, nigiri, temaki, uramaki, salad, omelette and fish and chips."]
+	quest.6F8E07DEFFBF4D1D.title: "Rare Fish Menu"
+	quest.6FB787F8389A44C0.quest_desc: ["Use this template at a Smithing Table to change the rod's appearance. Check the recipe for its matching material."]
+	quest.6FB787F8389A44C0.title: "Azure Crystal Skin Smithing Template"
+	quest.6FDDBFD938CB4EE6.quest_desc: ["Apply the matching skin template to a Starcatcher rod at a Smithing Table."]
+	quest.6FDDBFD938CB4EE6.title: "Bamboo Rod"
+	quest.6FF31469F6C2234B.quest_desc: ["Precision Mechanisms use Sequenced Assembly. Follow the JEI sequence through each machine and repeat it for the required number of loops."]
+	quest.6FF31469F6C2234B.title: "Precision Mechanism"
+	quest.70258B8247918D36.quest_desc: ["Reach Revered reputation with one villager: 400 points."]
+	quest.70258B8247918D36.title: "A Local Legend"
+	quest.706E7CBC5F775826.quest_desc: ["A Hand Crank supplies rotation while you turn it. It is useful for testing a small setup before adding a permanent power source."]
+	quest.706E7CBC5F775826.title: "Hand Crank"
+	quest.707B5B058C8A1002.quest_desc: ["Sturdy Sheets are a processed component for advanced machinery. Follow the JEI processing sequence rather than treating them as a simple pressed ingot."]
+	quest.707B5B058C8A1002.title: "Sturdy Sheet"
+	quest.70C606A656B56FE1.quest_desc: [
+		"Complete a Builder blueprint."
+		"Provide payment, all materials and reachable storage. Keep the building site accessible."
+	]
+	quest.70C606A656B56FE1.title: "Blueprint for Success"
+	quest.70D381D1357D5C8D.quest_desc: ["Convert an existing Tier 2 stack upgrade into Tier 5. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.71403084F0044DE9.quest_desc: ["Voids items selected in filter Has more filtering options Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
+	quest.71DEA555C859C16F.quest_desc: ["Turn some into planks and a crafting table, but keep spare logs for charcoal and your first shelter."]
 	quest.71DEA555C859C16F.title: "Get wood"
 	quest.7204A1D376F3D7F6.quest_desc: [
 		"Prepare the tea bag and its matching brewed tea to complete this tasting."
 		"Keep a cup ready beside your Teapot."
 	]
 	quest.7204A1D376F3D7F6.title: "Butter Tea"
+	quest.7254CD613193123A.quest_desc: ["Equip the Exoskeleton Chestplate and inspect its operating requirements. Check the assigned controls before testing its movement features."]
+	quest.7254CD613193123A.title: "Andesite Exoskeleton"
 	quest.733FCF269775E418.quest_desc: [
-		"Craft a Wok and Kitchen Spatula. Place the wok directly over a lit Stove or another suitable heat source."
+		"Place the wok directly over a lit Stove or another suitable heat source."
 		"Add Oil, then the recipe ingredients. Stir with the spatula until cooking finishes; wrong ingredients or waiting too long can spoil the dish."
 		"Use the required serving container, usually a Bowl, to collect the result. For dishes without a container, sneak-right-click with the Kitchen Spatula."
 	]
 	quest.733FCF269775E418.title: "Your First Wok"
+	quest.735DF7ABE693CD2A.quest_desc: ["Golden apples and golden carrots make useful expedition supplies. Keep the apple for a difficult fight."]
 	quest.735DF7ABE693CD2A.title: "Royale food"
+	quest.7388048AC50D5ECE.quest_desc: [
+		"Find a Waystone and look directly at it to complete the observation task."
+		"Interact with it to activate the destination. Newly found Waystones in this pack use activation-based visibility by default."
+	]
+	quest.73BB8BC267841762.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
+	quest.73BB8BC267841762.title: "Blazing Tools"
+	quest.7400035D23127D31.quest_desc: ["Carry a Satchel to expand your traveling storage. Check its controls before filling it with expedition supplies."]
+	quest.74952DAF91A29B22.quest_desc: ["Power the pump with rotation and connect its front and back to pipes. Reverse rotation when you need to reverse the fluid flow."]
+	quest.74952DAF91A29B22.title: "Mechanical Pump"
 	quest.74B6DA366E71A547.quest_desc: [
 		"Prepare Bamboo Tube Rice in your Steamer."
 		"A meal packed in bamboo is ready for a well-earned break after a day in the fields."
 	]
 	quest.74B6DA366E71A547.title: "Lunch in a Bamboo Tube"
+	quest.74CF736A6991E557.quest_desc: ["Keeps refilling stack of selected items in player's inventory Allows for more precise target slot selection Also allows middle click picking blocks from backpack Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.75192CE143345911.quest_desc: ["Add the Fluid Atomizer to your fluid workshop. Its JEI uses and Ponder scene show the supported processing arrangements."]
+	quest.75192CE143345911.title: "Fluid Atomizer"
+	quest.754CDEB099E74278.quest_desc: ["Start brewing with a Brewing Stand, blaze powder and the ingredients shown in JEI. Prepare bottles of water before adding ingredients."]
 	quest.754CDEB099E74278.title: "Let's drink it"
+	quest.7579B276EAB98783.quest_desc: ["Apply this tier upgrade to a matching Basic storage container to raise it to Diamond tier. Check the accepted base and ingredients in JEI before crafting."]
+	quest.75B04C49A360261F.quest_desc: ["A Deployer performs item interactions at its working face. Use it for Sequenced Assembly and other recipes that require a held ingredient or tool."]
+	quest.75B04C49A360261F.title: "Deployer"
+	quest.75B4499D270B3411.quest_desc: ["Claim the dragon egg after defeating the Ender Dragon. It teleports when touched, so collect it with a suitable piston or falling-block setup."]
+	quest.7652FF171AFF4D4B.quest_desc: ["Convert an existing Tier 2 stack upgrade into Tier 4. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.7695E361852C9C5C.quest_desc: ["Convert an existing Tier 1 stack upgrade into Tier 2. Use the conversion recipe in JEI when upgrading a module you already own."]
+	quest.76AC070F021FA148.quest_desc: ["Feeds player with food from backpack's inventory Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.774291101D99615E.quest_desc: ["Small and large cogwheels transfer rotation and can change its speed. Watch the direction of rotation when connecting machines."]
+	quest.774291101D99615E.title: "Cogwheels"
 	quest.775F114D30179638.quest_desc: [
 		"Craft a Bamboo Tray and lay Fresh Tea Leaves on it to dry."
-		"Collect 4 Dried Tea Leaves. These are used to prepare tea ingredients for your Teapot."
+		"These are used to prepare tea ingredients for your Teapot."
 	]
 	quest.775F114D30179638.title: "Leaves on the Drying Tray"
+	quest.77DBB83428A21C83.quest_desc: ["Place an Andesite Tunnel over a belt to manage its item flow. Ponder shows where items can enter and leave."]
+	quest.77DBB83428A21C83.title: "Andesite Tunnel"
+	quest.7801851C6939D024.quest_desc: ["Equip the Exoskeleton Chestplate and inspect its operating requirements. Check the assigned controls before testing its movement features."]
+	quest.7801851C6939D024.title: "Copper Exoskeleton"
+	quest.780AF722C380D38C.quest_desc: ["Craft every armor piece shown in the task and keep the complete set together. Equip it before the next expedition and check durability after combat."]
 	quest.780AF722C380D38C.title: "Copper armor"
 	quest.78902351B2D4C08A.quest_desc: ["Hold every available Flora flower drink in your inventory at once."]
 	quest.78902351B2D4C08A.title: "The Complete Bouquet"
+	quest.7993F28058B65375.quest_desc: [
+		"Help a wandering villager settle in a tracked village."
+		"Use their dialogue and Home information. Wandering traders do not count."
+	]
+	quest.7993F28058B65375.title: "A New Neighbor"
 	quest.79D85F0CE7026A9C.quest_desc: [
 		"Prepare Baozi in your Steamer."
 		"These filled buns are a hearty addition to your menu. Save one to share with a hungry wolf."
 	]
 	quest.79D85F0CE7026A9C.title: "Something Good Inside"
-	quest.7A3DD8F510A38490.quest_desc: ["Obtain all four Experience tools: the Sword, Axe, Shovel, and Pickaxe. Check JEI for their recipes."]
-	quest.7A3DD8F510A38490.title: "Tools of Experience"
-	quest.7AEE5B1EC5B455A4.quest_desc: ["Obtain a Blaze Enchanter and supply it with Liquid Experience. Set the enchanting level on its panel, then give it an unenchanted item."]
-	quest.7AEE5B1EC5B455A4.title: "An Enchanter with a Temper"
+	quest.79DE274016EE90F1.quest_desc: ["Deposits items from backpack into sneak right clicked inventory Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.79E47D918E7EF240.quest_desc: ["The Portable Drill adds a handheld mining option. Check its tooltip for operation and supply requirements before a long mining trip."]
+	quest.79E47D918E7EF240.title: "Portable Drill"
+	quest.7A1648E7E2877A4A.quest_desc: [
+		"Earn the Crowned by the Village advancement."
+		"An optional reputation goal after becoming Revered."
+	]
+	quest.7A1648E7E2877A4A.title: "Crowned by the Village"
+	quest.7A3DD8F510A38490.quest_desc: ["Check JEI for their recipes."]
+	quest.7A3DD8F510A38490.title: "Experience Tools"
+	quest.7A90F939830C8782.quest_desc: ["Input and Output handle directional item flow. Use the Storage Tool to link separate storage groups to the Controller; connectors bridge gaps in the storage layout."]
+	quest.7A959F933587F365.quest_desc: ["Combine sequenced motion with Brass Funnels, Tunnels and inventory sensors. Configure filters and redstone thresholds before feeding a busy production line."]
+	quest.7A959F933587F365.title: "Brass Logistics and Control"
+	quest.7AEE5B1EC5B455A4.quest_desc: ["Supply a Blaze Enchanter with Liquid Experience. Set its enchanting level on the panel, then insert an unenchanted item."]
+	quest.7AEE5B1EC5B455A4.title: "Blaze Enchanter"
+	quest.7AFCEE30B9303CBB.quest_desc: ["Attach sails or sail frames to a Windmill Bearing, then assemble the windmill. Leave clearance for the blades to rotate."]
+	quest.7AFCEE30B9303CBB.title: "Windmill Power"
+	quest.7B0BEFF95776E04A.quest_desc: ["Equip this Jetpack Chestplate and check its fuel or fluid requirements in the tooltip. Set the flight controls and test a short takeoff over safe ground."]
+	quest.7B0BEFF95776E04A.title: "Brass Jetpack"
+	quest.7B363CADBD78324F.quest_desc: ["Equip the Diving Helmet, Diving Boots and a charged Backtank for underwater work. Refill the Backtank with rotation before a long dive."]
+	quest.7B363CADBD78324F.title: "Copper Diving Equipment"
+	quest.7B3EA954508CB5B4.quest_desc: ["Combine Fishing Rod and Melon Slice to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Jungle. Use it again to return to manual control."]
 	quest.7B5B424C06E2A5B6.quest_desc: [
 		"Prepare the Pink Petals Tea Bag and brew Hanami Tale."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.7B5B424C06E2A5B6.title: "Hanami Tale"
+	quest.7B6E92020E49F2EA.quest_desc: ["Equip this Jetpack Chestplate and check its fuel or fluid requirements in the tooltip. Set the flight controls and test a short takeoff over safe ground."]
+	quest.7B6E92020E49F2EA.title: "Copper Jetpack"
 	quest.7C43EF073F6FD620.quest_desc: [
 		"Prepare the Dandelion Tea Bag and brew When the Wind Rises."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
@@ -1142,17 +1990,32 @@
 		"Once the food is ready, sneak-right-click with an empty hand to open the lid, then right-click to collect it. Work down through a stack from the top."
 	]
 	quest.7CEA7321A4EC1BC8.title: "A Stack of Steamers"
+	quest.7D19D2E0346C7CD1.quest_desc: ["Look for an End ship. Equip the Elytra in your chest slot and keep a safe landing area for your first flight."]
 	quest.7D19D2E0346C7CD1.title: "I can fly!"
+	quest.7D32965F710B9731.quest_desc: ["Attach Steam Engines to a heated water-filled tank boiler and connect their pistons to shafts. Water supply and heat determine the boiler's usable output."]
+	quest.7D32965F710B9731.title: "Steam Engine"
+	quest.7D4C5CDB75DDCA92.quest_desc: ["Deposits items from backpack into sneak right clicked inventory Has more filtering options Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
+	quest.7E9412EFB84F58A1.quest_desc: [
+		"Craft a Blank Scroll and bind it to a Waystone."
+		"Keep a bound scroll ready for an emergency return from a long expedition."
+	]
 	quest.7E9DA9380C835EAD.quest_desc: [
 		"Prepare the Rose Bush Tea Bag and brew Tender Thorns."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.7E9DA9380C835EAD.title: "Tender Thorns"
+	quest.7EA2911A0D2B15A7.quest_desc: ["Install this stack upgrade in the storage to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
+	quest.7EA62972543C8A9F.quest_desc: [
+		"Craft a Recipe Filter and select a supported worker recipe."
+		"It controls processing, not storage access or ingredient supply."
+	]
+	quest.7EA62972543C8A9F.title: "Give Exact Instructions"
+	quest.7F455226B9BF72FE.quest_desc: ["Apply this tier upgrade to a matching Iron storage container to raise it to Gold tier. Check the accepted base and ingredients in JEI before crafting."]
 	quest.7F55FA09B39D0603.quest_desc: [
-		"Obtain an Enchanting Template. Check JEI for its recipe."
+		"Check JEI for its recipe."
 		"Set an equipment item in the Blaze Enchanter's filter slot, then give it the blank template to write compatible enchantments onto it. A Blaze Forger can apply them to equipment."
 	]
-	quest.7F55FA09B39D0603.title: "A Blueprint for Magic"
+	quest.7F55FA09B39D0603.title: "Enchanting Template"
 	reward_table.05A35ADB3BAD4527.title: "Tea Pantry Surprise"
 	reward_table.08C0C15BE6D062E4.title: "storege_upgrades"
 	reward_table.0911E74F7877A7BF.title: "Brass"
@@ -1169,11 +2032,14 @@
 	task.2B0E157ACF5450AD.title: "Found villager"
 	task.2B95EF8275695159.title: "Feed tho same animals"
 	task.2D94523F9AC8D588.title: "foodbook"
+	task.32099C1E192D2A79.title: "Any #starcatcher:fish_plaques"
 	task.3529D6577C40F1D2.title: "Any #waystones:portstones"
 	task.37999D2A964BD26D.title: "Any #c:tools/knives"
+	task.4A08146FD3D4BDD0.title: "Any #starcatcher:tackle_boxes"
 	task.5D6CFA8028AC4840.title: "Get first stone"
 	task.5E6F86028E9EB56B.title: "Any #c:potions"
-	task.6FAEAA1124885F07.title: "You can color"
+	task.62F54F10AE3D4B8F.title: "Any #starcatcher:hats"
+	task.6FAEAA1124885F07.title: "Try dyeing a fluid pipe"
 	task.77AB968774D5F534.title: "Any #waystones:sharestones"
 	task.7FDA5D4654E97782.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
 }

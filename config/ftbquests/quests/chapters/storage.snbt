@@ -3,8 +3,170 @@
 	default_quest_shape: ""
 	filename: "storage"
 	group: "0A13135CCD72B2AA"
+	icon: {
+		id: "create:chute"
+	}
 	id: "7DDB4665547C3D95"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "77985BD9C0DD0CF6"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 0.0d
+			y: 0.27d
+		}
+		{
+			height: 0.04d
+			id: "368E91BC2EDF08B6"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 0.0d
+			y: -1.01d
+		}
+		{
+			height: 0.04d
+			id: "0A25D8C64D4C3871"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 0.0d
+			y: 1.55d
+		}
+		{
+			height: 2.6d
+			id: "3BD4A83B95DD85F7"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -3.105d
+			y: 0.27d
+		}
+		{
+			height: 2.6d
+			id: "031236A087B59F22"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 3.105d
+			y: 0.27d
+		}
+		{
+			height: 1.5d
+			id: "3C874AA360272298"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.0d
+			y: -2.7d
+		}
+		{
+			height: 0.045d
+			id: "2C39830EDE20E81E"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.0d
+			y: -3.43d
+		}
+		{
+			height: 1.0d
+			id: "2588169851C0C3EF"
+			image: "item:create:chute"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -2.7d
+		}
+		{
+			height: 1.0d
+			id: "2EE1498A82C0BC9C"
+			image: "item:create:item_vault"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.25d
+			y: -2.7d
+		}
+		{
+			height: 0.43d
+			id: "3817B32EB2FFA3C3"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.0d
+			x: 0.0d
+			y: -2.7d
+		}
+		{
+			height: 1.55d
+			id: "06391CB6254256B5"
+			image: "item:create:chute"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -1.9d
+			y: 0.0d
+		}
+		{
+			height: 1.55d
+			id: "5615C3ABF04D4E96"
+			image: "item:create:belt_connector"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			height: 1.55d
+			id: "705DBAF57A7D6BAE"
+			image: "item:create:item_vault"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 1.9d
+			y: 0.0d
+		}
+		{
+			height: 0.23d
+			id: "327C6F0584352BF0"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 0.0d
+			y: 1.16d
+		}
+	]
 	order_index: 4
 	quest_links: [ ]
 	quests: [ ]

@@ -3,8 +3,170 @@
 	default_quest_shape: ""
 	filename: "cookery"
 	group: "624E7CB211C91071"
+	icon: {
+		id: "kaleidoscope_cookery:pot"
+	}
 	id: "5B8DD4295904CF7B"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "3A7218B0F5A4CAC2"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -7.0d
+			y: -10.03d
+		}
+		{
+			height: 0.04d
+			id: "557C147C1CE56EE9"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -7.0d
+			y: -11.31d
+		}
+		{
+			height: 0.04d
+			id: "0597D5CD46762FAA"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -7.0d
+			y: -8.75d
+		}
+		{
+			height: 2.6d
+			id: "23BDBD6CEF5078DB"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -10.105d
+			y: -10.03d
+		}
+		{
+			height: 2.6d
+			id: "7A20DE696DB996A5"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -3.895d
+			y: -10.03d
+		}
+		{
+			height: 1.5d
+			id: "1F2C310C70A529E8"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: -1.5d
+			y: -13.75d
+		}
+		{
+			height: 0.045d
+			id: "08962CAF07C9593D"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: -1.5d
+			y: -14.48d
+		}
+		{
+			height: 1.0d
+			id: "5631BC79FD88AC21"
+			image: "item:kaleidoscope_cookery:diamond_kitchen_knife"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.75d
+			y: -13.75d
+		}
+		{
+			height: 1.0d
+			id: "015504F2E8C2B9B3"
+			image: "item:kaleidoscope_cookery:stockpot"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.75d
+			y: -13.75d
+		}
+		{
+			height: 0.43d
+			id: "49908939FC7D8F6B"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: -1.5d
+			y: -13.75d
+		}
+		{
+			height: 1.55d
+			id: "66F54E663F906C6A"
+			image: "item:kaleidoscope_cookery:diamond_kitchen_knife"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -8.9d
+			y: -10.3d
+		}
+		{
+			height: 1.55d
+			id: "2EFD0C23DB679555"
+			image: "item:kaleidoscope_cookery:pot"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -7.0d
+			y: -10.3d
+		}
+		{
+			height: 1.55d
+			id: "4D7465996365A069"
+			image: "item:kaleidoscope_cookery:stockpot"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -5.1d
+			y: -10.3d
+		}
+		{
+			height: 0.23d
+			id: "6E6A67F18A3AB002"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: -7.0d
+			y: -9.14d
+		}
+	]
 	order_index: 0
 	quest_links: [{
 		id: "7B20D9B54956D58A"
@@ -135,6 +297,9 @@
 		}
 		{
 			dependencies: ["5B0FA1FF4D71B700"]
+			icon: {
+				id: "kaleidoscope_cookery:caterpillar"
+			}
 			id: "6F0B94B4E9F14856"
 			preset: "Achiugments"
 			rewards: [{
@@ -172,6 +337,9 @@
 		}
 		{
 			dependencies: ["4ECC51DB18B1540D"]
+			icon: {
+				id: "minecraft:skeleton_skull"
+			}
 			id: "0B22C27008D8732E"
 			optional: true
 			preset: "Achiugments"
@@ -255,6 +423,9 @@
 		}
 		{
 			dependencies: ["595F2FF6E6A6425F"]
+			icon: {
+				id: "kaleidoscope_cookery:rice_panicle"
+			}
 			id: "3467CE92D0994FE3"
 			preset: "Achiugments"
 			rewards: [{
@@ -281,6 +452,9 @@
 		}
 		{
 			dependencies: ["3467CE92D0994FE3"]
+			icon: {
+				id: "minecraft:salmon"
+			}
 			id: "01965A016BFD347D"
 			preset: "Achiugments"
 			rewards: [{
@@ -409,6 +583,9 @@
 		}
 		{
 			dependencies: ["381A43D155C8D44B"]
+			icon: {
+				id: "kaleidoscope_cookery:chopping_board"
+			}
 			id: "572F0A52E3B4C07F"
 			rewards: [{
 				id: "0D3E5EC7BB6720F6"
@@ -775,6 +952,9 @@
 		}
 		{
 			dependencies: ["79D85F0CE7026A9C"]
+			icon: {
+				id: "kaleidoscope_cookery:baozi"
+			}
 			id: "0EB72C4C224E6FD9"
 			optional: true
 			preset: "Achiugments"

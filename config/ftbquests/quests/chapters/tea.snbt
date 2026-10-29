@@ -3,8 +3,170 @@
 	default_quest_shape: ""
 	filename: "tea"
 	group: "624E7CB211C91071"
+	icon: {
+		id: "kaleidoscope_cookery:teapot"
+	}
 	id: "2440470F0EF46013"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "11A6B5FE85BE451D"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 10.0d
+			y: 6.27d
+		}
+		{
+			height: 0.04d
+			id: "306D02DDA405AFBD"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 10.0d
+			y: 4.99d
+		}
+		{
+			height: 0.04d
+			id: "7819A6E407248A82"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 10.0d
+			y: 7.55d
+		}
+		{
+			height: 2.6d
+			id: "101F65D2EECBBE50"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 6.895d
+			y: 6.27d
+		}
+		{
+			height: 2.6d
+			id: "5DB31CFF41A8B3F1"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 13.105d
+			y: 6.27d
+		}
+		{
+			height: 1.5d
+			id: "37AFA68722393A46"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 4.125d
+			y: -9.25d
+		}
+		{
+			height: 0.045d
+			id: "479F01A8383C1756"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 4.125d
+			y: -9.98d
+		}
+		{
+			height: 1.0d
+			id: "716CE391C9266F87"
+			image: "item:kaleidoscope_cookery:teapot"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.125d
+			y: -9.25d
+		}
+		{
+			height: 1.0d
+			id: "7D43DED8B6E028C4"
+			image: "item:kaleidoscope_flora:blossom_mooncake"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.375d
+			y: -9.25d
+		}
+		{
+			height: 0.43d
+			id: "176FC119E81AEDA2"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: 4.125d
+			y: -9.25d
+		}
+		{
+			height: 1.55d
+			id: "261E95E10BDD0D2C"
+			image: "item:kaleidoscope_cookery:teapot"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 8.1d
+			y: 6.0d
+		}
+		{
+			height: 1.55d
+			id: "7D13CDA185BBCAA9"
+			image: "item:kaleidoscope_flora:hanami_tale"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 10.0d
+			y: 6.0d
+		}
+		{
+			height: 1.55d
+			id: "565EC23316B7448A"
+			image: "item:kaleidoscope_flora:blossom_mooncake"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 11.9d
+			y: 6.0d
+		}
+		{
+			height: 0.23d
+			id: "3F677598EDC34334"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 10.0d
+			y: 7.16d
+		}
+	]
 	order_index: 1
 	quest_links: [{
 		id: "50A42CCB4543E799"
@@ -90,9 +252,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_cookery:oolong"
-			}
 			id: "3DC5D5F823216033"
 			rewards: [
 				{
@@ -124,9 +283,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_cookery:sakura_fubuki"
-			}
 			id: "45F96D7285E43614"
 			rewards: [
 				{
@@ -158,9 +314,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_cookery:butter_tea"
-			}
 			id: "7204A1D376F3D7F6"
 			rewards: [
 				{
@@ -192,9 +345,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_cookery:tieguanyin"
-			}
 			id: "0833150753998783"
 			rewards: [
 				{
@@ -226,9 +376,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_cookery:biluochun"
-			}
 			id: "7CAB79FFAFE796AC"
 			rewards: [
 				{
@@ -260,9 +407,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_cookery:barley_tea"
-			}
 			id: "4072B9308C60E030"
 			rewards: [
 				{
@@ -349,9 +493,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:absolution"
-			}
 			id: "01B105DD883B7FC1"
 			rewards: [
 				{
@@ -383,9 +524,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:autumn_serenade"
-			}
 			id: "550BCB5EA87CE32E"
 			rewards: [
 				{
@@ -417,9 +555,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:breath_of_ancients"
-			}
 			id: "14F8C1786EB82B7A"
 			rewards: [{
 				id: "15123AAAC1386C2F"
@@ -443,9 +578,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:coronation"
-			}
 			id: "3653A4F5DEB5848D"
 			rewards: [
 				{
@@ -477,9 +609,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:crimson_heartbeat"
-			}
 			id: "43480626E3969730"
 			rewards: [
 				{
@@ -511,9 +640,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:echo_of_the_end"
-			}
 			id: "18FB820A56B1C8C4"
 			rewards: [
 				{
@@ -545,9 +671,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:fire_waltz"
-			}
 			id: "467C8D49D8B06F28"
 			rewards: [{
 				id: "263460262052F9A7"
@@ -571,9 +694,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:first_bloom"
-			}
 			id: "2BA36221D25AD34E"
 			rewards: [
 				{
@@ -605,9 +725,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:fleurs_du_mal"
-			}
 			id: "468E483F6C1824A1"
 			rewards: [{
 				id: "58BBF08704E18738"
@@ -631,9 +748,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:hanami_tale"
-			}
 			id: "7B5B424C06E2A5B6"
 			rewards: [
 				{
@@ -665,9 +779,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:loves_me_not"
-			}
 			id: "0DEE0F0A32566514"
 			rewards: [{
 				id: "105CE675FB4410B2"
@@ -691,9 +802,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:lullaby"
-			}
 			id: "22C6644CC2675898"
 			rewards: [
 				{
@@ -725,9 +833,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:may_kiss"
-			}
 			id: "4EABF4A050EC94CD"
 			rewards: [{
 				id: "2CC38C2BE987C66F"
@@ -751,9 +856,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:prussian_leap"
-			}
 			id: "5166ACCCD8F53010"
 			rewards: [
 				{
@@ -785,9 +887,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:rosy_stride"
-			}
 			id: "4C14663895EEEF52"
 			rewards: [
 				{
@@ -819,9 +918,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:spring_waltz"
-			}
 			id: "1EC672DB21FC8697"
 			rewards: [{
 				id: "07DB96C60B65863E"
@@ -845,9 +941,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:tender_thorns"
-			}
 			id: "7E9DA9380C835EAD"
 			rewards: [{
 				id: "396CE8079FB9FEE6"
@@ -871,9 +964,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:the_sunward"
-			}
 			id: "5FF517ECD284B19A"
 			rewards: [
 				{
@@ -905,9 +995,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:the_unnoticed"
-			}
 			id: "4F914EAA5FC2FD3F"
 			rewards: [{
 				id: "3A9F2E9E0BF915E1"
@@ -931,9 +1018,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:vernal_awakening"
-			}
 			id: "21259D5AE8804173"
 			rewards: [
 				{
@@ -965,9 +1049,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:voracious_urn"
-			}
 			id: "65772ABCF259B164"
 			rewards: [{
 				id: "7498CF9BE97F4C2A"
@@ -991,9 +1072,6 @@
 		}
 		{
 			dependencies: ["4BA7892EA25F733A"]
-			icon: {
-				id: "kaleidoscope_flora:when_the_wind_rises"
-			}
 			id: "7C43EF073F6FD620"
 			rewards: [
 				{
@@ -1051,6 +1129,9 @@
 			y: -4.5d
 		}
 		{
+			icon: {
+				id: "kaleidoscope_flora:when_the_wind_rises"
+			}
 			id: "63959D56376D9898"
 			preset: "Achiugments"
 			rewards: [
@@ -1077,6 +1158,9 @@
 		}
 		{
 			dependencies: ["63959D56376D9898"]
+			icon: {
+				id: "kaleidoscope_flora:may_kiss"
+			}
 			id: "21775B3DBED2E2D8"
 			preset: "Achiugments"
 			rewards: [
@@ -1103,6 +1187,9 @@
 		}
 		{
 			dependencies: ["21775B3DBED2E2D8"]
+			icon: {
+				id: "kaleidoscope_flora:coronation"
+			}
 			id: "4C21BD4944CBDC53"
 			preset: "Achiugments"
 			rewards: [
@@ -1129,6 +1216,9 @@
 		}
 		{
 			dependencies: ["7C43EF073F6FD620"]
+			icon: {
+				id: "minecraft:feather"
+			}
 			id: "2DE5E000B96E5CF1"
 			optional: true
 			preset: "Achiugments"
@@ -1148,6 +1238,9 @@
 		}
 		{
 			dependencies: ["2BA36221D25AD34E"]
+			icon: {
+				id: "minecraft:bread"
+			}
 			id: "6159EBCB14058ADE"
 			optional: true
 			preset: "Achiugments"
@@ -1167,6 +1260,9 @@
 		}
 		{
 			dependencies: ["18FB820A56B1C8C4"]
+			icon: {
+				id: "minecraft:totem_of_undying"
+			}
 			id: "344B774B8B7F9F85"
 			optional: true
 			preset: "Achiugments"
@@ -1186,6 +1282,9 @@
 		}
 		{
 			dependencies: ["4C14663895EEEF52"]
+			icon: {
+				id: "minecraft:lily_pad"
+			}
 			id: "5C7B63F20EA5E2B1"
 			optional: true
 			preset: "Achiugments"
@@ -1205,6 +1304,9 @@
 		}
 		{
 			dependencies: ["7B5B424C06E2A5B6"]
+			icon: {
+				id: "minecraft:shield"
+			}
 			id: "2D100A94F7E38C73"
 			optional: true
 			preset: "Achiugments"
@@ -1224,6 +1326,9 @@
 		}
 		{
 			dependencies: ["5FF517ECD284B19A"]
+			icon: {
+				id: "minecraft:clock"
+			}
 			id: "0E19B7FD3C6ADBFD"
 			optional: true
 			preset: "Achiugments"
@@ -1243,6 +1348,9 @@
 		}
 		{
 			dependencies: ["65772ABCF259B164"]
+			icon: {
+				id: "kaleidoscope_flora:voracious_urn"
+			}
 			id: "4708422455C5A9D2"
 			optional: true
 			preset: "Achiugments"
@@ -1262,6 +1370,9 @@
 		}
 		{
 			dependencies: ["63959D56376D9898"]
+			icon: {
+				id: "minecraft:honey_bottle"
+			}
 			id: "05BC17815B49C91C"
 			optional: true
 			preset: "Achiugments"
@@ -1281,6 +1392,9 @@
 		}
 		{
 			dependencies: ["21259D5AE8804173"]
+			icon: {
+				id: "kaleidoscope_flora:vernal_awakening"
+			}
 			id: "5561E25A984A8C55"
 			optional: true
 			preset: "Achiugments"
@@ -1300,6 +1414,9 @@
 		}
 		{
 			dependencies: ["62B1E27D756BCE91"]
+			icon: {
+				id: "kaleidoscope_flora:blossom_mooncake"
+			}
 			id: "11F8FC84B04CA3F0"
 			preset: "Achiugments"
 			rewards: [
@@ -1326,6 +1443,9 @@
 		}
 		{
 			dependencies: ["140D56A08C937664"]
+			icon: {
+				id: "kaleidoscope_flora:raw_flower_cake"
+			}
 			id: "4412073CF62DE5A0"
 			preset: "Achiugments"
 			rewards: [{
@@ -1344,6 +1464,9 @@
 		}
 		{
 			dependencies: ["456D272E7E8BA723"]
+			icon: {
+				id: "kaleidoscope_flora:dew_flower_cake"
+			}
 			id: "1FAF140FB6D4064B"
 			preset: "Achiugments"
 			rewards: [{
@@ -1362,6 +1485,9 @@
 		}
 		{
 			dependencies: ["4412073CF62DE5A0"]
+			icon: {
+				id: "kaleidoscope_flora:raw_flower_cake"
+			}
 			id: "07670213AF28B8EF"
 			preset: "Achiugments"
 			rewards: [{
@@ -1380,6 +1506,9 @@
 		}
 		{
 			dependencies: ["1FAF140FB6D4064B"]
+			icon: {
+				id: "kaleidoscope_flora:dew_flower_cake"
+			}
 			id: "0EC4467B69DBC4C3"
 			preset: "Achiugments"
 			rewards: [{

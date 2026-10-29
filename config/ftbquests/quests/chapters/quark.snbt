@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "quark"
 	group: ""
+	icon: {
+		id: "quark:seed_pouch"
+	}
 	id: "2FE9765A1A335D56"
 	images: [ ]
 	order_index: 3

@@ -4,13 +4,169 @@
 	filename: "storages"
 	group: ""
 	icon: {
-		components: {
-			"sophisticatedstorage:wood_type": "warped"
-		}
-		id: "sophisticatedstorage:gold_barrel"
+		id: "sophisticatedbackpacks:backpack"
 	}
 	id: "16BAAF5A6A89C74B"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "434D559D15CC4437"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 0.5d
+			y: 17.47d
+		}
+		{
+			height: 0.04d
+			id: "10C3F69B5E585808"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 0.5d
+			y: 16.19d
+		}
+		{
+			height: 0.04d
+			id: "228628AA9C2C0591"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 0.5d
+			y: 18.75d
+		}
+		{
+			height: 2.6d
+			id: "713B7412D707243D"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -2.605d
+			y: 17.47d
+		}
+		{
+			height: 2.6d
+			id: "0A2C1D4E8F2BAF5D"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 3.605d
+			y: 17.47d
+		}
+		{
+			height: 1.5d
+			id: "1D9BF42533B6AE38"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			height: 0.045d
+			id: "6B3BB99A1415104F"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 1.0d
+			y: -8.73d
+		}
+		{
+			height: 1.0d
+			id: "4B68744CE9508651"
+			image: "item:sophisticatedstorage:gold_barrel"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.25d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			id: "68EABB532918ED23"
+			image: "item:sophisticatedbackpacks:backpack"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.25d
+			y: -8.0d
+		}
+		{
+			height: 0.43d
+			id: "0D86CCEAEC790476"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: 1.0d
+			y: -8.0d
+		}
+		{
+			height: 1.55d
+			id: "0AA0A841CEA5D9DA"
+			image: "item:sophisticatedstorage:gold_barrel"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -1.4d
+			y: 17.2d
+		}
+		{
+			height: 1.55d
+			id: "27E2D1ED041E2FE1"
+			image: "item:sophisticatedstorage:controller"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 0.5d
+			y: 17.2d
+		}
+		{
+			height: 1.55d
+			id: "0D2265E73D86A054"
+			image: "item:sophisticatedbackpacks:backpack"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 2.4d
+			y: 17.2d
+		}
+		{
+			height: 0.23d
+			id: "36E89B1546DFA8FD"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 0.5d
+			y: 18.36d
+		}
+	]
 	order_index: 2
 	quest_links: [
 		{
@@ -1600,7 +1756,7 @@
 			rewards: [{
 				id: "552B7F524073E525"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1618,7 +1774,7 @@
 			rewards: [{
 				id: "6524CBEE36B758E0"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1636,7 +1792,7 @@
 			rewards: [{
 				id: "17B8B7FE4A0BFB89"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1654,7 +1810,7 @@
 			rewards: [{
 				id: "35A15253D974F6C9"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1672,7 +1828,7 @@
 			rewards: [{
 				id: "06D61AC996878310"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1690,7 +1846,7 @@
 			rewards: [{
 				id: "040645028AA03793"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1708,7 +1864,7 @@
 			rewards: [{
 				id: "1D40BDAA066D857D"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1726,7 +1882,7 @@
 			rewards: [{
 				id: "0F401D7B32F4D61C"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1744,7 +1900,7 @@
 			rewards: [{
 				id: "6041F5319BB4BD59"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -1762,7 +1918,7 @@
 			rewards: [{
 				id: "58F6AB3DDEDA6446"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			shape: "circle"
 			tasks: [{
@@ -2442,7 +2598,7 @@
 			rewards: [{
 				id: "0EE1E8C8BF46A30E"
 				type: "xp"
-				xp: 50
+				xp: 25
 			}]
 			tasks: [{
 				id: "7FDA5D4654E97782"

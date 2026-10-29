@@ -1,0 +1,761 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "starcatcher_skins"
+	group: "6FB79066314E4833"
+	icon: {
+		id: "starcatcher:naturalist_rod"
+	}
+	id: "679ECAB501E84919"
+	images: [
+		{
+			height: 1.5d
+			id: "67FF032F0A9941D9"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			height: 0.045d
+			id: "6EE92805F96546A8"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 8.0d
+			y: 1.77d
+		}
+		{
+			height: 1.0d
+			id: "6394C6B308314340"
+			image: "item:starcatcher:naturalist_rod"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.75d
+			y: 2.5d
+		}
+		{
+			height: 1.0d
+			id: "6884B7F5D2524A38"
+			image: "item:starcatcher:frog_smithing_template"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 12.25d
+			y: 2.5d
+		}
+		{
+			height: 0.43d
+			id: "68DECC8CDC4646A3"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: 8.0d
+			y: 2.5d
+		}
+		{
+			height: 0.27d
+			id: "66A366C4A4AF47F5"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 10.0d
+			x: 8.0d
+			y: 4.25d
+		}
+		{
+			height: 0.27d
+			id: "67C393FBF9E348BE"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 10.0d
+			x: 8.0d
+			y: 10.75d
+		}
+		{
+			height: 2.6d
+			id: "69CAB0341AC54FB1"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 8.0d
+			y: 16.77d
+		}
+		{
+			height: 0.04d
+			id: "6C0C6917D3394F66"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 8.0d
+			y: 15.49d
+		}
+		{
+			height: 0.04d
+			id: "6D157A7EE48A4412"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 8.0d
+			y: 18.05d
+		}
+		{
+			height: 2.6d
+			id: "67472303C0C746F3"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 4.895d
+			y: 16.77d
+		}
+		{
+			height: 2.6d
+			id: "66F990432026498F"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 11.105d
+			y: 16.77d
+		}
+		{
+			height: 1.55d
+			id: "66D11E443B9F4C94"
+			image: "item:starcatcher:naturalist_rod"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 6.1d
+			y: 16.5d
+		}
+		{
+			height: 1.55d
+			id: "65DE7DB888BC466A"
+			image: "item:starcatcher:colorful_smithing_template"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 8.0d
+			y: 16.5d
+		}
+		{
+			height: 1.55d
+			id: "697565EA9FDD44F3"
+			image: "item:starcatcher:azure_crystal_rod"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 9.9d
+			y: 16.5d
+		}
+		{
+			height: 0.23d
+			id: "608875ECB80D40D4"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 8.0d
+			y: 17.66d
+		}
+	]
+	order_index: 1
+	quest_links: [{
+		id: "6FB7C92D118C4F36"
+		linked_quest: "681F2790616C4970"
+		x: 8.0d
+		y: 13.0d
+	}]
+	quests: [
+		{
+			id: "6FB787F8389A44C0"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "661EF57862674BA8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6CFA04285DBC4DE4"
+				item: { count: 1, id: "starcatcher:azure_crystal_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6FB787F8389A44C0"]
+			id: "63392CE419AD4E80"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6350C74B0ADF4C95"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "613428C4874D4FA0"
+				item: { count: 1, id: "starcatcher:azure_crystal_rod" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			id: "64FDA676FCB9478B"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6F6AB2C0357E4020"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6830667F849F44E1"
+				item: { count: 1, id: "starcatcher:bamboo_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["64FDA676FCB9478B"]
+			id: "6FDDBFD938CB4EE6"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6CC22B87795B49D6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "67C366A0AC73446F"
+				item: { count: 1, id: "starcatcher:bamboo_rod" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.5d
+		}
+		{
+			id: "6659C032BEFB4202"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "607384E1080E48CC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6962EA4D16B5402C"
+				item: { count: 1, id: "starcatcher:boner_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6659C032BEFB4202"]
+			id: "6D69B55649D64DAB"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6F946353EB5641A4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6F1066B7428C4EF1"
+				item: { count: 1, id: "starcatcher:boner_rod" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.5d
+		}
+		{
+			id: "6A6B32F574D84661"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6C67619F42164786"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6C02B486EE764555"
+				item: { count: 1, id: "starcatcher:humble_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A6B32F574D84661"]
+			id: "6BA47FF208C2449B"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "651A1D50C5114D1F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6F32C3492C504300"
+				item: { count: 1, id: "starcatcher:humble_rod" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 5.5d
+		}
+		{
+			id: "64C256FF535441A9"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "60FF16DD445647DD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "610055C1D1DE43C0"
+				item: { count: 1, id: "starcatcher:iceborn_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["64C256FF535441A9"]
+			id: "653E54C5183845FD"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "62FF9FC4440B485C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "63317E32DDAB4666"
+				item: { count: 1, id: "starcatcher:iceborn_rod" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 5.5d
+		}
+		{
+			id: "619EE3098BD54160"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6EAC99A71EB64F70"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "61AEE5E308744913"
+				item: { count: 1, id: "starcatcher:lush_glowberry_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["619EE3098BD54160"]
+			id: "608B3CF370684E4F"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "620FD4BA6A20482D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "697282FB16794A57"
+				item: { count: 1, id: "starcatcher:lush_glowberry_rod" }
+				type: "item"
+			}]
+			x: 13.5d
+			y: 5.5d
+		}
+		{
+			id: "6D5D80E408E34164"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6DF8D747035143DE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6BA5927877494E91"
+				item: { count: 1, id: "starcatcher:magmaforged_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6D5D80E408E34164"]
+			id: "60B97E0BD2394954"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A8FABA090714325"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9B721B1D584F97"
+				item: { count: 1, id: "starcatcher:magmaforged_rod" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.5d
+		}
+		{
+			id: "609B5E13BFD6497D"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6DAD65EA4C9A46B7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "68AAA38A59E549D9"
+				item: { count: 1, id: "starcatcher:naturalist_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["609B5E13BFD6497D"]
+			id: "62DBA85F6D134398"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "653991F13C114492"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A2EC34F687F4F06"
+				item: { count: 1, id: "starcatcher:naturalist_rod" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.5d
+		}
+		{
+			id: "6559BD3A57174C6D"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6FA14D66351F4C4B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6F2E2E4AC1EB42CF"
+				item: { count: 1, id: "starcatcher:obsidian_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6559BD3A57174C6D"]
+			id: "63036345F63042BC"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "619508BB14A848F3"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "62267D04E6D34CA0"
+				item: { count: 1, id: "starcatcher:obsidian_rod" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.5d
+		}
+		{
+			id: "68D6F3340B764914"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "678FCC40BF394739"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "61498790DD1C428C"
+				item: { count: 1, id: "starcatcher:sharktooth_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["68D6F3340B764914"]
+			id: "606C629D9F6348F6"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "66D5087D129544D4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6EEE44B88FC14DBC"
+				item: { count: 1, id: "starcatcher:sharktooth_rod" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 5.5d
+		}
+		{
+			id: "6B87FBE30F6D4DB2"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "64A3D8D519CE437A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6F7E244A1C8D4947"
+				item: { count: 1, id: "starcatcher:sky_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6B87FBE30F6D4DB2"]
+			id: "6C48155E798D4EB6"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "63A2E56538CF4E8F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6609FB1CEE8145D7"
+				item: { count: 1, id: "starcatcher:sky_rod" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 5.5d
+		}
+		{
+			id: "661E38F36D634500"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "60DBA7357B7A4E51"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6B78C1A251C74064"
+				item: { count: 1, id: "starcatcher:slimed_skin_smithing_template" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["661E38F36D634500"]
+			id: "6F5B36047883480E"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "69D333BFE7E2428A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A5E15D0149640F3"
+				item: { count: 1, id: "starcatcher:slimed_rod" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: 5.5d
+		}
+		{
+			id: "64A7BFBE0FBD45C6"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "666AF33621464F91"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6ED6CAB0D1504D23"
+				item: { count: 1, id: "starcatcher:clear_smithing_template" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.5d
+		}
+		{
+			id: "610720146BA9432A"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "604AFFA386AA4E2C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "665907C85B594E58"
+				item: { count: 1, id: "starcatcher:colorful_smithing_template" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 9.5d
+		}
+		{
+			id: "28FEB827BAE264B5"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "660BB5BCC9014E28"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6EF9A35AFD294BC3"
+				item: { count: 1, id: "starcatcher:frog_smithing_template" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 9.5d
+		}
+		{
+			id: "6B7BDA36E0DB4890"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "64DB30A8A681483B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6D8B4C9461EE41F8"
+				item: { count: 1, id: "starcatcher:kimbe_smithing_template" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 8.5d
+		}
+		{
+			id: "6B3817CE19F747F9"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "60DF564A0F584368"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "64169A948727421C"
+				item: { count: 1, id: "starcatcher:king_smithing_template" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.5d
+		}
+		{
+			id: "6A8509BF5F7846DC"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A468B08960049FE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "64F58F0F26E84F65"
+				item: { count: 1, id: "starcatcher:pearl_smithing_template" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.5d
+		}
+		{
+			id: "663D496317784DB6"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6C99AD844BD64970"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6AF3438793F74519"
+				item: { count: 1, id: "starcatcher:survivor_smithing_template" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 9.5d
+		}
+		{
+			id: "67F86528E40B43A0"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6C891A72B1C24BB9"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "603C13872B5643CC"
+				item: { count: 1, id: "starcatcher:valley_smithing_template" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 8.5d
+		}
+	]
+}

@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "00__welcome"
 	group: ""
+	icon: {
+		id: "ftbquests:book"
+	}
 	id: "28AD0F9B46A3A947"
 	images: [ ]
 	order_index: 0
@@ -12,11 +15,6 @@
 			icon_scale: 0.8d
 			id: "005DDF316BF8DA75"
 			optional: true
-			rewards: [{
-				id: "13F56B2F9DAE96C7"
-				type: "xp"
-				xp: 50
-			}]
 			shape: "diamond"
 			tasks: [{
 				id: "056358593CFFE97B"
@@ -29,11 +27,6 @@
 		{
 			icon_scale: 0.8d
 			id: "6F766C6D2A248B33"
-			rewards: [{
-				id: "05A338C8F6771935"
-				type: "xp"
-				xp: 50
-			}]
 			shape: "diamond"
 			tasks: [
 				{
@@ -59,7 +52,7 @@
 				{
 					id: "3EEB8B2D6C9737FB"
 					type: "xp"
-					xp: 50
+					xp: 100
 				}
 				{
 					id: "531C2D4827214AA8"
@@ -82,15 +75,22 @@
 		{
 			id: "785A45D09878B0F4"
 			preset: "Important"
-			rewards: [{
-				auto: "enabled"
-				id: "4400E3EA2F42A45E"
-				item: {
-					count: 1
-					id: "ftbquests:book"
+			rewards: [
+				{
+					auto: "enabled"
+					id: "4400E3EA2F42A45E"
+					item: {
+						count: 1
+						id: "ftbquests:book"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "008903CC5FE9F5A2"
+					type: "xp"
+					xp: 100
+				}
+			]
 			tasks: [{
 				advancement: "minecraft:story/root"
 				criterion: ""
@@ -120,11 +120,6 @@
 			id: "30622D9F1018E73D"
 			optional: true
 			preset: "Hits"
-			rewards: [{
-				id: "14B38FE49EF83F40"
-				type: "xp"
-				xp: 50
-			}]
 			tasks: [{
 				id: "2B7B8ECA8C569E2F"
 				type: "checkmark"

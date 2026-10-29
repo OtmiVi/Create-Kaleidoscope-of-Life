@@ -3,8 +3,235 @@
 	default_quest_shape: ""
 	filename: "villagers"
 	group: ""
+	icon: {
+		id: "villagerretaliation:clipboard"
+	}
 	id: "1B6D3098329B01E0"
-	images: [ ]
+	images: [
+		{
+			height: 1.5d
+			id: "74936572386A3D99"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.0d
+			x: 3.25d
+			y: -8.0d
+		}
+		{
+			height: 0.045d
+			id: "44DDF722FEE27AD0"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.0d
+			x: 3.25d
+			y: -8.73d
+		}
+		{
+			height: 1.0d
+			id: "79732F54A3B0629C"
+			image: "item:villagerretaliation:clipboard"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.0d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			id: "4791294E918A7CA6"
+			image: "item:villagerretaliation:construction_blueprint"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: -8.0d
+		}
+		{
+			height: 0.43d
+			id: "592F8FE87BADE3C2"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 9.0d
+			x: 3.25d
+			y: -8.0d
+		}
+		{
+			height: 1.55d
+			id: "79C16F5F6B896727"
+			image: "item:villagerretaliation:clipboard"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 5.6d
+			y: 17.0d
+		}
+		{
+			height: 1.55d
+			id: "0821C9E7FD06C865"
+			image: "item:villagerretaliation:payment_box"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 7.5d
+			y: 17.0d
+		}
+		{
+			height: 1.55d
+			id: "02D0F091C4E058B2"
+			image: "item:villagerretaliation:construction_blueprint"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 9.4d
+			y: 17.0d
+		}
+		{
+			height: 0.23d
+			id: "191A56191B14EBC1"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 7.5d
+			y: 18.16d
+		}
+		{
+			height: 2.6d
+			id: "6F71100329ECD9FC"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 7.5d
+			y: 17.27d
+		}
+		{
+			height: 0.04d
+			id: "7149120546AE0207"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 7.5d
+			y: 15.99d
+		}
+		{
+			height: 0.04d
+			id: "74A6FF2258916F12"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 7.5d
+			y: 18.55d
+		}
+		{
+			height: 2.6d
+			id: "3B3271908E5CE91F"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 4.395d
+			y: 17.27d
+		}
+		{
+			height: 2.6d
+			id: "603F65D636944A2F"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 10.605d
+			y: 17.27d
+		}
+		{
+			height: 0.27d
+			id: "32CE946898E2C65D"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 4.0d
+			x: -3.75d
+			y: -3.0d
+		}
+		{
+			height: 0.27d
+			id: "1FDE88B6F006CAFE"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 4.0d
+			x: -3.75d
+			y: 5.0d
+		}
+		{
+			height: 0.27d
+			id: "6CB4FC885BC5138F"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 4.0d
+			x: -3.75d
+			y: 8.0d
+		}
+		{
+			height: 0.27d
+			id: "1E407A2588EFC638"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 4.0d
+			x: -3.75d
+			y: 11.0d
+		}
+		{
+			height: 0.27d
+			id: "04A73312069D8AED"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 4.0d
+			x: -3.75d
+			y: 14.0d
+		}
+	]
 	order_index: 4
 	quest_links: [{
 		id: "3C3129A8BB7BEFCE"
@@ -62,22 +289,16 @@
 				{
 					id: "3B9DC4017476765D"
 					item: {
-						components: {
-							"ftbquests:missing_item": "chimes:bamboo_chimes"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "minecraft:lantern"
 					}
 					type: "item"
 				}
 				{
 					id: "04370D8E1EC7971E"
 					item: {
-						components: {
-							"ftbquests:missing_item": "chimes:carved_bamboo_chimes"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "minecraft:white_banner"
 					}
 					type: "item"
 				}
@@ -108,11 +329,8 @@
 				{
 					id: "687063870A425EE5"
 					item: {
-						components: {
-							"ftbquests:missing_item": "plushie_buddies:plushie_bee"
-						}
 						count: 1
-						id: "ftbquests:missing_item"
+						id: "minecraft:flower_pot"
 					}
 					type: "item"
 				}
@@ -169,16 +387,1071 @@
 			y: -1.5d
 		}
 		{
-			dependencies: ["37C8B239F69E5EB7"]
+			dependencies: ["2681A60AE034E158"]
+			icon: {
+				id: "minecraft:emerald"
+			}
 			id: "1F2038D7E9891501"
+			rewards: [
+				{
+					id: "7AA30B59253D493E"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 3
+					id: "119ADF351CD5C49A"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
-				advancement: "guardvillagers:adventure/recruit_guard"
+				advancement: "villagerretaliation:reputation/familiar_face"
 				criterion: ""
+				icon: {
+					id: "minecraft:emerald"
+				}
 				id: "77949224EA795742"
 				type: "advancement"
 			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["37C8B239F69E5EB7"]
+			icon: {
+				id: "minecraft:book"
+			}
+			id: "2681A60AE034E158"
+			preset: "Hits"
+			rewards: [{
+				count: 4
+				id: "5C659D781417E2F0"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "58629550940F1164"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2681A60AE034E158"]
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "3858CBA666869D72"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "0DFA258E402D9B84"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 2
+					id: "4A9D12C9A7FC2090"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "minecraft:adventure/trade"
+				criterion: ""
+				id: "3C86D25E395FC74F"
+				type: "advancement"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2681A60AE034E158"]
+			icon: {
+				id: "minecraft:flower_pot"
+			}
+			id: "31C9CF030EAE9B98"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "0659ADC621F0A1B5"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 3
+					id: "21869827ACB645B7"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/its_the_thought_that_counts"
+				criterion: ""
+				id: "0CC228AAA79A54AA"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1F2038D7E9891501"]
+			icon: {
+				id: "minecraft:writable_book"
+			}
+			id: "2D648D7F05233247"
+			preset: "Hits"
+			rewards: [{
+				count: 8
+				id: "3A812A0DAB11CDDF"
+				item: {
+					count: 1
+					id: "minecraft:paper"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "22AE1D5F35CFD78A"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1F2038D7E9891501"]
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "066471407CC97D8F"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "6FF6B9EE84FE00E7"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 4
+					id: "7981DE184D7FB9D2"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/respect_is_earned"
+				criterion: ""
+				id: "4CA56EF964931A6B"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["066471407CC97D8F"]
+			icon: {
+				id: "minecraft:golden_apple"
+			}
+			id: "70258B8247918D36"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "20401F301F4BDCDC"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 8
+					id: "6ADAE05734C71DD5"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/local_legend"
+				criterion: ""
+				id: "7646129365F2EA25"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70258B8247918D36"]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "7A1648E7E2877A4A"
+			optional: true
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "4B28A6042AF44743"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 2
+					id: "1741EC71D430E1FD"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/crowned_by_the_village"
+				criterion: ""
+				id: "2D726526A4D1E896"
+				type: "advancement"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1F2038D7E9891501"]
+			icon: {
+				id: "minecraft:written_book"
+			}
+			id: "6BE9566FE65CECC2"
+			preset: "Achiugments"
+			rewards: [{
+				id: "411AFE2A0E301A80"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/once_upon_a_time"
+				criterion: ""
+				id: "58FCD8FD3738E01E"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6BE9566FE65CECC2"]
+			icon: {
+				id: "minecraft:bookshelf"
+			}
+			id: "0DDC839D3E3C7052"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "046C6C54A84831AE"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/story_keeper"
+				criterion: ""
+				id: "2ADA274BED73273A"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1F2038D7E9891501"]
+			icon: {
+				id: "minecraft:filled_map"
+			}
+			id: "1B68BFCD84890203"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "0ADBC1C25E5444B0"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/trusted_directions"
+				criterion: ""
+				id: "5FF4F11959FCA3CB"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2D648D7F05233247"]
+			icon: {
+				id: "minecraft:bread"
+			}
+			id: "5D86D49820763D05"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "08FEEF68807BB788"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/family_business"
+				criterion: ""
+				id: "2F98B5527B674195"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2D648D7F05233247"]
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "23AED1B252070A01"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "1003B2735489AD34"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/choose_your_own_adventure"
+				criterion: ""
+				id: "2635471798C6CF22"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2D648D7F05233247"]
+			icon: {
+				id: "minecraft:bell"
+			}
+			id: "4FE7E5CB1B9402CD"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "060C9DD0999EB3BB"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/peoples_champion"
+				criterion: ""
+				id: "2F56FA70867510B7"
+				type: "advancement"
+			}]
+			x: 15.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["2681A60AE034E158"]
+			icon: {
+				id: "villagerretaliation:clipboard"
+			}
+			id: "6664A5D3570B9311"
+			rewards: [
+				{
+					id: "5EAD0784D2E297E1"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 8
+					id: "466BDE008BCFB36C"
+					item: {
+						count: 1
+						id: "minecraft:paper"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2D0A78D166B7F571"
+				item: { count: 1, id: "villagerretaliation:clipboard" }
+				type: "item"
+			}]
 			x: 0.0d
-			y: -2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6664A5D3570B9311"]
+			icon: {
+				id: "villagerretaliation:payment_box"
+			}
+			id: "63CE9DFC76701DDD"
+			rewards: [
+				{
+					id: "2F73A664766CFF51"
+					type: "xp"
+					xp: 25
+				}
+				{
+					count: 4
+					id: "59BCCA5910DE0D11"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5D95E6759DBC43E7"
+				item: { count: 1, id: "villagerretaliation:payment_box" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["63CE9DFC76701DDD"]
+			icon: {
+				id: "minecraft:iron_hoe"
+			}
+			id: "525F9C43C7D2E378"
+			preset: "Hits"
+			tasks: [{
+				id: "52916BFC8C59F31C"
+				type: "checkmark"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["525F9C43C7D2E378"]
+			icon: {
+				id: "minecraft:iron_pickaxe"
+			}
+			id: "1F47D79CD9A56B22"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "01225A2169046C37"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 4
+					id: "661685CCAF83311B"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/honest_work"
+				criterion: ""
+				id: "7A9580E5F67AA375"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1F47D79CD9A56B22"]
+			icon: {
+				id: "villagerretaliation:payment_box"
+			}
+			id: "6E1B0A766750F3A4"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "422D4C67347161E2"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 8
+					id: "4BFCD199C1C1D629"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/payday"
+				criterion: ""
+				id: "1F868FDFB1F7EC3B"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6E1B0A766750F3A4"]
+			icon: {
+				id: "minecraft:emerald_block"
+			}
+			id: "324B7881A70D6BEA"
+			optional: true
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "2EF7A0A6F6D783EE"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 12
+					id: "3E80EB6941530768"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/on_the_payroll"
+				criterion: ""
+				id: "686A99F2E4029658"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["324B7881A70D6BEA"]
+			icon: {
+				id: "minecraft:emerald_block"
+			}
+			id: "5985D87670983A7A"
+			optional: true
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "2E8228C6C92501B5"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 16
+					id: "28C2FE2F26BC7EE0"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/emerald_economy"
+				criterion: ""
+				id: "56A3ED2B651C0185"
+				type: "advancement"
+			}]
+			x: 15.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6664A5D3570B9311"]
+			icon: {
+				id: "villagerretaliation:item_filter"
+			}
+			id: "0CD42B19BBFEA7F2"
+			rewards: [{
+				id: "365A4433D3450A45"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "57FDD7D5BF2139F2"
+				item: { count: 1, id: "villagerretaliation:item_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0CD42B19BBFEA7F2"]
+			icon: {
+				id: "villagerretaliation:attribute_filter"
+			}
+			id: "4774F2251BA09C98"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "186BA7731C4A1F7A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2AFED8B9412CD9B5"
+				item: { count: 1, id: "villagerretaliation:attribute_filter" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0CD42B19BBFEA7F2"]
+			icon: {
+				id: "villagerretaliation:recipe_filter"
+			}
+			id: "7EA62972543C8A9F"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "58886E7696DFE1DB"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2972ADB945FE80E1"
+				item: { count: 1, id: "villagerretaliation:recipe_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"1F47D79CD9A56B22"
+				"0CD42B19BBFEA7F2"
+			]
+			icon: {
+				id: "villagerretaliation:clipboard"
+			}
+			id: "5F7B6BD9791F7DDA"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "4CA573C554C3045F"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 4
+					id: "3D80C2A51FCA03BF"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/supply_and_demand"
+				criterion: ""
+				id: "14CE0C8B289B85E3"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5F7B6BD9791F7DDA"]
+			icon: {
+				id: "minecraft:bell"
+			}
+			id: "3AE82A5CE3BA0BA5"
+			optional: true
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "1E4195C7E646F23B"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 12
+					id: "33BD9426764035FD"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/a_well_oiled_machine"
+				criterion: ""
+				id: "79C5CBD8530CB850"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1F47D79CD9A56B22"]
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "2A4213D1093462B1"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "273A929127CC5F9A"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/full_employment"
+				criterion: ""
+				id: "16B00B08FF3F10DB"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1F47D79CD9A56B22"]
+			icon: {
+				id: "minecraft:anvil"
+			}
+			id: "6DF89BF9237402F9"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "33F4D4299003846B"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/master_of_the_craft"
+				criterion: ""
+				id: "1B05457225C33DB5"
+				type: "advancement"
+			}]
+			x: 15.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1F47D79CD9A56B22"]
+			icon: {
+				id: "villagerretaliation:construction_blueprint"
+			}
+			id: "13AB0B227B033B33"
+			rewards: [{
+				id: "2C09D50076A38281"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "73BDCDABF21FF5AA"
+				item: { count: 1, id: "villagerretaliation:construction_blueprint" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["13AB0B227B033B33"]
+			icon: {
+				id: "villagerretaliation:blueprint_checklist"
+			}
+			id: "600EE515D60B9DFB"
+			rewards: [{
+				id: "3E88F5E98730E54F"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "60416370D1F32AE9"
+				item: { count: 1, id: "villagerretaliation:blueprint_checklist" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["600EE515D60B9DFB"]
+			icon: {
+				id: "minecraft:bricks"
+			}
+			id: "70C606A656B56FE1"
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "3193C6D3F934CD71"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 6
+					id: "7E988CFBFC78736D"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/blueprint_for_success"
+				criterion: ""
+				id: "70C8B5F77341A635"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["70C606A656B56FE1"]
+			icon: {
+				id: "minecraft:bricks"
+			}
+			id: "6CA0CEC19965328E"
+			optional: true
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "72BED9C0B9E93571"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 12
+					id: "043F6871C095E3FA"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/urban_planner"
+				criterion: ""
+				id: "17E855E9530EA720"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["1F2038D7E9891501"]
+			icon: {
+				id: "minecraft:oak_door"
+			}
+			id: "7993F28058B65375"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "4612010B5F5EA8F3"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/housewarming"
+				criterion: ""
+				id: "0A3A2E7A987DD6C6"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["1F2038D7E9891501"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "224EAC86A82372E5"
+			preset: "Hits"
+			rewards: [{
+				count: 8
+				id: "7146C4DF4C397580"
+				item: {
+					count: 1
+					id: "minecraft:bread"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1D1C4D3FF463E7AC"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["224EAC86A82372E5"]
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "61A308DDC83E9C6C"
+			rewards: [{
+				id: "355277C2367228DC"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "1C7839AE5AD79C58"
+					item: { count: 1, id: "minecraft:iron_sword" }
+					type: "item"
+				}
+				{
+					id: "6BE212D8C72D54D5"
+					item: { count: 1, id: "minecraft:shield" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "58C8CBDBD1B2C5D9"
+					item: { count: 1, id: "minecraft:bread" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["61A308DDC83E9C6C"]
+			icon: {
+				id: "minecraft:netherite_chestplate"
+			}
+			id: "43107C302A84BCD3"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "02E0F9494C6AA548"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/cover_them_in_debris"
+				criterion: ""
+				id: "600038AEFD092675"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["1F2038D7E9891501"]
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "4C736C29248A426E"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "3DD784CB16A5F6D0"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/friendly_competition"
+				criterion: ""
+				id: "0E142F900782F015"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 14.0d
+		}
+		{
+			dependencies: ["1F2038D7E9891501"]
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "084F2A59DF8F3A06"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "2C2E08C9F424E327"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/village_hopper"
+				criterion: ""
+				id: "730824361FA38CBD"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 14.0d
+		}
+		{
+			dependencies: [
+				"70258B8247918D36"
+				"084F2A59DF8F3A06"
+			]
+			icon: {
+				id: "minecraft:golden_apple"
+			}
+			id: "63F2877C9B8EB2DD"
+			optional: true
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "15ABB5207809A494"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 12
+					id: "766712920F237778"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/living_legend"
+				criterion: ""
+				id: "7FC4FBAEA63E3949"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 14.0d
+		}
+		{
+			dependencies: [
+				"6DF89BF9237402F9"
+				"2A4213D1093462B1"
+			]
+			icon: {
+				id: "minecraft:nether_star"
+			}
+			id: "0D71D46CD540A033"
+			optional: true
+			preset: "Achiugments"
+			rewards: [
+				{
+					id: "272B0FC8430D2C68"
+					type: "xp"
+					xp: 75
+				}
+				{
+					count: 8
+					id: "7F9422E0E65A6EB7"
+					item: {
+						count: 1
+						id: "minecraft:experience_bottle"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "villagerretaliation:reputation/master_of_all_trades"
+				criterion: ""
+				id: "49530BC91B6CF801"
+				type: "advancement"
+			}]
+			x: 15.0d
+			y: 14.0d
 		}
 	]
 }

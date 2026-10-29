@@ -13,6 +13,11 @@
 	quests: [{
 		id: "2E936CDDD52AE9C3"
 		preset: "Important"
+		rewards: [{
+			id: "6AE71EFD74188ACE"
+			type: "xp"
+			xp: 100
+		}]
 		tasks: [{
 			id: "772E07BFB5DFEF54"
 			item: { count: 1, id: "exposure:camera" }

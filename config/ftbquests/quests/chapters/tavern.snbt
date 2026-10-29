@@ -7,7 +7,166 @@
 		id: "kaleidoscope_tavern:barrel"
 	}
 	id: "6A7E000000000001"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "51E1F06D14B17E22"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.0d
+			y: 6.67d
+		}
+		{
+			height: 0.04d
+			id: "6142D00DA92CB93E"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.0d
+			y: 5.39d
+		}
+		{
+			height: 0.04d
+			id: "65B059D6B6726241"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 6.0d
+			y: 7.95d
+		}
+		{
+			height: 2.6d
+			id: "2CF705B057B42D7B"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 2.895d
+			y: 6.67d
+		}
+		{
+			height: 2.6d
+			id: "03D314F372057A3C"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 9.105d
+			y: 6.67d
+		}
+		{
+			height: 1.5d
+			id: "07631834C6BB7FF9"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 9.0d
+			y: -4.5d
+		}
+		{
+			height: 0.045d
+			id: "522CF1EEB1CDB829"
+			image: "#A9C58C"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 9.0d
+			y: -5.23d
+		}
+		{
+			height: 1.0d
+			id: "3FACAF4D08C15B93"
+			image: "item:kaleidoscope_tavern:grape"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.75d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			id: "0C8F60AEFCA9E4F8"
+			image: "item:kaleidoscope_tavern:mojito"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 13.25d
+			y: -4.5d
+		}
+		{
+			height: 0.43d
+			id: "40806592DF3A16BC"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: 9.0d
+			y: -4.5d
+		}
+		{
+			height: 1.55d
+			id: "35A03DE40821379A"
+			image: "item:kaleidoscope_tavern:grape"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 4.1d
+			y: 6.4d
+		}
+		{
+			height: 1.55d
+			id: "613AA426F6D2A9F3"
+			image: "item:kaleidoscope_tavern:ice_wine"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 6.0d
+			y: 6.4d
+		}
+		{
+			height: 1.55d
+			id: "7D77EE1E79AC30D7"
+			image: "item:kaleidoscope_tavern:mojito"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 7.9d
+			y: 6.4d
+		}
+		{
+			height: 0.23d
+			id: "435757B30DF8A658"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 6.0d
+			y: 7.56d
+		}
+	]
 	order_index: 2
 	quest_links: [ ]
 	quests: [
@@ -76,7 +235,7 @@
 				{
 					id: "6A7E00000000000D"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -101,7 +260,7 @@
 				{
 					id: "6A7E000000000010"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -126,7 +285,7 @@
 				{
 					id: "6A7E000000000013"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -207,7 +366,7 @@
 				{
 					id: "6A7E000000000029"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -348,7 +507,7 @@
 				{
 					id: "6A7E000000000041"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -389,7 +548,7 @@
 				{
 					id: "6A7E000000000048"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -430,7 +589,7 @@
 				{
 					id: "6A7E00000000004F"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -471,7 +630,7 @@
 				{
 					id: "6A7E000000000055"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -507,7 +666,7 @@
 				{
 					id: "6A7E00000000005A"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -538,7 +697,7 @@
 				{
 					id: "6A7E00000000005F"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -569,7 +728,7 @@
 				{
 					id: "6A7E000000000065"
 					type: "xp"
-					xp: 50
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -644,7 +803,7 @@
 				{
 					id: "6A7E000000000072"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -680,7 +839,7 @@
 				{
 					id: "6A7E000000000078"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -716,7 +875,7 @@
 				{
 					id: "6A7E00000000007E"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true
@@ -752,7 +911,7 @@
 				{
 					id: "6A7E000000000084"
 					type: "xp"
-					xp: 75
+					xp: 25
 				}
 				{
 					exclude_from_claim_all: true

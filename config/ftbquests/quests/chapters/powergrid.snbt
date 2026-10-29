@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "powergrid"
+	group: "0A13135CCD72B2AA"
+	icon: {
+		id: "powergrid:battery"
+	}
+	id: "6A84000000000001"
+	images: [ ]
+	order_index: 8
+	quest_links: [ ]
+	quests: [ ]
+}

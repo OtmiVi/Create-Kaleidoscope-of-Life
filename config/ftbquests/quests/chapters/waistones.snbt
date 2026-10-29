@@ -3,8 +3,170 @@
 	default_quest_shape: ""
 	filename: "waistones"
 	group: ""
+	icon: {
+		id: "waystones:waystone"
+	}
 	id: "23964F71E81F7706"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "77E85E77BC1C9C97"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 0.5d
+			y: 4.77d
+		}
+		{
+			height: 0.04d
+			id: "0AA8DAB0041B7E69"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 0.5d
+			y: 3.49d
+		}
+		{
+			height: 0.04d
+			id: "7B99379B8718CAFA"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 0.5d
+			y: 6.05d
+		}
+		{
+			height: 2.6d
+			id: "2E0A7B2F1D7A983D"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -2.605d
+			y: 4.77d
+		}
+		{
+			height: 2.6d
+			id: "01FB8A3DD39A2AC9"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: 3.605d
+			y: 4.77d
+		}
+		{
+			height: 1.5d
+			id: "4AE12E3F731BC215"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			height: 0.045d
+			id: "2C7F168BAD0DA69D"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 8.0d
+			x: 0.5d
+			y: -4.23d
+		}
+		{
+			height: 1.0d
+			id: "751962ECF4398824"
+			image: "item:waystones:waystone"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.75d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			id: "6B554B7FE6E33036"
+			image: "item:waystones:warp_scroll"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.75d
+			y: -3.5d
+		}
+		{
+			height: 0.43d
+			id: "423DA6491A569571"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.0d
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			height: 1.55d
+			id: "1DB5ABA8A03739B5"
+			image: "item:waystones:waystone"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -1.4d
+			y: 4.5d
+		}
+		{
+			height: 1.55d
+			id: "21FF0127E2E7D6CA"
+			image: "item:waystones:warp_stone"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			height: 1.55d
+			id: "4191FEBB802B74AC"
+			image: "item:waystones:warp_scroll"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: 2.4d
+			y: 4.5d
+		}
+		{
+			height: 0.23d
+			id: "6A088259B650496E"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.7d
+			x: 0.5d
+			y: 5.66d
+		}
+	]
 	order_index: 7
 	quest_links: [ ]
 	quests: [

@@ -4,10 +4,169 @@
 	filename: "enchant"
 	group: "0A13135CCD72B2AA"
 	icon: {
-		id: "create_enchantment_industry:experience_bucket"
+		id: "create_enchantment_industry:enchanting_template"
 	}
 	id: "6AFE0638A04ACE83"
-	images: [ ]
+	images: [
+		{
+			height: 2.6d
+			id: "398DE400D96A6229"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -4.35d
+			y: -4.53d
+		}
+		{
+			height: 0.04d
+			id: "577A899A06C86BF5"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -4.35d
+			y: -5.81d
+		}
+		{
+			height: 0.04d
+			id: "5BDF97514D1013F2"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: -4.35d
+			y: -3.25d
+		}
+		{
+			height: 2.6d
+			id: "6AF7F4FB800594C7"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -7.455d
+			y: -4.53d
+		}
+		{
+			height: 2.6d
+			id: "1D9AA3EB0ADB0845"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 0.04d
+			x: -1.245d
+			y: -4.53d
+		}
+		{
+			height: 1.5d
+			id: "7A875D4660694DC1"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 2.125d
+			y: -7.5d
+		}
+		{
+			height: 0.045d
+			id: "3A635A0EC6E36F8D"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 2.125d
+			y: -8.23d
+		}
+		{
+			height: 1.0d
+			id: "114460A8FABAA378"
+			image: "item:create_enchantment_industry:experience_bucket"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.125d
+			y: -7.5d
+		}
+		{
+			height: 1.0d
+			id: "7A41C151E1139FEC"
+			image: "item:create_enchantment_industry:blaze_enchanter"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.375d
+			y: -7.5d
+		}
+		{
+			height: 0.43d
+			id: "0BC3F651879A8008"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 7.0d
+			x: 2.125d
+			y: -7.5d
+		}
+		{
+			height: 1.55d
+			id: "27203EA6E043C842"
+			image: "item:create_enchantment_industry:experience_bucket"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -6.25d
+			y: -4.8d
+		}
+		{
+			height: 1.55d
+			id: "3944FA0231610C74"
+			image: "item:create_enchantment_industry:enchanting_template"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -4.35d
+			y: -4.8d
+		}
+		{
+			height: 1.55d
+			id: "6CC189DC5BB8156A"
+			image: "item:create_enchantment_industry:blaze_enchanter"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.55d
+			x: -2.45d
+			y: -4.8d
+		}
+		{
+			height: 0.23d
+			id: "512A1013A006892A"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 4.7d
+			x: -4.35d
+			y: -3.64d
+		}
+	]
 	order_index: 5
 	quest_links: [
 		{
