@@ -1,5 +1,5 @@
 {
-	default_hide_dependency_lines: false
+	default_hide_dependency_lines: true
 	default_quest_shape: ""
 	filename: "quark"
 	group: ""
@@ -7,8 +7,534 @@
 		id: "quark:seed_pouch"
 	}
 	id: "2FE9765A1A335D56"
-	images: [ ]
+	images: [
+		{
+			height: 1.5d
+			id: "6A86000000001000"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 16.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 0.045d
+			id: "6A86000000001001"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 16.0d
+			x: 0.0d
+			y: -6.23d
+		}
+		{
+			height: 1.0d
+			id: "6A86000000001002"
+			image: "item:quark:seed_pouch"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			id: "6A86000000001003"
+			image: "item:quark:trowel"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -5.5d
+		}
+		{
+			height: 0.43d
+			id: "6A86000000001004"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 12.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 0.25d
+			id: "6A86000000001005"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 3.6d
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			height: 0.25d
+			id: "6A86000000001006"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 3.6d
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			height: 0.25d
+			id: "6A86000000001007"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 3.6d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			height: 0.25d
+			id: "6A86000000001008"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 3.6d
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			height: 0.04d
+			id: "6A87000000001000"
+			image: "#D4CDBE"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 16.0d
+			x: 0.0d
+			y: 6.25d
+		}
+		{
+			height: 0.27d
+			id: "6A87000000001001"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 12.0d
+			x: 0.0d
+			y: 6.9d
+		}
+	]
 	order_index: 3
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			icon: {
+				id: "quark:seed_pouch"
+			}
+			id: "6A86000000002000"
+			preset: "Important"
+			tasks: [{
+				id: "6A86000000003000"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:seed_pouch"
+			}
+			id: "6A86000000002001"
+			rewards: [{
+				id: "6A86000000004001"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6A86000000003010"
+				item: { count: 1, id: "quark:seed_pouch" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:feeding_trough"
+			}
+			id: "6A86000000002002"
+			rewards: [{
+				id: "6A86000000004002"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6A86000000003020"
+				item: { count: 1, id: "quark:feeding_trough" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:trowel"
+			}
+			id: "6A86000000002003"
+			rewards: [{
+				id: "6A86000000004003"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6A86000000003030"
+				item: { count: 1, id: "quark:trowel" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:glass_item_frame"
+			}
+			id: "6A86000000002004"
+			rewards: [{
+				id: "6A86000000004004"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A86000000003040"
+				item: { count: 1, id: "quark:glass_item_frame" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:torch_arrow"
+			}
+			id: "6A86000000002005"
+			rewards: [{
+				id: "6A86000000004005"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 8L
+				id: "6A86000000003050"
+				item: { count: 1, id: "quark:torch_arrow" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:slime_in_a_bucket"
+			}
+			id: "6A86000000002006"
+			rewards: [{
+				id: "6A86000000004006"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A86000000003060"
+				item: { count: 1, id: "quark:slime_in_a_bucket" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:pathfinders_quill"
+			}
+			id: "6A86000000002007"
+			rewards: [{
+				id: "6A86000000004007"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A86000000003070"
+				item: { count: 1, id: "quark:pathfinders_quill" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "minecraft:dispenser"
+			}
+			id: "6A86000000002008"
+			rewards: [{
+				id: "6A86000000004008"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A86000000003080"
+					item: { count: 1, id: "minecraft:dispenser" }
+					type: "item"
+				}
+				{
+					id: "6A86000000003081"
+					item: { count: 1, id: "minecraft:lever" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:redstone_randomizer"
+			}
+			id: "6A86000000002009"
+			rewards: [{
+				id: "6A86000000004009"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A86000000003090"
+				item: { count: 1, id: "quark:redstone_randomizer" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:framed_glass"
+			}
+			id: "6A87000000002000"
+			rewards: [{
+				id: "6A87000000004000"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 16L
+				id: "6A87000000003000"
+				item: { count: 1, id: "quark:framed_glass" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:shingles"
+			}
+			id: "6A87000000002001"
+			rewards: [{
+				id: "6A87000000004001"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "6A87000000003010"
+					item: { count: 1, id: "quark:shingles" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6A87000000003011"
+					item: { count: 1, id: "quark:shingles_stairs" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:oak_hedge"
+			}
+			id: "6A87000000002002"
+			rewards: [{
+				id: "6A87000000004002"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 16L
+				id: "6A87000000003020"
+				item: { count: 1, id: "quark:oak_hedge" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:cobblestone_bricks"
+			}
+			id: "6A87000000002003"
+			rewards: [{
+				id: "6A87000000004003"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "6A87000000003030"
+					item: { count: 1, id: "quark:cobblestone_bricks" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6A87000000003031"
+					item: { count: 1, id: "quark:carved_mud_bricks" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:raw_iron_bricks"
+			}
+			id: "6A87000000002004"
+			rewards: [{
+				id: "6A87000000004004"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 8L
+				id: "6A87000000003040"
+				item: { count: 1, id: "quark:raw_iron_bricks" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:midori_block"
+			}
+			id: "6A87000000002005"
+			rewards: [{
+				id: "6A87000000004005"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "6A87000000003050"
+					item: { count: 1, id: "quark:midori_block" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A87000000003051"
+					item: { count: 1, id: "quark:midori_pillar" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:soul_sandstone"
+			}
+			id: "6A87000000002006"
+			rewards: [{
+				id: "6A87000000004006"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "6A87000000003060"
+					item: { count: 1, id: "quark:soul_sandstone" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6A87000000003061"
+					item: { count: 1, id: "quark:soul_sandstone_bricks" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A86000000002000"]
+			icon: {
+				id: "quark:spruce_bookshelf"
+			}
+			id: "6A87000000002007"
+			rewards: [{
+				id: "6A87000000004007"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					id: "6A87000000003070"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:bookshelves)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+				{
+					id: "6A87000000003071"
+					item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(quark:revertable_chests)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 11.0d
+		}
+	]
 }

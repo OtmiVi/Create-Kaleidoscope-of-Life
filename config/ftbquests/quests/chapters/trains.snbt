@@ -7,8 +7,867 @@
 		id: "create:track"
 	}
 	id: "6A83000000000001"
-	images: [ ]
+	images: [
+		{
+			height: 2.1d
+			id: "6A91000000001000"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 24.0d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			height: 0.05d
+			id: "6A91000000001001"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 24.0d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			id: "6A91000000001002"
+			image: "item:create:track"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			id: "6A91000000001003"
+			image: "item:create:controls"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -5.0d
+		}
+		{
+			height: 0.5d
+			id: "6A91000000001004"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 19.0d
+			x: 0.0d
+			y: -5.2d
+		}
+		{
+			height: 0.3d
+			id: "6A91000000001005"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 19.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 0.9d
+			id: "6A91000000001006"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A91000000001007"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -9.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A91000000001008"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A91000000001009"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A9100000000100A"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -3.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A9100000000100B"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A9100000000100C"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A9100000000100D"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 3.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A9100000000100E"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A9100000000100F"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A91000000001010"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 9.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A91000000001011"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: 9.0d
+			y: 1.0d
+		}
+	]
 	order_index: 7
-	quest_links: [ ]
-	quests: [ ]
+	quest_links: [
+		{
+			id: "6A91000000006000"
+			linked_quest: "6FF31469F6C2234B"
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			id: "6A91000000006001"
+			linked_quest: "3B24329B4B8B46A8"
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			id: "6A91000000006002"
+			linked_quest: "6A90000000000128"
+			x: 5.0d
+			y: 15.0d
+		}
+		{
+			id: "6A91000000006003"
+			linked_quest: "6A90000000000120"
+			x: 5.0d
+			y: 17.0d
+		}
+	]
+	quests: [
+		{
+			dependencies: [
+				"6FF31469F6C2234B"
+				"3B24329B4B8B46A8"
+			]
+			icon: {
+				id: "create:railway_casing"
+			}
+			id: "6A91000000000100"
+			preset: "Important"
+			rewards: [{
+				id: "6A91000000004000"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A91000000002000"
+				item: { count: 1, id: "create:railway_casing" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6A91000000000100"]
+			icon: {
+				id: "create:track"
+			}
+			id: "6A91000000000101"
+			rewards: [{
+				id: "6A91000000004001"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 64L
+				id: "6A91000000002001"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A91000000000101"]
+			icon: {
+				id: "create:track_station"
+			}
+			id: "6A91000000000102"
+			rewards: [{
+				id: "6A91000000004002"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A91000000002002"
+				item: { count: 1, id: "create:track_station" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"6A91000000000102"
+				"6A91000000000109"
+			]
+			icon: {
+				id: "create:track"
+			}
+			id: "6A91000000000103"
+			rewards: [{
+				id: "6A91000000004003"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A91000000002003"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A91000000000103"]
+			icon: {
+				id: "create:deployer"
+			}
+			id: "6A91000000000104"
+			rewards: [{
+				id: "6A91000000004004"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "6A91000000002004"
+					item: { count: 1, id: "create:deployer" }
+					type: "item"
+				}
+				{
+					id: "6A91000000002005"
+					item: { count: 1, id: "create:mechanical_press" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A91000000000104"]
+			icon: {
+				id: "create:track"
+			}
+			id: "6A91000000000105"
+			optional: true
+			rewards: [{
+				id: "6A91000000004005"
+				type: "xp"
+				xp: 125
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "6A91000000002006"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A91000000000103"]
+			icon: {
+				id: "minecraft:obsidian"
+			}
+			id: "6A91000000000106"
+			optional: true
+			rewards: [{
+				id: "6A91000000004006"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "create:train_portal"
+				criterion: ""
+				id: "6A91000000002007"
+				type: "advancement"
+			}]
+			x: -9.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6A91000000000100"]
+			icon: {
+				id: "create:controls"
+			}
+			id: "6A91000000000107"
+			rewards: [{
+				id: "6A91000000004007"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A91000000002008"
+					item: { count: 1, id: "create:controls" }
+					type: "item"
+				}
+				{
+					id: "6A91000000002009"
+					item: { count: 1, id: "create:white_seat" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"6A91000000000107"
+				"6A91000000000102"
+			]
+			icon: {
+				id: "create:super_glue"
+			}
+			id: "6A91000000000108"
+			rewards: [{
+				id: "6A91000000004008"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9100000000200A"
+				item: { count: 1, id: "create:super_glue" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A91000000000108"]
+			icon: {
+				id: "create:controls"
+			}
+			id: "6A91000000000109"
+			preset: "Important"
+			rewards: [{
+				id: "6A91000000004009"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				advancement: "create:train"
+				criterion: ""
+				id: "6A9100000000200B"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A91000000000109"]
+			icon: {
+				id: "create:schedule"
+			}
+			id: "6A9100000000010A"
+			rewards: [{
+				id: "6A9100000000400A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9100000000200C"
+				item: { count: 1, id: "create:schedule" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: [
+				"6A9100000000010A"
+				"6A91000000000103"
+			]
+			icon: {
+				id: "create:schedule"
+			}
+			id: "6A9100000000010B"
+			rewards: [{
+				id: "6A9100000000400B"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "6A9100000000200D"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A9100000000010B"]
+			icon: {
+				id: "create:train_door"
+			}
+			id: "6A9100000000010C"
+			optional: true
+			rewards: [{
+				id: "6A9100000000400C"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 2L
+					id: "6A9100000000200E"
+					item: { count: 1, id: "create:train_door" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6A9100000000200F"
+					item: { count: 1, id: "create:train_trapdoor" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6A91000000000100"]
+			icon: {
+				id: "create:item_vault"
+			}
+			id: "6A9100000000010D"
+			rewards: [{
+				id: "6A9100000000400D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 9L
+				id: "6A91000000002010"
+				item: { count: 1, id: "create:item_vault" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"6A9100000000010D"
+				"6A91000000000102"
+			]
+			icon: {
+				id: "create:portable_storage_interface"
+			}
+			id: "6A9100000000010E"
+			rewards: [{
+				id: "6A9100000000400E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A91000000002011"
+				item: { count: 1, id: "create:portable_storage_interface" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"6A9100000000010E"
+				"6A9100000000010A"
+			]
+			icon: {
+				id: "create:schedule"
+			}
+			id: "6A9100000000010F"
+			rewards: [{
+				id: "6A9100000000400F"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "6A91000000002012"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"6A9100000000010F"
+				"6A9100000000010B"
+			]
+			icon: {
+				id: "create:item_vault"
+			}
+			id: "6A91000000000110"
+			preset: "Important"
+			rewards: [{
+				id: "6A91000000004010"
+				type: "xp"
+				xp: 175
+			}]
+			tasks: [{
+				id: "6A91000000002013"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A91000000000110"]
+			icon: {
+				id: "create:fluid_tank"
+			}
+			id: "6A91000000000111"
+			rewards: [{
+				id: "6A91000000004011"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "6A91000000002014"
+					item: { count: 1, id: "create:fluid_tank" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A91000000002015"
+					item: { count: 1, id: "create:portable_fluid_interface" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A91000000000111"]
+			icon: {
+				id: "create:portable_fluid_interface"
+			}
+			id: "6A91000000000112"
+			rewards: [{
+				id: "6A91000000004012"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "6A91000000002016"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"6A91000000000110"
+				"6A90000000000128"
+			]
+			icon: {
+				id: "create:white_postbox"
+			}
+			id: "6A91000000000113"
+			rewards: [{
+				id: "6A91000000004013"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A91000000002017"
+				item: { count: 1, id: "create:white_postbox" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 15.0d
+		}
+		{
+			dependencies: [
+				"6A91000000000113"
+				"6A90000000000120"
+			]
+			icon: {
+				id: "create:white_postbox"
+			}
+			id: "6A91000000000114"
+			rewards: [{
+				id: "6A91000000004014"
+				type: "xp"
+				xp: 175
+			}]
+			tasks: [{
+				id: "6A91000000002018"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["6A91000000000100"]
+			icon: {
+				id: "create:track_signal"
+			}
+			id: "6A91000000000115"
+			rewards: [{
+				id: "6A91000000004015"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 6L
+				id: "6A91000000002019"
+				item: { count: 1, id: "create:track_signal" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"6A91000000000115"
+				"6A91000000000102"
+			]
+			icon: {
+				id: "create:track_signal"
+			}
+			id: "6A91000000000116"
+			rewards: [{
+				id: "6A91000000004016"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "create:track_signal"
+				criterion: ""
+				id: "6A9100000000201A"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"6A91000000000116"
+				"6A9100000000010B"
+			]
+			icon: {
+				id: "create:track_signal"
+			}
+			id: "6A91000000000117"
+			rewards: [{
+				id: "6A91000000004017"
+				type: "xp"
+				xp: 125
+			}]
+			tasks: [{
+				id: "6A9100000000201B"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A91000000000117"]
+			icon: {
+				id: "create:track_observer"
+			}
+			id: "6A91000000000118"
+			rewards: [{
+				id: "6A91000000004018"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A9100000000201C"
+				item: { count: 1, id: "create:track_observer" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A91000000000118"]
+			icon: {
+				id: "create:display_link"
+			}
+			id: "6A91000000000119"
+			rewards: [{
+				id: "6A91000000004019"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A9100000000201D"
+					item: { count: 1, id: "create:display_link" }
+					type: "item"
+				}
+				{
+					count: 6L
+					id: "6A9100000000201E"
+					item: { count: 1, id: "create:display_board" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A91000000000119"]
+			icon: {
+				id: "create:track_signal"
+			}
+			id: "6A9100000000011A"
+			preset: "Important"
+			rewards: [{
+				id: "6A9100000000401A"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "6A9100000000201F"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"6A91000000000110"
+				"6A91000000000112"
+				"6A9100000000011A"
+			]
+			icon: {
+				id: "create:track_station"
+			}
+			id: "6A9100000000011B"
+			preset: "chalanges"
+			rewards: [{
+				id: "6A9100000000401B"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "6A91000000002020"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+	]
 }

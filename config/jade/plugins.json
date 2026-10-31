@@ -83,20 +83,8 @@
     "block_properties": false,
     "mod_name": true
   },
-  "kaleidoscope_doll": {
-    "doll_block": true,
-    "doll_entity": true
-  },
   "balm": {
     "jade": true
-  },
-  "eclipticseasons": {
-    "greenhouse_core": true,
-    "animal": true,
-    "cauldron": true,
-    "crop": true,
-    "snowy_status": true,
-    "crop.shift_hint": true
   },
   "jadeaddons": {
     "equipment_requirement": ""

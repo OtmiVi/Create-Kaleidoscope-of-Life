@@ -545,24 +545,11 @@
 			dependencies: ["5C05217D7F061B19"]
 			id: "735DF7ABE693CD2A"
 			optional: true
-			rewards: [
-				{
-					id: "494A62246EF39752"
-					type: "xp"
-					xp: 50
-				}
-				{
-					id: "1BB010CB27F7C8AF"
-					item: {
-						components: {
-							"ftbquests:missing_item": "minersdelight:golden_nutritional_bar"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "494A62246EF39752"
+				type: "xp"
+				xp: 50
+			}]
 			shape: "circle"
 			tasks: [
 				{
@@ -616,24 +603,11 @@
 			}
 			id: "4EF30842961B514C"
 			preset: "Important"
-			rewards: [
-				{
-					id: "14ED69A18FEDD37D"
-					item: {
-						components: {
-							"ftbquests:missing_item": "mynethersdelight:nether_burger"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "0A9850363F4FF487"
-					type: "xp"
-					xp: 100
-				}
-			]
+			rewards: [{
+				id: "0A9850363F4FF487"
+				type: "xp"
+				xp: 100
+			}]
 			shape: "pentagon"
 			size: 1.5d
 			tasks: [{
@@ -876,24 +850,11 @@
 		{
 			id: "1C94C629A95547D9"
 			optional: true
-			rewards: [
-				{
-					id: "12E873B2CA3586B1"
-					item: {
-						components: {
-							"ftbquests:missing_item": "chimes:amethyst_chimes"
-						}
-						count: 1
-						id: "ftbquests:missing_item"
-					}
-					type: "item"
-				}
-				{
-					id: "58B7B88430E5A424"
-					type: "xp"
-					xp: 50
-				}
-			]
+			rewards: [{
+				id: "58B7B88430E5A424"
+				type: "xp"
+				xp: 50
+			}]
 			shape: "circle"
 			tasks: [{
 				count: 16L

@@ -1,8 +1,0 @@
-#Presence Footsteps
-[presencefootsteps]
-	Enable = true
-
-#Create
-[create]
-	#Render seasonal snow on exposed Create contraption blocks.
-	Enable = true

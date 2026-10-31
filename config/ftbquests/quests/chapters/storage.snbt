@@ -4,170 +4,1197 @@
 	filename: "storage"
 	group: "0A13135CCD72B2AA"
 	icon: {
-		id: "create:chute"
+		id: "create:stock_ticker"
 	}
 	id: "7DDB4665547C3D95"
 	images: [
 		{
-			height: 2.6d
-			id: "77985BD9C0DD0CF6"
+			height: 2.1d
+			id: "6A90000000001000"
 			image: "#272A26"
 			order: -10
 			position_locked: 1b
 			rotation: 0.0d
-			width: 6.25d
+			width: 24.0d
 			x: 0.0d
-			y: 0.27d
+			y: -5.0d
 		}
 		{
-			height: 0.04d
-			id: "368E91BC2EDF08B6"
+			height: 0.05d
+			id: "6A90000000001001"
 			image: "#D6B879"
 			order: -9
 			position_locked: 1b
 			rotation: 0.0d
-			width: 6.25d
+			width: 24.0d
 			x: 0.0d
-			y: -1.01d
-		}
-		{
-			height: 0.04d
-			id: "0A25D8C64D4C3871"
-			image: "#D6B879"
-			order: -9
-			position_locked: 1b
-			rotation: 0.0d
-			width: 6.25d
-			x: 0.0d
-			y: 1.55d
-		}
-		{
-			height: 2.6d
-			id: "3BD4A83B95DD85F7"
-			image: "#D6B879"
-			order: -9
-			position_locked: 1b
-			rotation: 0.0d
-			width: 0.04d
-			x: -3.105d
-			y: 0.27d
-		}
-		{
-			height: 2.6d
-			id: "031236A087B59F22"
-			image: "#D6B879"
-			order: -9
-			position_locked: 1b
-			rotation: 0.0d
-			width: 0.04d
-			x: 3.105d
-			y: 0.27d
-		}
-		{
-			height: 1.5d
-			id: "3C874AA360272298"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 8.0d
-			x: 0.0d
-			y: -2.7d
-		}
-		{
-			height: 0.045d
-			id: "2C39830EDE20E81E"
-			image: "#D6B879"
-			order: -9
-			position_locked: 1b
-			rotation: 0.0d
-			width: 8.0d
-			x: 0.0d
-			y: -3.43d
+			y: -6.0d
 		}
 		{
 			height: 1.0d
-			id: "2588169851C0C3EF"
-			image: "item:create:chute"
+			id: "6A90000000001002"
+			image: "item:create:stock_ticker"
 			order: -8
 			position_locked: 1b
 			rotation: 0.0d
 			width: 1.0d
-			x: -3.25d
-			y: -2.7d
+			x: -11.0d
+			y: -5.0d
 		}
 		{
 			height: 1.0d
-			id: "2EE1498A82C0BC9C"
+			id: "6A90000000001003"
 			image: "item:create:item_vault"
 			order: -8
 			position_locked: 1b
 			rotation: 0.0d
 			width: 1.0d
-			x: 3.25d
-			y: -2.7d
+			x: 11.0d
+			y: -5.0d
 		}
 		{
-			height: 0.43d
-			id: "3817B32EB2FFA3C3"
+			height: 0.5d
+			id: "6A90000000001004"
 			image: ""
 			order: -7
 			position_locked: 1b
 			rotation: 0.0d
 			text_on_image: 1b
 			text_shadow: 1b
-			width: 5.0d
+			width: 19.0d
 			x: 0.0d
-			y: -2.7d
+			y: -5.2d
 		}
 		{
-			height: 1.55d
-			id: "06391CB6254256B5"
-			image: "item:create:chute"
-			order: -8
-			position_locked: 1b
-			rotation: 0.0d
-			width: 1.55d
-			x: -1.9d
-			y: 0.0d
-		}
-		{
-			height: 1.55d
-			id: "5615C3ABF04D4E96"
-			image: "item:create:belt_connector"
-			order: -8
-			position_locked: 1b
-			rotation: 0.0d
-			width: 1.55d
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			height: 1.55d
-			id: "705DBAF57A7D6BAE"
-			image: "item:create:item_vault"
-			order: -8
-			position_locked: 1b
-			rotation: 0.0d
-			width: 1.55d
-			x: 1.9d
-			y: 0.0d
-		}
-		{
-			height: 0.23d
-			id: "327C6F0584352BF0"
+			height: 0.3d
+			id: "6A90000000001005"
 			image: ""
 			order: -7
 			position_locked: 1b
 			rotation: 0.0d
 			text_on_image: 1b
 			text_shadow: 1b
-			width: 5.7d
+			width: 19.0d
 			x: 0.0d
-			y: 1.16d
+			y: -4.5d
+		}
+		{
+			height: 0.9d
+			id: "6A90000000001006"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A90000000001007"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -9.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A90000000001008"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A90000000001009"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A9000000000100A"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -3.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A9000000000100B"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A9000000000100C"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A9000000000100D"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 3.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A9000000000100E"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A9000000000100F"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A90000000001010"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 9.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A90000000001011"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: 9.0d
+			y: 1.0d
 		}
 	]
 	order_index: 4
-	quest_links: [ ]
-	quests: [ ]
+	quest_links: [{
+		id: "6A90000000006000"
+		linked_quest: "0EC16E0ECEE17670"
+		x: -3.0d
+		y: -1.0d
+	}]
+	quests: [
+		{
+			dependencies: ["0EC16E0ECEE17670"]
+			icon: {
+				id: "create:item_vault"
+			}
+			id: "6A90000000000100"
+			preset: "Important"
+			tasks: [{
+				id: "6A90000000002000"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6A90000000000100"]
+			icon: {
+				id: "create:item_vault"
+			}
+			id: "6A90000000000101"
+			rewards: [{
+				id: "6A90000000004000"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 9L
+				id: "6A90000000002001"
+				item: { count: 1, id: "create:item_vault" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A90000000000101"]
+			icon: {
+				id: "create:item_vault"
+			}
+			id: "6A90000000000102"
+			rewards: [{
+				id: "6A90000000004001"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "6A90000000002002"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A90000000000102"]
+			icon: {
+				id: "create_vibrant_vaults:vertical_item_vault"
+			}
+			id: "6A90000000000103"
+			optional: true
+			rewards: [{
+				id: "6A90000000004002"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 3L
+				id: "6A90000000002003"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create_vibrant_vaults:vertical_vaults)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A90000000000102"]
+			icon: {
+				id: "create_vibrant_vaults:shipping_container"
+			}
+			id: "6A90000000000104"
+			optional: true
+			rewards: [{
+				id: "6A90000000004003"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 3L
+				id: "6A90000000002004"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create_vibrant_vaults:shipping_containers)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A90000000000102"]
+			icon: {
+				id: "create_vibrant_vaults:blue_item_vault"
+			}
+			id: "6A90000000000105"
+			optional: true
+			rewards: [{
+				id: "6A90000000004004"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 3L
+				id: "6A90000000002005"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create_vibrant_vaults:vibrant_vaults)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 11.0d
+		}
+		{
+			dependencies: [
+				"6A90000000000102"
+				"693E6063C314CC51"
+			]
+			icon: {
+				id: "sophisticatedstorage:controller"
+			}
+			id: "6A90000000000106"
+			rewards: [{
+				id: "6A90000000004005"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A90000000002006"
+					item: { count: 1, id: "sophisticatedstorage:controller" }
+					type: "item"
+				}
+				{
+					id: "6A90000000002007"
+					item: { count: 1, id: "sophisticatedstorage:storage_io" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6A90000000000106"]
+			icon: {
+				id: "create:stockpile_switch"
+			}
+			id: "6A90000000000107"
+			rewards: [{
+				id: "6A90000000004006"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A90000000002008"
+				item: { count: 1, id: "create:stockpile_switch" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6A90000000000107"]
+			icon: {
+				id: "create:content_observer"
+			}
+			id: "6A90000000000108"
+			rewards: [{
+				id: "6A90000000004007"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A90000000002009"
+				item: { count: 1, id: "create:content_observer" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["6A90000000000108"]
+			icon: {
+				id: "create:display_link"
+			}
+			id: "6A90000000000109"
+			rewards: [{
+				id: "6A90000000004008"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A9000000000200A"
+					item: { count: 1, id: "create:display_link" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A9000000000200B"
+					item: { count: 1, id: "create:display_board" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 19.0d
+		}
+		{
+			dependencies: [
+				"6A90000000000109"
+				"6A90000000000111"
+			]
+			icon: {
+				id: "create:item_vault"
+			}
+			id: "6A9000000000010A"
+			preset: "Important"
+			rewards: [{
+				id: "6A90000000004009"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "6A9000000000200C"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["6A90000000000100"]
+			icon: {
+				id: "create:belt_connector"
+			}
+			id: "6A9000000000010B"
+			rewards: [{
+				id: "6A9000000000400A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "6A9000000000200D"
+					item: { count: 1, id: "create:belt_connector" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A9000000000200E"
+					item: { count: 1, id: "create:andesite_funnel" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A9000000000010B"]
+			icon: {
+				id: "create:chute"
+			}
+			id: "6A9000000000010C"
+			rewards: [{
+				id: "6A9000000000400B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 8L
+				id: "6A9000000000200F"
+				item: { count: 1, id: "create:chute" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A9000000000010C"]
+			icon: {
+				id: "create:andesite_tunnel"
+			}
+			id: "6A9000000000010D"
+			rewards: [{
+				id: "6A9000000000400C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A90000000002010"
+				item: { count: 1, id: "create:andesite_tunnel" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"6A9000000000010D"
+				"3B24329B4B8B46A8"
+			]
+			icon: {
+				id: "create:brass_funnel"
+			}
+			id: "6A9000000000010E"
+			rewards: [{
+				id: "6A9000000000400D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "6A90000000002011"
+					item: { count: 1, id: "create:brass_funnel" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6A90000000002012"
+					item: { count: 1, id: "create:smart_chute" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A9000000000010E"]
+			icon: {
+				id: "create:filter"
+			}
+			id: "6A9000000000010F"
+			rewards: [{
+				id: "6A9000000000400E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "6A90000000002013"
+					item: { count: 1, id: "create:filter" }
+					type: "item"
+				}
+				{
+					id: "6A90000000002014"
+					item: { count: 1, id: "create:attribute_filter" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A9000000000010F"]
+			icon: {
+				id: "create:brass_tunnel"
+			}
+			id: "6A90000000000110"
+			rewards: [{
+				id: "6A9000000000400F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A90000000002015"
+				item: { count: 1, id: "create:brass_tunnel" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6A90000000000110"]
+			icon: {
+				id: "create:brass_tunnel"
+			}
+			id: "6A90000000000111"
+			rewards: [{
+				id: "6A90000000004010"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A90000000002016"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6A90000000000111"]
+			icon: {
+				id: "create:weighted_ejector"
+			}
+			id: "6A90000000000112"
+			optional: true
+			rewards: [{
+				id: "6A90000000004011"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				count: 2L
+				id: "6A90000000002017"
+				item: { count: 1, id: "create:weighted_ejector" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["6A90000000000111"]
+			icon: {
+				id: "create:portable_storage_interface"
+			}
+			id: "6A90000000000113"
+			rewards: [{
+				id: "6A90000000004012"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A90000000002018"
+				item: { count: 1, id: "create:portable_storage_interface" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 25.0d
+		}
+		{
+			dependencies: [
+				"6A90000000000113"
+				"6A90000000000102"
+			]
+			icon: {
+				id: "create:portable_storage_interface"
+			}
+			id: "6A90000000000114"
+			rewards: [{
+				id: "6A90000000004013"
+				type: "xp"
+				xp: 125
+			}]
+			tasks: [{
+				id: "6A90000000002019"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 27.0d
+		}
+		{
+			dependencies: [
+				"6A90000000000100"
+				"3B24329B4B8B46A8"
+			]
+			icon: {
+				id: "create:packager"
+			}
+			id: "6A90000000000115"
+			rewards: [{
+				id: "6A90000000004014"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A9000000000201A"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create_vibrant_vaults:packagers)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A90000000000115"]
+			icon: {
+				id: "create:packager"
+			}
+			id: "6A90000000000116"
+			rewards: [{
+				id: "6A90000000004015"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "create:packager"
+				criterion: ""
+				id: "6A9000000000201B"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A90000000000116"]
+			icon: {
+				id: "create:package_filter"
+			}
+			id: "6A90000000000117"
+			rewards: [{
+				id: "6A90000000004016"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9000000000201C"
+				item: { count: 1, id: "create:package_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A90000000000117"]
+			icon: {
+				id: "create:stock_link"
+			}
+			id: "6A90000000000118"
+			rewards: [{
+				id: "6A90000000004017"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A9000000000201D"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create_vibrant_vaults:stock_links)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A90000000000118"]
+			icon: {
+				id: "create:stock_ticker"
+			}
+			id: "6A90000000000119"
+			rewards: [{
+				id: "6A90000000004018"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9000000000201E"
+				item: { count: 1, id: "create:stock_ticker" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A90000000000119"]
+			icon: {
+				id: "create:chain_conveyor"
+			}
+			id: "6A9000000000011A"
+			rewards: [{
+				id: "6A90000000004019"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "6A9000000000201F"
+					item: { count: 1, id: "create:chain_conveyor" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "6A90000000002020"
+					item: { count: 1, id: "minecraft:chain" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6A9000000000011A"]
+			icon: {
+				id: "create:package_frogport"
+			}
+			id: "6A9000000000011B"
+			rewards: [{
+				id: "6A9000000000401A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A90000000002021"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create_vibrant_vaults:frogports)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6A9000000000011B"]
+			icon: {
+				id: "create:redstone_requester"
+			}
+			id: "6A9000000000011C"
+			rewards: [{
+				id: "6A9000000000401B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A90000000002022"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create_vibrant_vaults:redstone_requesters)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["6A9000000000011C"]
+			icon: {
+				id: "create:factory_gauge"
+			}
+			id: "6A9000000000011D"
+			rewards: [{
+				id: "6A9000000000401C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 3L
+				id: "6A90000000002023"
+				item: { count: 1, id: "create:factory_gauge" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 19.0d
+		}
+		{
+			dependencies: ["6A9000000000011D"]
+			icon: {
+				id: "create:repackager"
+			}
+			id: "6A9000000000011E"
+			rewards: [{
+				id: "6A9000000000401D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A90000000002024"
+				item: { count: 1, id: "create:repackager" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["6A9000000000011E"]
+			icon: {
+				id: "create:mechanical_crafter"
+			}
+			id: "6A9000000000011F"
+			rewards: [{
+				id: "6A9000000000401E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 9L
+				id: "6A90000000002025"
+				item: { count: 1, id: "create:mechanical_crafter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 23.0d
+		}
+		{
+			dependencies: ["6A9000000000011F"]
+			icon: {
+				id: "create:factory_gauge"
+			}
+			id: "6A90000000000120"
+			preset: "Important"
+			rewards: [{
+				id: "6A9000000000401F"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "6A90000000002026"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 25.0d
+		}
+		{
+			dependencies: ["6A90000000000100"]
+			icon: {
+				id: "create:fluid_tank"
+			}
+			id: "6A90000000000121"
+			rewards: [{
+				id: "6A90000000004020"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 8L
+				id: "6A90000000002027"
+				item: { count: 1, id: "create:fluid_tank" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A90000000000121"]
+			icon: {
+				id: "create:fluid_pipe"
+			}
+			id: "6A90000000000122"
+			rewards: [{
+				id: "6A90000000004021"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "6A90000000002028"
+					item: { count: 1, id: "create:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6A90000000002029"
+					item: { count: 1, id: "create:mechanical_pump" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A90000000000122"]
+			icon: {
+				id: "create:fluid_valve"
+			}
+			id: "6A90000000000123"
+			rewards: [{
+				id: "6A90000000004022"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A9000000000202A"
+					item: { count: 1, id: "create:fluid_valve" }
+					type: "item"
+				}
+				{
+					id: "6A9000000000202B"
+					item: { count: 1, id: "create:smart_fluid_pipe" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A90000000000123"]
+			icon: {
+				id: "create:hose_pulley"
+			}
+			id: "6A90000000000124"
+			rewards: [{
+				id: "6A90000000004023"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9000000000202C"
+				item: { count: 1, id: "create:hose_pulley" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A90000000000123"]
+			icon: {
+				id: "create:spout"
+			}
+			id: "6A90000000000125"
+			rewards: [{
+				id: "6A90000000004024"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A9000000000202D"
+					item: { count: 1, id: "create:spout" }
+					type: "item"
+				}
+				{
+					id: "6A9000000000202E"
+					item: { count: 1, id: "create:item_drain" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A90000000000125"]
+			icon: {
+				id: "create:portable_fluid_interface"
+			}
+			id: "6A90000000000126"
+			rewards: [{
+				id: "6A90000000004025"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A9000000000202F"
+				item: { count: 1, id: "create:portable_fluid_interface" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6A90000000000126"]
+			icon: {
+				id: "create:fluid_tank"
+			}
+			id: "6A90000000000127"
+			rewards: [{
+				id: "6A90000000004026"
+				type: "xp"
+				xp: 125
+			}]
+			tasks: [{
+				id: "6A90000000002030"
+				type: "checkmark"
+			}]
+			x: 9.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6A9000000000011B"]
+			icon: {
+				id: "create:white_postbox"
+			}
+			id: "6A90000000000128"
+			rewards: [{
+				id: "6A90000000004027"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A90000000002031"
+				item: { count: 1, id: "create:white_postbox" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 19.0d
+		}
+		{
+			dependencies: [
+				"6A9000000000010A"
+				"6A90000000000114"
+				"6A90000000000120"
+				"6A90000000000127"
+				"6A9000000000012C"
+			]
+			icon: {
+				id: "create:stock_ticker"
+			}
+			id: "6A90000000000129"
+			preset: "chalanges"
+			rewards: [{
+				id: "6A90000000004028"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "6A90000000002032"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 31.0d
+		}
+		{
+			dependencies: ["6A90000000000111"]
+			icon: {
+				id: "create:depot"
+			}
+			id: "6A9000000000012A"
+			rewards: [{
+				id: "6A90000000004029"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A90000000002033"
+				item: { count: 1, id: "create:depot" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 19.0d
+		}
+		{
+			dependencies: [
+				"6A9000000000012A"
+				"6FF31469F6C2234B"
+			]
+			icon: {
+				id: "create:mechanical_arm"
+			}
+			id: "6A9000000000012B"
+			rewards: [{
+				id: "6A9000000000402A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A90000000002034"
+				item: { count: 1, id: "create:mechanical_arm" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["6A9000000000012B"]
+			icon: {
+				id: "create:mechanical_arm"
+			}
+			id: "6A9000000000012C"
+			rewards: [{
+				id: "6A9000000000402B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6A90000000002035"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 23.0d
+		}
+	]
 }

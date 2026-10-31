@@ -1,0 +1,959 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "aeronautics"
+	group: "0A13135CCD72B2AA"
+	icon: {
+		id: "aeronautics:propeller_bearing"
+	}
+	id: "6A89000000000001"
+	images: [
+		{
+			height: 2.1d
+			id: "6A89000000001000"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 24.0d
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			height: 0.05d
+			id: "6A89000000001001"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 24.0d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			id: "6A89000000001002"
+			image: "item:aeronautics:propeller_bearing"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.0d
+			y: -5.0d
+		}
+		{
+			height: 1.0d
+			id: "6A89000000001003"
+			image: "item:aeronautics:white_envelope"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 11.0d
+			y: -5.0d
+		}
+		{
+			height: 0.5d
+			id: "6A89000000001004"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 19.0d
+			x: 0.0d
+			y: -5.2d
+		}
+		{
+			height: 0.3d
+			id: "6A89000000001005"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 19.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 0.9d
+			id: "6A89000000001006"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A89000000001007"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -9.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A89000000001008"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A89000000001009"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A8900000000100A"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -3.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A8900000000100B"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A8900000000100C"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A8900000000100D"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 3.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A8900000000100E"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A8900000000100F"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.04d
+			id: "6A89000000001010"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 9.0d
+			y: 1.4d
+		}
+		{
+			height: 0.3d
+			id: "6A89000000001011"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 5.2d
+			x: 9.0d
+			y: 1.0d
+		}
+	]
+	order_index: 11
+	quest_links: [{
+		id: "6A89000000006000"
+		linked_quest: "535855FF6D033C77"
+		x: -3.0d
+		y: -1.0d
+	}]
+	quests: [
+		{
+			dependencies: ["535855FF6D033C77"]
+			icon: {
+				id: "simulated:physics_assembler"
+			}
+			id: "6A89000000000100"
+			preset: "Important"
+			rewards: [{
+				id: "6A89000000004000"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A89000000002000"
+				item: { count: 1, id: "simulated:physics_assembler" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["6A89000000000100"]
+			icon: {
+				id: "create:super_glue"
+			}
+			id: "6A89000000000101"
+			rewards: [{
+				id: "6A89000000004001"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A89000000002001"
+				item: { count: 1, id: "create:super_glue" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A89000000000101"]
+			icon: {
+				id: "simulated:contraption_diagram"
+			}
+			id: "6A89000000000102"
+			rewards: [{
+				id: "6A89000000004002"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A89000000002002"
+				item: { count: 1, id: "simulated:contraption_diagram" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A89000000000102"]
+			icon: {
+				id: "simulated:honey_glue"
+			}
+			id: "6A89000000000103"
+			optional: true
+			rewards: [{
+				id: "6A89000000004003"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "6A89000000002003"
+				item: { count: 1, id: "simulated:honey_glue" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"6A89000000000102"
+				"6FF31469F6C2234B"
+			]
+			icon: {
+				id: "simulated:engine_assembly"
+			}
+			id: "6A89000000000104"
+			rewards: [{
+				id: "6A89000000004004"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A89000000002004"
+					item: { count: 1, id: "simulated:engine_assembly" }
+					type: "item"
+				}
+				{
+					id: "6A89000000002005"
+					item: { count: 1, id: "simulated:red_portable_engine" }
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A89000000000104"]
+			icon: {
+				id: "simulated:red_portable_engine"
+			}
+			id: "6A89000000000105"
+			rewards: [{
+				id: "6A89000000004005"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "6A89000000002006"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A89000000000105"]
+			icon: {
+				id: "create:item_vault"
+			}
+			id: "6A89000000000106"
+			rewards: [{
+				id: "6A89000000004006"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 3L
+				id: "6A89000000002007"
+				item: { count: 1, id: "create:item_vault" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6A89000000000106"]
+			icon: {
+				id: "simulated:docking_connector"
+			}
+			id: "6A89000000000107"
+			rewards: [{
+				id: "6A89000000004007"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A89000000002008"
+				item: { count: 1, id: "simulated:docking_connector" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 15.0d
+		}
+		{
+			dependencies: [
+				"6A89000000000107"
+				"6A8900000000010C"
+			]
+			icon: {
+				id: "simulated:docking_connector"
+			}
+			id: "6A89000000000108"
+			preset: "Important"
+			rewards: [{
+				id: "6A89000000004008"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "6A89000000002009"
+				type: "checkmark"
+			}]
+			x: -9.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["6A89000000000100"]
+			icon: {
+				id: "aeronautics:white_envelope"
+			}
+			id: "6A89000000000109"
+			rewards: [{
+				id: "6A89000000004009"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 64L
+				id: "6A8900000000200A"
+				item: { count: 1, id: "aeronautics:white_envelope" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A89000000000109"]
+			icon: {
+				id: "aeronautics:adjustable_burner"
+			}
+			id: "6A8900000000010A"
+			rewards: [{
+				id: "6A8900000000400A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A8900000000200B"
+				item: { count: 1, id: "aeronautics:adjustable_burner" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A8900000000010A"]
+			icon: {
+				id: "aeronautics:white_envelope"
+			}
+			id: "6A8900000000010B"
+			rewards: [{
+				id: "6A8900000000400B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A8900000000200C"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A8900000000010B"]
+			icon: {
+				id: "aeronautics:adjustable_burner"
+			}
+			id: "6A8900000000010C"
+			preset: "Important"
+			rewards: [{
+				id: "6A8900000000400C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "aeronautics:head_in_the_clouds"
+				criterion: ""
+				id: "6A8900000000200D"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A8900000000010C"]
+			icon: {
+				id: "aeronautics:steam_vent"
+			}
+			id: "6A8900000000010D"
+			rewards: [{
+				id: "6A8900000000400D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A8900000000200E"
+					item: { count: 1, id: "aeronautics:steam_vent" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A8900000000200F"
+					item: { count: 1, id: "create:fluid_tank" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A8900000000010D"]
+			icon: {
+				id: "simulated:altitude_sensor"
+			}
+			id: "6A8900000000010E"
+			rewards: [{
+				id: "6A8900000000400E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A89000000002010"
+				item: { count: 1, id: "simulated:altitude_sensor" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"6A8900000000010E"
+				"6A89000000000105"
+			]
+			icon: {
+				id: "aeronautics:white_envelope"
+			}
+			id: "6A8900000000010F"
+			rewards: [{
+				id: "6A8900000000400F"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "6A89000000002011"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6A89000000000100"]
+			icon: {
+				id: "aeronautics:wooden_propeller"
+			}
+			id: "6A89000000000110"
+			rewards: [{
+				id: "6A89000000004010"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A89000000002012"
+				item: { count: 1, id: "aeronautics:wooden_propeller" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A89000000000110"]
+			icon: {
+				id: "aeronautics:wooden_propeller"
+			}
+			id: "6A89000000000111"
+			rewards: [{
+				id: "6A89000000004011"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "aeronautics:for_every_action"
+				criterion: ""
+				id: "6A89000000002013"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A89000000000111"]
+			icon: {
+				id: "aeronautics:andesite_propeller"
+			}
+			id: "6A89000000000112"
+			rewards: [{
+				id: "6A89000000004012"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A89000000002014"
+				item: { count: 1, id: "aeronautics:andesite_propeller" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"6A89000000000112"
+				"3B24329B4B8B46A8"
+			]
+			icon: {
+				id: "aeronautics:propeller_bearing"
+			}
+			id: "6A89000000000113"
+			rewards: [{
+				id: "6A89000000004013"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A89000000002015"
+					item: { count: 1, id: "aeronautics:propeller_bearing" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6A89000000002016"
+					item: { count: 1, id: "create:white_sail" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A89000000000113"]
+			icon: {
+				id: "aeronautics:propeller_bearing"
+			}
+			id: "6A89000000000114"
+			rewards: [{
+				id: "6A89000000004014"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "aeronautics:in_thrust_we_trust"
+				criterion: ""
+				id: "6A89000000002017"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A89000000000114"]
+			icon: {
+				id: "aeronautics:gyroscopic_propeller_bearing"
+			}
+			id: "6A89000000000115"
+			rewards: [{
+				id: "6A89000000004015"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A89000000002018"
+				item: { count: 1, id: "aeronautics:gyroscopic_propeller_bearing" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6A89000000000115"]
+			icon: {
+				id: "aeronautics:smart_propeller"
+			}
+			id: "6A89000000000116"
+			rewards: [{
+				id: "6A89000000004016"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A89000000002019"
+				item: { count: 1, id: "aeronautics:smart_propeller" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 15.0d
+		}
+		{
+			dependencies: [
+				"6A89000000000116"
+				"6A8900000000010F"
+			]
+			icon: {
+				id: "aeronautics:gyroscopic_propeller_bearing"
+			}
+			id: "6A89000000000117"
+			preset: "Important"
+			rewards: [{
+				id: "6A89000000004017"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "6A8900000000201A"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 17.0d
+		}
+		{
+			dependencies: ["6A89000000000100"]
+			icon: {
+				id: "aeronautics:aviators_goggles"
+			}
+			id: "6A89000000000118"
+			rewards: [{
+				id: "6A89000000004018"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A8900000000201B"
+				item: { count: 1, id: "aeronautics:aviators_goggles" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A89000000000118"]
+			icon: {
+				id: "simulated:throttle_lever"
+			}
+			id: "6A89000000000119"
+			rewards: [{
+				id: "6A89000000004019"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A8900000000201C"
+				item: { count: 1, id: "simulated:throttle_lever" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A89000000000119"]
+			icon: {
+				id: "create:linked_controller"
+			}
+			id: "6A8900000000011A"
+			rewards: [{
+				id: "6A8900000000401A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A8900000000201D"
+					item: { count: 1, id: "create:linked_controller" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A8900000000201E"
+					item: { count: 1, id: "create:redstone_link" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["6A8900000000011A"]
+			icon: {
+				id: "simulated:steering_wheel"
+			}
+			id: "6A8900000000011B"
+			rewards: [{
+				id: "6A8900000000401B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A8900000000201F"
+				item: { count: 1, id: "simulated:steering_wheel" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6A8900000000011B"]
+			icon: {
+				id: "simulated:velocity_sensor"
+			}
+			id: "6A8900000000011C"
+			rewards: [{
+				id: "6A8900000000401C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "6A89000000002020"
+					item: { count: 1, id: "simulated:velocity_sensor" }
+					type: "item"
+				}
+				{
+					id: "6A89000000002021"
+					item: { count: 1, id: "simulated:gimbal_sensor" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6A8900000000011C"]
+			icon: {
+				id: "simulated:navigation_table"
+			}
+			id: "6A8900000000011D"
+			rewards: [{
+				id: "6A8900000000401D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A89000000002022"
+				item: { count: 1, id: "simulated:navigation_table" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6A8900000000011D"]
+			icon: {
+				id: "aeronautics:end_stone_powder"
+			}
+			id: "6A8900000000011E"
+			optional: true
+			rewards: [{
+				id: "6A8900000000401E"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [
+				{
+					count: 4L
+					id: "6A89000000002023"
+					item: { count: 1, id: "aeronautics:end_stone_powder" }
+					type: "item"
+				}
+				{
+					id: "6A89000000002024"
+					item: { count: 1, id: "aeronautics:levitite_blend_bucket" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6A8900000000011E"]
+			icon: {
+				id: "aeronautics:levitite"
+			}
+			id: "6A8900000000011F"
+			optional: true
+			rewards: [{
+				id: "6A8900000000401F"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "circle"
+			tasks: [{
+				advancement: "aeronautics:unidentified_floating_object"
+				criterion: ""
+				id: "6A89000000002025"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 17.0d
+		}
+		{
+			dependencies: [
+				"6A89000000000108"
+				"6A89000000000117"
+				"6A8900000000011D"
+			]
+			icon: {
+				id: "aeronautics:propeller_bearing"
+			}
+			id: "6A89000000000120"
+			preset: "chalanges"
+			rewards: [{
+				id: "6A89000000004020"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "6A89000000002026"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["6A8900000000011D"]
+			icon: {
+				id: "aeronautics:mounted_potato_cannon"
+			}
+			id: "6A89000000000121"
+			optional: true
+			rewards: [{
+				id: "6A89000000004021"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "circle"
+			tasks: [{
+				id: "6A89000000002027"
+				item: { count: 1, id: "aeronautics:mounted_potato_cannon" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 19.0d
+		}
+	]
+}

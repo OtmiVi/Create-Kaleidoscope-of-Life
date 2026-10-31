@@ -1,0 +1,464 @@
+{
+	default_hide_dependency_lines: true
+	default_quest_shape: ""
+	filename: "create_deco"
+	group: "0A13135CCD72B2AA"
+	icon: {
+		id: "createdeco:industrial_iron_catwalk"
+	}
+	id: "6A88000000000001"
+	images: [
+		{
+			height: 1.5d
+			id: "6A88000000001000"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 16.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 0.045d
+			id: "6A88000000001001"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 16.0d
+			x: 0.0d
+			y: -6.23d
+		}
+		{
+			height: 1.0d
+			id: "6A88000000001002"
+			image: "item:createdeco:pearl_bricks"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			id: "6A88000000001003"
+			image: "item:createdeco:industrial_iron_catwalk"
+			order: -8
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.0d
+			y: -5.5d
+		}
+		{
+			height: 0.43d
+			id: "6A88000000001004"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 12.0d
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			height: 0.25d
+			id: "6A88000000001005"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 3.6d
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			height: 0.25d
+			id: "6A88000000001006"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 3.6d
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			height: 0.25d
+			id: "6A88000000001007"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 3.6d
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			height: 0.25d
+			id: "6A88000000001008"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 3.6d
+			x: 6.0d
+			y: -1.5d
+		}
+	]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "createdeco:industrial_iron_catwalk"
+			}
+			id: "6A88000000002000"
+			preset: "Important"
+			tasks: [{
+				id: "6A88000000003000"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:pearl_bricks"
+			}
+			id: "6A88000000002001"
+			rewards: [{
+				id: "6A88000000004001"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 16L
+					id: "6A88000000003010"
+					item: { count: 1, id: "createdeco:pearl_bricks" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "6A88000000003011"
+					item: { count: 1, id: "createdeco:umber_bricks" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:tiled_red_bricks"
+			}
+			id: "6A88000000002002"
+			rewards: [{
+				id: "6A88000000004002"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "6A88000000003020"
+					item: { count: 1, id: "createdeco:long_red_bricks" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6A88000000003021"
+					item: { count: 1, id: "createdeco:tiled_red_bricks" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:mossy_red_bricks"
+			}
+			id: "6A88000000002003"
+			rewards: [{
+				id: "6A88000000004003"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "6A88000000003030"
+					item: { count: 1, id: "createdeco:mossy_red_bricks" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6A88000000003031"
+					item: { count: 1, id: "createdeco:cracked_red_bricks" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:industrial_iron_sheet_metal"
+			}
+			id: "6A88000000002004"
+			rewards: [{
+				id: "6A88000000004004"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "6A88000000003040"
+					item: { count: 1, id: "createdeco:industrial_iron_ingot" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6A88000000003041"
+					item: { count: 1, id: "createdeco:industrial_iron_sheet_metal" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:industrial_iron_catwalk"
+			}
+			id: "6A88000000002005"
+			rewards: [{
+				id: "6A88000000004005"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "6A88000000003050"
+					item: { count: 1, id: "createdeco:industrial_iron_catwalk" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A88000000003051"
+					item: { count: 1, id: "createdeco:industrial_iron_catwalk_stairs" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6A88000000003052"
+					item: { count: 1, id: "createdeco:industrial_iron_catwalk_railing" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:industrial_iron_support"
+			}
+			id: "6A88000000002006"
+			rewards: [{
+				id: "6A88000000004006"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "6A88000000003060"
+					item: { count: 1, id: "createdeco:industrial_iron_support" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A88000000003061"
+					item: { count: 1, id: "createdeco:industrial_iron_support_wedge" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:industrial_iron_window"
+			}
+			id: "6A88000000002007"
+			rewards: [{
+				id: "6A88000000004007"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 8L
+					id: "6A88000000003070"
+					item: { count: 1, id: "createdeco:industrial_iron_window" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6A88000000003071"
+					item: { count: 1, id: "createdeco:industrial_iron_bars" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:industrial_iron_door"
+			}
+			id: "6A88000000002008"
+			rewards: [{
+				id: "6A88000000004008"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "6A88000000003080"
+					item: { count: 1, id: "createdeco:industrial_iron_door" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "6A88000000003081"
+					item: { count: 1, id: "createdeco:industrial_iron_trapdoor" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:red_industrial_iron_lamp"
+			}
+			id: "6A88000000002009"
+			rewards: [{
+				id: "6A88000000004009"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 4L
+				id: "6A88000000003090"
+				item: { count: 1, id: "createdeco:red_industrial_iron_lamp" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:decal_warning"
+			}
+			id: "6A8800000000200A"
+			rewards: [{
+				id: "6A8800000000400A"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [
+				{
+					count: 2L
+					id: "6A880000000030A0"
+					item: { count: 1, id: "createdeco:decal_warning" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6A880000000030A1"
+					item: { count: 1, id: "createdeco:decal_right" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:yellow_placard"
+			}
+			id: "6A8800000000200B"
+			rewards: [{
+				id: "6A8800000000400B"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				count: 2L
+				id: "6A880000000030B0"
+				item: { count: 1, id: "createdeco:yellow_placard" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6A88000000002000"]
+			icon: {
+				id: "createdeco:red_shipping_container"
+			}
+			id: "6A8800000000200C"
+			rewards: [{
+				id: "6A8800000000400C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					count: 4L
+					id: "6A880000000030C0"
+					item: { count: 1, id: "createdeco:industrial_iron_hull" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "6A880000000030C1"
+					item: { count: 1, id: "createdeco:red_shipping_container" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: 5.0d
+		}
+	]
+}

@@ -37,7 +37,6 @@ local/
 /config/spark/tmp/
 /config/spark/tmp-client/
 /config/structurify/*_backup_*.json
-/config/.sereneseasonsplus-descriptive-config-reset.done
 **/logs/
 **/crash-reports/
 **/.cache/

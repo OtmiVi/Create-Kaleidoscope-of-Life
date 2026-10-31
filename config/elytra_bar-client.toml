@@ -1,5 +1,0 @@
-#Whether to use wing-like sprites
-wingSprites = false
-#Which durability indicator to use
-#Allowed Values: ICONS, BAR, BOTH
-durabilityIndicator = "ICONS"
