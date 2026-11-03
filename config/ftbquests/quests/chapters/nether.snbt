@@ -259,7 +259,7 @@
 					type: "item"
 				}
 			]
-			x: -4.5d
+			x: -4.0d
 			y: 2.5d
 		}
 		{
@@ -405,10 +405,7 @@
 			y: -2.25d
 		}
 		{
-			dependencies: [
-				"51181E7058AA394E"
-				"4EF30842961B514C"
-			]
+			dependencies: ["4EF30842961B514C"]
 			id: "6A8000000000002C"
 			preset: "Important"
 			rewards: [{
@@ -478,10 +475,7 @@
 			y: 5.5d
 		}
 		{
-			dependencies: [
-				"51181E7058AA394E"
-				"4EF30842961B514C"
-			]
+			dependencies: ["4EF30842961B514C"]
 			id: "6A80000000000037"
 			rewards: [{
 				id: "6A80000000000038"
@@ -552,10 +546,7 @@
 			y: 5.5d
 		}
 		{
-			dependencies: [
-				"51181E7058AA394E"
-				"4EF30842961B514C"
-			]
+			dependencies: ["4EF30842961B514C"]
 			id: "6A80000000000042"
 			preset: "Important"
 			rewards: [{
@@ -640,10 +631,7 @@
 			y: 10.5d
 		}
 		{
-			dependencies: [
-				"51181E7058AA394E"
-				"4EF30842961B514C"
-			]
+			dependencies: ["4EF30842961B514C"]
 			id: "6A8000000000004F"
 			preset: "Important"
 			rewards: [{
@@ -727,10 +715,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"51181E7058AA394E"
-				"4EF30842961B514C"
-			]
+			dependencies: ["4EF30842961B514C"]
 			id: "6A8000000000005C"
 			rewards: [{
 				id: "6A8000000000005D"
@@ -775,10 +760,7 @@
 			y: 2.0d
 		}
 		{
-			dependencies: [
-				"51181E7058AA394E"
-				"4EF30842961B514C"
-			]
+			dependencies: ["4EF30842961B514C"]
 			id: "6A80000000000066"
 			preset: "Important"
 			rewards: [{

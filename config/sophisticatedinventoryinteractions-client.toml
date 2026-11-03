@@ -33,3 +33,7 @@
 	#Example: net.minecraft.client.gui.screens.inventory.DispenserScreen=54,0
 	[client.layout]
 		anchorOffsetOverrides = ["net.minecraft.client.gui.screens.inventory.DispenserScreen=54,0"]
+		#Moves the player inventory sort button for specific screens.
+		#Use screenClass=x,y.
+		#Positive x moves right; positive y moves down.
+		playerSortOffsetOverrides = ["net.p3pp3rf1y.sophisticatedstorage.client.gui.DecorationTableScreen=0,2"]

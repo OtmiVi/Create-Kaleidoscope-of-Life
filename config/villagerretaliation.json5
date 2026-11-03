@@ -16,7 +16,7 @@
 		"showTradeGuiReputationIcon": true,
 		"enableVillagerDrops": true,
 		"enableWanderingTraderDrops": true,
-		"enableVillagerDeathMessages": true,
+		"enableVillagerDeathMessages": false,
 		"retiredVillagerProfileRetentionDays": 30
 	},
 	"notifications": {

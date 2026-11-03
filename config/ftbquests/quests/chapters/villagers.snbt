@@ -4,7 +4,7 @@
 	filename: "villagers"
 	group: ""
 	icon: {
-		id: "villagerretaliation:clipboard"
+		id: "minecraft:emerald"
 	}
 	id: "1B6D3098329B01E0"
 	images: [
@@ -33,7 +33,7 @@
 		{
 			height: 1.0d
 			id: "79732F54A3B0629C"
-			image: "item:villagerretaliation:clipboard"
+			image: "item:minecraft:writable_book"
 			order: -8
 			position_locked: 1b
 			rotation: 0.0d
@@ -44,7 +44,7 @@
 		{
 			height: 1.0d
 			id: "4791294E918A7CA6"
-			image: "item:villagerretaliation:construction_blueprint"
+			image: "item:minecraft:bricks"
 			order: -8
 			position_locked: 1b
 			rotation: 0.0d
@@ -68,7 +68,7 @@
 		{
 			height: 1.55d
 			id: "79C16F5F6B896727"
-			image: "item:villagerretaliation:clipboard"
+			image: "item:minecraft:writable_book"
 			order: -8
 			position_locked: 1b
 			rotation: 0.0d
@@ -79,7 +79,7 @@
 		{
 			height: 1.55d
 			id: "0821C9E7FD06C865"
-			image: "item:villagerretaliation:payment_box"
+			image: "item:minecraft:emerald"
 			order: -8
 			position_locked: 1b
 			rotation: 0.0d
@@ -90,7 +90,7 @@
 		{
 			height: 1.55d
 			id: "02D0F091C4E058B2"
-			image: "item:villagerretaliation:construction_blueprint"
+			image: "item:minecraft:bricks"
 			order: -8
 			position_locked: 1b
 			rotation: 0.0d
@@ -761,66 +761,6 @@
 		{
 			dependencies: ["2681A60AE034E158"]
 			icon: {
-				id: "villagerretaliation:clipboard"
-			}
-			id: "6664A5D3570B9311"
-			rewards: [
-				{
-					id: "5EAD0784D2E297E1"
-					type: "xp"
-					xp: 25
-				}
-				{
-					count: 8
-					id: "466BDE008BCFB36C"
-					item: {
-						count: 1
-						id: "minecraft:paper"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "2D0A78D166B7F571"
-				item: { count: 1, id: "villagerretaliation:clipboard" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["6664A5D3570B9311"]
-			icon: {
-				id: "villagerretaliation:payment_box"
-			}
-			id: "63CE9DFC76701DDD"
-			rewards: [
-				{
-					id: "2F73A664766CFF51"
-					type: "xp"
-					xp: 25
-				}
-				{
-					count: 4
-					id: "59BCCA5910DE0D11"
-					item: {
-						count: 1
-						id: "minecraft:emerald"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				id: "5D95E6759DBC43E7"
-				item: { count: 1, id: "villagerretaliation:payment_box" }
-				type: "item"
-			}]
-			x: 2.5d
-			y: 5.0d
-		}
-		{
-			dependencies: ["63CE9DFC76701DDD"]
-			icon: {
 				id: "minecraft:iron_hoe"
 			}
 			id: "525F9C43C7D2E378"
@@ -866,38 +806,6 @@
 		}
 		{
 			dependencies: ["1F47D79CD9A56B22"]
-			icon: {
-				id: "villagerretaliation:payment_box"
-			}
-			id: "6E1B0A766750F3A4"
-			preset: "Achiugments"
-			rewards: [
-				{
-					id: "422D4C67347161E2"
-					type: "xp"
-					xp: 75
-				}
-				{
-					count: 8
-					id: "4BFCD199C1C1D629"
-					item: {
-						count: 1
-						id: "minecraft:emerald"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				advancement: "villagerretaliation:reputation/payday"
-				criterion: ""
-				id: "1F868FDFB1F7EC3B"
-				type: "advancement"
-			}]
-			x: 10.0d
-			y: 5.0d
-		}
-		{
-			dependencies: ["6E1B0A766750F3A4"]
 			icon: {
 				id: "minecraft:emerald_block"
 			}
@@ -963,103 +871,10 @@
 			y: 5.0d
 		}
 		{
-			dependencies: ["6664A5D3570B9311"]
-			icon: {
-				id: "villagerretaliation:item_filter"
-			}
-			id: "0CD42B19BBFEA7F2"
-			rewards: [{
-				id: "365A4433D3450A45"
-				type: "xp"
-				xp: 25
-			}]
-			tasks: [{
-				id: "57FDD7D5BF2139F2"
-				item: { count: 1, id: "villagerretaliation:item_filter" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 8.0d
-		}
-		{
-			dependencies: ["0CD42B19BBFEA7F2"]
-			icon: {
-				id: "villagerretaliation:attribute_filter"
-			}
-			id: "4774F2251BA09C98"
-			optional: true
-			preset: "Optional"
-			rewards: [{
-				id: "186BA7731C4A1F7A"
-				type: "xp"
-				xp: 50
-			}]
-			tasks: [{
-				id: "2AFED8B9412CD9B5"
-				item: { count: 1, id: "villagerretaliation:attribute_filter" }
-				type: "item"
-			}]
-			x: 2.5d
-			y: 8.0d
-		}
-		{
-			dependencies: ["0CD42B19BBFEA7F2"]
-			icon: {
-				id: "villagerretaliation:recipe_filter"
-			}
-			id: "7EA62972543C8A9F"
-			optional: true
-			preset: "Optional"
-			rewards: [{
-				id: "58886E7696DFE1DB"
-				type: "xp"
-				xp: 50
-			}]
-			tasks: [{
-				id: "2972ADB945FE80E1"
-				item: { count: 1, id: "villagerretaliation:recipe_filter" }
-				type: "item"
-			}]
-			x: 5.0d
-			y: 8.0d
-		}
-		{
 			dependencies: [
 				"1F47D79CD9A56B22"
-				"0CD42B19BBFEA7F2"
+				"2681A60AE034E158"
 			]
-			icon: {
-				id: "villagerretaliation:clipboard"
-			}
-			id: "5F7B6BD9791F7DDA"
-			preset: "Achiugments"
-			rewards: [
-				{
-					id: "4CA573C554C3045F"
-					type: "xp"
-					xp: 75
-				}
-				{
-					count: 4
-					id: "3D80C2A51FCA03BF"
-					item: {
-						count: 1
-						id: "minecraft:emerald"
-					}
-					type: "item"
-				}
-			]
-			tasks: [{
-				advancement: "villagerretaliation:reputation/supply_and_demand"
-				criterion: ""
-				id: "14CE0C8B289B85E3"
-				type: "advancement"
-			}]
-			x: 7.5d
-			y: 8.0d
-		}
-		{
-			dependencies: ["5F7B6BD9791F7DDA"]
 			icon: {
 				id: "minecraft:bell"
 			}
@@ -1137,44 +952,6 @@
 		}
 		{
 			dependencies: ["1F47D79CD9A56B22"]
-			icon: {
-				id: "villagerretaliation:construction_blueprint"
-			}
-			id: "13AB0B227B033B33"
-			rewards: [{
-				id: "2C09D50076A38281"
-				type: "xp"
-				xp: 25
-			}]
-			tasks: [{
-				id: "73BDCDABF21FF5AA"
-				item: { count: 1, id: "villagerretaliation:construction_blueprint" }
-				type: "item"
-			}]
-			x: 0.0d
-			y: 11.0d
-		}
-		{
-			dependencies: ["13AB0B227B033B33"]
-			icon: {
-				id: "villagerretaliation:blueprint_checklist"
-			}
-			id: "600EE515D60B9DFB"
-			rewards: [{
-				id: "3E88F5E98730E54F"
-				type: "xp"
-				xp: 25
-			}]
-			tasks: [{
-				id: "60416370D1F32AE9"
-				item: { count: 1, id: "villagerretaliation:blueprint_checklist" }
-				type: "item"
-			}]
-			x: 2.5d
-			y: 11.0d
-		}
-		{
-			dependencies: ["600EE515D60B9DFB"]
 			icon: {
 				id: "minecraft:bricks"
 			}

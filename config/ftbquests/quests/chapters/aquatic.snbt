@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "aquatic"
-	group: "0A13135CCD72B2AA"
+	group: "4D2929F51BE82E68"
 	icon: {
 		id: "create_aquatic_ambitions:mechanical_conduit"
 	}
@@ -167,7 +167,7 @@
 			y: 7.16d
 		}
 	]
-	order_index: 6
+	order_index: 4
 	quest_links: [ ]
 	quests: [
 		{

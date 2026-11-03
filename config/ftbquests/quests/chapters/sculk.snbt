@@ -171,7 +171,6 @@
 	quest_links: [ ]
 	quests: [
 		{
-			dependencies: ["51181E7058AA394E"]
 			id: "6A7F000000000002"
 			preset: "Important"
 			rewards: [{

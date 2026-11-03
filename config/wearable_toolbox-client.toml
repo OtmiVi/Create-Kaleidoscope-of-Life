@@ -2,3 +2,6 @@
 "手臂前伸" = true
 #打开可穿戴工具箱界面时，是否让本地玩家朝身体正前方低头。
 "低头" = true
+#按 Alt 打开径向菜单时，身上工具箱与周围放置工具箱的选择方式。
+#Allowed Values: EQUAL, WEARABLE, PLACED
+"工具箱优先级" = "EQUAL"

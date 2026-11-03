@@ -6,8 +6,8 @@
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "energy_storage.style": "PROGRESS_BAR",
-    "item_storage": true,
     "item_storage.normal_amount": 9,
+    "item_storage": true,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -51,6 +51,11 @@
     "potion_effects": true,
     "painting": true,
     "chiseled_bookshelf": true
+  },
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
   },
   "jadeaddons.create": {
     "filter": true,
@@ -110,11 +115,11 @@
   "quark": {
     "oretoise_eating_cooldown": true
   },
-  "kaleidoscope_tavern": {
-    "barrel": true
-  },
   "create_enchantment_industry": {
     "create_enchantment_industry_tooltip": true
+  },
+  "kaleidoscope_tavern": {
+    "barrel": true
   },
   "waystones": {
     "waystone": true

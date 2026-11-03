@@ -497,22 +497,7 @@
 			y: -2.5d
 		}
 		{
-			id: "51181E7058AA394E"
-			rewards: [{
-				id: "611C00FE51731DAC"
-				type: "xp"
-				xp: 25
-			}]
-			tasks: [{
-				id: "37999D2A964BD26D"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/knives)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -8.5d
-			y: -5.0d
-		}
-		{
-			dependencies: ["51181E7058AA394E"]
+			dependencies: ["4CE6CAC38213C268"]
 			id: "0C8B9821D43ED752"
 			rewards: [{
 				id: "500F38AA4FA87FF5"
@@ -525,8 +510,8 @@
 				item: { count: 1, id: "kaleidoscope_cookery:oil" }
 				type: "item"
 			}]
-			x: -8.5d
-			y: -3.0d
+			x: -7.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["0C8B9821D43ED752"]
@@ -544,8 +529,8 @@
 				item: { count: 1, id: "kaleidoscope_cookery:oil_pot" }
 				type: "item"
 			}]
-			x: -10.5d
-			y: -3.5d
+			x: -9.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["0C8B9821D43ED752"]
@@ -562,11 +547,11 @@
 				item: { count: 1, id: "kaleidoscope_cookery:enamel_basin" }
 				type: "item"
 			}]
-			x: -10.5d
-			y: -2.5d
+			x: -9.5d
+			y: -4.0d
 		}
 		{
-			dependencies: ["51181E7058AA394E"]
+			dependencies: ["4CE6CAC38213C268"]
 			id: "381A43D155C8D44B"
 			rewards: [{
 				id: "745337A30EF9AE27"
@@ -578,8 +563,8 @@
 				item: { count: 1, id: "kaleidoscope_cookery:chopping_board" }
 				type: "item"
 			}]
-			x: -6.5d
-			y: -5.0d
+			x: -5.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["381A43D155C8D44B"]
@@ -587,10 +572,11 @@
 				id: "kaleidoscope_cookery:chopping_board"
 			}
 			id: "572F0A52E3B4C07F"
+			preset: "Achiugments"
 			rewards: [{
 				id: "0D3E5EC7BB6720F6"
 				type: "xp"
-				xp: 25
+				xp: 75
 			}]
 			tasks: [{
 				advancement: "kaleidoscope_cookery:chopping_board"
@@ -598,8 +584,8 @@
 				id: "1A913514852A4A88"
 				type: "advancement"
 			}]
-			x: -5.5d
-			y: -6.5d
+			x: -4.5d
+			y: -8.0d
 		}
 		{
 			dependencies: ["381A43D155C8D44B"]
@@ -616,8 +602,8 @@
 				item: { count: 1, id: "kaleidoscope_cookery:shawarma_spit" }
 				type: "item"
 			}]
-			x: -7.5d
-			y: -6.5d
+			x: -6.5d
+			y: -8.0d
 		}
 		{
 			dependencies: [
@@ -653,8 +639,8 @@
 					type: "item"
 				}
 			]
-			x: -6.5d
-			y: -3.0d
+			x: -5.5d
+			y: -4.5d
 		}
 		{
 			id: "41A20ACB13164437"
@@ -669,8 +655,8 @@
 				item: { count: 1, id: "kaleidoscope_cookery:stove" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: -3.0d
+			x: -3.5d
+			y: -4.5d
 		}
 		{
 			dependencies: ["41A20ACB13164437"]
@@ -692,8 +678,8 @@
 					type: "item"
 				}
 			]
-			x: -4.5d
-			y: -1.0d
+			x: -3.5d
+			y: -2.5d
 		}
 		{
 			id: "195E74A1833DE00D"
@@ -822,8 +808,8 @@
 				item: { count: 1, id: "kaleidoscope_cookery:cooked_rice" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: 0.5d
+			x: -3.5d
+			y: -1.0d
 		}
 		{
 			dependencies: ["7CEA7321A4EC1BC8"]
@@ -930,11 +916,10 @@
 				item: { count: 1, id: "kaleidoscope_cookery:recipe_item" }
 				type: "item"
 			}]
-			x: -4.5d
-			y: -4.5d
+			x: -3.5d
+			y: -6.0d
 		}
 		{
-			dependencies: ["51181E7058AA394E"]
 			id: "4CE6CAC38213C268"
 			preset: "Important"
 			rewards: [{
@@ -947,8 +932,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/knives)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: -8.5d
-			y: -7.5d
+			x: -7.5d
+			y: -6.5d
 		}
 		{
 			dependencies: ["79D85F0CE7026A9C"]
@@ -1035,8 +1020,8 @@
 					type: "item"
 				}
 			]
-			x: -7.5d
-			y: -0.5d
+			x: -6.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["331F655A447D9BC3"]
@@ -1075,8 +1060,8 @@
 					type: "item"
 				}
 			]
-			x: -3.0d
-			y: -2.0d
+			x: -2.0d
+			y: -3.5d
 		}
 		{
 			dependencies: ["733FCF269775E418"]
@@ -1110,8 +1095,8 @@
 					type: "item"
 				}
 			]
-			x: -6.0d
-			y: -0.5d
+			x: -5.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["331F655A447D9BC3"]
@@ -1145,8 +1130,8 @@
 					type: "item"
 				}
 			]
-			x: -3.0d
-			y: -0.5d
+			x: -2.0d
+			y: -2.0d
 		}
 		{
 			dependencies: ["645892F182BAC7E8"]
@@ -1189,8 +1174,8 @@
 					type: "item"
 				}
 			]
-			x: -4.5d
-			y: 2.0d
+			x: -3.5d
+			y: 0.5d
 		}
 	]
 }

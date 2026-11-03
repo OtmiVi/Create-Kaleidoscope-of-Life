@@ -1383,5 +1383,23 @@
 			x: -2.0d
 			y: -9.0d
 		}
+		{
+			dependencies: ["00ECFF7D7405A921"]
+			id: "3A2EF8EBEDB90C22"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6F4279E6A290E8D8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "70E768862FB3038E"
+				item: { count: 1, id: "create_power_loader:empty_andesite_chunk_loader" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
 	]
 }

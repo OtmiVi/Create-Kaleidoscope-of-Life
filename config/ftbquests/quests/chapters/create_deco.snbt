@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: true
 	default_quest_shape: ""
 	filename: "create_deco"
-	group: "0A13135CCD72B2AA"
+	group: "4D2929F51BE82E68"
 	icon: {
 		id: "createdeco:industrial_iron_catwalk"
 	}
@@ -118,7 +118,7 @@
 			y: -1.5d
 		}
 	]
-	order_index: 10
+	order_index: 1
 	quest_links: [ ]
 	quests: [
 		{

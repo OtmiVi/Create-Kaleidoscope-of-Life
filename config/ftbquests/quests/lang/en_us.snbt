@@ -24,11 +24,13 @@
 	chapter.6A84000000000001.title: "{\"text\":\"Power Grid\",\"color\":\"#D6B879\",\"bold\":false}"
 	chapter.6A85000000000001.title: "{\"text\":\"Space\",\"color\":\"#D6B879\",\"bold\":false}"
 	chapter.6A88000000000001.title: "{\"text\":\"Create Deco\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter.6A89000000000001.title: "{\"text\":\"Aeronautics\",\"color\":\"#D6B879\",\"bold\":false}"
 	chapter.6AFE0638A04ACE83.title: "{\"text\":\"Enchanting\",\"color\":\"#D6B879\",\"bold\":false}"
 	chapter.6E227DB696AD3F13.title: "{\"text\":\"Challenges\",\"color\":\"#D4CDBE\",\"bold\":false}"
 	chapter.77C4932A795646A1.title: "{\"text\":\"Hello World\",\"color\":\"#D4CDBE\",\"bold\":false}"
 	chapter.7DDB4665547C3D95.title: "{\"text\":\"Logistics\",\"color\":\"#D6B879\",\"bold\":false}"
 	chapter_group.0A13135CCD72B2AA.title: "{\"text\":\"Create\",\"color\":\"#D6B879\",\"bold\":false}"
+	chapter_group.4D2929F51BE82E68.title: "Create addition"
 	chapter_group.624E7CB211C91071.title: "{\"text\":\"Kaleidoscope\",\"color\":\"#A9C58C\",\"bold\":false}"
 	chapter_group.6FB79066314E4833.title: "{\"text\":\"Fishing\",\"color\":\"#D4CDBE\",\"bold\":false}"
 	image.014B3D6375EA8AA2.title: "{\"text\":\"ECHO CREATE\",\"color\":\"#D6B879\",\"bold\":true}"
@@ -92,6 +94,24 @@
 	image.6A88000000001006.title: "{\"text\":\"METALWORK\",\"color\":\"#D6B879\",\"bold\":false}"
 	image.6A88000000001007.title: "{\"text\":\"FACTORY\",\"color\":\"#D6B879\",\"bold\":false}"
 	image.6A88000000001008.title: "{\"text\":\"DETAILS\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.6A89000000001004.title: "{\"text\":\"AERONAUTICS\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A89000000001005.title: "{\"text\":\"Build a craft. Control lift. Carry cargo.\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.6A89000000001008.title: "{\"text\":\"HULL & CARGO\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A8900000000100B.title: "{\"text\":\"BALLOONS & LIFT\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A8900000000100E.title: "{\"text\":\"PROPELLERS\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A89000000001011.title: "{\"text\":\"FLIGHT CONTROLS\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A90000000001004.title: "{\"text\":\"LOGISTICS\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A90000000001005.title: "{\"text\":\"Store. Sort. Request. Deliver.\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.6A90000000001008.title: "{\"text\":\"WAREHOUSE\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A9000000000100B.title: "{\"text\":\"ITEM TRANSPORT\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A9000000000100E.title: "{\"text\":\"PACKAGES & ORDERS\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A90000000001011.title: "{\"text\":\"FLUIDS & RAIL POST\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A91000000001004.title: "{\"text\":\"TRAINS\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A91000000001005.title: "{\"text\":\"Lay track. Run schedules. Move freight.\",\"color\":\"#D6B879\",\"bold\":false}"
+	image.6A91000000001008.title: "{\"text\":\"TRACK & STATIONS\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A9100000000100B.title: "{\"text\":\"LOCOMOTIVE\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A9100000000100E.title: "{\"text\":\"FREIGHT & MAIL\",\"color\":\"#D6B879\",\"bold\":true}"
+	image.6A91000000001011.title: "{\"text\":\"SIGNALS & NETWORK\",\"color\":\"#D6B879\",\"bold\":true}"
 	image.6C0AEF58700F493C.title: "{\"text\":\"FILLETS\",\"color\":\"#A9C58C\",\"bold\":false}"
 	image.6CB4FC885BC5138F.title: "{\"text\":\"FILTERS \\u0026 LOGISTICS\",\"color\":\"#D4CDBE\",\"bold\":false}"
 	image.6DC540A2147642AC.title: "{\"text\":\"THE KITCHEN\",\"color\":\"#A9C58C\",\"bold\":false}"
@@ -202,11 +222,6 @@
 	]
 	quest.0C8B9821D43ED752.title: "Oil on the Blade"
 	quest.0C9B6DB67E464948.quest_desc: ["Limited Barrels dedicate a small number of slots to bulk item storage. Choose a layout that matches your workshop's main materials."]
-	quest.0CD42B19BBFEA7F2.quest_desc: [
-		"Craft a List Filter and select the allowed or denied items."
-		"Set transfer direction and stock limits in the worker's storage policy."
-	]
-	quest.0CD42B19BBFEA7F2.title: "Choose What Moves"
 	quest.0D4174672201A7EA.quest_desc: ["Use Labels to make storage areas easier to recognize. Keep labels consistent across raw materials, processed components and expedition supplies."]
 	quest.0D4922724DA846AF.quest_desc: ["Install this stack upgrade in the backpack to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
 	quest.0D71D46CD540A033.quest_desc: [
@@ -275,11 +290,6 @@
 	quest.1347F61EAEA71EB8.quest_desc: ["Smoking food in an upgrade tab Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
 	quest.13530E4C44B87217.quest_desc: ["Copper starts the fluid-handling branch of Create. Save ingots for sheets, casings and pipes."]
 	quest.13530E4C44B87217.title: "Firt copper"
-	quest.13AB0B227B033B33.quest_desc: [
-		"Get a Construction Blueprint through a Builder's workflow."
-		"Preview placement, materials and cost before confirming."
-	]
-	quest.13AB0B227B033B33.title: "Plan a Building"
 	quest.13FE7D33D4CA6CE7.quest_desc: ["Check the material and mining tier before replacing your current tools, and keep spare materials for repairs or replacements."]
 	quest.13FE7D33D4CA6CE7.title: "Stone tools"
 	quest.140D56A08C937664.quest_desc: [
@@ -853,11 +863,6 @@
 	quest.46E5C8D3EB55E094.title: "Keep the Grease Close"
 	quest.4708422455C5A9D2.quest_desc: ["Roll three double drops within one Voracious Urn"]
 	quest.4708422455C5A9D2.title: "Greed Without End"
-	quest.4774F2251BA09C98.quest_desc: [
-		"Add a reference item and choose its properties."
-		"Use Match Any or Match All to control filtering."
-	]
-	quest.4774F2251BA09C98.title: "Filter by Properties"
 	quest.47F237EC52750253.quest_desc: ["Combine Fishing Rod and Mossy Cobblestone to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Jungle Pyramid. Use it again to return to manual control."]
 	quest.4883D2EDD94068B0.quest_desc: ["Combine Fishing Rod and Bamboo to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Bamboo Jungle. Use it again to return to manual control."]
 	quest.4884F241917CF638.quest_desc: ["Combine Fishing Rod and Terracotta to make this locator rod. Mount a tamed Sniffer and use the rod to search toward Badlands. Use it again to return to manual control."]
@@ -974,11 +979,6 @@
 	quest.5001800E8FE5FA4F.title: "Read the Water"
 	quest.504ADAA47E732AB6.quest_desc: ["This tank supports the portable equipment branch. Check its JEI uses for compatible engines or equipment and compare its capacity before making the next tier."]
 	quest.504ADAA47E732AB6.title: "Medium Filling Tank"
-	quest.51181E7058AA394E.quest_desc: [
-		"A Cookery Iron Kitchen Knife can be crafted from three Iron Ingots and a Stick."
-		"Cookery kitchen knives cut ingredients on a Chopping Board. They can also provide Oil when used to kill pigs, piglins or hoglins."
-	]
-	quest.51181E7058AA394E.title: "Every Kitchen Needs a Knife"
 	quest.51554766CA897553.quest_desc: ["Make a Fish Plaque to display a catch. Any wood variant counts."]
 	quest.51554766CA897553.title: "A Catch for the Wall"
 	quest.5161081A58AD5C77.quest_desc: ["You can use trial key to  reset vault"]
@@ -1113,22 +1113,12 @@
 	quest.5EB9C24D71733512.quest_desc: ["Convert an existing Tier 3 stack upgrade into Tier 4. Use the conversion recipe in JEI when upgrading a module you already own."]
 	quest.5F58FB388F2B49B0.quest_desc: ["Makes backpack pickup items Has more filtering options Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
 	quest.5F73B7BB16F14553.quest_desc: ["Portstones provide access to your Waystone destinations. Read its tooltip before choosing where to place it."]
-	quest.5F7B6BD9791F7DDA.quest_desc: [
-		"Have a Courier deliver materials that another worker uses."
-		"Configure route nodes and storage policies with the Clipboard."
-	]
-	quest.5F7B6BD9791F7DDA.title: "Supply and Demand"
 	quest.5FBCB143DBF47BD2.title: "Mystery Tea"
 	quest.5FF517ECD284B19A.quest_desc: [
 		"Prepare the Sunflower Tea Bag and brew The Sunward."
 		"Serve this flower tea from your heated Teapot in an Empty Cup."
 	]
 	quest.5FF517ECD284B19A.title: "The Sunward"
-	quest.600EE515D60B9DFB.quest_desc: [
-		"Craft a Materials Checklist using your blueprint's JEI recipe."
-		"Shift-right-click a container to count its supplies."
-	]
-	quest.600EE515D60B9DFB.title: "Count the Materials"
 	quest.6017060BF8F94AD9.quest_desc: ["Makes fish easier to reel in, but increases the penalty for missed sweet spots."]
 	quest.6017060BF8F94AD9.title: "A Risky Shortcut"
 	quest.6036D24AE93B6289.quest_desc: ["Use an iron pickaxe or better to collect diamond ore. Decide whether tools, armor or an enchanting table comes first."]
@@ -1205,11 +1195,6 @@
 	quest.638076380D68B560.title: "Diamond Trophy"
 	quest.63959D56376D9898.quest_desc: ["Drink your first flower drink"]
 	quest.63959D56376D9898.title: "First Sip"
-	quest.63CE9DFC76701DDD.quest_desc: [
-		"Craft a Payment Box and fill it with emeralds."
-		"Use the Clipboard to assign it to a hired worker for recurring payment."
-	]
-	quest.63CE9DFC76701DDD.title: "A Place for Wages"
 	quest.63E4583F741341FD.quest_desc: ["Cut a common fish, or process it in a powered Mechanical Grindstone. The fillet keeps the fish's rarity."]
 	quest.63E4583F741341FD.title: "Common Fillet"
 	quest.63F2877C9B8EB2DD.quest_desc: ["Become Revered in three different tracked villages."]
@@ -1277,11 +1262,6 @@
 		"{\"text\":\"Open the Mechanical Grindstone quest\",\"color\":\"aqua\",\"underlined\":true,\"clickEvent\":{\"action\":\"change_page\",\"value\":\"26A4E6CE696C4E90\"}}"
 	]
 	quest.66600200AE8140FF.title: "Fish Fillets with Create"
-	quest.6664A5D3570B9311.quest_desc: [
-		"Craft a Clipboard to manage workers, storage, routes and payment."
-		"Right-click it in your inventory to change mode. Its tooltip shows the controls."
-	]
-	quest.6664A5D3570B9311.title: "Manage the Workforce"
 	quest.667620A02D84FE46.quest_desc: ["Convert an existing Tier 3 stack upgrade into Tier 5. Use the conversion recipe in JEI when upgrading a module you already own."]
 	quest.668CE97943444CA1.quest_desc: ["Slows the handle below its normal rotation speed."]
 	quest.668CE97943444CA1.title: "Weathered Copper"
@@ -1928,6 +1908,277 @@
 		"Try the hull blocks on a carriage or loading platform and use the containers in a freight-yard scene. Compare the other metal and container colors in JEI."
 	]
 	quest.6A8800000000200C.title: "Finish the Loading Yard"
+	quest.6A89000000000100.quest_desc: [
+		"The Physics Assembler turns glued blocks into a Simulated Contraption. Start with a small test craft close to the ground."
+		"Use Super Glue or Honey Glue to select its blocks, then hold right-click and pull the assembler lever. Open Ponder for the exact assembly controls. Item tasks do not consume items; tick practical tasks after testing."
+	]
+	quest.6A89000000000100.title: "Your First Physics Assembler"
+	quest.6A89000000000101.quest_desc: ["Use Super Glue to select the craft's frame, cargo and machinery. Include every part that should move and avoid gluing the launch platform to the hull."]
+	quest.6A89000000000101.title: "A Hull That Stays Together"
+	quest.6A89000000000102.quest_desc: ["Use a Contraption Diagram to inspect the assembled build. Keep your first hull small while learning how mass and connections affect movement."]
+	quest.6A89000000000102.title: "Inspect Your Contraption"
+	quest.6A89000000000103.quest_desc: ["Produce Honey Glue by filling an iron plate with honey. Inspect its Ponder scene and compare the available connections before using it in your hull."]
+	quest.6A89000000000103.title: "Honey Glue"
+	quest.6A89000000000104.quest_desc: ["Produce an Engine Assembly using its JEI recipe, then craft a Portable Engine to power machinery on the craft. Leave access for fuel and the output shaft."]
+	quest.6A89000000000104.title: "A Portable Power Plant"
+	quest.6A89000000000105.quest_desc: ["Mount the Portable Engine, fuel supply and a short shaft network on the same craft. Run it without any shaft connection to the launch platform. Tick after verifying independent power."]
+	quest.6A89000000000105.title: "Power Away from the Ground"
+	quest.6A89000000000106.quest_desc: ["Add a barrel or vault to the hull and secure it with glue. Test lift with cargo loaded: storage and its contents can change how the craft behaves."]
+	quest.6A89000000000106.title: "Make Room for Cargo"
+	quest.6A89000000000107.quest_desc: [
+		"Build a pair of Docking Connectors. Extended connectors align and lock the two contraptions together while keeping them independent."
+		"Once locked, they can transfer items and fluids. Arrange insertion and extraction on both sides; retract either connector to undock."
+	]
+	quest.6A89000000000107.title: "A Dock That Transfers Cargo"
+	quest.6A89000000000108.quest_desc: ["Build a ground dock and a connector on your craft. Lock them, transfer a stack of supplies, undock and connect again. Tick after checking that cargo reaches the receiving inventory."]
+	quest.6A89000000000108.title: "Load, Undock and Return"
+	quest.6A89000000000109.quest_desc: [
+		"Build a closed Hot Air Envelope with usable empty volume inside. The amount of lift depends on the enclosed space, so a solid pile of envelope blocks will not work."
+		"Start with a small hollow shape and inspect the envelope Ponder scene before assembling."
+	]
+	quest.6A89000000000109.title: "An Airtight Balloon"
+	quest.6A8900000000010A.quest_desc: ["Place a Hot Air Burner under the balloon. Configure its maximum output and apply redstone power; signal strength scales the hot air output."]
+	quest.6A8900000000010A.title: "Fill the Balloon with Hot Air"
+	quest.6A8900000000010B.quest_desc: [
+		"Use envelope encasing where a shaft passes through the balloon shell. Check the Ponder scene for the encasing interaction and make sure the balloon remains sealed."
+		"Build the sealed shaft passage and confirm the balloon can fill, then tick this task."
+	]
+	quest.6A8900000000010B.title: "Keep the Shaft Airtight"
+	quest.6A8900000000010C.quest_desc: ["Fill an airtight envelope structure with hot air to earn the Aeronautics advancement. Watch lift and weight, then adjust burner output gradually."]
+	quest.6A8900000000010C.title: "Head in the Clouds"
+	quest.6A8900000000010D.quest_desc: [
+		"Attach a Steam Vent to a working boiler and feed the envelope with steam. Supply enough water, heat and boiler capacity."
+		"The vent needs redstone input; multiple vents share the boiler's available power."
+	]
+	quest.6A8900000000010D.title: "Steam-Powered Lift"
+	quest.6A8900000000010E.quest_desc: ["Add an Altitude Sensor. Its redstone output depends on height and can be configured in the interface. Lift and propeller thrust weaken as air pressure drops at higher altitude."]
+	quest.6A8900000000010E.title: "Altitude and Air Pressure"
+	quest.6A8900000000010F.quest_desc: ["With the craft assembled, lift off, hold a steady height and return to the launch area using controlled burner or vent output. Tick after landing without losing the cargo."]
+	quest.6A8900000000010F.title: "Controlled Takeoff and Landing"
+	quest.6A89000000000110.quest_desc: ["Power a Wooden Propeller on a small craft. Reverse shaft rotation or adjust thrust direction with the wrench to compare forward and reverse thrust."]
+	quest.6A89000000000110.title: "The First Propeller"
+	quest.6A89000000000111.quest_desc: ["Place and power a propeller to earn the Aeronautics thrust advancement. Inspect the thrust and airflow information with goggles."]
+	quest.6A89000000000111.title: "For Every Action"
+	quest.6A89000000000112.quest_desc: ["Try Andesite Propellers in a compact propulsion unit. Compare direction, shaft speed and the loaded craft's response before adding more."]
+	quest.6A89000000000112.title: "Andesite Propellers"
+	quest.6A89000000000113.quest_desc: [
+		"Attach a propeller structure to a Propeller Bearing with at least two valid sail-like blocks. More sails improve thrust efficiency."
+		"Keep the propeller's swept area clear of the hull and dock."
+	]
+	quest.6A89000000000113.title: "Build a Larger Propeller"
+	quest.6A89000000000114.quest_desc: ["Assemble a Propeller Bearing to generate thrust and earn its Aeronautics advancement."]
+	quest.6A89000000000114.title: "In Thrust We Trust"
+	quest.6A89000000000115.quest_desc: ["Use a Gyroscopic Propeller Bearing when building a helicopter or a craft needing an upright rotor. It tries to keep the propeller upright; a redstone signal resets the tilt."]
+	quest.6A89000000000115.title: "A Stable Rotor"
+	quest.6A89000000000116.quest_desc: ["A Smart Propeller pitches along one axis to try to face upward. Check its orientation and use the wrench to reverse thrust when needed."]
+	quest.6A89000000000116.title: "Compact Stabilising Thrust"
+	quest.6A89000000000117.quest_desc: ["Build a propeller-driven craft, take off, turn and land near the starting point. Test with its normal cargo load. Tick once you can control the craft consistently."]
+	quest.6A89000000000117.title: "A Powered Test Flight"
+	quest.6A89000000000118.quest_desc: ["Wear Aviator's Goggles to inspect kinetic machinery and flight components. Use the readouts while tuning the craft instead of guessing its output."]
+	quest.6A89000000000118.title: "Instruments for the Pilot"
+	quest.6A89000000000119.quest_desc: ["Install a Throttle Lever to adjust analog redstone output by dragging it. Connect it to the burner or another component that accepts proportional control."]
+	quest.6A89000000000119.title: "A Throttle in the Cockpit"
+	quest.6A8900000000011A.quest_desc: ["Use a Linked Controller and Redstone Links to control selected functions. Bind and test every control while the craft is still on the ground."]
+	quest.6A8900000000011A.title: "Wireless Flight Controls"
+	quest.6A8900000000011B.quest_desc: ["Mount a Steering Wheel and inspect its rotational output in Ponder. Configure its maximum angle and ensure connected bearings are set to stay assembled while steering."]
+	quest.6A8900000000011B.title: "A Wheel for Precise Control"
+	quest.6A8900000000011C.quest_desc: ["A Velocity Sensor reports motion and a Gimbal Sensor reports orientation. Inspect their output directions and configure them before connecting an automatic control circuit."]
+	quest.6A8900000000011C.title: "Read Speed and Orientation"
+	quest.6A8900000000011D.quest_desc: ["Provide a supported navigation item to the Navigation Table. Its redstone feedback indicates the destination direction; test its response before using it to assist flight."]
+	quest.6A8900000000011D.title: "A Navigation Table"
+	quest.6A8900000000011E.quest_desc: [
+		"Crush End Stone into powder, then use heated mixing with zinc nuggets and water to make Levitite Blend. Check JEI for quantities and collect it in a bucket."
+		"Heat can trigger crystallisation. Plan the casting area first: Levitite alone keeps a craft afloat but cannot make it gain altitude."
+	]
+	quest.6A8900000000011E.title: "Beyond Hot Air"
+	quest.6A8900000000011F.quest_desc: ["Crystallise Levitite Blend into Levitite to earn its Aeronautics advancement. The reaction spreads through connected blend and can destroy unsuitable casting blocks."]
+	quest.6A8900000000011F.title: "Cast Levitite"
+	quest.6A89000000000120.quest_desc: ["Build a controllable cargo craft with independent power and a working dock. Load supplies, fly them to a second landing area, unload and return. Tick after completing the round trip."]
+	quest.6A89000000000120.title: "A Cargo Route Through the Sky"
+	quest.6A89000000000121.quest_desc: [
+		"Build the Mounted Potato Cannon using Mechanical Crafting. Supply supported ammunition, charge it with rotational power and apply redstone to fire."
+		"Keep the first test aimed at an empty area away from your craft and dock."
+	]
+	quest.6A89000000000121.title: "A Mounted Potato Cannon"
+	quest.6A90000000000100.quest_desc: [
+		"Turn separate machines into one supply network: store bulk materials, sort belt traffic, request packages and move fluids."
+		"Item tasks detect items in your inventory without consuming them. Practical build tasks use a manual checkmark: tick them after testing the described setup. Hold W over Create components in JEI to open Ponder."
+	]
+	quest.6A90000000000100.title: "A Factory That Delivers"
+	quest.6A90000000000101.quest_desc: [
+		"Build an Item Vault for bulk materials. Join matching vault blocks, then use funnels, chutes or other inventory connections to insert and extract."
+		"Vaults have no normal chest screen. Check capacity and multiblock placement with Ponder."
+	]
+	quest.6A90000000000101.title: "Bulk Storage"
+	quest.6A90000000000102.quest_desc: ["Build a vault with a separate input and output. Send at least one stack of cobblestone through it and confirm that extraction works before expanding."]
+	quest.6A90000000000102.title: "A Working Warehouse"
+	quest.6A90000000000103.quest_desc: ["Use Vibrant Vaults to fit bulk storage into a taller building. Any item in the vertical vault tag counts; inspect its Ponder scene for assembly rules."]
+	quest.6A90000000000103.title: "Vertical Vaults"
+	quest.6A90000000000104.quest_desc: ["Make shipping containers for your warehouse or freight yard. Any colour in the Shipping Containers tag counts. These are storage blocks; transport still needs belts, interfaces, packages or trains."]
+	quest.6A90000000000104.title: "Shipping Containers"
+	quest.6A90000000000105.quest_desc: ["Choose any coloured Vibrant Vault. Give raw materials, parts and finished goods distinct storage zones so inputs are easy to trace."]
+	quest.6A90000000000105.title: "Colour-Coded Storage"
+	quest.6A90000000000106.quest_desc: [
+		"Use the Sophisticated Storage controller and Storage I/O as the access point for your existing storage network. Connect Create insertion and extraction there, then check both directions."
+		"The installed Create compatibility mods extend storage handling; test the actual inventory connection before building a large factory."
+	]
+	quest.6A90000000000106.title: "Connect Your Storage Controller"
+	quest.6A90000000000107.quest_desc: ["Attach a Threshold Switch to storage, set low and high levels, and use its redstone output to stop production when the buffer is full."]
+	quest.6A90000000000107.title: "Stop Before Overflow"
+	quest.6A90000000000108.quest_desc: ["Use a Smart Observer to watch inventory or passing items. Select the product that should trigger your next production step."]
+	quest.6A90000000000108.title: "Detect the Right Product"
+	quest.6A90000000000109.quest_desc: ["Connect a Display Link to a supported source and bind it to a Display Board. Choose the available stock or status information in the link interface."]
+	quest.6A90000000000109.title: "Warehouse Status Board"
+	quest.6A9000000000010A.quest_desc: ["Build a warehouse with two separate resources, filtered outputs, an overflow stop and a readable status display. Test filling, draining and automatic restart, then tick this task."]
+	quest.6A9000000000010A.title: "A Warehouse That Regulates Itself"
+	quest.6A9000000000010B.quest_desc: ["Connect powered shafts with Mechanical Belts. Place Andesite Funnels at inventories, then check arrow directions before starting the line."]
+	quest.6A9000000000010B.title: "Belts and Transfer Points"
+	quest.6A9000000000010C.quest_desc: ["Use Chutes for vertical item paths. Inspect Ponder before adding fans or side inputs; make sure the receiving inventory has space."]
+	quest.6A9000000000010C.title: "Gravity and Vertical Transfer"
+	quest.6A9000000000010D.quest_desc: ["Place Andesite Tunnels over belts to route simple lines through your factory. Use Ponder to check valid connections and item movement."]
+	quest.6A9000000000010D.title: "Cover and Split Belt Lines"
+	quest.6A9000000000010E.quest_desc: ["Brass Funnels can filter items and control transfer sizes. Smart Chutes add filtered vertical transfer. Use these where an Andesite Funnel is too limited."]
+	quest.6A9000000000010E.title: "Controlled Sorting"
+	quest.6A9000000000010F.quest_desc: [
+		"Configure a List Filter for selected items, then try an Attribute Filter for a category such as a mod or item property."
+		"Install filters into supported Create filter slots. Check whitelist and blacklist mode before running mixed items."
+	]
+	quest.6A9000000000010F.title: "Lists and Attributes"
+	quest.6A90000000000110.quest_desc: ["Use Brass Tunnels to distribute belt traffic. Select the distribution mode with the wrench and test what happens when one destination fills up."]
+	quest.6A90000000000110.title: "Distribute Across Outputs"
+	quest.6A90000000000111.quest_desc: ["Build a belt carrying three different materials. Route each into its own storage and provide a safe destination for unmatched items. Test a full output, then tick this task."]
+	quest.6A90000000000111.title: "A Three-Way Sorting Line"
+	quest.6A90000000000112.quest_desc: ["Configure Weighted Ejectors for item transfer across a gap. Keep the landing point clear and test a single stack before sending valuable parts."]
+	quest.6A90000000000112.title: "Across the Factory Floor"
+	quest.6A90000000000113.quest_desc: ["Make a pair of Portable Storage Interfaces: one on a moving Create contraption and one at its stop. Align them, stop the contraption and extract on the stationary side."]
+	quest.6A90000000000113.title: "Unload Moving Storage"
+	quest.6A90000000000114.quest_desc: ["Build a moving Create farm or carrier with attached storage. Stop beside its interface, unload into your sorting line, then send it out again. Tick after a successful transfer cycle."]
+	quest.6A90000000000114.title: "The Farm Unloads Itself"
+	quest.6A90000000000115.quest_desc: [
+		"Attach a Packager to an inventory. A redstone signal makes a package; an incoming package is unpacked into that inventory when all its contents fit."
+		"Any Packager in the Vibrant Vaults packagers tag counts, including the normal Create version."
+	]
+	quest.6A90000000000115.title: "Your First Packager"
+	quest.6A90000000000116.quest_desc: ["Package a stack from one inventory, move the package to another Packager and recover its contents there."]
+	quest.6A90000000000116.title: "Pack and Unpack"
+	quest.6A90000000000117.quest_desc: ["Give outgoing packages an address using the Packager sign or a logistics request. Configure a Package Filter to route that address to the correct receiving line."]
+	quest.6A90000000000117.title: "Addresses and Package Filters"
+	quest.6A90000000000118.quest_desc: [
+		"Bind Stock Links to the same network before placing them on your Packagers. Linked inventories become available for requests."
+		"The stock signal has unlimited range; the actual packages still need a physical delivery route."
+	]
+	quest.6A90000000000118.title: "One Stock Network"
+	quest.6A90000000000119.quest_desc: ["Bind a Stock Ticker to your Stock Link network. Place a seated mob or Blaze Burner as its keeper and order items to a destination address."]
+	quest.6A90000000000119.title: "Request from the Warehouse"
+	quest.6A9000000000011A.quest_desc: ["Connect Chain Conveyors using chains and power the network. Leave room for packages to travel above your machines."]
+	quest.6A9000000000011A.title: "Overhead Package Transport"
+	quest.6A9000000000011B.quest_desc: ["Bind two Frogports to your chain network and give each an address. Test sending a package to the other port; a package without a matching destination will keep circling."]
+	quest.6A9000000000011B.title: "Frogport Delivery"
+	quest.6A9000000000011C.quest_desc: ["Bind a Redstone Requester to the stock network, configure an order and destination, then send one redstone pulse. Each pulse creates a new request."]
+	quest.6A9000000000011C.title: "Orders from Redstone"
+	quest.6A9000000000011D.quest_desc: ["Bind a Factory Gauge to your stock network and place it on a Packager. Select an item, destination address and target quantity to refill that inventory automatically."]
+	quest.6A9000000000011D.title: "Keep the Buffer Supplied"
+	quest.6A9000000000011E.quest_desc: ["Collect the fragments of one order in an inventory, then power a Re-Packager. It waits for all fragments and exports the combined package. Use this before recipe inputs that must arrive together."]
+	quest.6A9000000000011E.title: "Keep Ingredients Together"
+	quest.6A9000000000011F.quest_desc: [
+		"Connect ingredient gauges to an output gauge, configure the recipe amounts and delivery address, and return products to linked storage."
+		"For crafting-table recipes, use the gauge's auto-arrangement with a connected 3x3 Mechanical Crafter grid. A Re-Packager helps keep ingredient packages together."
+	]
+	quest.6A9000000000011F.title: "Craft to a Target Stock"
+	quest.6A90000000000120.quest_desc: ["Build two linked storage inventories, a Stock Ticker and an addressed package route. Order an item, receive it at the correct destination and use a Factory Gauge to replenish a depleted buffer. Tick after the complete test."]
+	quest.6A90000000000120.title: "An Order That Finishes the Journey"
+	quest.6A90000000000121.quest_desc: ["Connect Fluid Tanks into a multiblock. Attach pipes for filling and draining; keep different fluids on separate lines."]
+	quest.6A90000000000121.title: "Bulk Fluid Storage"
+	quest.6A90000000000122.quest_desc: ["Power a Mechanical Pump and check its direction with the wrench. Connect source, pump and destination with Fluid Pipes, then test a short line first."]
+	quest.6A90000000000122.title: "Move Fluids with Pumps"
+	quest.6A90000000000123.quest_desc: ["Use a Fluid Valve to control flow and a Smart Fluid Pipe to restrict the fluid accepted by a branch. Set the filter before connecting mixed processing lines."]
+	quest.6A90000000000123.title: "Valves and Fluid Filters"
+	quest.6A90000000000124.quest_desc: ["Lower a Hose Pulley into a fluid source and connect its pipe to a pump. Inspect the source and the mod's fluid rules before planning large-scale extraction."]
+	quest.6A90000000000124.title: "Pumping from the World"
+	quest.6A90000000000125.quest_desc: ["Use a Spout to fill supported items with fluid. Use an Item Drain to recover fluid from containers. Check JEI for each filling or emptying recipe."]
+	quest.6A90000000000125.title: "Fill and Empty Containers"
+	quest.6A90000000000126.quest_desc: ["Make paired Portable Fluid Interfaces for a moving Create contraption and its stop. Align them and use the stationary pipework to move the fluid."]
+	quest.6A90000000000126.title: "Unload Moving Tanks"
+	quest.6A90000000000127.quest_desc: ["Build a tank, pump, controlled pipe and filling station. Fill a container, empty it back through an Item Drain and verify the fluid returns to storage. Tick after testing the full route."]
+	quest.6A90000000000127.title: "A Closed Fluid Route"
+	quest.6A90000000000128.quest_desc: ["Bind Postboxes to Train Stations before placing them nearby. Set addresses; stopping trains collect outgoing packages and drop off matching ones. Continue in the Trains chapter to build the route."]
+	quest.6A90000000000128.title: "Packages by Rail"
+	quest.6A90000000000129.quest_desc: ["Connect your regulated warehouse, sorting line, package network and fluid route. Deliver a requested part to a working machine, then confirm the output returns to storage without manual carrying."]
+	quest.6A90000000000129.title: "A Connected Supply System"
+	quest.6A9000000000012A.quest_desc: ["Place Depots at the ends of processing steps or beside machines. Use funnels or a Mechanical Arm to move items between these buffer points."]
+	quest.6A9000000000012A.title: "Buffers on the Work Floor"
+	quest.6A9000000000012B.quest_desc: [
+		"Select the arm's input and output targets before placing it, then power it and choose a distribution mode."
+		"Use it between supported inventories, depots and machines where a straight belt is awkward. Inspect its reach and target setup in Ponder."
+	]
+	quest.6A9000000000012B.title: "A Mechanical Arm"
+	quest.6A9000000000012C.quest_desc: ["Configure a Mechanical Arm to take items from one input, feed two supported output targets and collect the resulting products into storage. Test a full destination, then tick this task."]
+	quest.6A9000000000012C.title: "Supply a Machine with an Arm"
+	quest.6A91000000000100.quest_desc: [
+		"Plan a line between your factory and a resource outpost. This chapter covers track, train assembly, automatic driving, freight and signals."
+		"Item tasks detect items without consuming them. Practical build tasks have a manual checkmark: tick them after the described test. Open Ponder on tracks, stations and controls before building."
+	]
+	quest.6A91000000000100.title: "Build a Railway"
+	quest.6A91000000000101.quest_desc: ["Make Train Tracks using the JEI recipe. Use long placement and curves to build a smooth route; leave space around bends and station platforms."]
+	quest.6A91000000000101.title: "Lay Your First Track"
+	quest.6A91000000000102.quest_desc: ["Place a station marker beside its track, give it a clear name and build a second station at the destination. Check each marker's facing direction."]
+	quest.6A91000000000102.title: "Two Named Stations"
+	quest.6A91000000000103.quest_desc: ["Connect two named stations with an uninterrupted track. Inspect curves and clearances, then confirm that your train can reach both station markers. Tick after the first manual trip."]
+	quest.6A91000000000103.title: "A Continuous Route"
+	quest.6A91000000000104.quest_desc: ["Automate the track recipe shown in JEI using Deployers and a Mechanical Press. Keep ingredients supplied and collect the finished tracks into storage."]
+	quest.6A91000000000104.title: "A Track Production Line"
+	quest.6A91000000000105.quest_desc: ["Run your track line automatically until it produces a fresh batch of at least 64 tracks. Test an interrupted input and make sure production resumes when it is refilled."]
+	quest.6A91000000000105.title: "Tracks for the Next Outpost"
+	quest.6A91000000000106.quest_desc: ["Extend a railway through a suitable portal and ride a train through it to earn the Create advancement. Check Ponder and give the portal and both approaches enough clearance."]
+	quest.6A91000000000106.title: "A Railway Between Dimensions"
+	quest.6A91000000000107.quest_desc: ["Make Train Controls and a seat. Place the controls facing the driving direction; use a second control position if you want to drive in reverse."]
+	quest.6A91000000000107.title: "The Driver's Cab"
+	quest.6A91000000000108.quest_desc: [
+		"Open the Train Station assembly interface and use Railway Casings on the assembly track to create bogeys."
+		"Build the chassis around them, glue the moving parts and attach Train Controls. Bogeys are placed during assembly; there is no separate bogey item to craft."
+	]
+	quest.6A91000000000108.title: "Bogeys and a Glued Chassis"
+	quest.6A91000000000109.quest_desc: ["Assemble a train at the Train Station to earn the Create advancement. Name it and take a short manual drive before adding cargo."]
+	quest.6A91000000000109.title: "Your First Train"
+	quest.6A9100000000010A.quest_desc: ["Write a Train Schedule with both station names and useful waiting conditions. Seat a suitable mob by the controls and hand it the schedule to start automatic driving."]
+	quest.6A9100000000010A.title: "Give the Conductor a Schedule"
+	quest.6A9100000000010B.quest_desc: ["Run an automatic trip between both stations and back. For a line without turning loops, provide controls for both directions. Check that each stop is reached and the schedule repeats."]
+	quest.6A9100000000010B.title: "A Working Automatic Shuttle"
+	quest.6A9100000000010C.quest_desc: ["Add seats and a clear boarding area. Train Doors and Train Trapdoors help build the carriage; test boarding and leaving at a platform."]
+	quest.6A9100000000010C.title: "A Passenger Carriage"
+	quest.6A9100000000010D.quest_desc: ["Attach Item Vaults to a carriage and include them in its glued structure before assembly. Leave space for loading interfaces and test the full carriage through a curve."]
+	quest.6A9100000000010D.title: "A Freight Wagon"
+	quest.6A9100000000010E.quest_desc: ["Use paired Portable Storage Interfaces: one on the carriage and one at a station. Align them where the train stops, then insert and extract through the stationary side."]
+	quest.6A9100000000010E.title: "Load and Unload at a Stop"
+	quest.6A9100000000010F.quest_desc: ["Configure schedule waiting conditions for the loading operation. Check the available cargo and inactivity conditions; leave enough time for the interfaces to finish."]
+	quest.6A9100000000010F.title: "Wait for the Cargo"
+	quest.6A91000000000110.quest_desc: ["Load at least one stack at the source station, transport it with a scheduled train and unload it into a different inventory at the destination. Tick after confirming the items arrived without manual transfer."]
+	quest.6A91000000000110.title: "The First Automatic Freight Run"
+	quest.6A91000000000111.quest_desc: ["Attach Fluid Tanks to a carriage and use Portable Fluid Interfaces at the stops. Connect pumps on the stationary sides and keep the fluid line separate from item cargo."]
+	quest.6A91000000000111.title: "A Tank Carriage"
+	quest.6A91000000000112.quest_desc: ["Automatically fill the tank carriage at one station and drain it into a stationary tank at another. Verify the transfer, waiting conditions and return trip before ticking."]
+	quest.6A91000000000112.title: "Fluid by Rail"
+	quest.6A91000000000113.quest_desc: [
+		"Bind each Postbox to its Train Station, set distinct addresses and provide a train that visits both stops."
+		"Trains collect outgoing packages and drop off packages matching the destination Postbox. Inspect Ponder for the routing behaviour."
+	]
+	quest.6A91000000000113.title: "The Railway Post"
+	quest.6A91000000000114.quest_desc: ["Send an addressed logistics package through the station Postboxes and collect its contents at the outpost. Tick after checking the automatic delivery and return route."]
+	quest.6A91000000000114.title: "A Package to the Outpost"
+	quest.6A91000000000115.quest_desc: ["Place Train Signals to divide the route into occupied sections. Inspect the coloured block boundaries and keep signals out of positions where a stopped train would block a junction."]
+	quest.6A91000000000115.title: "Divide the Railway into Blocks"
+	quest.6A91000000000116.quest_desc: ["Place a Train Signal to earn its Create advancement. Check direction and block boundaries with the signal item held."]
+	quest.6A91000000000116.title: "A Signal on the Track"
+	quest.6A91000000000117.quest_desc: ["Build a passing loop or junction. Use the signal modes shown in Ponder to reserve a safe path through it and leave enough space beyond the exit for a complete train. Tick after testing both routes."]
+	quest.6A91000000000117.title: "A Junction That Stays Clear"
+	quest.6A91000000000118.quest_desc: ["Use a Train Observer to detect trains at a chosen track point. Configure its filter and connect the output to a lamp or station mechanism."]
+	quest.6A91000000000118.title: "Detect Passing Trains"
+	quest.6A91000000000119.quest_desc: ["Bind a Display Link from a supported station source to a Display Board. Select the available train or schedule information and check the display while the service runs."]
+	quest.6A91000000000119.title: "A Station Information Board"
+	quest.6A9100000000011A.quest_desc: ["Run two scheduled trains sharing part of the track. Verify that signals prevent conflicts, both trains can reach their destinations and neither waits forever at the junction."]
+	quest.6A9100000000011A.title: "Two Trains, One Network"
+	quest.6A9100000000011B.quest_desc: ["Connect a production site and warehouse with an automatic freight service. Keep item cargo moving, complete a fluid run, and run two trains safely on the shared railway. Tick after a full operating cycle."]
+	quest.6A9100000000011B.title: "The Factory Express"
 	quest.6A96249657454FB1.quest_desc: ["Speeds up bites and favors swamp fish."]
 	quest.6A96249657454FB1.title: "Murky Waters"
 	quest.6AADEDD4135544C6.quest_desc: ["Restores vanilla fishing loot. Pair it with the Vanilla-flavoured Hook to skip the minigame."]
@@ -1999,8 +2250,6 @@
 	]
 	quest.6DF89BF9237402F9.title: "Master of the Craft"
 	quest.6DFF1A692717E667.quest_desc: ["Voids items selected in filter Install the module in a compatible backpack upgrade slot, then open its tab to adjust the available settings."]
-	quest.6E1B0A766750F3A4.quest_desc: ["Pay 100 emeralds in wages through assigned Payment Boxes."]
-	quest.6E1B0A766750F3A4.title: "Payday"
 	quest.6E71642B09598EF0.quest_desc: ["Save a build with a schematic, then load it into the Schematicannon. Supply the required building materials and gunpowder before printing."]
 	quest.6E71642B09598EF0.title: "Schematic Building"
 	quest.6E7501E0002746C7.quest_desc: ["Voids items selected in filter Install the module in a compatible storage upgrade slot, then open its tab to adjust the available settings."]
@@ -2175,11 +2424,6 @@
 	]
 	quest.7E9DA9380C835EAD.title: "Tender Thorns"
 	quest.7EA2911A0D2B15A7.quest_desc: ["Install this stack upgrade in the storage to increase the number of items held per slot. Compare the tier and capacity shown in its tooltip before choosing the upgrade."]
-	quest.7EA62972543C8A9F.quest_desc: [
-		"Craft a Recipe Filter and select a supported worker recipe."
-		"It controls processing, not storage access or ingredient supply."
-	]
-	quest.7EA62972543C8A9F.title: "Give Exact Instructions"
 	quest.7F455226B9BF72FE.quest_desc: ["Apply this tier upgrade to a matching Iron storage container to raise it to Gold tier. Check the accepted base and ingredients in JEI before crafting."]
 	quest.7F55FA09B39D0603.quest_desc: [
 		"Check JEI for its recipe."
@@ -2204,7 +2448,6 @@
 	task.2D94523F9AC8D588.title: "foodbook"
 	task.32099C1E192D2A79.title: "Any #starcatcher:fish_plaques"
 	task.3529D6577C40F1D2.title: "Any #waystones:portstones"
-	task.37999D2A964BD26D.title: "Any #c:tools/knives"
 	task.4A08146FD3D4BDD0.title: "Any #starcatcher:tackle_boxes"
 	task.5D6CFA8028AC4840.title: "Get first stone"
 	task.5E6F86028E9EB56B.title: "Any #c:potions"
@@ -2214,237 +2457,4 @@
 	task.6FAEAA1124885F07.title: "Try dyeing a fluid pipe"
 	task.77AB968774D5F534.title: "Any #waystones:sharestones"
 	task.7FDA5D4654E97782.title: "Any #sophisticatedstorage:base_tier_wooden_storage"
-	chapter.6A89000000000001.title: "{\"text\":\"Aeronautics\",\"color\":\"#D6B879\",\"bold\":false}"
-	image.6A89000000001004.title: "{\"text\":\"AERONAUTICS\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A89000000001005.title: "{\"text\":\"Build a craft. Control lift. Carry cargo.\",\"color\":\"#D6B879\",\"bold\":false}"
-	image.6A89000000001008.title: "{\"text\":\"HULL & CARGO\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A8900000000100B.title: "{\"text\":\"BALLOONS & LIFT\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A8900000000100E.title: "{\"text\":\"PROPELLERS\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A89000000001011.title: "{\"text\":\"FLIGHT CONTROLS\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A90000000001004.title: "{\"text\":\"LOGISTICS\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A90000000001005.title: "{\"text\":\"Store. Sort. Request. Deliver.\",\"color\":\"#D6B879\",\"bold\":false}"
-	image.6A90000000001008.title: "{\"text\":\"WAREHOUSE\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A9000000000100B.title: "{\"text\":\"ITEM TRANSPORT\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A9000000000100E.title: "{\"text\":\"PACKAGES & ORDERS\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A90000000001011.title: "{\"text\":\"FLUIDS & RAIL POST\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A91000000001004.title: "{\"text\":\"TRAINS\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A91000000001005.title: "{\"text\":\"Lay track. Run schedules. Move freight.\",\"color\":\"#D6B879\",\"bold\":false}"
-	image.6A91000000001008.title: "{\"text\":\"TRACK & STATIONS\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A9100000000100B.title: "{\"text\":\"LOCOMOTIVE\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A9100000000100E.title: "{\"text\":\"FREIGHT & MAIL\",\"color\":\"#D6B879\",\"bold\":true}"
-	image.6A91000000001011.title: "{\"text\":\"SIGNALS & NETWORK\",\"color\":\"#D6B879\",\"bold\":true}"
-	quest.6A89000000000100.quest_desc: ["The Physics Assembler turns glued blocks into a Simulated Contraption. Start with a small test craft close to the ground.", "Use Super Glue or Honey Glue to select its blocks, then hold right-click and pull the assembler lever. Open Ponder for the exact assembly controls. Item tasks do not consume items; tick practical tasks after testing."]
-	quest.6A89000000000100.title: "Your First Physics Assembler"
-	quest.6A89000000000101.quest_desc: ["Use Super Glue to select the craft's frame, cargo and machinery. Include every part that should move and avoid gluing the launch platform to the hull."]
-	quest.6A89000000000101.title: "A Hull That Stays Together"
-	quest.6A89000000000102.quest_desc: ["Use a Contraption Diagram to inspect the assembled build. Keep your first hull small while learning how mass and connections affect movement."]
-	quest.6A89000000000102.title: "Inspect Your Contraption"
-	quest.6A89000000000103.quest_desc: ["Produce Honey Glue by filling an iron plate with honey. Inspect its Ponder scene and compare the available connections before using it in your hull."]
-	quest.6A89000000000103.title: "Honey Glue"
-	quest.6A89000000000104.quest_desc: ["Produce an Engine Assembly using its JEI recipe, then craft a Portable Engine to power machinery on the craft. Leave access for fuel and the output shaft."]
-	quest.6A89000000000104.title: "A Portable Power Plant"
-	quest.6A89000000000105.quest_desc: ["Mount the Portable Engine, fuel supply and a short shaft network on the same craft. Run it without any shaft connection to the launch platform. Tick after verifying independent power."]
-	quest.6A89000000000105.title: "Power Away from the Ground"
-	quest.6A89000000000106.quest_desc: ["Add a barrel or vault to the hull and secure it with glue. Test lift with cargo loaded: storage and its contents can change how the craft behaves."]
-	quest.6A89000000000106.title: "Make Room for Cargo"
-	quest.6A89000000000107.quest_desc: ["Build a pair of Docking Connectors. Extended connectors align and lock the two contraptions together while keeping them independent.", "Once locked, they can transfer items and fluids. Arrange insertion and extraction on both sides; retract either connector to undock."]
-	quest.6A89000000000107.title: "A Dock That Transfers Cargo"
-	quest.6A89000000000108.quest_desc: ["Build a ground dock and a connector on your craft. Lock them, transfer a stack of supplies, undock and connect again. Tick after checking that cargo reaches the receiving inventory."]
-	quest.6A89000000000108.title: "Load, Undock and Return"
-	quest.6A89000000000109.quest_desc: ["Build a closed Hot Air Envelope with usable empty volume inside. The amount of lift depends on the enclosed space, so a solid pile of envelope blocks will not work.", "Start with a small hollow shape and inspect the envelope Ponder scene before assembling."]
-	quest.6A89000000000109.title: "An Airtight Balloon"
-	quest.6A8900000000010A.quest_desc: ["Place a Hot Air Burner under the balloon. Configure its maximum output and apply redstone power; signal strength scales the hot air output."]
-	quest.6A8900000000010A.title: "Fill the Balloon with Hot Air"
-	quest.6A8900000000010B.quest_desc: ["Use envelope encasing where a shaft passes through the balloon shell. Check the Ponder scene for the encasing interaction and make sure the balloon remains sealed.", "Build the sealed shaft passage and confirm the balloon can fill, then tick this task."]
-	quest.6A8900000000010B.title: "Keep the Shaft Airtight"
-	quest.6A8900000000010C.quest_desc: ["Fill an airtight envelope structure with hot air to earn the Aeronautics advancement. Watch lift and weight, then adjust burner output gradually."]
-	quest.6A8900000000010C.title: "Head in the Clouds"
-	quest.6A8900000000010D.quest_desc: ["Attach a Steam Vent to a working boiler and feed the envelope with steam. Supply enough water, heat and boiler capacity.", "The vent needs redstone input; multiple vents share the boiler's available power."]
-	quest.6A8900000000010D.title: "Steam-Powered Lift"
-	quest.6A8900000000010E.quest_desc: ["Add an Altitude Sensor. Its redstone output depends on height and can be configured in the interface. Lift and propeller thrust weaken as air pressure drops at higher altitude."]
-	quest.6A8900000000010E.title: "Altitude and Air Pressure"
-	quest.6A8900000000010F.quest_desc: ["With the craft assembled, lift off, hold a steady height and return to the launch area using controlled burner or vent output. Tick after landing without losing the cargo."]
-	quest.6A8900000000010F.title: "Controlled Takeoff and Landing"
-	quest.6A89000000000110.quest_desc: ["Power a Wooden Propeller on a small craft. Reverse shaft rotation or adjust thrust direction with the wrench to compare forward and reverse thrust."]
-	quest.6A89000000000110.title: "The First Propeller"
-	quest.6A89000000000111.quest_desc: ["Place and power a propeller to earn the Aeronautics thrust advancement. Inspect the thrust and airflow information with goggles."]
-	quest.6A89000000000111.title: "For Every Action"
-	quest.6A89000000000112.quest_desc: ["Try Andesite Propellers in a compact propulsion unit. Compare direction, shaft speed and the loaded craft's response before adding more."]
-	quest.6A89000000000112.title: "Andesite Propellers"
-	quest.6A89000000000113.quest_desc: ["Attach a propeller structure to a Propeller Bearing with at least two valid sail-like blocks. More sails improve thrust efficiency.", "Keep the propeller's swept area clear of the hull and dock."]
-	quest.6A89000000000113.title: "Build a Larger Propeller"
-	quest.6A89000000000114.quest_desc: ["Assemble a Propeller Bearing to generate thrust and earn its Aeronautics advancement."]
-	quest.6A89000000000114.title: "In Thrust We Trust"
-	quest.6A89000000000115.quest_desc: ["Use a Gyroscopic Propeller Bearing when building a helicopter or a craft needing an upright rotor. It tries to keep the propeller upright; a redstone signal resets the tilt."]
-	quest.6A89000000000115.title: "A Stable Rotor"
-	quest.6A89000000000116.quest_desc: ["A Smart Propeller pitches along one axis to try to face upward. Check its orientation and use the wrench to reverse thrust when needed."]
-	quest.6A89000000000116.title: "Compact Stabilising Thrust"
-	quest.6A89000000000117.quest_desc: ["Build a propeller-driven craft, take off, turn and land near the starting point. Test with its normal cargo load. Tick once you can control the craft consistently."]
-	quest.6A89000000000117.title: "A Powered Test Flight"
-	quest.6A89000000000118.quest_desc: ["Wear Aviator's Goggles to inspect kinetic machinery and flight components. Use the readouts while tuning the craft instead of guessing its output."]
-	quest.6A89000000000118.title: "Instruments for the Pilot"
-	quest.6A89000000000119.quest_desc: ["Install a Throttle Lever to adjust analog redstone output by dragging it. Connect it to the burner or another component that accepts proportional control."]
-	quest.6A89000000000119.title: "A Throttle in the Cockpit"
-	quest.6A8900000000011A.quest_desc: ["Use a Linked Controller and Redstone Links to control selected functions. Bind and test every control while the craft is still on the ground."]
-	quest.6A8900000000011A.title: "Wireless Flight Controls"
-	quest.6A8900000000011B.quest_desc: ["Mount a Steering Wheel and inspect its rotational output in Ponder. Configure its maximum angle and ensure connected bearings are set to stay assembled while steering."]
-	quest.6A8900000000011B.title: "A Wheel for Precise Control"
-	quest.6A8900000000011C.quest_desc: ["A Velocity Sensor reports motion and a Gimbal Sensor reports orientation. Inspect their output directions and configure them before connecting an automatic control circuit."]
-	quest.6A8900000000011C.title: "Read Speed and Orientation"
-	quest.6A8900000000011D.quest_desc: ["Provide a supported navigation item to the Navigation Table. Its redstone feedback indicates the destination direction; test its response before using it to assist flight."]
-	quest.6A8900000000011D.title: "A Navigation Table"
-	quest.6A8900000000011E.quest_desc: ["Crush End Stone into powder, then use heated mixing with zinc nuggets and water to make Levitite Blend. Check JEI for quantities and collect it in a bucket.", "Heat can trigger crystallisation. Plan the casting area first: Levitite alone keeps a craft afloat but cannot make it gain altitude."]
-	quest.6A8900000000011E.title: "Beyond Hot Air"
-	quest.6A8900000000011F.quest_desc: ["Crystallise Levitite Blend into Levitite to earn its Aeronautics advancement. The reaction spreads through connected blend and can destroy unsuitable casting blocks."]
-	quest.6A8900000000011F.title: "Cast Levitite"
-	quest.6A89000000000120.quest_desc: ["Build a controllable cargo craft with independent power and a working dock. Load supplies, fly them to a second landing area, unload and return. Tick after completing the round trip."]
-	quest.6A89000000000120.title: "A Cargo Route Through the Sky"
-	quest.6A89000000000121.quest_desc: ["Build the Mounted Potato Cannon using Mechanical Crafting. Supply supported ammunition, charge it with rotational power and apply redstone to fire.", "Keep the first test aimed at an empty area away from your craft and dock."]
-	quest.6A89000000000121.title: "A Mounted Potato Cannon"
-	quest.6A90000000000100.quest_desc: ["Turn separate machines into one supply network: store bulk materials, sort belt traffic, request packages and move fluids.", "Item tasks detect items in your inventory without consuming them. Practical build tasks use a manual checkmark: tick them after testing the described setup. Hold W over Create components in JEI to open Ponder."]
-	quest.6A90000000000100.title: "A Factory That Delivers"
-	quest.6A90000000000101.quest_desc: ["Build an Item Vault for bulk materials. Join matching vault blocks, then use funnels, chutes or other inventory connections to insert and extract.", "Vaults have no normal chest screen. Check capacity and multiblock placement with Ponder."]
-	quest.6A90000000000101.title: "Bulk Storage"
-	quest.6A90000000000102.quest_desc: ["Build a vault with a separate input and output. Send at least one stack of cobblestone through it and confirm that extraction works before expanding."]
-	quest.6A90000000000102.title: "A Working Warehouse"
-	quest.6A90000000000103.quest_desc: ["Use Vibrant Vaults to fit bulk storage into a taller building. Any item in the vertical vault tag counts; inspect its Ponder scene for assembly rules."]
-	quest.6A90000000000103.title: "Vertical Vaults"
-	quest.6A90000000000104.quest_desc: ["Make shipping containers for your warehouse or freight yard. Any colour in the Shipping Containers tag counts. These are storage blocks; transport still needs belts, interfaces, packages or trains."]
-	quest.6A90000000000104.title: "Shipping Containers"
-	quest.6A90000000000105.quest_desc: ["Choose any coloured Vibrant Vault. Give raw materials, parts and finished goods distinct storage zones so inputs are easy to trace."]
-	quest.6A90000000000105.title: "Colour-Coded Storage"
-	quest.6A90000000000106.quest_desc: ["Use the Sophisticated Storage controller and Storage I/O as the access point for your existing storage network. Connect Create insertion and extraction there, then check both directions.", "The installed Create compatibility mods extend storage handling; test the actual inventory connection before building a large factory."]
-	quest.6A90000000000106.title: "Connect Your Storage Controller"
-	quest.6A90000000000107.quest_desc: ["Attach a Threshold Switch to storage, set low and high levels, and use its redstone output to stop production when the buffer is full."]
-	quest.6A90000000000107.title: "Stop Before Overflow"
-	quest.6A90000000000108.quest_desc: ["Use a Smart Observer to watch inventory or passing items. Select the product that should trigger your next production step."]
-	quest.6A90000000000108.title: "Detect the Right Product"
-	quest.6A90000000000109.quest_desc: ["Connect a Display Link to a supported source and bind it to a Display Board. Choose the available stock or status information in the link interface."]
-	quest.6A90000000000109.title: "Warehouse Status Board"
-	quest.6A9000000000010A.quest_desc: ["Build a warehouse with two separate resources, filtered outputs, an overflow stop and a readable status display. Test filling, draining and automatic restart, then tick this task."]
-	quest.6A9000000000010A.title: "A Warehouse That Regulates Itself"
-	quest.6A9000000000010B.quest_desc: ["Connect powered shafts with Mechanical Belts. Place Andesite Funnels at inventories, then check arrow directions before starting the line."]
-	quest.6A9000000000010B.title: "Belts and Transfer Points"
-	quest.6A9000000000010C.quest_desc: ["Use Chutes for vertical item paths. Inspect Ponder before adding fans or side inputs; make sure the receiving inventory has space."]
-	quest.6A9000000000010C.title: "Gravity and Vertical Transfer"
-	quest.6A9000000000010D.quest_desc: ["Place Andesite Tunnels over belts to route simple lines through your factory. Use Ponder to check valid connections and item movement."]
-	quest.6A9000000000010D.title: "Cover and Split Belt Lines"
-	quest.6A9000000000010E.quest_desc: ["Brass Funnels can filter items and control transfer sizes. Smart Chutes add filtered vertical transfer. Use these where an Andesite Funnel is too limited."]
-	quest.6A9000000000010E.title: "Controlled Sorting"
-	quest.6A9000000000010F.quest_desc: ["Configure a List Filter for selected items, then try an Attribute Filter for a category such as a mod or item property.", "Install filters into supported Create filter slots. Check whitelist and blacklist mode before running mixed items."]
-	quest.6A9000000000010F.title: "Lists and Attributes"
-	quest.6A90000000000110.quest_desc: ["Use Brass Tunnels to distribute belt traffic. Select the distribution mode with the wrench and test what happens when one destination fills up."]
-	quest.6A90000000000110.title: "Distribute Across Outputs"
-	quest.6A90000000000111.quest_desc: ["Build a belt carrying three different materials. Route each into its own storage and provide a safe destination for unmatched items. Test a full output, then tick this task."]
-	quest.6A90000000000111.title: "A Three-Way Sorting Line"
-	quest.6A90000000000112.quest_desc: ["Configure Weighted Ejectors for item transfer across a gap. Keep the landing point clear and test a single stack before sending valuable parts."]
-	quest.6A90000000000112.title: "Across the Factory Floor"
-	quest.6A90000000000113.quest_desc: ["Make a pair of Portable Storage Interfaces: one on a moving Create contraption and one at its stop. Align them, stop the contraption and extract on the stationary side."]
-	quest.6A90000000000113.title: "Unload Moving Storage"
-	quest.6A90000000000114.quest_desc: ["Build a moving Create farm or carrier with attached storage. Stop beside its interface, unload into your sorting line, then send it out again. Tick after a successful transfer cycle."]
-	quest.6A90000000000114.title: "The Farm Unloads Itself"
-	quest.6A90000000000115.quest_desc: ["Attach a Packager to an inventory. A redstone signal makes a package; an incoming package is unpacked into that inventory when all its contents fit.", "Any Packager in the Vibrant Vaults packagers tag counts, including the normal Create version."]
-	quest.6A90000000000115.title: "Your First Packager"
-	quest.6A90000000000116.quest_desc: ["Package a stack from one inventory, move the package to another Packager and recover its contents there."]
-	quest.6A90000000000116.title: "Pack and Unpack"
-	quest.6A90000000000117.quest_desc: ["Give outgoing packages an address using the Packager sign or a logistics request. Configure a Package Filter to route that address to the correct receiving line."]
-	quest.6A90000000000117.title: "Addresses and Package Filters"
-	quest.6A90000000000118.quest_desc: ["Bind Stock Links to the same network before placing them on your Packagers. Linked inventories become available for requests.", "The stock signal has unlimited range; the actual packages still need a physical delivery route."]
-	quest.6A90000000000118.title: "One Stock Network"
-	quest.6A90000000000119.quest_desc: ["Bind a Stock Ticker to your Stock Link network. Place a seated mob or Blaze Burner as its keeper and order items to a destination address."]
-	quest.6A90000000000119.title: "Request from the Warehouse"
-	quest.6A9000000000011A.quest_desc: ["Connect Chain Conveyors using chains and power the network. Leave room for packages to travel above your machines."]
-	quest.6A9000000000011A.title: "Overhead Package Transport"
-	quest.6A9000000000011B.quest_desc: ["Bind two Frogports to your chain network and give each an address. Test sending a package to the other port; a package without a matching destination will keep circling."]
-	quest.6A9000000000011B.title: "Frogport Delivery"
-	quest.6A9000000000011C.quest_desc: ["Bind a Redstone Requester to the stock network, configure an order and destination, then send one redstone pulse. Each pulse creates a new request."]
-	quest.6A9000000000011C.title: "Orders from Redstone"
-	quest.6A9000000000011D.quest_desc: ["Bind a Factory Gauge to your stock network and place it on a Packager. Select an item, destination address and target quantity to refill that inventory automatically."]
-	quest.6A9000000000011D.title: "Keep the Buffer Supplied"
-	quest.6A9000000000011E.quest_desc: ["Collect the fragments of one order in an inventory, then power a Re-Packager. It waits for all fragments and exports the combined package. Use this before recipe inputs that must arrive together."]
-	quest.6A9000000000011E.title: "Keep Ingredients Together"
-	quest.6A9000000000011F.quest_desc: ["Connect ingredient gauges to an output gauge, configure the recipe amounts and delivery address, and return products to linked storage.", "For crafting-table recipes, use the gauge's auto-arrangement with a connected 3x3 Mechanical Crafter grid. A Re-Packager helps keep ingredient packages together."]
-	quest.6A9000000000011F.title: "Craft to a Target Stock"
-	quest.6A90000000000120.quest_desc: ["Build two linked storage inventories, a Stock Ticker and an addressed package route. Order an item, receive it at the correct destination and use a Factory Gauge to replenish a depleted buffer. Tick after the complete test."]
-	quest.6A90000000000120.title: "An Order That Finishes the Journey"
-	quest.6A90000000000121.quest_desc: ["Connect Fluid Tanks into a multiblock. Attach pipes for filling and draining; keep different fluids on separate lines."]
-	quest.6A90000000000121.title: "Bulk Fluid Storage"
-	quest.6A90000000000122.quest_desc: ["Power a Mechanical Pump and check its direction with the wrench. Connect source, pump and destination with Fluid Pipes, then test a short line first."]
-	quest.6A90000000000122.title: "Move Fluids with Pumps"
-	quest.6A90000000000123.quest_desc: ["Use a Fluid Valve to control flow and a Smart Fluid Pipe to restrict the fluid accepted by a branch. Set the filter before connecting mixed processing lines."]
-	quest.6A90000000000123.title: "Valves and Fluid Filters"
-	quest.6A90000000000124.quest_desc: ["Lower a Hose Pulley into a fluid source and connect its pipe to a pump. Inspect the source and the mod's fluid rules before planning large-scale extraction."]
-	quest.6A90000000000124.title: "Pumping from the World"
-	quest.6A90000000000125.quest_desc: ["Use a Spout to fill supported items with fluid. Use an Item Drain to recover fluid from containers. Check JEI for each filling or emptying recipe."]
-	quest.6A90000000000125.title: "Fill and Empty Containers"
-	quest.6A90000000000126.quest_desc: ["Make paired Portable Fluid Interfaces for a moving Create contraption and its stop. Align them and use the stationary pipework to move the fluid."]
-	quest.6A90000000000126.title: "Unload Moving Tanks"
-	quest.6A90000000000127.quest_desc: ["Build a tank, pump, controlled pipe and filling station. Fill a container, empty it back through an Item Drain and verify the fluid returns to storage. Tick after testing the full route."]
-	quest.6A90000000000127.title: "A Closed Fluid Route"
-	quest.6A90000000000128.quest_desc: ["Bind Postboxes to Train Stations before placing them nearby. Set addresses; stopping trains collect outgoing packages and drop off matching ones. Continue in the Trains chapter to build the route."]
-	quest.6A90000000000128.title: "Packages by Rail"
-	quest.6A90000000000129.quest_desc: ["Connect your regulated warehouse, sorting line, package network and fluid route. Deliver a requested part to a working machine, then confirm the output returns to storage without manual carrying."]
-	quest.6A90000000000129.title: "A Connected Supply System"
-	quest.6A9000000000012A.quest_desc: ["Place Depots at the ends of processing steps or beside machines. Use funnels or a Mechanical Arm to move items between these buffer points."]
-	quest.6A9000000000012A.title: "Buffers on the Work Floor"
-	quest.6A9000000000012B.quest_desc: ["Select the arm's input and output targets before placing it, then power it and choose a distribution mode.", "Use it between supported inventories, depots and machines where a straight belt is awkward. Inspect its reach and target setup in Ponder."]
-	quest.6A9000000000012B.title: "A Mechanical Arm"
-	quest.6A9000000000012C.quest_desc: ["Configure a Mechanical Arm to take items from one input, feed two supported output targets and collect the resulting products into storage. Test a full destination, then tick this task."]
-	quest.6A9000000000012C.title: "Supply a Machine with an Arm"
-	quest.6A91000000000100.quest_desc: ["Plan a line between your factory and a resource outpost. This chapter covers track, train assembly, automatic driving, freight and signals.", "Item tasks detect items without consuming them. Practical build tasks have a manual checkmark: tick them after the described test. Open Ponder on tracks, stations and controls before building."]
-	quest.6A91000000000100.title: "Build a Railway"
-	quest.6A91000000000101.quest_desc: ["Make Train Tracks using the JEI recipe. Use long placement and curves to build a smooth route; leave space around bends and station platforms."]
-	quest.6A91000000000101.title: "Lay Your First Track"
-	quest.6A91000000000102.quest_desc: ["Place a station marker beside its track, give it a clear name and build a second station at the destination. Check each marker's facing direction."]
-	quest.6A91000000000102.title: "Two Named Stations"
-	quest.6A91000000000103.quest_desc: ["Connect two named stations with an uninterrupted track. Inspect curves and clearances, then confirm that your train can reach both station markers. Tick after the first manual trip."]
-	quest.6A91000000000103.title: "A Continuous Route"
-	quest.6A91000000000104.quest_desc: ["Automate the track recipe shown in JEI using Deployers and a Mechanical Press. Keep ingredients supplied and collect the finished tracks into storage."]
-	quest.6A91000000000104.title: "A Track Production Line"
-	quest.6A91000000000105.quest_desc: ["Run your track line automatically until it produces a fresh batch of at least 64 tracks. Test an interrupted input and make sure production resumes when it is refilled."]
-	quest.6A91000000000105.title: "Tracks for the Next Outpost"
-	quest.6A91000000000106.quest_desc: ["Extend a railway through a suitable portal and ride a train through it to earn the Create advancement. Check Ponder and give the portal and both approaches enough clearance."]
-	quest.6A91000000000106.title: "A Railway Between Dimensions"
-	quest.6A91000000000107.quest_desc: ["Make Train Controls and a seat. Place the controls facing the driving direction; use a second control position if you want to drive in reverse."]
-	quest.6A91000000000107.title: "The Driver's Cab"
-	quest.6A91000000000108.quest_desc: ["Open the Train Station assembly interface and use Railway Casings on the assembly track to create bogeys.", "Build the chassis around them, glue the moving parts and attach Train Controls. Bogeys are placed during assembly; there is no separate bogey item to craft."]
-	quest.6A91000000000108.title: "Bogeys and a Glued Chassis"
-	quest.6A91000000000109.quest_desc: ["Assemble a train at the Train Station to earn the Create advancement. Name it and take a short manual drive before adding cargo."]
-	quest.6A91000000000109.title: "Your First Train"
-	quest.6A9100000000010A.quest_desc: ["Write a Train Schedule with both station names and useful waiting conditions. Seat a suitable mob by the controls and hand it the schedule to start automatic driving."]
-	quest.6A9100000000010A.title: "Give the Conductor a Schedule"
-	quest.6A9100000000010B.quest_desc: ["Run an automatic trip between both stations and back. For a line without turning loops, provide controls for both directions. Check that each stop is reached and the schedule repeats."]
-	quest.6A9100000000010B.title: "A Working Automatic Shuttle"
-	quest.6A9100000000010C.quest_desc: ["Add seats and a clear boarding area. Train Doors and Train Trapdoors help build the carriage; test boarding and leaving at a platform."]
-	quest.6A9100000000010C.title: "A Passenger Carriage"
-	quest.6A9100000000010D.quest_desc: ["Attach Item Vaults to a carriage and include them in its glued structure before assembly. Leave space for loading interfaces and test the full carriage through a curve."]
-	quest.6A9100000000010D.title: "A Freight Wagon"
-	quest.6A9100000000010E.quest_desc: ["Use paired Portable Storage Interfaces: one on the carriage and one at a station. Align them where the train stops, then insert and extract through the stationary side."]
-	quest.6A9100000000010E.title: "Load and Unload at a Stop"
-	quest.6A9100000000010F.quest_desc: ["Configure schedule waiting conditions for the loading operation. Check the available cargo and inactivity conditions; leave enough time for the interfaces to finish."]
-	quest.6A9100000000010F.title: "Wait for the Cargo"
-	quest.6A91000000000110.quest_desc: ["Load at least one stack at the source station, transport it with a scheduled train and unload it into a different inventory at the destination. Tick after confirming the items arrived without manual transfer."]
-	quest.6A91000000000110.title: "The First Automatic Freight Run"
-	quest.6A91000000000111.quest_desc: ["Attach Fluid Tanks to a carriage and use Portable Fluid Interfaces at the stops. Connect pumps on the stationary sides and keep the fluid line separate from item cargo."]
-	quest.6A91000000000111.title: "A Tank Carriage"
-	quest.6A91000000000112.quest_desc: ["Automatically fill the tank carriage at one station and drain it into a stationary tank at another. Verify the transfer, waiting conditions and return trip before ticking."]
-	quest.6A91000000000112.title: "Fluid by Rail"
-	quest.6A91000000000113.quest_desc: ["Bind each Postbox to its Train Station, set distinct addresses and provide a train that visits both stops.", "Trains collect outgoing packages and drop off packages matching the destination Postbox. Inspect Ponder for the routing behaviour."]
-	quest.6A91000000000113.title: "The Railway Post"
-	quest.6A91000000000114.quest_desc: ["Send an addressed logistics package through the station Postboxes and collect its contents at the outpost. Tick after checking the automatic delivery and return route."]
-	quest.6A91000000000114.title: "A Package to the Outpost"
-	quest.6A91000000000115.quest_desc: ["Place Train Signals to divide the route into occupied sections. Inspect the coloured block boundaries and keep signals out of positions where a stopped train would block a junction."]
-	quest.6A91000000000115.title: "Divide the Railway into Blocks"
-	quest.6A91000000000116.quest_desc: ["Place a Train Signal to earn its Create advancement. Check direction and block boundaries with the signal item held."]
-	quest.6A91000000000116.title: "A Signal on the Track"
-	quest.6A91000000000117.quest_desc: ["Build a passing loop or junction. Use the signal modes shown in Ponder to reserve a safe path through it and leave enough space beyond the exit for a complete train. Tick after testing both routes."]
-	quest.6A91000000000117.title: "A Junction That Stays Clear"
-	quest.6A91000000000118.quest_desc: ["Use a Train Observer to detect trains at a chosen track point. Configure its filter and connect the output to a lamp or station mechanism."]
-	quest.6A91000000000118.title: "Detect Passing Trains"
-	quest.6A91000000000119.quest_desc: ["Bind a Display Link from a supported station source to a Display Board. Select the available train or schedule information and check the display while the service runs."]
-	quest.6A91000000000119.title: "A Station Information Board"
-	quest.6A9100000000011A.quest_desc: ["Run two scheduled trains sharing part of the track. Verify that signals prevent conflicts, both trains can reach their destinations and neither waits forever at the junction."]
-	quest.6A9100000000011A.title: "Two Trains, One Network"
-	quest.6A9100000000011B.quest_desc: ["Connect a production site and warehouse with an automatic freight service. Keep item cargo moving, complete a fluid run, and run two trains safely on the shared railway. Tick after a full operating cycle."]
-	quest.6A9100000000011B.title: "The Factory Express"
 }

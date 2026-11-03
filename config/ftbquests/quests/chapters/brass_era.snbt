@@ -300,7 +300,7 @@
 			]
 			tasks: [
 				{
-					count: 25L
+					count: 21L
 					id: "0E6655E427741A65"
 					item: { count: 1, id: "create:mechanical_crafter" }
 					type: "item"
@@ -948,6 +948,24 @@
 			]
 			x: 1.5d
 			y: 2.0d
+		}
+		{
+			dependencies: ["096D6806626CD6D4"]
+			id: "32A17B74B48E31B9"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "1F7F267D42A781F7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "46788E23D39F751A"
+				item: { count: 1, id: "create_power_loader:empty_brass_chunk_loader" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
 		}
 	]
 }
