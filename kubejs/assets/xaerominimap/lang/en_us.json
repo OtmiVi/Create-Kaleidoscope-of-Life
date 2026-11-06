@@ -1,0 +1,14 @@
+{
+    "effect.xaerominimap.no_minimap.description":  "Disables the minimap while this effect is active.",
+    "effect.xaerominimap.no_entity_radar.description":  "Disables entity radar on the minimap while this effect is active.",
+    "effect.xaerominimap.no_waypoints.description":  "Disables minimap waypoints while this effect is active.",
+    "effect.xaerominimap.no_cave_maps.description":  "Disables minimap cave maps while this effect is active.",
+    "effect.xaerominimap.no_minimap_harmful.description":  "Disables the minimap while this effect is active.",
+    "effect.xaerominimap.no_entity_radar_harmful.description":  "Disables entity radar on the minimap while this effect is active.",
+    "effect.xaerominimap.no_waypoints_harmful.description":  "Disables minimap waypoints while this effect is active.",
+    "effect.xaerominimap.no_cave_maps_harmful.description":  "Disables minimap cave maps while this effect is active.",
+    "effect.xaerominimap.no_minimap_beneficial.description":  "Disables the minimap while this effect is active.",
+    "effect.xaerominimap.no_entity_radar_beneficial.description":  "Disables entity radar on the minimap while this effect is active.",
+    "effect.xaerominimap.no_waypoints_beneficial.description":  "Disables minimap waypoints while this effect is active.",
+    "effect.xaerominimap.no_cave_maps_beneficial.description":  "Disables minimap cave maps while this effect is active."
+}

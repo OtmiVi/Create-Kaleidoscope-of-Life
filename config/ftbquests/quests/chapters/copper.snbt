@@ -20,6 +20,17 @@
 			y: -4.98d
 		}
 		{
+			height: 1.5d
+			id: "56329533278FF903"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 1.75d
+			y: -8.0d
+		}
+		{
 			height: 0.04d
 			id: "23A1A1718DEB9ED1"
 			image: "#D6B879"
@@ -62,17 +73,6 @@
 			width: 0.04d
 			x: 9.605d
 			y: -4.98d
-		}
-		{
-			height: 1.5d
-			id: "56329533278FF903"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 10.0d
-			x: 1.75d
-			y: -8.0d
 		}
 		{
 			height: 0.045d
@@ -567,7 +567,7 @@
 				item: { count: 1, id: "create:hose_pulley" }
 				type: "item"
 			}]
-			x: 3.5d
+			x: 3.0d
 			y: -3.0d
 		}
 		{
@@ -610,7 +610,7 @@
 					type: "item"
 				}
 			]
-			x: 4.5d
+			x: 4.0d
 			y: -3.0d
 		}
 		{
@@ -887,7 +887,7 @@
 				id: "6FAEAA1124885F07"
 				type: "checkmark"
 			}]
-			x: 2.5d
+			x: 2.0d
 			y: -3.0d
 		}
 		{
@@ -913,6 +913,24 @@
 			}]
 			x: 4.5d
 			y: 1.0d
+		}
+		{
+			dependencies: ["0172930769CA91D7"]
+			id: "3CB162A50F805F55"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A94000000003016"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3189686833D3C5FF"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(create_factory:jars)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
 		}
 	]
 }

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "dndecor:dark_metal_block",
+    "dndecor:dark_metal_bricks",
+    "dndecor:dark_metal_plating",
+    "dndecor:industrial_floor",
+    "dndecor:industrial_plating_block",
+    "dndecor:industrial_sheet_metal"
+  ]
+}

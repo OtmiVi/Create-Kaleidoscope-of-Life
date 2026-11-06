@@ -1,3 +1,7 @@
 {
+  "effect.kaleidoscope_cookery.hinder.description": "Your attacks inflict Slowness II for five seconds.",
+  "effect.kaleidoscope_cookery.projectile_dodge.description": "Cancels projectile hits and attempts to teleport you a short distance away. Each dodge consumes ten seconds of effect duration.",
+  "effect.kaleidoscope_cookery.instant_smelting.description": "Automatically smelts some drops from mined ore blocks. Higher levels smelt more items per block.",
+  "effect.kaleidoscope_cookery.vitality.description": "Killing an adult animal spawns a baby of the same type. Adult zombies spawn a baby zombie, with a small chance to spawn a baby villager instead.",
   "advancements.kaleidoscope_cookery.nitrogen_3000.description": "Ascend 1900 blocks using the effect of flatulence."
 }

@@ -20,6 +20,17 @@
 			y: 1.67d
 		}
 		{
+			height: 1.5d
+			id: "1742B3829381440C"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 4.5d
+			y: -11.5d
+		}
+		{
 			height: 0.04d
 			id: "099AC2314B829116"
 			image: "#D6B879"
@@ -62,17 +73,6 @@
 			width: 0.04d
 			x: 1.105d
 			y: 1.67d
-		}
-		{
-			height: 1.5d
-			id: "1742B3829381440C"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 10.0d
-			x: 4.5d
-			y: -11.5d
 		}
 		{
 			height: 0.045d
@@ -172,14 +172,14 @@
 		{
 			id: "793C672B8078A6F5"
 			linked_quest: "21DC49BFB670FCDB"
-			x: 5.0d
+			x: 4.5d
 			y: 3.0d
 		}
 		{
 			id: "44E32218A920EEEF"
 			linked_quest: "3B24329B4B8B46A8"
-			x: 4.0d
-			y: 4.5d
+			x: 7.5d
+			y: 5.5d
 		}
 	]
 	quests: [
@@ -550,8 +550,8 @@
 				item: { count: 1, id: "create:basin" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 1.5d
+			x: 9.0d
+			y: 4.5d
 		}
 		{
 			dependencies: ["774291101D99615E"]
@@ -574,7 +574,7 @@
 				item: { count: 1, id: "create:mechanical_press" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.5d
 			y: 0.0d
 		}
 		{
@@ -590,7 +590,7 @@
 				item: { count: 1, id: "create:depot" }
 				type: "item"
 			}]
-			x: 5.0d
+			x: 4.5d
 			y: 1.5d
 		}
 		{
@@ -652,7 +652,7 @@
 			y: -1.0d
 		}
 		{
-			dependencies: ["774291101D99615E"]
+			dependencies: ["3699113CF194603C"]
 			id: "20F032D0D2DD5D12"
 			rewards: [
 				{
@@ -672,8 +672,8 @@
 				item: { count: 1, id: "create:mechanical_mixer" }
 				type: "item"
 			}]
-			x: 4.0d
-			y: 0.0d
+			x: 9.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["774291101D99615E"]
@@ -821,8 +821,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: 3.0d
+			x: 9.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["24A3A61046CA3464"]
@@ -843,7 +843,7 @@
 			y: 1.5d
 		}
 		{
-			dependencies: ["774291101D99615E"]
+			dependencies: ["3699113CF194603C"]
 			id: "0594598C4D16819F"
 			rewards: [
 				{
@@ -863,8 +863,8 @@
 				item: { count: 1, id: "create:encased_fan" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 0.0d
+			x: 8.0d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -936,8 +936,8 @@
 				item: { count: 1, id: "create:pulp" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.5d
+			x: 10.75d
+			y: 4.5d
 		}
 		{
 			dependencies: ["59A23E744C86727F"]
@@ -972,8 +972,8 @@
 				item: { count: 1, id: "create:electron_tube" }
 				type: "item"
 			}]
-			x: 9.0d
-			y: 3.5d
+			x: 10.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["3699113CF194603C"]
@@ -1148,7 +1148,7 @@
 				}
 			]
 			x: 11.0d
-			y: 2.5d
+			y: -0.5d
 		}
 		{
 			id: "6E71642B09598EF0"
@@ -1252,23 +1252,6 @@
 			}]
 			x: 1.5d
 			y: -8.5d
-		}
-		{
-			dependencies: ["24A3A61046CA3464"]
-			id: "6FF31469F6C2234B"
-			preset: "Important"
-			rewards: [{
-				id: "4B36A3249B436C5B"
-				type: "xp"
-				xp: 100
-			}]
-			tasks: [{
-				id: "67AA01FFCEDBEDCC"
-				item: { count: 1, id: "create:precision_mechanism" }
-				type: "item"
-			}]
-			x: 6.75d
-			y: 3.0d
 		}
 		{
 			id: "11A456CC37B24B37"

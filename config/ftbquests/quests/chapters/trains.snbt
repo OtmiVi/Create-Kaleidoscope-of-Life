@@ -20,6 +20,50 @@
 			y: -5.0d
 		}
 		{
+			height: 0.9d
+			id: "6A91000000001006"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A91000000001009"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A9100000000100C"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A9100000000100F"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
 			height: 0.05d
 			id: "6A91000000001001"
 			image: "#D6B879"
@@ -79,17 +123,6 @@
 			y: -4.5d
 		}
 		{
-			height: 0.9d
-			id: "6A91000000001006"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: -9.0d
-			y: 1.0d
-		}
-		{
 			height: 0.04d
 			id: "6A91000000001007"
 			image: "#D6B879"
@@ -111,17 +144,6 @@
 			text_shadow: 1b
 			width: 5.2d
 			x: -9.0d
-			y: 1.0d
-		}
-		{
-			height: 0.9d
-			id: "6A91000000001009"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: -3.0d
 			y: 1.0d
 		}
 		{
@@ -149,17 +171,6 @@
 			y: 1.0d
 		}
 		{
-			height: 0.9d
-			id: "6A9100000000100C"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: 3.0d
-			y: 1.0d
-		}
-		{
 			height: 0.04d
 			id: "6A9100000000100D"
 			image: "#D6B879"
@@ -181,17 +192,6 @@
 			text_shadow: 1b
 			width: 5.2d
 			x: 3.0d
-			y: 1.0d
-		}
-		{
-			height: 0.9d
-			id: "6A9100000000100F"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: 9.0d
 			y: 1.0d
 		}
 		{
@@ -222,12 +222,6 @@
 	order_index: 2
 	quest_links: [
 		{
-			id: "6A91000000006000"
-			linked_quest: "6FF31469F6C2234B"
-			x: -4.0d
-			y: -1.0d
-		}
-		{
 			id: "6A91000000006001"
 			linked_quest: "3B24329B4B8B46A8"
 			x: 4.0d
@@ -248,10 +242,7 @@
 	]
 	quests: [
 		{
-			dependencies: [
-				"6FF31469F6C2234B"
-				"3B24329B4B8B46A8"
-			]
+			dependencies: ["3B24329B4B8B46A8"]
 			icon: {
 				id: "create:railway_casing"
 			}
@@ -334,9 +325,6 @@
 		}
 		{
 			dependencies: ["6A91000000000103"]
-			icon: {
-				id: "create:deployer"
-			}
 			id: "6A91000000000104"
 			rewards: [{
 				id: "6A91000000004004"
@@ -403,9 +391,6 @@
 		}
 		{
 			dependencies: ["6A91000000000100"]
-			icon: {
-				id: "create:controls"
-			}
 			id: "6A91000000000107"
 			rewards: [{
 				id: "6A91000000004007"
@@ -512,9 +497,6 @@
 		}
 		{
 			dependencies: ["6A9100000000010B"]
-			icon: {
-				id: "create:train_door"
-			}
 			id: "6A9100000000010C"
 			optional: true
 			rewards: [{
@@ -628,9 +610,6 @@
 		}
 		{
 			dependencies: ["6A91000000000110"]
-			icon: {
-				id: "create:fluid_tank"
-			}
 			id: "6A91000000000111"
 			rewards: [{
 				id: "6A91000000004011"
@@ -802,9 +781,6 @@
 		}
 		{
 			dependencies: ["6A91000000000118"]
-			icon: {
-				id: "create:display_link"
-			}
 			id: "6A91000000000119"
 			rewards: [{
 				id: "6A91000000004019"

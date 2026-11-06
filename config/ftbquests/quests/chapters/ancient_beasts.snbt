@@ -1,0 +1,1894 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ancient_beasts"
+	group: ""
+	icon: {
+		id: "wan_ancient_beasts:eater_skull"
+	}
+	id: "6851CE0538D34B44"
+	images: [
+		{
+			height: 0.5d
+			id: "6A7D559001E8444F"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 18.0d
+			x: 13.0d
+			y: -11.0d
+		}
+		{
+			height: 0.23d
+			id: "62698633DEAD485F"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 25.0d
+			x: 13.0d
+			y: -10.0d
+		}
+		{
+			height: 0.4d
+			id: "67B6C77CF9BD4760"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 11.0d
+			x: 5.0d
+			y: -8.0d
+		}
+		{
+			height: 0.22d
+			id: "6D9C7BF303054A8D"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 12.0d
+			x: 5.0d
+			y: -7.0d
+		}
+		{
+			height: 0.4d
+			id: "6E2C38800AAB4817"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 11.0d
+			x: 21.0d
+			y: -8.0d
+		}
+		{
+			height: 0.22d
+			id: "60696ED907C941B8"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 12.0d
+			x: 21.0d
+			y: -7.0d
+		}
+		{
+			height: 1.0d
+			id: "6F8677EBF1FF4B41"
+			image: "item:minecraft:brush"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -8.0d
+		}
+		{
+			height: 1.0d
+			id: "621370E3441543A0"
+			image: "item:wan_ancient_beasts:chisel"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 1.0d
+			x: 26.5d
+			y: -8.0d
+		}
+		{
+			height: 0.22d
+			id: "6D84DC9E89954C39"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 2.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 0.22d
+			id: "61987D1992324E20"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 1.8d
+			x: 2.25d
+			y: -2.0d
+		}
+		{
+			height: 0.22d
+			id: "601AEFF6094A443E"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 1.8d
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			height: 0.22d
+			id: "63B5092368794D79"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 2.8d
+			x: 6.75d
+			y: -2.0d
+		}
+		{
+			height: 0.22d
+			id: "64B7860AD7C144D1"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 2.8d
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			height: 0.035d
+			id: "68AAEE5CE7504EF3"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 13.0d
+			x: 5.0d
+			y: -8.7d
+		}
+		{
+			height: 0.22d
+			id: "690DE84DB72B4A5A"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 2.0d
+			x: 16.0d
+			y: -2.0d
+		}
+		{
+			height: 0.22d
+			id: "63A69E9D99224354"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 1.8d
+			x: 18.25d
+			y: -2.0d
+		}
+		{
+			height: 0.22d
+			id: "68D5AF4422BA43A0"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 1.8d
+			x: 20.5d
+			y: -2.0d
+		}
+		{
+			height: 0.22d
+			id: "6285C43384B74342"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 2.8d
+			x: 22.75d
+			y: -2.0d
+		}
+		{
+			height: 0.22d
+			id: "6E0E41647A0846DC"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 2.8d
+			x: 26.0d
+			y: -2.0d
+		}
+		{
+			height: 0.035d
+			id: "646DE2CC632640EE"
+			image: "#A7C6D9"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 13.0d
+			x: 21.0d
+			y: -8.7d
+		}
+		{
+			height: 0.23d
+			id: "6960323C0D5F4C3A"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 8.0d
+			x: 4.5d
+			y: -0.85d
+		}
+		{
+			height: 0.025d
+			id: "61465F700E0A48A2"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.5d
+			x: 5.0d
+			y: 1.25d
+		}
+		{
+			height: 0.23d
+			id: "6EF650F9F644430F"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 8.0d
+			x: 4.5d
+			y: 2.15d
+		}
+		{
+			height: 0.025d
+			id: "6D99C8171FCE4477"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.5d
+			x: 5.0d
+			y: 4.25d
+		}
+		{
+			height: 0.23d
+			id: "6246CA12D12F4121"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 8.0d
+			x: 20.5d
+			y: -0.85d
+		}
+		{
+			height: 0.025d
+			id: "6C1EA184C0AC498E"
+			image: "#A7C6D9"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.5d
+			x: 21.0d
+			y: 1.25d
+		}
+		{
+			height: 0.23d
+			id: "6C443762741D44AF"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 8.0d
+			x: 4.5d
+			y: 5.15d
+		}
+		{
+			height: 0.025d
+			id: "64941D34EEE04642"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.5d
+			x: 5.0d
+			y: 7.25d
+		}
+		{
+			height: 0.23d
+			id: "685507C431EF471D"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 8.0d
+			x: 4.5d
+			y: 8.15d
+		}
+		{
+			height: 0.025d
+			id: "63FABFF0EA80468C"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.5d
+			x: 5.0d
+			y: 10.25d
+		}
+		{
+			height: 0.23d
+			id: "64BF0B5C49A54CD5"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 8.0d
+			x: 20.5d
+			y: 2.15d
+		}
+		{
+			height: 0.025d
+			id: "6D38897B39DE49D7"
+			image: "#A7C6D9"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.5d
+			x: 21.0d
+			y: 4.25d
+		}
+		{
+			height: 0.23d
+			id: "6C4A996BC9E947C7"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 8.0d
+			x: 4.5d
+			y: 11.15d
+		}
+		{
+			height: 0.025d
+			id: "647D12EDF0144E3E"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.5d
+			x: 5.0d
+			y: 13.25d
+		}
+		{
+			height: 0.23d
+			id: "66987E8A57304DA4"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 8.0d
+			x: 4.5d
+			y: 14.15d
+		}
+		{
+			height: 0.025d
+			id: "6FC7D64D4140422B"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.5d
+			x: 5.0d
+			y: 16.25d
+		}
+		{
+			height: 0.23d
+			id: "638B798A474F4144"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 8.0d
+			x: 4.5d
+			y: 17.15d
+		}
+		{
+			height: 0.025d
+			id: "6394E01AEE9249DE"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.5d
+			x: 5.0d
+			y: 19.25d
+		}
+		{
+			height: 0.23d
+			id: "6E92A602D09D4602"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 8.0d
+			x: 4.5d
+			y: 20.15d
+		}
+		{
+			height: 0.025d
+			id: "6D423ED8998F41E1"
+			image: "#D6B879"
+			order: -9
+			position_locked: 1b
+			rotation: 0.0d
+			width: 12.5d
+			x: 5.0d
+			y: 22.25d
+		}
+		{
+			height: 0.2d
+			id: "65FC66B1D1B44F8A"
+			image: ""
+			order: -7
+			position_locked: 1b
+			rotation: 0.0d
+			text_on_image: 1b
+			text_shadow: 1b
+			width: 3.8d
+			x: 13.0d
+			y: 0.5d
+		}
+	]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:brush"
+			}
+			id: "67FF456831384B70"
+			preset: "Important"
+			rewards: [{
+				id: "6541D22C1F5E4414"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				consume_items: false
+				id: "66C55B1096BC4BAA"
+				item: { count: 1, id: "minecraft:brush" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				id: "wan_ancient_beasts:chisel"
+			}
+			id: "6FA9CB4EE2084F57"
+			preset: "Important"
+			rewards: [{
+				id: "69DD6E619A524992"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "619BB58909AF45DC"
+					item: { count: 1, id: "wan_ancient_beasts:chisel" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6CB80E9461954193"
+					item: { count: 1, id: "wan_ancient_beasts:paleo_table" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "68CB8534140044A7"
+					item: { count: 1, id: "wan_ancient_beasts:nest" }
+					type: "item"
+				}
+			]
+			x: 21.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["6FA9CB4EE2084F57"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:nest"
+			}
+			id: "60B2080F93134E19"
+			optional: true
+			preset: "Hits"
+			tasks: [{
+				id: "6B3493BC19054301"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -6.0d
+		}
+		{
+			icon: {
+				id: "wan_ancient_beasts:fossil_pottery_sherd"
+			}
+			id: "65F5D75FE12D4BF7"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "64A564A787E04591"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "611540D474FA4C5B"
+				structure: "#wan_ancient_beasts:digsite"
+				type: "structure"
+			}]
+			x: 13.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "minecraft:emerald"
+			}
+			id: "66CC122E8FE64FBB"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6BEB10BB0B8E4D2A"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/paleontologist_trade"
+				criterion: ""
+				id: "61943E4A06944BC1"
+				type: "advancement"
+			}]
+			x: 13.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["67FF456831384B70"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:enchanted_book"
+			}
+			id: "60E60E56D144406B"
+			optional: true
+			preset: "Hits"
+			tasks: [{
+				id: "691184928793497A"
+				type: "checkmark"
+			}]
+			x: 13.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["67FF456831384B70"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:prismarine"
+			}
+			id: "6F9218BABA904FDE"
+			rewards: [{
+				id: "631C0A050EBF407C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6191824A818B482F"
+				structure: "#kubejs:ancient_beasts_ocean_ruins"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6F9218BABA904FDE"]
+			icon: {
+				id: "minecraft:sniffer_egg"
+			}
+			id: "653824CE62184965"
+			rewards: [{
+				id: "6861F24C828E4D2A"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6C529AB8FBA54790"
+				item: { count: 1, id: "minecraft:sniffer_egg" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["653824CE62184965"]
+			icon: {
+				id: "wan_ancient_beasts:sniffer_skull"
+			}
+			id: "61DCE424809345C2"
+			rewards: [{
+				id: "6D413AE0DEB34CF1"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6609D379E3304109"
+				item: { count: 1, id: "wan_ancient_beasts:sniffer_skull" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["653824CE62184965"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:rafflesia_seeds"
+			}
+			id: "6E6BA845248A463C"
+			rewards: [{
+				id: "64128F4C67F048EA"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "68FECE64C45A4736"
+					item: { count: 1, id: "wan_ancient_beasts:rafflesia_seeds" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "60F21CB6018543E2"
+					item: { count: 1, id: "wan_ancient_beasts:sundew_seeds" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6DBC0EB73B5F4D8D"
+					item: { count: 1, id: "wan_ancient_beasts:equisetum_seeds" }
+					type: "item"
+				}
+			]
+			x: 6.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["653824CE62184965"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:olden_moss_block"
+			}
+			id: "649F66690CA446B3"
+			optional: true
+			preset: "Hits"
+			tasks: [{
+				id: "66ED1323A1C34270"
+				type: "checkmark"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67FF456831384B70"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:red_sandstone"
+			}
+			id: "6ACF171CFAF04F23"
+			rewards: [{
+				id: "62C8A5C9794E4C92"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6C24002AD6434781"
+				structure: "#wan_ancient_beasts:mesa_temple"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6ACF171CFAF04F23"]
+			icon: {
+				id: "wan_ancient_beasts:eater_egg"
+			}
+			id: "69D0959BFC184A05"
+			rewards: [{
+				id: "65C343F88F784AA7"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6BC9A04EBE504C04"
+				item: { count: 1, id: "wan_ancient_beasts:eater_egg" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 3.0d
+		}
+		{
+			dependencies: ["69D0959BFC184A05"]
+			icon: {
+				id: "wan_ancient_beasts:eater_skull"
+			}
+			id: "690885A8221F471E"
+			rewards: [{
+				id: "67F386C18613456A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6E0DBF8D87904AA0"
+				item: { count: 1, id: "wan_ancient_beasts:eater_skull" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["69D0959BFC184A05"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:ancient_club"
+			}
+			id: "633A0DB46CD54533"
+			rewards: [{
+				id: "6059E6EF165E4DFF"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "60A747DCA8AA4AB8"
+					item: { count: 1, id: "wan_ancient_beasts:eater_tooth" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6209074C40024F97"
+					item: { count: 1, id: "wan_ancient_beasts:ancient_club" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6519DB78F2DB47E7"
+					item: { count: 1, id: "wan_ancient_beasts:jaw_pottery_sherd" }
+					type: "item"
+				}
+			]
+			x: 6.75d
+			y: 3.0d
+		}
+		{
+			dependencies: ["69D0959BFC184A05"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:cobweb"
+			}
+			id: "6680F4E9A0D243AC"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6DCCCB4C3A544636"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/eater_fear"
+				criterion: ""
+				id: "67F9EFE99E0247CD"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6FA9CB4EE2084F57"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:packed_ice"
+			}
+			id: "6AAF0E1C4A9A49A1"
+			rewards: [{
+				id: "6A85391EEA6E4F54"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "63F08C36261247AF"
+				structure: "#wan_ancient_beasts:ice_spike_castle"
+				type: "structure"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6AAF0E1C4A9A49A1"]
+			icon: {
+				id: "wan_ancient_beasts:walker_egg"
+			}
+			id: "6829D7D6A40343AD"
+			rewards: [{
+				id: "61E89A5BC8CF46FD"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				consume_items: false
+				id: "61ACBC405BD7473D"
+				item: { count: 1, id: "wan_ancient_beasts:walker_egg" }
+				type: "item"
+			}]
+			x: 18.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6829D7D6A40343AD"]
+			icon: {
+				id: "wan_ancient_beasts:walker_skull"
+			}
+			id: "6CC3749907474F8B"
+			rewards: [{
+				id: "60D281310E4B44EF"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6D757EC9B1824C4D"
+				item: { count: 1, id: "wan_ancient_beasts:walker_skull" }
+				type: "item"
+			}]
+			x: 20.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6829D7D6A40343AD"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "6366F04A6C4940AF"
+			rewards: [{
+				id: "6C233F51E68445EB"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "6414BE2A5BE74D4A"
+					item: { count: 1, id: "minecraft:chest" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6A1397A829F74BD3"
+					item: { count: 1, id: "minecraft:saddle" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "68D7EB5F02304D58"
+					item: { count: 1, id: "wan_ancient_beasts:stroll_pottery_sherd" }
+					type: "item"
+				}
+			]
+			x: 22.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6829D7D6A40343AD"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "6B5014B2199B4915"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "612D5CA7CC6442DC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/walker_chest"
+				criterion: ""
+				id: "6982B3B1C7434DDF"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["67FF456831384B70"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:chiseled_sandstone"
+			}
+			id: "62919BB6A6224201"
+			rewards: [{
+				id: "62361780227C4921"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6E5797F16DB1482B"
+				structure: "#wan_ancient_beasts:desert_ruins"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["62919BB6A6224201"]
+			icon: {
+				id: "wan_ancient_beasts:crusher_egg"
+			}
+			id: "62FBEB2169584618"
+			rewards: [{
+				id: "679A1B4B791B4A5C"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				consume_items: false
+				id: "60658D33ABB2424A"
+				item: { count: 1, id: "wan_ancient_beasts:crusher_egg" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 6.0d
+		}
+		{
+			dependencies: ["62FBEB2169584618"]
+			icon: {
+				id: "wan_ancient_beasts:crusher_skull"
+			}
+			id: "61F97EF3E07A4651"
+			rewards: [{
+				id: "6403A5500ADB4B85"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				consume_items: false
+				id: "633A845B9126499D"
+				item: { count: 1, id: "wan_ancient_beasts:crusher_skull" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["62FBEB2169584618"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:reinforced_shield"
+			}
+			id: "693D27FF55B74811"
+			rewards: [{
+				id: "6353E3A54D6449CC"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "6114D527B7594D1D"
+					item: { count: 1, id: "wan_ancient_beasts:crusher_spike" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6857B18C249D4AFF"
+					item: { count: 1, id: "wan_ancient_beasts:reinforced_shield" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6871112F576F4F63"
+					item: { count: 1, id: "wan_ancient_beasts:spike_pottery_sherd" }
+					type: "item"
+				}
+			]
+			x: 6.75d
+			y: 6.0d
+		}
+		{
+			dependencies: ["62FBEB2169584618"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:chisel"
+			}
+			id: "6287D148BA4E4E2E"
+			optional: true
+			preset: "Hits"
+			tasks: [{
+				id: "69C95D18DB0F4EF5"
+				type: "checkmark"
+			}]
+			x: 10.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["67FF456831384B70"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:mossy_cobblestone"
+			}
+			id: "60A2E2D6226748B2"
+			rewards: [{
+				id: "64EEC1E041F74C94"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "63EC9623708D45FA"
+				structure: "#wan_ancient_beasts:abandoned_village"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["60A2E2D6226748B2"]
+			icon: {
+				id: "wan_ancient_beasts:glider_egg"
+			}
+			id: "68F3F8BC3C884D22"
+			rewards: [{
+				id: "6C5B806587BD43B4"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6ED4A8E9821D4BEF"
+				item: { count: 1, id: "wan_ancient_beasts:glider_egg" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 9.0d
+		}
+		{
+			dependencies: ["68F3F8BC3C884D22"]
+			icon: {
+				id: "wan_ancient_beasts:glider_skull"
+			}
+			id: "6E997FC5C0444CD2"
+			rewards: [{
+				id: "6F43E7CC1D984A29"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6F6EF2549E374438"
+				item: { count: 1, id: "wan_ancient_beasts:glider_skull" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["68F3F8BC3C884D22"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:hang_glider"
+			}
+			id: "6F2364AECD524601"
+			rewards: [{
+				id: "6A9B91EC23954FDE"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "6BE307B846FC4C8E"
+					item: { count: 1, id: "wan_ancient_beasts:glider_feather" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "600CFACD43254B8C"
+					item: { count: 1, id: "wan_ancient_beasts:hang_glider" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6C80B869BC2A48A7"
+					item: { count: 1, id: "wan_ancient_beasts:fall_pottery_sherd" }
+					type: "item"
+				}
+			]
+			x: 6.75d
+			y: 9.0d
+		}
+		{
+			dependencies: ["68F3F8BC3C884D22"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:jukebox"
+			}
+			id: "675D9C247D894506"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A8F58CE84754B6D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/glider_dance"
+				criterion: ""
+				id: "64E91DC41AED4BD2"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6FA9CB4EE2084F57"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:nest"
+			}
+			id: "6B549B47849043CF"
+			rewards: [{
+				id: "625B4ECD74624598"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6E6E32258B81406B"
+				structure: "#wan_ancient_beasts:ancient_nest"
+				type: "structure"
+			}]
+			x: 16.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6B549B47849043CF"]
+			icon: {
+				id: "wan_ancient_beasts:soarer_egg"
+			}
+			id: "6444809C880F4D2B"
+			rewards: [{
+				id: "62003BB0931C4E44"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6C4426444F3E49EB"
+				item: { count: 1, id: "wan_ancient_beasts:soarer_egg" }
+				type: "item"
+			}]
+			x: 18.25d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6444809C880F4D2B"]
+			icon: {
+				id: "wan_ancient_beasts:soarer_skull"
+			}
+			id: "6F1ACDF6D47C432F"
+			rewards: [{
+				id: "69AFDD7ED9D74C55"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				consume_items: false
+				id: "64F3003E93514621"
+				item: { count: 1, id: "wan_ancient_beasts:soarer_skull" }
+				type: "item"
+			}]
+			x: 20.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6444809C880F4D2B"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:toxlacanth_bucket"
+			}
+			id: "6423977178E049BC"
+			rewards: [{
+				id: "6EDC4992C9974385"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "6D68AEB1CC6446F5"
+					item: { count: 1, id: "wan_ancient_beasts:toxlacanth_bucket" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "680AFCFEFA55485D"
+					item: { count: 1, id: "minecraft:saddle" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "61AF86415DA7417B"
+					item: { count: 1, id: "wan_ancient_beasts:beak_pottery_sherd" }
+					type: "item"
+				}
+			]
+			x: 22.75d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6444809C880F4D2B"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:feather"
+			}
+			id: "6F007AF42C044817"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6F991FB2692E4764"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/fly_soarer"
+				criterion: ""
+				id: "6D6987A839374ACC"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["67FF456831384B70"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:dead_brain_coral_block"
+			}
+			id: "68BDFF26AB094065"
+			rewards: [{
+				id: "60348C29103B4A5B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A1D8CCD9B724705"
+				structure: "#wan_ancient_beasts:dead_coral"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["68BDFF26AB094065"]
+			icon: {
+				id: "wan_ancient_beasts:surfer_egg"
+			}
+			id: "6EB99977089F41DB"
+			rewards: [{
+				id: "6F60DF80ED054616"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6DFBC753E3CF47D1"
+				item: { count: 1, id: "wan_ancient_beasts:surfer_egg" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 12.0d
+		}
+		{
+			dependencies: ["6EB99977089F41DB"]
+			icon: {
+				id: "wan_ancient_beasts:surfer_skull"
+			}
+			id: "61A8B054EDF74523"
+			rewards: [{
+				id: "6D914F060A2D46DD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				consume_items: false
+				id: "64009DB567A14C91"
+				item: { count: 1, id: "wan_ancient_beasts:surfer_skull" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["6EB99977089F41DB"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:surfer_armor"
+			}
+			id: "60D30FD181B8472F"
+			rewards: [{
+				id: "695A846759634230"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "6341900A56904D83"
+					item: { count: 1, id: "wan_ancient_beasts:surfer_armor" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6C32496322A84EC7"
+					item: { count: 1, id: "minecraft:sea_pickle" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6B38039987EA4A6A"
+					item: { count: 1, id: "wan_ancient_beasts:tide_pottery_sherd" }
+					type: "item"
+				}
+			]
+			x: 6.75d
+			y: 12.0d
+		}
+		{
+			dependencies: ["6EB99977089F41DB"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:phantom_membrane"
+			}
+			id: "696F84144B8C43EF"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "648AF16084594737"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/surfer_max_jump"
+				criterion: ""
+				id: "6F5A8D7A4D174AB7"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["67FF456831384B70"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:stone_bricks"
+			}
+			id: "64A45C8BF7CA404B"
+			rewards: [{
+				id: "6D6C4DC5E842449A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "61D405E8D7844759"
+				structure: "#wan_ancient_beasts:ruined_castle"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["64A45C8BF7CA404B"]
+			icon: {
+				id: "wan_ancient_beasts:charger_egg"
+			}
+			id: "678A36EAB91E4812"
+			rewards: [{
+				id: "65216D0D4465461D"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				consume_items: false
+				id: "67746E6F893541CC"
+				item: { count: 1, id: "wan_ancient_beasts:charger_egg" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 15.0d
+		}
+		{
+			dependencies: ["678A36EAB91E4812"]
+			icon: {
+				id: "wan_ancient_beasts:charger_skull"
+			}
+			id: "6CC56AAC09794596"
+			rewards: [{
+				id: "636785D98E6B4862"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				consume_items: false
+				id: "646F7ABA579F4F37"
+				item: { count: 1, id: "wan_ancient_beasts:charger_skull" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 15.0d
+		}
+		{
+			dependencies: ["678A36EAB91E4812"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:red_charger_armor"
+			}
+			id: "6AF6AC0334434174"
+			rewards: [{
+				id: "63E1BBA37B6A4585"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "60F3374620374391"
+					item: { count: 1, id: "wan_ancient_beasts:red_charger_armor" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6A86EB05C8C0419C"
+					item: { count: 1, id: "minecraft:sweet_berries" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6912F18C2E014177"
+					item: { count: 1, id: "wan_ancient_beasts:horns_pottery_sherd" }
+					type: "item"
+				}
+			]
+			x: 6.75d
+			y: 15.0d
+		}
+		{
+			dependencies: ["678A36EAB91E4812"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:red_wool"
+			}
+			id: "6804F50045C54CC8"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "694562987AE94B3D"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/charger_charge"
+				criterion: ""
+				id: "6F2345C305CB46B6"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["67FF456831384B70"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:dark_oak_planks"
+			}
+			id: "6AB2E65CD61C408D"
+			rewards: [{
+				id: "62158754DDDC49D5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "66C0D2B6FC684181"
+				structure: "#wan_ancient_beasts:training_outpost"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["6AB2E65CD61C408D"]
+			icon: {
+				id: "wan_ancient_beasts:raider_egg"
+			}
+			id: "61200C6319864E5F"
+			rewards: [{
+				id: "6BD1604F95AE4E99"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6DC2E4CA3C5F49FB"
+				item: { count: 1, id: "wan_ancient_beasts:raider_egg" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 18.0d
+		}
+		{
+			dependencies: ["61200C6319864E5F"]
+			icon: {
+				id: "wan_ancient_beasts:raider_skull"
+			}
+			id: "661721C992454DE3"
+			rewards: [{
+				id: "6AFB82AB2FD04B7B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				consume_items: false
+				id: "6838EDF98DE04208"
+				item: { count: 1, id: "wan_ancient_beasts:raider_skull" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["61200C6319864E5F"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:fearsome_horn"
+			}
+			id: "6C44E80A32234DD2"
+			rewards: [{
+				id: "6441770EEF9C4C8C"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "62F94062823946E3"
+					item: { count: 1, id: "wan_ancient_beasts:raider_horn" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6F754F21D9994C91"
+					item: { count: 1, id: "wan_ancient_beasts:fearsome_horn" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6045B8862EDF4E7F"
+					item: { count: 1, id: "wan_ancient_beasts:shrieking_horn" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6EFAB8224DF647AD"
+					item: { count: 1, id: "wan_ancient_beasts:spectral_horn" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "652C0567652C48A0"
+					item: { count: 1, id: "wan_ancient_beasts:loot_pottery_sherd" }
+					type: "item"
+				}
+			]
+			x: 6.75d
+			y: 18.0d
+		}
+		{
+			dependencies: ["61200C6319864E5F"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:raw_ancient_meat"
+			}
+			id: "6017A199911B4706"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6151E7835C944844"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/raider_pacify"
+				criterion: ""
+				id: "6465CA56FA6F439F"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["67FF456831384B70"]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:petrified_log"
+			}
+			id: "6F8B9A41841D46D2"
+			rewards: [{
+				id: "61BFEE902C5B4B96"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6BDF163998B64A4B"
+				structure: "#wan_ancient_beasts:primal_log"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["6F8B9A41841D46D2"]
+			icon: {
+				id: "wan_ancient_beasts:snatcher_egg"
+			}
+			id: "66677790E766404B"
+			rewards: [{
+				id: "6C639801B8DA48E5"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				consume_items: false
+				id: "61C993B11EDA4256"
+				item: { count: 1, id: "wan_ancient_beasts:snatcher_egg" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 21.0d
+		}
+		{
+			dependencies: ["66677790E766404B"]
+			icon: {
+				id: "wan_ancient_beasts:snatcher_skull"
+			}
+			id: "614AE44602DC4AB5"
+			rewards: [{
+				id: "6022128B45064970"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				consume_items: false
+				id: "65C8FC8FF13A4248"
+				item: { count: 1, id: "wan_ancient_beasts:snatcher_skull" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 21.0d
+		}
+		{
+			dependencies: ["66677790E766404B"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:barrel"
+			}
+			id: "602B8C0345954060"
+			rewards: [{
+				id: "6B384E92A6AE4F66"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [
+				{
+					consume_items: false
+					id: "662BB33AF8A747B4"
+					item: { count: 1, id: "minecraft:barrel" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6D4CDEC781FB4BF7"
+					item: { count: 1, id: "minecraft:poisonous_potato" }
+					type: "item"
+				}
+				{
+					consume_items: false
+					id: "6552707AE4434D82"
+					item: { count: 1, id: "wan_ancient_beasts:steal_pottery_sherd" }
+					type: "item"
+				}
+			]
+			x: 6.75d
+			y: 21.0d
+		}
+		{
+			dependencies: ["66677790E766404B"]
+			hide_dependency_lines: true
+			icon: {
+				id: "minecraft:trapped_chest"
+			}
+			id: "6380F1EFF2574E9A"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "65EDF215BB6245A2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/snatcher_steal"
+				criterion: ""
+				id: "60812F35439648AD"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 21.0d
+		}
+		{
+			dependencies: [
+				"61DCE424809345C2"
+				"690885A8221F471E"
+				"6CC3749907474F8B"
+				"61F97EF3E07A4651"
+				"6E997FC5C0444CD2"
+				"6F1ACDF6D47C432F"
+				"61A8B054EDF74523"
+				"6CC56AAC09794596"
+				"661721C992454DE3"
+				"614AE44602DC4AB5"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:eater_skull"
+			}
+			id: "6A874DE5A29C4E2E"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "6DF4E0FE78F440D8"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/get_all_skulls"
+				criterion: ""
+				id: "6711733ECE4C437F"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 25.0d
+		}
+		{
+			dependencies: [
+				"653824CE62184965"
+				"69D0959BFC184A05"
+				"6829D7D6A40343AD"
+				"62FBEB2169584618"
+				"68F3F8BC3C884D22"
+				"6444809C880F4D2B"
+				"6EB99977089F41DB"
+				"678A36EAB91E4812"
+				"61200C6319864E5F"
+				"66677790E766404B"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "wan_ancient_beasts:nest"
+			}
+			id: "6E0C8DDAC2A940B6"
+			optional: true
+			preset: "Achiugments"
+			rewards: [{
+				id: "64F99C7ABDF34EC1"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [{
+				advancement: "wan_ancient_beasts:beasts/bred_all_beasts"
+				criterion: ""
+				id: "6F238EB86D38453D"
+				type: "advancement"
+			}]
+			x: 18.0d
+			y: 25.0d
+		}
+	]
+}

@@ -21,6 +21,17 @@
 			y: -5.23d
 		}
 		{
+			height: 1.5d
+			id: "59FC76BCC80BACC3"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 1.25d
+			y: -11.0d
+		}
+		{
 			height: 0.04d
 			id: "65274FEB40E624BE"
 			image: "#D4CDBE"
@@ -63,17 +74,6 @@
 			width: 0.04d
 			x: -4.895d
 			y: -5.23d
-		}
-		{
-			height: 1.5d
-			id: "59FC76BCC80BACC3"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 10.0d
-			x: 1.25d
-			y: -11.0d
 		}
 		{
 			height: 0.045d

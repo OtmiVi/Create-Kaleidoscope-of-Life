@@ -1,0 +1,14 @@
+{
+  "effect.kaleidoscope_tavern.slightly_tipsy.description": "Gently sways and tilts your view after drinking alcohol.",
+  "effect.kaleidoscope_tavern.high_heels.description": "Increases step height by half a block per effect level, letting you step over taller obstacles.",
+  "effect.kaleidoscope_tavern.grass_stealth.description": "Sneak in suitable plants or mature crops to make nearby mobs stop targeting you. This slowly consumes hunger.",
+  "effect.kaleidoscope_tavern.vision.description": "Makes nearby creatures glow. Higher levels increase the detection range, up to 18 blocks.",
+  "effect.kaleidoscope_tavern.bloody_mary.description": "Killing another creature heals you based on one third of its maximum health.",
+  "effect.kaleidoscope_tavern.ardent_heat.description": "Sprint to smash through supported blocks ahead of you, consuming hunger and armor durability. Without armor, repeated collisions hurt you. Applies Hunger when it wears off.",
+  "effect.kaleidoscope_tavern.long_reach.description": "Increases block and entity interaction range by three blocks per effect level.",
+  "effect.kaleidoscope_tavern.tomb_raider.description": "Attacks against eligible creatures have a 30% chance to knock their main-hand item out of their grip. Damageable items are left nearly broken.",
+  "effect.kaleidoscope_tavern.xp_drain.description": "Attracts nearby experience orbs and removes the delay between collecting them.",
+  "effect.kaleidoscope_tavern.upside_down.description": "Renames nearby mobs to Grumm, making them appear upside down. This replaces their existing custom names.",
+  "effect.kaleidoscope_tavern.zenith.description": "Teleports you to the surface directly above your position if you are underground, then applies Hunger.",
+  "effect.kaleidoscope_tavern.shriek_attack.description": "Fires a sonic blast in the direction you are looking, damaging and knocking back creatures up to 32 blocks away. Damage is based on your current health."
+}

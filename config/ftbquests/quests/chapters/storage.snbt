@@ -20,6 +20,50 @@
 			y: -5.0d
 		}
 		{
+			height: 0.9d
+			id: "6A90000000001006"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A90000000001009"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A9000000000100C"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A9000000000100F"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
 			height: 0.05d
 			id: "6A90000000001001"
 			image: "#D6B879"
@@ -79,17 +123,6 @@
 			y: -4.5d
 		}
 		{
-			height: 0.9d
-			id: "6A90000000001006"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: -9.0d
-			y: 1.0d
-		}
-		{
 			height: 0.04d
 			id: "6A90000000001007"
 			image: "#D6B879"
@@ -111,17 +144,6 @@
 			text_shadow: 1b
 			width: 5.2d
 			x: -9.0d
-			y: 1.0d
-		}
-		{
-			height: 0.9d
-			id: "6A90000000001009"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: -3.0d
 			y: 1.0d
 		}
 		{
@@ -149,17 +171,6 @@
 			y: 1.0d
 		}
 		{
-			height: 0.9d
-			id: "6A9000000000100C"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: 3.0d
-			y: 1.0d
-		}
-		{
 			height: 0.04d
 			id: "6A9000000000100D"
 			image: "#D6B879"
@@ -181,17 +192,6 @@
 			text_shadow: 1b
 			width: 5.2d
 			x: 3.0d
-			y: 1.0d
-		}
-		{
-			height: 0.9d
-			id: "6A9000000000100F"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: 9.0d
 			y: 1.0d
 		}
 		{
@@ -281,9 +281,6 @@
 		}
 		{
 			dependencies: ["6A90000000000102"]
-			icon: {
-				id: "create_vibrant_vaults:vertical_item_vault"
-			}
 			id: "6A90000000000103"
 			optional: true
 			rewards: [{
@@ -303,9 +300,6 @@
 		}
 		{
 			dependencies: ["6A90000000000102"]
-			icon: {
-				id: "create_vibrant_vaults:shipping_container"
-			}
 			id: "6A90000000000104"
 			optional: true
 			rewards: [{
@@ -325,9 +319,6 @@
 		}
 		{
 			dependencies: ["6A90000000000102"]
-			icon: {
-				id: "create_vibrant_vaults:blue_item_vault"
-			}
 			id: "6A90000000000105"
 			optional: true
 			rewards: [{
@@ -350,9 +341,6 @@
 				"6A90000000000102"
 				"693E6063C314CC51"
 			]
-			icon: {
-				id: "sophisticatedstorage:controller"
-			}
 			id: "6A90000000000106"
 			rewards: [{
 				id: "6A90000000004005"
@@ -414,9 +402,6 @@
 		}
 		{
 			dependencies: ["6A90000000000108"]
-			icon: {
-				id: "create:display_link"
-			}
 			id: "6A90000000000109"
 			rewards: [{
 				id: "6A90000000004008"
@@ -463,9 +448,6 @@
 		}
 		{
 			dependencies: ["6A90000000000100"]
-			icon: {
-				id: "create:belt_connector"
-			}
 			id: "6A9000000000010B"
 			rewards: [{
 				id: "6A9000000000400A"
@@ -534,9 +516,6 @@
 				"6A9000000000010D"
 				"3B24329B4B8B46A8"
 			]
-			icon: {
-				id: "create:brass_funnel"
-			}
 			id: "6A9000000000010E"
 			rewards: [{
 				id: "6A9000000000400D"
@@ -562,9 +541,6 @@
 		}
 		{
 			dependencies: ["6A9000000000010E"]
-			icon: {
-				id: "create:filter"
-			}
 			id: "6A9000000000010F"
 			rewards: [{
 				id: "6A9000000000400E"
@@ -693,9 +669,6 @@
 				"6A90000000000100"
 				"3B24329B4B8B46A8"
 			]
-			icon: {
-				id: "create:packager"
-			}
 			id: "6A90000000000115"
 			rewards: [{
 				id: "6A90000000004014"
@@ -752,9 +725,6 @@
 		}
 		{
 			dependencies: ["6A90000000000117"]
-			icon: {
-				id: "create:stock_link"
-			}
 			id: "6A90000000000118"
 			rewards: [{
 				id: "6A90000000004017"
@@ -791,9 +761,6 @@
 		}
 		{
 			dependencies: ["6A90000000000119"]
-			icon: {
-				id: "create:chain_conveyor"
-			}
 			id: "6A9000000000011A"
 			rewards: [{
 				id: "6A90000000004019"
@@ -819,9 +786,6 @@
 		}
 		{
 			dependencies: ["6A9000000000011A"]
-			icon: {
-				id: "create:package_frogport"
-			}
 			id: "6A9000000000011B"
 			rewards: [{
 				id: "6A9000000000401A"
@@ -839,9 +803,6 @@
 		}
 		{
 			dependencies: ["6A9000000000011B"]
-			icon: {
-				id: "create:redstone_requester"
-			}
 			id: "6A9000000000011C"
 			rewards: [{
 				id: "6A9000000000401B"
@@ -956,9 +917,6 @@
 		}
 		{
 			dependencies: ["6A90000000000121"]
-			icon: {
-				id: "create:fluid_pipe"
-			}
 			id: "6A90000000000122"
 			rewards: [{
 				id: "6A90000000004021"
@@ -984,9 +942,6 @@
 		}
 		{
 			dependencies: ["6A90000000000122"]
-			icon: {
-				id: "create:fluid_valve"
-			}
 			id: "6A90000000000123"
 			rewards: [{
 				id: "6A90000000004022"
@@ -1029,9 +984,6 @@
 		}
 		{
 			dependencies: ["6A90000000000123"]
-			icon: {
-				id: "create:spout"
-			}
 			id: "6A90000000000125"
 			rewards: [{
 				id: "6A90000000004024"
@@ -1157,10 +1109,7 @@
 			y: 19.0d
 		}
 		{
-			dependencies: [
-				"6A9000000000012A"
-				"6FF31469F6C2234B"
-			]
+			dependencies: ["6A9000000000012A"]
 			icon: {
 				id: "create:mechanical_arm"
 			}

@@ -20,6 +20,17 @@
 			y: 4.97d
 		}
 		{
+			height: 1.5d
+			id: "7884489C5754F510"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 10.0d
+			x: 4.5d
+			y: -5.25d
+		}
+		{
 			height: 0.04d
 			id: "3EB9AA3887A36010"
 			image: "#D6B879"
@@ -64,17 +75,6 @@
 			y: 4.97d
 		}
 		{
-			height: 1.5d
-			id: "7884489C5754F510"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 10.0d
-			x: 4.5d
-			y: -4.5d
-		}
-		{
 			height: 0.045d
 			id: "6B0E924C931C7CFE"
 			image: "#D6B879"
@@ -83,7 +83,7 @@
 			rotation: 0.0d
 			width: 10.0d
 			x: 4.5d
-			y: -5.23d
+			y: -5.98d
 		}
 		{
 			height: 1.0d
@@ -94,7 +94,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: 0.25d
-			y: -4.5d
+			y: -5.25d
 		}
 		{
 			height: 1.0d
@@ -105,7 +105,7 @@
 			rotation: 0.0d
 			width: 1.0d
 			x: 8.75d
-			y: -4.5d
+			y: -5.25d
 		}
 		{
 			height: 0.43d
@@ -118,7 +118,7 @@
 			text_shadow: 1b
 			width: 7.0d
 			x: 4.5d
-			y: -4.5d
+			y: -5.25d
 		}
 		{
 			height: 1.55d
@@ -966,6 +966,26 @@
 			}]
 			x: 8.0d
 			y: 0.0d
+		}
+		{
+			dependencies: [
+				"24A3A61046CA3464"
+				"75B04C49A360261F"
+			]
+			id: "4290E14631A2A843"
+			preset: "Important"
+			rewards: [{
+				id: "6D9AFDF8426F7BBD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "40A4E5B93CC50C02"
+				item: { count: 1, id: "create:precision_mechanism" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
 		}
 	]
 }

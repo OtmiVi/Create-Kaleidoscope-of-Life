@@ -136,9 +136,6 @@
 		}
 		{
 			dependencies: ["6A88000000002000"]
-			icon: {
-				id: "createdeco:pearl_bricks"
-			}
 			id: "6A88000000002001"
 			rewards: [{
 				id: "6A88000000004001"
@@ -164,9 +161,6 @@
 		}
 		{
 			dependencies: ["6A88000000002000"]
-			icon: {
-				id: "createdeco:tiled_red_bricks"
-			}
 			id: "6A88000000002002"
 			rewards: [{
 				id: "6A88000000004002"
@@ -192,9 +186,6 @@
 		}
 		{
 			dependencies: ["6A88000000002000"]
-			icon: {
-				id: "createdeco:mossy_red_bricks"
-			}
 			id: "6A88000000002003"
 			rewards: [{
 				id: "6A88000000004003"
@@ -220,9 +211,6 @@
 		}
 		{
 			dependencies: ["6A88000000002000"]
-			icon: {
-				id: "createdeco:industrial_iron_sheet_metal"
-			}
 			id: "6A88000000002004"
 			rewards: [{
 				id: "6A88000000004004"
@@ -248,9 +236,6 @@
 		}
 		{
 			dependencies: ["6A88000000002000"]
-			icon: {
-				id: "createdeco:industrial_iron_catwalk"
-			}
 			id: "6A88000000002005"
 			rewards: [{
 				id: "6A88000000004005"
@@ -282,9 +267,6 @@
 		}
 		{
 			dependencies: ["6A88000000002000"]
-			icon: {
-				id: "createdeco:industrial_iron_support"
-			}
 			id: "6A88000000002006"
 			rewards: [{
 				id: "6A88000000004006"
@@ -310,9 +292,6 @@
 		}
 		{
 			dependencies: ["6A88000000002000"]
-			icon: {
-				id: "createdeco:industrial_iron_window"
-			}
 			id: "6A88000000002007"
 			rewards: [{
 				id: "6A88000000004007"
@@ -338,9 +317,6 @@
 		}
 		{
 			dependencies: ["6A88000000002000"]
-			icon: {
-				id: "createdeco:industrial_iron_door"
-			}
 			id: "6A88000000002008"
 			rewards: [{
 				id: "6A88000000004008"
@@ -386,9 +362,6 @@
 		}
 		{
 			dependencies: ["6A88000000002000"]
-			icon: {
-				id: "createdeco:decal_warning"
-			}
 			id: "6A8800000000200A"
 			rewards: [{
 				id: "6A8800000000400A"
@@ -434,9 +407,6 @@
 		}
 		{
 			dependencies: ["6A88000000002000"]
-			icon: {
-				id: "createdeco:red_shipping_container"
-			}
 			id: "6A8800000000200C"
 			rewards: [{
 				id: "6A8800000000400C"

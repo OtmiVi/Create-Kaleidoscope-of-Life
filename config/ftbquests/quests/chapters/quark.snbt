@@ -295,9 +295,6 @@
 		}
 		{
 			dependencies: ["6A86000000002000"]
-			icon: {
-				id: "minecraft:dispenser"
-			}
 			id: "6A86000000002008"
 			rewards: [{
 				id: "6A86000000004008"
@@ -360,9 +357,6 @@
 		}
 		{
 			dependencies: ["6A86000000002000"]
-			icon: {
-				id: "quark:shingles"
-			}
 			id: "6A87000000002001"
 			rewards: [{
 				id: "6A87000000004001"
@@ -408,9 +402,6 @@
 		}
 		{
 			dependencies: ["6A86000000002000"]
-			icon: {
-				id: "quark:cobblestone_bricks"
-			}
 			id: "6A87000000002003"
 			rewards: [{
 				id: "6A87000000004003"
@@ -456,9 +447,6 @@
 		}
 		{
 			dependencies: ["6A86000000002000"]
-			icon: {
-				id: "quark:midori_block"
-			}
 			id: "6A87000000002005"
 			rewards: [{
 				id: "6A87000000004005"
@@ -484,9 +472,6 @@
 		}
 		{
 			dependencies: ["6A86000000002000"]
-			icon: {
-				id: "quark:soul_sandstone"
-			}
 			id: "6A87000000002006"
 			rewards: [{
 				id: "6A87000000004006"
@@ -512,9 +497,6 @@
 		}
 		{
 			dependencies: ["6A86000000002000"]
-			icon: {
-				id: "quark:spruce_bookshelf"
-			}
 			id: "6A87000000002007"
 			rewards: [{
 				id: "6A87000000004007"

@@ -35,25 +35,11 @@
 			icon_scale: 0.8d
 			id: "63A709AF6EC1A3D4"
 			preset: "chalanges"
-			rewards: [
-				{
-					id: "31FF176ED6D81F45"
-					type: "xp"
-					xp: 500
-				}
-				{
-					id: "6015B297602BA42C"
-					item: {
-						components: {
-							"sophisticatedcore:number_of_inventory_slots": 120
-							"sophisticatedcore:number_of_upgrade_slots": 7
-						}
-						count: 1
-						id: "sophisticatedbackpacks:netherite_backpack"
-					}
-					type: "item"
-				}
-			]
+			rewards: [{
+				id: "31FF176ED6D81F45"
+				type: "xp"
+				xp: 500
+			}]
 			shape: "gear"
 			size: 2.0d
 			tasks: [{
@@ -69,11 +55,21 @@
 			icon_scale: 0.8d
 			id: "5353C969A2D50CB7"
 			preset: "chalanges"
-			rewards: [{
-				id: "3ED5C3651FD92C1B"
-				type: "xp"
-				xp: 500
-			}]
+			rewards: [
+				{
+					id: "3ED5C3651FD92C1B"
+					type: "xp"
+					xp: 500
+				}
+				{
+					id: "7988F0ADA6B02917"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:everlasting_upgrade"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "44761E13DCD01B14"
 				item: { count: 1, id: "sophisticatedbackpacks:stack_upgrade_omega_tier" }
@@ -236,7 +232,7 @@
 				id: "51B2207B70EC5618"
 				type: "advancement"
 			}]
-			x: 6.5d
+			x: 7.0d
 			y: 4.0d
 		}
 		{
@@ -262,7 +258,7 @@
 				id: "4A10A8C219472181"
 				type: "advancement"
 			}]
-			x: 9.0d
+			x: 11.0d
 			y: 4.0d
 		}
 		{
@@ -430,6 +426,118 @@
 			}]
 			x: 6.0d
 			y: -1.0d
+		}
+		{
+			icon_scale: 0.8d
+			id: "620AC1C3742231E5"
+			preset: "chalanges"
+			rewards: [{
+				id: "6A94000000002001"
+				type: "xp"
+				xp: 500
+			}]
+			shape: "gear"
+			size: 2.0d
+			tasks: [
+				{
+					count: 8L
+					id: "30F728A913CDF526"
+					item: { count: 1, id: "create_confectionery:chocolate_candy_3" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "3B7A607217187EB2"
+					item: { count: 1, id: "create_confectionery:chocolate_candy" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "29D128BAD0EBDEA2"
+					item: { count: 1, id: "create_confectionery:chocolate_candy_2" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "52E5BFE4CEC6BECD"
+					item: { count: 1, id: "create_confectionery:chocolate_candy_1" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "73C2F1EDF1F38453"
+					item: { count: 1, id: "create_confectionery:ruby_chocolate_candy" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "72A28639FA180737"
+					item: { count: 1, id: "create_confectionery:ruby_chocolate_candy_1" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "577DB1B18218DDC7"
+					item: { count: 1, id: "create_confectionery:ruby_chocolate_candy_2" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "1A65E63738208912"
+					item: { count: 1, id: "create_confectionery:ruby_chocolate_candy_3" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "156BD0621B8C9C2E"
+					item: { count: 1, id: "create_confectionery:black_chocolate_candy_2" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "7D0C1B0FEA79E1C0"
+					item: { count: 1, id: "create_confectionery:black_chocolate_candy" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "4135FF175AD5F3A4"
+					item: { count: 1, id: "create_confectionery:black_chocolate_candy_3" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "3AF56B5740455951"
+					item: { count: 1, id: "create_confectionery:black_chocolate_candy_1" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "6172D291347EC04E"
+					item: { count: 1, id: "create_confectionery:white_chocolate_candy_1" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "4E8D634087AFFCB1"
+					item: { count: 1, id: "create_confectionery:white_chocolate_candy_2" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "2AD90485A13056D6"
+					item: { count: 1, id: "create_confectionery:white_chocolate_candy" }
+					type: "item"
+				}
+				{
+					count: 8L
+					id: "0D69ED117D3393B7"
+					item: { count: 1, id: "create_confectionery:white_chocolate_candy_3" }
+					type: "item"
+				}
+			]
+			x: 9.0d
+			y: 4.0d
 		}
 	]
 }

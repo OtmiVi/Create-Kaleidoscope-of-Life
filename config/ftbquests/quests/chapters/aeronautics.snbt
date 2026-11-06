@@ -20,6 +20,50 @@
 			y: -5.0d
 		}
 		{
+			height: 0.9d
+			id: "6A89000000001006"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -9.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A89000000001009"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: -3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A8900000000100C"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 3.0d
+			y: 1.0d
+		}
+		{
+			height: 0.9d
+			id: "6A8900000000100F"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 5.4d
+			x: 9.0d
+			y: 1.0d
+		}
+		{
 			height: 0.05d
 			id: "6A89000000001001"
 			image: "#D6B879"
@@ -79,17 +123,6 @@
 			y: -4.5d
 		}
 		{
-			height: 0.9d
-			id: "6A89000000001006"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: -9.0d
-			y: 1.0d
-		}
-		{
 			height: 0.04d
 			id: "6A89000000001007"
 			image: "#D6B879"
@@ -111,17 +144,6 @@
 			text_shadow: 1b
 			width: 5.2d
 			x: -9.0d
-			y: 1.0d
-		}
-		{
-			height: 0.9d
-			id: "6A89000000001009"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: -3.0d
 			y: 1.0d
 		}
 		{
@@ -149,17 +171,6 @@
 			y: 1.0d
 		}
 		{
-			height: 0.9d
-			id: "6A8900000000100C"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: 3.0d
-			y: 1.0d
-		}
-		{
 			height: 0.04d
 			id: "6A8900000000100D"
 			image: "#D6B879"
@@ -181,17 +192,6 @@
 			text_shadow: 1b
 			width: 5.2d
 			x: 3.0d
-			y: 1.0d
-		}
-		{
-			height: 0.9d
-			id: "6A8900000000100F"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 5.4d
-			x: 9.0d
 			y: 1.0d
 		}
 		{
@@ -307,13 +307,7 @@
 			y: 7.0d
 		}
 		{
-			dependencies: [
-				"6A89000000000102"
-				"6FF31469F6C2234B"
-			]
-			icon: {
-				id: "simulated:engine_assembly"
-			}
+			dependencies: ["6A89000000000102"]
 			id: "6A89000000000104"
 			rewards: [{
 				id: "6A89000000004004"
@@ -495,9 +489,6 @@
 		}
 		{
 			dependencies: ["6A8900000000010C"]
-			icon: {
-				id: "aeronautics:steam_vent"
-			}
 			id: "6A8900000000010D"
 			rewards: [{
 				id: "6A8900000000400D"
@@ -625,9 +616,6 @@
 				"6A89000000000112"
 				"3B24329B4B8B46A8"
 			]
-			icon: {
-				id: "aeronautics:propeller_bearing"
-			}
 			id: "6A89000000000113"
 			rewards: [{
 				id: "6A89000000004013"
@@ -771,9 +759,6 @@
 		}
 		{
 			dependencies: ["6A89000000000119"]
-			icon: {
-				id: "create:linked_controller"
-			}
 			id: "6A8900000000011A"
 			rewards: [{
 				id: "6A8900000000401A"
@@ -817,9 +802,6 @@
 		}
 		{
 			dependencies: ["6A8900000000011B"]
-			icon: {
-				id: "simulated:velocity_sensor"
-			}
 			id: "6A8900000000011C"
 			rewards: [{
 				id: "6A8900000000401C"
@@ -862,9 +844,6 @@
 		}
 		{
 			dependencies: ["6A8900000000011D"]
-			icon: {
-				id: "aeronautics:end_stone_powder"
-			}
 			id: "6A8900000000011E"
 			optional: true
 			rewards: [{

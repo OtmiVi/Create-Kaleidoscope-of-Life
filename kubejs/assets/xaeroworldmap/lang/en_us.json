@@ -1,0 +1,7 @@
+{
+    "effect.xaeroworldmap.no_world_map.description":  "Disables the full-screen world map while this effect is active.",
+    "effect.xaeroworldmap.no_world_map_harmful.description":  "Disables the full-screen world map while this effect is active.",
+    "effect.xaeroworldmap.no_world_map_beneficial.description":  "Disables the full-screen world map while this effect is active.",
+    "effect.xaeroworldmap.no_cave_maps.description":  "Disables cave maps on the full-screen world map while this effect is active.",
+    "effect.xaeroworldmap.no_cave_maps_harmful.description":  "Disables cave maps on the full-screen world map while this effect is active."
+}

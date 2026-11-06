@@ -20,6 +20,17 @@
 			y: -9.0d
 		}
 		{
+			height: 2.6d
+			id: "6FFCFB48EF924AF8"
+			image: "#272A26"
+			order: -10
+			position_locked: 1b
+			rotation: 0.0d
+			width: 6.25d
+			x: 0.5d
+			y: 6.77d
+		}
+		{
 			height: 0.045d
 			id: "63FE6C36A40C4940"
 			image: "#D4CDBE"
@@ -131,17 +142,6 @@
 			y: 2.75d
 		}
 		{
-			height: 2.6d
-			id: "6FFCFB48EF924AF8"
-			image: "#272A26"
-			order: -10
-			position_locked: 1b
-			rotation: 0.0d
-			width: 6.25d
-			x: 0.5d
-			y: 6.77d
-		}
-		{
 			height: 0.04d
 			id: "6AFCD05B5E784269"
 			image: "#D4CDBE"
@@ -243,8 +243,8 @@
 		{
 			id: "6204AD0636AE4032"
 			linked_quest: "61EE3C6C14DA4780"
-			x: 3.0d
-			y: 1.5d
+			x: 8.5d
+			y: 0.0d
 		}
 	]
 	quests: [
@@ -266,9 +266,6 @@
 		}
 		{
 			dependencies: ["66233B8905EBBE1E"]
-			icon: {
-				id: "starcatcher:tackle_box"
-			}
 			id: "3CA8D351650A36E1"
 			rewards: [{
 				id: "692D4E54CDCC4652"
@@ -888,51 +885,310 @@
 			y: -3.5d
 		}
 		{
-			id: "62A328D78B904B22"
-			rewards: [{
-				id: "6573CD49CC094F45"
-				type: "xp"
-				xp: 25
-			}]
-			tasks: [{
-				id: "66DA37B9CB354AAE"
-				item: { count: 1, id: "starcatcher:fisherman_hat_black" }
-				type: "item"
-			}]
-			x: 8.5d
-			y: -0.5d
-		}
-		{
-			id: "6C85D51F0D584C18"
+			dependencies: ["6EC6298EF0A24B83"]
+			id: "6A93000000000100"
 			optional: true
 			preset: "Optional"
 			rewards: [{
-				id: "67930C2813C84DD4"
+				id: "6A93000000000102"
 				type: "xp"
 				xp: 50
 			}]
 			tasks: [{
-				id: "62F54F10AE3D4B8F"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(starcatcher:hats)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				id: "6A93000000000101"
+				item: { count: 1, id: "starcatcher:pearl" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A93000000000103"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A93000000000105"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A93000000000104"
+				item: { count: 1, id: "starcatcher:fisherman_hat_white" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A93000000000106"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A93000000000108"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A93000000000107"
+				item: { count: 1, id: "starcatcher:fisherman_hat_orange" }
 				type: "item"
 			}]
 			x: 7.5d
-			y: 1.0d
+			y: 4.5d
 		}
 		{
-			id: "69A7B4FB278A4961"
+			dependencies: ["6A93000000000100"]
+			id: "6A93000000000109"
+			optional: true
+			preset: "Optional"
 			rewards: [{
-				id: "63CE8BA8E78E4C6F"
+				id: "6A9300000000010B"
 				type: "xp"
-				xp: 25
+				xp: 50
 			}]
 			tasks: [{
-				id: "629DF78B703346F9"
-				item: { count: 1, id: "starcatcher:fisherman_hat_lime" }
+				id: "6A9300000000010A"
+				item: { count: 1, id: "starcatcher:fisherman_hat_magenta" }
 				type: "item"
 			}]
 			x: 8.5d
-			y: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A9300000000010C"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A9300000000010E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9300000000010D"
+				item: { count: 1, id: "starcatcher:fisherman_hat_light_blue" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A9300000000010F"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A93000000000111"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A93000000000110"
+				item: { count: 1, id: "starcatcher:fisherman_hat_yellow" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A93000000000112"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A93000000000114"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A93000000000113"
+				item: { count: 1, id: "starcatcher:fisherman_hat_lime" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A93000000000115"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A93000000000117"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A93000000000116"
+				item: { count: 1, id: "starcatcher:fisherman_hat_pink" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A93000000000118"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A9300000000011A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A93000000000119"
+				item: { count: 1, id: "starcatcher:fisherman_hat_gray" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A9300000000011B"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A9300000000011D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9300000000011C"
+				item: { count: 1, id: "starcatcher:fisherman_hat_light_gray" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A9300000000011E"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A93000000000120"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9300000000011F"
+				item: { count: 1, id: "starcatcher:fisherman_hat_cyan" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A93000000000121"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A93000000000123"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A93000000000122"
+				item: { count: 1, id: "starcatcher:fisherman_hat_purple" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A93000000000124"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A93000000000126"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A93000000000125"
+				item: { count: 1, id: "starcatcher:fisherman_hat_blue" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A93000000000127"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A93000000000129"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A93000000000128"
+				item: { count: 1, id: "starcatcher:fisherman_hat_brown" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A9300000000012A"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A9300000000012C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9300000000012B"
+				item: { count: 1, id: "starcatcher:fisherman_hat_green" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A9300000000012D"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A9300000000012F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A9300000000012E"
+				item: { count: 1, id: "starcatcher:fisherman_hat_red" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6A93000000000100"]
+			id: "6A93000000000130"
+			optional: true
+			preset: "Optional"
+			rewards: [{
+				id: "6A93000000000132"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "6A93000000000131"
+				item: { count: 1, id: "starcatcher:fisherman_hat_black" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 5.5d
 		}
 		{
 			dependencies: ["66233B8905EBBE1E"]
@@ -1044,8 +1300,8 @@
 				item: { count: 1, id: "starcatcher:aquarium" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: 1.0d
+			x: 3.5d
+			y: 0.0d
 		}
 		{
 			id: "2F6C209015C5AE79"
@@ -1061,7 +1317,7 @@
 				item: { count: 1, id: "starcatcher:display" }
 				type: "item"
 			}]
-			x: 5.5d
+			x: 4.5d
 			y: 1.0d
 		}
 		{
@@ -1078,8 +1334,8 @@
 				item: { count: 1, id: "starcatcher:tournament_stand" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: -0.5d
+			x: 4.5d
+			y: -1.0d
 		}
 		{
 			id: "6EC6298EF0A24B83"
@@ -1102,13 +1358,10 @@
 					type: "item"
 				}
 			]
-			x: 3.0d
+			x: 10.0d
 			y: 0.0d
 		}
 		{
-			icon: {
-				id: "starcatcher:oak_fish_plaque"
-			}
 			id: "51554766CA897553"
 			optional: true
 			preset: "Optional"
@@ -1122,8 +1375,8 @@
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(starcatcher:fish_plaques)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
 				type: "item"
 			}]
-			x: 7.5d
-			y: -0.5d
+			x: 5.5d
+			y: 0.0d
 		}
 		{
 			id: "3C98262462D5A221"
@@ -1137,8 +1390,8 @@
 				item: { count: 1, id: "selling_bin:selling_bin" }
 				type: "item"
 			}]
-			x: 5.5d
-			y: -0.5d
+			x: 4.5d
+			y: 0.0d
 		}
 	]
 }
